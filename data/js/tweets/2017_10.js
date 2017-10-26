@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 25 13:15:16 +0000 2017",
+		"id": 923176130894426100,
+		"id_str": "923176130894426112",
+		"text": "RT @ROYAL_STFL: ⚔ 전투 방법 및 예시 ⚔\n\n전투는 타래로 진행됩니다. 본 이미지를 반드시 편하신 방법으로 저장하시고 숙지하셔야지만 다음 전투 때도 수월한 진행이 가능합니다.\n\nhttps://t.co/cuAwasYXiE https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ROYAL_STFL",
+					"name": "Royal Straight Flush",
+					"id": 820829214270066700,
+					"id_str": "820829214270066688",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cuAwasYXiE",
+					"expanded_url": "https://drive.google.com/drive/folders/0B2MLaWLDTDQWWFExOXJkdkhnMUk",
+					"display_url": "drive.google.com/drive/folders/…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 144,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1443,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 25 13:10:28 +0000 2017",
+			"id": 923174924868493300,
+			"id_str": "923174924868493315",
+			"text": "⚔ 전투 방법 및 예시 ⚔\n\n전투는 타래로 진행됩니다. 본 이미지를 반드시 편하신 방법으로 저장하시고 숙지하셔야지만 다음 전투 때도 수월한 진행이 가능합니다.\n\nhttps://t.co/cuAwasYXiE https://t.co/0HqLKYrXGN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cuAwasYXiE",
+						"expanded_url": "https://drive.google.com/drive/folders/0B2MLaWLDTDQWWFExOXJkdkhnMUk",
+						"display_url": "drive.google.com/drive/folders/…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 923174699751809000,
+						"id_str": "923174699751809025",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DM_Gf4xVoAEeRvo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DM_Gf4xVoAEeRvo.jpg",
+						"url": "https://t.co/0HqLKYrXGN",
+						"display_url": "pic.twitter.com/0HqLKYrXGN",
+						"expanded_url": "https://twitter.com/ROYAL_STFL/status/923174924868493315/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 773,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 1631,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 923174699751809000,
+						"id_str": "923174699751809025",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DM_Gf4xVoAEeRvo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DM_Gf4xVoAEeRvo.jpg",
+						"url": "https://t.co/0HqLKYrXGN",
+						"display_url": "pic.twitter.com/0HqLKYrXGN",
+						"expanded_url": "https://twitter.com/ROYAL_STFL/status/923174924868493315/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 773,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 1631,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 820829214270066700,
+				"id_str": "820829214270066688",
+				"name": "Royal Straight Flush",
+				"screen_name": "ROYAL_STFL",
+				"location": "1페이즈가 이번주 금토일",
+				"description": "약칭 로티플 | 서양중세판타지 | 기사단 | 이종족 | 사상대립 | 권력대립 | 일상후시리 | 사망및부상 | 트커 | 성인 | 그림only | All | 19금 | 3주러닝 | 중요트윗 마음함 | https://t.co/1OY2wh1oxe",
+				"url": "https://t.co/OiTJyVTmqh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OiTJyVTmqh",
+								"expanded_url": "https://knrae06178.wixsite.com/royal",
+								"display_url": "knrae06178.wixsite.com/royal",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1OY2wh1oxe",
+								"expanded_url": "http://ask.fm/ROYAL_STFL",
+								"display_url": "ask.fm/ROYAL_STFL",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 333,
+				"friends_count": 39,
+				"listed_count": 6,
+				"created_at": "Mon Jan 16 03:05:09 +0000 2017",
+				"favourites_count": 87,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 552,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861470113593040896/RNz9w0QU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861470113593040896/RNz9w0QU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/820829214270066688/1494229133",
+				"profile_link_color": "111111",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Oct 13 11:44:21 +0000 2017",
 		"id": 918804597430370300,
 		"id_str": "918804597430370305",
