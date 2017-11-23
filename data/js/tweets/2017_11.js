@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 12:45:42 +0000 2017",
+		"id": 933315553497792500,
+		"id_str": "933315553497792512",
+		"text": "RT @p2nki: 지난주에 모작 과정 수업한 내용 https://t.co/TeOEb6LMKR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "p2nki",
+					"name": "SOLRAKA",
+					"id": 839142692785369100,
+					"id_str": "839142692785369089",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 932608111445098500,
+					"id_str": "932608111445098497",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+					"url": "https://t.co/TeOEb6LMKR",
+					"display_url": "pic.twitter.com/TeOEb6LMKR",
+					"expanded_url": "https://twitter.com/p2nki/status/932608230005411840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 956,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 956,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 932608230005411800,
+					"source_status_id_str": "932608230005411840",
+					"source_user_id": 839142692785369100,
+					"source_user_id_str": "839142692785369089"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 932608111445098500,
+					"id_str": "932608111445098497",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+					"url": "https://t.co/TeOEb6LMKR",
+					"display_url": "pic.twitter.com/TeOEb6LMKR",
+					"expanded_url": "https://twitter.com/p2nki/status/932608230005411840/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 956,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 956,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 932608230005411800,
+					"source_status_id_str": "932608230005411840",
+					"source_user_id": 839142692785369100,
+					"source_user_id_str": "839142692785369089",
+					"video_info": {
+						"aspect_ratio": [
+							375,
+							478
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DPFKIt1VQAEbn4z.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1448,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 20 13:55:03 +0000 2017",
+			"id": 932608230005411800,
+			"id_str": "932608230005411840",
+			"text": "지난주에 모작 과정 수업한 내용 https://t.co/TeOEb6LMKR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 932608111445098500,
+						"id_str": "932608111445098497",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+						"url": "https://t.co/TeOEb6LMKR",
+						"display_url": "pic.twitter.com/TeOEb6LMKR",
+						"expanded_url": "https://twitter.com/p2nki/status/932608230005411840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 956,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 956,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 932608111445098500,
+						"id_str": "932608111445098497",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DPFKIt1VQAEbn4z.jpg",
+						"url": "https://t.co/TeOEb6LMKR",
+						"display_url": "pic.twitter.com/TeOEb6LMKR",
+						"expanded_url": "https://twitter.com/p2nki/status/932608230005411840/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 956,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 956,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								375,
+								478
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DPFKIt1VQAEbn4z.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 839142692785369100,
+				"id_str": "839142692785369089",
+				"name": "SOLRAKA",
+				"screen_name": "p2nki",
+				"location": "",
+				"description": "Brand you",
+				"url": "https://t.co/U3i1SrEX6y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U3i1SrEX6y",
+								"expanded_url": "http://blog.naver.com/etnoc",
+								"display_url": "blog.naver.com/etnoc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 755,
+				"friends_count": 142,
+				"listed_count": 6,
+				"created_at": "Tue Mar 07 15:56:23 +0000 2017",
+				"favourites_count": 3124,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 289,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931019028646076417/I6_n3zBK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931019028646076417/I6_n3zBK_normal.jpg",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5176,
+			"favorite_count": 4189,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5176,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 15 16:17:01 +0000 2017",
 		"id": 930832015615672300,
 		"id_str": "930832015615672320",
