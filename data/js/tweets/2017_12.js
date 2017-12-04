@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 03 06:37:53 +0000 2017",
+		"id": 937209252677951500,
+		"id_str": "937209252677951488",
+		"text": "RT @rudecopper: 웨 이  바 그리던거 크롭... https://t.co/y6oWTr4iIs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rudecopper",
+					"name": "ケキ초계기",
+					"id": 2273867252,
+					"id_str": "2273867252",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 937193877122924500,
+					"id_str": "937193877122924545",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+					"url": "https://t.co/y6oWTr4iIs",
+					"display_url": "pic.twitter.com/y6oWTr4iIs",
+					"expanded_url": "https://twitter.com/rudecopper/status/937193887881347072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 691,
+							"h": 1027,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 691,
+							"h": 1027,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 937193887881347100,
+					"source_status_id_str": "937193887881347072",
+					"source_user_id": 2273867252,
+					"source_user_id_str": "2273867252"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 937193877122924500,
+					"id_str": "937193877122924545",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+					"url": "https://t.co/y6oWTr4iIs",
+					"display_url": "pic.twitter.com/y6oWTr4iIs",
+					"expanded_url": "https://twitter.com/rudecopper/status/937193887881347072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 691,
+							"h": 1027,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 691,
+							"h": 1027,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 937193887881347100,
+					"source_status_id_str": "937193887881347072",
+					"source_user_id": 2273867252,
+					"source_user_id_str": "2273867252"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1450,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 03 05:36:49 +0000 2017",
+			"id": 937193887881347100,
+			"id_str": "937193887881347072",
+			"text": "웨 이  바 그리던거 크롭... https://t.co/y6oWTr4iIs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 937193877122924500,
+						"id_str": "937193877122924545",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+						"url": "https://t.co/y6oWTr4iIs",
+						"display_url": "pic.twitter.com/y6oWTr4iIs",
+						"expanded_url": "https://twitter.com/rudecopper/status/937193887881347072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 691,
+								"h": 1027,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 691,
+								"h": 1027,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 937193877122924500,
+						"id_str": "937193877122924545",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQGU3aOVQAE6Ed5.jpg",
+						"url": "https://t.co/y6oWTr4iIs",
+						"display_url": "pic.twitter.com/y6oWTr4iIs",
+						"expanded_url": "https://twitter.com/rudecopper/status/937193887881347072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 691,
+								"h": 1027,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 691,
+								"h": 1027,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2273867252,
+				"id_str": "2273867252",
+				"name": "ケキ초계기",
+				"screen_name": "rudecopper",
+				"location": "",
+				"description": "외주/기타문의🌹 3mizu3@naver.com | 잡덕 장르팔로비추 트윗삭제多 ｜Do not reupload my works",
+				"url": "https://t.co/bvcRornWyF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bvcRornWyF",
+								"expanded_url": "https://www.pixiv.net/member.php?id=21429374",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11389,
+				"friends_count": 73,
+				"listed_count": 255,
+				"created_at": "Fri Jan 03 02:52:35 +0000 2014",
+				"favourites_count": 3596,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25484,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935549450159665152/Vkfebls8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935549450159665152/Vkfebls8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2273867252/1511887742",
+				"profile_link_color": "323232",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1716,
+			"favorite_count": 2041,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1716,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Dec 01 01:48:06 +0000 2017",
 		"id": 936411551942111200,
 		"id_str": "936411551942111233",
