@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 11 05:58:07 +0000 2017",
+		"id": 940098349687914500,
+		"id_str": "940098349687914501",
+		"text": "RT @SoWhat_na: 색별료 무료이미지 찾아줌\nhttps://t.co/BssZ26cOmT\n\n저작권문제없는 사진\nhttps://t.co/XHWIB52lv8\n\n무료 벡터이미지\nhttps://t.co/vJyU2OVh3b\n\n손3d모델링되어있는곳\nhtt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoWhat_na",
+					"name": "샤샤 뒤 소왓",
+					"id": 859092349732872200,
+					"id_str": "859092349732872192",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BssZ26cOmT",
+					"expanded_url": "http://finda.photo/",
+					"display_url": "finda.photo",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/XHWIB52lv8",
+					"expanded_url": "https://unsplash.com/",
+					"display_url": "unsplash.com",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/vJyU2OVh3b",
+					"expanded_url": "https://www.freepik.com/",
+					"display_url": "freepik.com",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1453,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 11:43:14 +0000 2017",
+			"id": 939460424646271000,
+			"id_str": "939460424646270976",
+			"text": "색별료 무료이미지 찾아줌\nhttps://t.co/BssZ26cOmT\n\n저작권문제없는 사진\nhttps://t.co/XHWIB52lv8\n\n무료 벡터이미지\nhttps://t.co/vJyU2OVh3b\n\n손3d모델링… https://t.co/RuSqjASQAH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BssZ26cOmT",
+						"expanded_url": "http://finda.photo/",
+						"display_url": "finda.photo",
+						"indices": [
+							14,
+							37
+						]
+					},
+					{
+						"url": "https://t.co/XHWIB52lv8",
+						"expanded_url": "https://unsplash.com/",
+						"display_url": "unsplash.com",
+						"indices": [
+							50,
+							73
+						]
+					},
+					{
+						"url": "https://t.co/vJyU2OVh3b",
+						"expanded_url": "https://www.freepik.com/",
+						"display_url": "freepik.com",
+						"indices": [
+							84,
+							107
+						]
+					},
+					{
+						"url": "https://t.co/RuSqjASQAH",
+						"expanded_url": "https://twitter.com/i/web/status/939460424646270976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859092349732872200,
+				"id_str": "859092349732872192",
+				"name": "샤샤 뒤 소왓",
+				"screen_name": "SoWhat_na",
+				"location": "헤더- 유레님 커미션 진우리리",
+				"description": "늘 널 생각해 | 일상트윗99에 자캐트윗1퍼라 팔로하셔도 볼거없어요 | 커뮤목록은 링크에",
+				"url": "https://t.co/0XmaiCY4AX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0XmaiCY4AX",
+								"expanded_url": "https://www.evernote.com/shard/s733/sh/cc477234-ac00-440b-a74e-6b5a84921fc0/206d236fea1bea517ac10183",
+								"display_url": "evernote.com/shard/s733/sh/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123,
+				"friends_count": 107,
+				"listed_count": 2,
+				"created_at": "Mon May 01 17:09:12 +0000 2017",
+				"favourites_count": 6329,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21385,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939282808769351681/NdGrPIm0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939282808769351681/NdGrPIm0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859092349732872192/1498500376",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1011,
+			"favorite_count": 833,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1011,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Dec 08 13:07:06 +0000 2017",
 		"id": 939119145152475100,
 		"id_str": "939119145152475143",
