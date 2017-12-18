@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 03:17:21 +0000 2017",
+		"id": 942232220688728000,
+		"id_str": "942232220688728065",
+		"text": "RT @O_ZZ_U: 체형 시뮬레이터 (여성) https://t.co/MAuskOIrYI\n체형 시뮬레이터 (남성) https://t.co/ecU43vbBfq\n키차이 시뮬레이터? https://t.co/55dvoo0Jl8\n키&amp;체중표 남 / 여 http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "O_ZZ_U",
+					"name": "🎃오쯔🎃",
+					"id": 4673089298,
+					"id_str": "4673089298",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MAuskOIrYI",
+					"expanded_url": "http://www.modelmydiet.com/ko/women.html",
+					"display_url": "modelmydiet.com/ko/women.html",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/ecU43vbBfq",
+					"expanded_url": "http://www.modelmydiet.com/ko/men.html",
+					"display_url": "modelmydiet.com/ko/men.html",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/55dvoo0Jl8",
+					"expanded_url": "http://www.mrinitialman.com/OddsEnds/Sizes/sizes.html",
+					"display_url": "mrinitialman.com/OddsEnds/Sizes…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1457,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 14 02:45:12 +0000 2017",
+			"id": 919031303143530500,
+			"id_str": "919031303143530497",
+			"text": "체형 시뮬레이터 (여성) https://t.co/MAuskOIrYI\n체형 시뮬레이터 (남성) https://t.co/ecU43vbBfq\n키차이 시뮬레이터? https://t.co/55dvoo0Jl8\n키&amp;체중… https://t.co/G5HlKluEFC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MAuskOIrYI",
+						"expanded_url": "http://www.modelmydiet.com/ko/women.html",
+						"display_url": "modelmydiet.com/ko/women.html",
+						"indices": [
+							14,
+							37
+						]
+					},
+					{
+						"url": "https://t.co/ecU43vbBfq",
+						"expanded_url": "http://www.modelmydiet.com/ko/men.html",
+						"display_url": "modelmydiet.com/ko/men.html",
+						"indices": [
+							52,
+							75
+						]
+					},
+					{
+						"url": "https://t.co/55dvoo0Jl8",
+						"expanded_url": "http://www.mrinitialman.com/OddsEnds/Sizes/sizes.html",
+						"display_url": "mrinitialman.com/OddsEnds/Sizes…",
+						"indices": [
+							87,
+							110
+						]
+					},
+					{
+						"url": "https://t.co/G5HlKluEFC",
+						"expanded_url": "https://twitter.com/i/web/status/919031303143530497",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 919028995244539900,
+			"in_reply_to_status_id_str": "919028995244539904",
+			"in_reply_to_user_id": 4673089298,
+			"in_reply_to_user_id_str": "4673089298",
+			"in_reply_to_screen_name": "O_ZZ_U",
+			"user": {
+				"id": 4673089298,
+				"id_str": "4673089298",
+				"name": "🎃오쯔🎃",
+				"screen_name": "O_ZZ_U",
+				"location": "앤캐옆",
+				"description": "♥0917 ~ 1225 요한이와 계연중♥/ 인장 퐁님 헤더 샘님/ 이별은 블언보다 블락ㄱㄱ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 493,
+				"friends_count": 137,
+				"listed_count": 2,
+				"created_at": "Tue Dec 29 13:57:38 +0000 2015",
+				"favourites_count": 5705,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/693502928724725761/Tc8rTBJy.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/693502928724725761/Tc8rTBJy.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932503083883495424/QZ3vtbmh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932503083883495424/QZ3vtbmh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4673089298/1512907732",
+				"profile_link_color": "88DDFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Dec 16 17:50:18 +0000 2017",
 		"id": 942089516495466500,
 		"id_str": "942089516495466496",
