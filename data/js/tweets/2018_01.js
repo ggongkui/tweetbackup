@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 06 16:57:25 +0000 2018",
+		"id": 949686352412475400,
+		"id_str": "949686352412475392",
+		"text": "RT @jaya_HQ: 2017 년 12 월 27 일 (수) ~ 2018 년 1 월 16 일 (화) 23:59까지만 \n클립스튜디오에서 2018clippy 줍니다8ㅁ8 클리피로 유료소재 받을 수 있음!!!!\n빨리받아요...\n\n여기서받고 👉https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaya_HQ",
+					"name": "자야",
+					"id": 735439092628873200,
+					"id_str": "735439092628873216",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1462,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 04 04:58:30 +0000 2018",
+			"id": 948780656594640900,
+			"id_str": "948780656594640896",
+			"text": "2017 년 12 월 27 일 (수) ~ 2018 년 1 월 16 일 (화) 23:59까지만 \n클립스튜디오에서 2018clippy 줍니다8ㅁ8 클리피로 유료소재 받을 수 있음!!!!\n빨리받아요...\n\n여기서… https://t.co/GGun4BAkhF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GGun4BAkhF",
+						"expanded_url": "https://twitter.com/i/web/status/948780656594640896",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 735439092628873200,
+				"id_str": "735439092628873216",
+				"name": "자야",
+				"screen_name": "jaya_HQ",
+				"location": "트위터",
+				"description": "먐뮤=자야 블락블언블뮤트 자유, 하이큐팝니다지뢰 없어요:-) 성인 게을러 직멘좋아해요. 뒷계는 디엠주세요❤ 인장 사케쨘(@KBM_D) 👉@ayaj_hq 👈쿠로른,앜봌,우시른&19+계정",
+				"url": "https://t.co/UqTWWvhpGB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UqTWWvhpGB",
+								"expanded_url": "http://cannotbeundone.postype.com/",
+								"display_url": "cannotbeundone.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 400,
+				"friends_count": 207,
+				"listed_count": 4,
+				"created_at": "Wed May 25 11:55:18 +0000 2016",
+				"favourites_count": 20417,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14042,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/934442941732421640/0cTNIl5l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/934442941732421640/0cTNIl5l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/735439092628873216/1500988739",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6138,
+			"favorite_count": 3151,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6138,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jan 04 18:31:45 +0000 2018",
 		"id": 948985316085416000,
 		"id_str": "948985316085415936",
