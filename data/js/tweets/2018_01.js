@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 18 15:15:43 +0000 2018",
+		"id": 954009415044051000,
+		"id_str": "954009415044050945",
+		"text": "https://t.co/EEQeOHflID",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EEQeOHflID",
+					"expanded_url": "https://twitter.com/lemoncandy1414/status/909588103815299078",
+					"display_url": "twitter.com/lemoncandy1414…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 909588103815299100,
+		"quoted_status_id_str": "909588103815299078",
+		"quoted_status": {
+			"created_at": "Mon Sep 18 01:21:17 +0000 2017",
+			"id": 909588103815299100,
+			"id_str": "909588103815299078",
+			"text": "클립스튜디오 사용 3년차 똥손이 추천하는 괜찮은 소재, 브러쉬! 타래로 이어봄미다 ㅇ\"ㅇ\n\n#클립스튜디오 #브러쉬_추천 #CLIPSTUDIO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "클립스튜디오",
+						"indices": [
+							51,
+							58
+						]
+					},
+					{
+						"text": "브러쉬_추천",
+						"indices": [
+							59,
+							66
+						]
+					},
+					{
+						"text": "CLIPSTUDIO",
+						"indices": [
+							67,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 784002715206561800,
+				"id_str": "784002715206561797",
+				"name": "[탈통해야하는]레몬캔디8ㅅ8",
+				"screen_name": "LemonCandy1414",
+				"location": "대한민국",
+				"description": "그림쟁이 성인. 잡덕. 그림체多. 맞팔환영. 레몬감성. 日本語 OK!\r흔적있으면 달려가요...! 멘션 디엠 편하게 주세요!!!!\r문스독, 하이큐, 카케구루이, 트럼프, 나츠메우인장+당신이 입덕시키는 장르\r커미션\rhttps://t.co/93dmisoEOh",
+				"url": "https://t.co/Qy6qsCYobX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qy6qsCYobX",
+								"expanded_url": "https://www.youtube.com/channel/UC5HOtOwbOM3OkFK8n7Ah8cA",
+								"display_url": "youtube.com/channel/UC5HOt…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/93dmisoEOh",
+								"expanded_url": "http://blog.naver.com/rladpwjd1995",
+								"display_url": "blog.naver.com/rladpwjd1995",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 569,
+				"listed_count": 2,
+				"created_at": "Thu Oct 06 12:09:48 +0000 2016",
+				"favourites_count": 4989,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12055,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946403285749002241/Mku0619U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946403285749002241/Mku0619U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/784002715206561797/1506175260",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12193,
+			"favorite_count": 9695,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Jan 18 15:15:26 +0000 2018",
+		"id": 954009343627636700,
+		"id_str": "954009343627636739",
+		"text": "https://t.co/t7X5BoOtwP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t7X5BoOtwP",
+					"expanded_url": "https://twitter.com/boogiegg/status/851925388892585985",
+					"display_url": "twitter.com/boogiegg/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 851925388892586000,
+		"quoted_status_id_str": "851925388892585985",
+		"quoted_status": {
+			"created_at": "Tue Apr 11 22:30:15 +0000 2017",
+			"id": 851925388892586000,
+			"id_str": "851925388892585985",
+			"text": "프리파라하고싶어송 방금 만들었습니다 https://t.co/XeBvm5khSx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851925122529214500,
+						"id_str": "851925122529214464",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851925122529214464/pu/img/GOqMy6dS3cDegBM9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851925122529214464/pu/img/GOqMy6dS3cDegBM9.jpg",
+						"url": "https://t.co/XeBvm5khSx",
+						"display_url": "pic.twitter.com/XeBvm5khSx",
+						"expanded_url": "https://twitter.com/boogieGG/status/851925388892585985/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851925122529214500,
+						"id_str": "851925122529214464",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/851925122529214464/pu/img/GOqMy6dS3cDegBM9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/851925122529214464/pu/img/GOqMy6dS3cDegBM9.jpg",
+						"url": "https://t.co/XeBvm5khSx",
+						"display_url": "pic.twitter.com/XeBvm5khSx",
+						"expanded_url": "https://twitter.com/boogieGG/status/851925388892585985/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 17669,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/851925122529214464/pu/pl/rtpwZgxUb8LN5YkD.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851925122529214464/pu/vid/1280x720/_VEbejba2nxT0fIq.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851925122529214464/pu/vid/640x360/nDAXcBrfmTa155jP.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/851925122529214464/pu/vid/320x180/dqbPVeOEuz7QVZ9-.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 901085965,
+				"id_str": "901085965",
+				"name": "부기",
+				"screen_name": "boogieGG",
+				"location": "마리나 헤어밴드 속",
+				"description": "마녀코믹스 '수요일에 만나요!' / 알티가 많습니다 / 프사 패님",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 410,
+				"friends_count": 178,
+				"listed_count": 4,
+				"created_at": "Wed Oct 24 03:13:32 +0000 2012",
+				"favourites_count": 4470,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7933,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/721178962009796609/WZXq4FF6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/721178962009796609/WZXq4FF6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/901085965/1511293793",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jan 16 04:52:46 +0000 2018",
 		"id": 953127865347752000,
 		"id_str": "953127865347751936",
