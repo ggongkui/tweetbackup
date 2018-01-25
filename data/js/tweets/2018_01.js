@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 24 17:53:53 +0000 2018",
+		"id": 956223543787728900,
+		"id_str": "956223543787728896",
+		"text": "RT @hakubi8888: ⚡️ \"【youtube配信ログ】スーツドローイング\"\nyoutube配信ログをまとめました～\nライブの時間帯がまちまちなのでログ残ししておりますm(__)m\nhttps://t.co/3lcwJAS0vh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hakubi8888",
+					"name": "砂糖ふくろう@SUGAROWL",
+					"id": 3318602911,
+					"id_str": "3318602911",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3lcwJAS0vh",
+					"expanded_url": "https://twitter.com/i/moments/955872257766711296",
+					"display_url": "twitter.com/i/moments/9558…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 23 18:42:44 +0000 2018",
+			"id": 955873450236592100,
+			"id_str": "955873450236592128",
+			"text": "⚡️ \"【youtube配信ログ】スーツドローイング\"\nyoutube配信ログをまとめました～\nライブの時間帯がまちまちなのでログ残ししておりますm(__)m\nhttps://t.co/3lcwJAS0vh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3lcwJAS0vh",
+						"expanded_url": "https://twitter.com/i/moments/955872257766711296",
+						"display_url": "twitter.com/i/moments/9558…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3318602911,
+				"id_str": "3318602911",
+				"name": "砂糖ふくろう@SUGAROWL",
+				"screen_name": "hakubi8888",
+				"location": "茨城県",
+				"description": "スーツ男性メインのお絵かきアカウント。くるみゆべしとアボカド、IKEAのスモークサーモンが好きです。I'm usually drawing! Drawing is my LIFE：) 個人サイト↓のリンクから是非～",
+				"url": "https://t.co/nSk7dgJMYr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nSk7dgJMYr",
+								"expanded_url": "http://susumu-satoh.com/",
+								"display_url": "susumu-satoh.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15817,
+				"friends_count": 951,
+				"listed_count": 277,
+				"created_at": "Tue Aug 18 10:10:28 +0000 2015",
+				"favourites_count": 11503,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6548,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919286603914153984/fVrWjorU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919286603914153984/fVrWjorU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3318602911/1510932774",
+				"profile_link_color": "FF6893",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 205,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Jan 18 15:15:43 +0000 2018",
 		"id": 954009415044051000,
 		"id_str": "954009415044050945",
