@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 28 06:22:12 +0000 2018",
+		"id": 957499026655535100,
+		"id_str": "957499026655535104",
+		"text": "RT @Aprilshower_CO: [RT♥]\n\n로고/윅스/편집 디자인 커미션을 받습니다!\nRT해주신 한분께 원하시는 타입 로고를 작업해드립니다!\n\n https://t.co/6xHXsxDg3n https://t.co/KEY5Snl7uV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Aprilshower_CO",
+					"name": "[커미션] 소낙비",
+					"id": 817185953487851500,
+					"id_str": "817185953487851521",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6xHXsxDg3n",
+					"expanded_url": "http://april-shower-nak.tistory.com/5",
+					"display_url": "april-shower-nak.tistory.com/5",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 950544930035843100,
+					"id_str": "950544930035843072",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+					"url": "https://t.co/KEY5Snl7uV",
+					"display_url": "pic.twitter.com/KEY5Snl7uV",
+					"expanded_url": "https://twitter.com/Aprilshower_CO/status/950544952043356160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950544952043356200,
+					"source_status_id_str": "950544952043356160",
+					"source_user_id": 817185953487851500,
+					"source_user_id_str": "817185953487851521"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950544930035843100,
+					"id_str": "950544930035843072",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+					"url": "https://t.co/KEY5Snl7uV",
+					"display_url": "pic.twitter.com/KEY5Snl7uV",
+					"expanded_url": "https://twitter.com/Aprilshower_CO/status/950544952043356160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950544952043356200,
+					"source_status_id_str": "950544952043356160",
+					"source_user_id": 817185953487851500,
+					"source_user_id_str": "817185953487851521"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1476,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 01:49:11 +0000 2018",
+			"id": 950544952043356200,
+			"id_str": "950544952043356160",
+			"text": "[RT♥]\n\n로고/윅스/편집 디자인 커미션을 받습니다!\nRT해주신 한분께 원하시는 타입 로고를 작업해드립니다!\n\n https://t.co/6xHXsxDg3n https://t.co/KEY5Snl7uV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6xHXsxDg3n",
+						"expanded_url": "http://april-shower-nak.tistory.com/5",
+						"display_url": "april-shower-nak.tistory.com/5",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 950544930035843100,
+						"id_str": "950544930035843072",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+						"url": "https://t.co/KEY5Snl7uV",
+						"display_url": "pic.twitter.com/KEY5Snl7uV",
+						"expanded_url": "https://twitter.com/Aprilshower_CO/status/950544952043356160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950544930035843100,
+						"id_str": "950544930035843072",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTEDk-HVwAAHl5T.jpg",
+						"url": "https://t.co/KEY5Snl7uV",
+						"display_url": "pic.twitter.com/KEY5Snl7uV",
+						"expanded_url": "https://twitter.com/Aprilshower_CO/status/950544952043356160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817185953487851500,
+				"id_str": "817185953487851521",
+				"name": "[커미션] 소낙비",
+				"screen_name": "Aprilshower_CO",
+				"location": "1월 16일 이후부터 작업을 시작합니다.",
+				"description": "로고/윅스/디자인 커미션계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63,
+				"friends_count": 1,
+				"listed_count": 2,
+				"created_at": "Fri Jan 06 01:48:08 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950532911278702593/rl6KnjFl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950532911278702593/rl6KnjFl_normal.jpg",
+				"profile_link_color": "FF6A71",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 28 05:29:52 +0000 2018",
+		"id": 957485858084433900,
+		"id_str": "957485858084433921",
+		"text": "https://t.co/wqLlFPzdX5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 957485849377042400,
+					"id_str": "957485849377042437",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DUmsTpmU8AU5BXL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUmsTpmU8AU5BXL.jpg",
+					"url": "https://t.co/wqLlFPzdX5",
+					"display_url": "pic.twitter.com/wqLlFPzdX5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/957485858084433921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 755,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 755,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 957485849377042400,
+					"id_str": "957485849377042437",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DUmsTpmU8AU5BXL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUmsTpmU8AU5BXL.jpg",
+					"url": "https://t.co/wqLlFPzdX5",
+					"display_url": "pic.twitter.com/wqLlFPzdX5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/957485858084433921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 755,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 755,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 957485849305731100,
+					"id_str": "957485849305731072",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DUmsTpVU0AAFTM8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUmsTpVU0AAFTM8.jpg",
+					"url": "https://t.co/wqLlFPzdX5",
+					"display_url": "pic.twitter.com/wqLlFPzdX5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/957485858084433921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 551,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 551,
+							"h": 304,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 957485849314127900,
+					"id_str": "957485849314127872",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DUmsTpXU8AA8N4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUmsTpXU8AA8N4k.jpg",
+					"url": "https://t.co/wqLlFPzdX5",
+					"display_url": "pic.twitter.com/wqLlFPzdX5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/957485858084433921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 874,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 874,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 957485849309933600,
+					"id_str": "957485849309933568",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DUmsTpWU8AACLbh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUmsTpWU8AACLbh.jpg",
+					"url": "https://t.co/wqLlFPzdX5",
+					"display_url": "pic.twitter.com/wqLlFPzdX5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/957485858084433921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 755,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 755,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "혼자 왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1476,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747209325135822848/jNfrA_Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			901817433589112800
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Jan 24 17:53:53 +0000 2018",
 		"id": 956223543787728900,
 		"id_str": "956223543787728896",
