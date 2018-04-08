@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 09:51:31 +0000 2018",
+		"id": 982556467570995200,
+		"id_str": "982556467570995200",
+		"text": "RT @daft20170618: 20180407_봄맞이 SD 트레 소재\n\nSD 인체 데포르메가 2타입으로 미묘하게 차이납니다.\n편하신걸로 사용하시되, 이용시엔 메인트윗을 참고해주세요. https://t.co/BsZUGEtteZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daft20170618",
+					"name": "아주머_이메레스/포즈트레 소재",
+					"id": 876322098951503900,
+					"id_str": "876322098951503872",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982414048011497500,
+					"id_str": "982414048011497472",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+					"media_url_https": "https://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+					"url": "https://t.co/BsZUGEtteZ",
+					"display_url": "pic.twitter.com/BsZUGEtteZ",
+					"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 982414552951242800,
+					"source_status_id_str": "982414552951242752",
+					"source_user_id": 876322098951503900,
+					"source_user_id_str": "876322098951503872"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982414048011497500,
+					"id_str": "982414048011497472",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+					"media_url_https": "https://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+					"url": "https://t.co/BsZUGEtteZ",
+					"display_url": "pic.twitter.com/BsZUGEtteZ",
+					"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 982414552951242800,
+					"source_status_id_str": "982414552951242752",
+					"source_user_id": 876322098951503900,
+					"source_user_id_str": "876322098951503872"
+				},
+				{
+					"id": 982414059201904600,
+					"id_str": "982414059201904645",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DaI8Yb0UQAUl-ve.png",
+					"media_url_https": "https://pbs.twimg.com/media/DaI8Yb0UQAUl-ve.png",
+					"url": "https://t.co/BsZUGEtteZ",
+					"display_url": "pic.twitter.com/BsZUGEtteZ",
+					"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 982414552951242800,
+					"source_status_id_str": "982414552951242752",
+					"source_user_id": 876322098951503900,
+					"source_user_id_str": "876322098951503872"
+				},
+				{
+					"id": 982414126671540200,
+					"id_str": "982414126671540224",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DaI8cXKVMAA69rQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/DaI8cXKVMAA69rQ.png",
+					"url": "https://t.co/BsZUGEtteZ",
+					"display_url": "pic.twitter.com/BsZUGEtteZ",
+					"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 982414552951242800,
+					"source_status_id_str": "982414552951242752",
+					"source_user_id": 876322098951503900,
+					"source_user_id_str": "876322098951503872"
+				},
+				{
+					"id": 982414137517944800,
+					"id_str": "982414137517944832",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DaI8c_kUMAAQN-k.png",
+					"media_url_https": "https://pbs.twimg.com/media/DaI8c_kUMAAQN-k.png",
+					"url": "https://t.co/BsZUGEtteZ",
+					"display_url": "pic.twitter.com/BsZUGEtteZ",
+					"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 982414552951242800,
+					"source_status_id_str": "982414552951242752",
+					"source_user_id": 876322098951503900,
+					"source_user_id_str": "876322098951503872"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1513,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 07 00:27:36 +0000 2018",
+			"id": 982414552951242800,
+			"id_str": "982414552951242752",
+			"text": "20180407_봄맞이 SD 트레 소재\n\nSD 인체 데포르메가 2타입으로 미묘하게 차이납니다.\n편하신걸로 사용하시되, 이용시엔 메인트윗을 참고해주세요. https://t.co/BsZUGEtteZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982414048011497500,
+						"id_str": "982414048011497472",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+						"media_url_https": "https://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+						"url": "https://t.co/BsZUGEtteZ",
+						"display_url": "pic.twitter.com/BsZUGEtteZ",
+						"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1248,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982414048011497500,
+						"id_str": "982414048011497472",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+						"media_url_https": "https://pbs.twimg.com/media/DaI8XyIUMAAE1tI.png",
+						"url": "https://t.co/BsZUGEtteZ",
+						"display_url": "pic.twitter.com/BsZUGEtteZ",
+						"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1248,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 982414059201904600,
+						"id_str": "982414059201904645",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DaI8Yb0UQAUl-ve.png",
+						"media_url_https": "https://pbs.twimg.com/media/DaI8Yb0UQAUl-ve.png",
+						"url": "https://t.co/BsZUGEtteZ",
+						"display_url": "pic.twitter.com/BsZUGEtteZ",
+						"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1248,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 982414126671540200,
+						"id_str": "982414126671540224",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DaI8cXKVMAA69rQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/DaI8cXKVMAA69rQ.png",
+						"url": "https://t.co/BsZUGEtteZ",
+						"display_url": "pic.twitter.com/BsZUGEtteZ",
+						"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1248,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 982414137517944800,
+						"id_str": "982414137517944832",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DaI8c_kUMAAQN-k.png",
+						"media_url_https": "https://pbs.twimg.com/media/DaI8c_kUMAAQN-k.png",
+						"url": "https://t.co/BsZUGEtteZ",
+						"display_url": "pic.twitter.com/BsZUGEtteZ",
+						"expanded_url": "https://twitter.com/daft20170618/status/982414552951242752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1936,
+								"h": 1248,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 876322098951503900,
+				"id_str": "876322098951503872",
+				"name": "아주머_이메레스/포즈트레 소재",
+				"screen_name": "daft20170618",
+				"location": "",
+				"description": ":: 메인트 타래 필독(업로드 되는 소재의 사용 범위 등 적혀있습니다.) :: 직접 그린 포즈 소재를 메인으로 이메레스도 올라오는 소재 계정입니다. :: 계정주 @0hello_there0",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3921,
+				"friends_count": 1,
+				"listed_count": 44,
+				"created_at": "Sun Jun 18 06:14:04 +0000 2017",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876322574896058368/_ME-XjKZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876322574896058368/_ME-XjKZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/876322098951503872/1497766579",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 849,
+			"favorite_count": 539,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 849,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 05 05:11:24 +0000 2018",
 		"id": 981761198734491600,
 		"id_str": "981761198734491648",
