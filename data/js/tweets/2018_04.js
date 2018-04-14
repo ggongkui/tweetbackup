@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 13 10:04:35 +0000 2018",
+		"id": 984734081249263600,
+		"id_str": "984734081249263616",
+		"text": "RT @ariorihabe_ri: 袖が濡れるぞ満艦飾 https://t.co/fZOmeOebQE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ariorihabe_ri",
+					"name": "ありおりはべり",
+					"id": 2526132656,
+					"id_str": "2526132656",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984716726313996300,
+					"id_str": "984716726313996289",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+					"url": "https://t.co/fZOmeOebQE",
+					"display_url": "pic.twitter.com/fZOmeOebQE",
+					"expanded_url": "https://twitter.com/ariorihabe_ri/status/984723219599900673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 761,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 761,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984723219599900700,
+					"source_status_id_str": "984723219599900673",
+					"source_user_id": 2526132656,
+					"source_user_id_str": "2526132656"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984716726313996300,
+					"id_str": "984716726313996289",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+					"url": "https://t.co/fZOmeOebQE",
+					"display_url": "pic.twitter.com/fZOmeOebQE",
+					"expanded_url": "https://twitter.com/ariorihabe_ri/status/984723219599900673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 761,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 761,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984723219599900700,
+					"source_status_id_str": "984723219599900673",
+					"source_user_id": 2526132656,
+					"source_user_id_str": "2526132656"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1528,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 13 09:21:25 +0000 2018",
+			"id": 984723219599900700,
+			"id_str": "984723219599900673",
+			"text": "袖が濡れるぞ満艦飾 https://t.co/fZOmeOebQE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984716726313996300,
+						"id_str": "984716726313996289",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+						"url": "https://t.co/fZOmeOebQE",
+						"display_url": "pic.twitter.com/fZOmeOebQE",
+						"expanded_url": "https://twitter.com/ariorihabe_ri/status/984723219599900673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 761,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 761,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984716726313996300,
+						"id_str": "984716726313996289",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DapqpTRU0AE5Qq1.jpg",
+						"url": "https://t.co/fZOmeOebQE",
+						"display_url": "pic.twitter.com/fZOmeOebQE",
+						"expanded_url": "https://twitter.com/ariorihabe_ri/status/984723219599900673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 761,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 761,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2526132656,
+				"id_str": "2526132656",
+				"name": "ありおりはべり",
+				"screen_name": "ariorihabe_ri",
+				"location": "",
+				"description": "苛マコ ﾊｽﾊｽ",
+				"url": "https://t.co/G3hyJzDawu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G3hyJzDawu",
+								"expanded_url": "http://www.pixiv.net/member.php?id=4986679",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13840,
+				"friends_count": 201,
+				"listed_count": 215,
+				"created_at": "Tue May 27 00:06:56 +0000 2014",
+				"favourites_count": 32106,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26912,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B0B09E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875527949977440257/b0bHuDDX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875527949977440257/b0bHuDDX_normal.jpg",
+				"profile_link_color": "E6A640",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8640,
+			"favorite_count": 26767,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8640,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Apr 12 13:18:35 +0000 2018",
 		"id": 984420515266707500,
 		"id_str": "984420515266707456",
