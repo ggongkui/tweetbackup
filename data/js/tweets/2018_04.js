@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 14 00:44:36 +0000 2018",
+		"id": 984955545542189000,
+		"id_str": "984955545542189056",
+		"text": "RT @summer_to_: https://t.co/n0G9Wkour8\n안녕하세요! 인지펜 클립스튜디오에 배포시작했습니다(^^)ㅇ 트위터 글은 적당히 두다 내릴 예정이니 사용하실 의향이 있으시다면 트윗보단 링크 자체의 백업을 추천드려요!! https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "summer_to_",
+					"name": "💙💚",
+					"id": 716213180742049800,
+					"id_str": "716213180742049793",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n0G9Wkour8",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1712061",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1529,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 13 16:41:22 +0000 2018",
+			"id": 984833938181963800,
+			"id_str": "984833938181963776",
+			"text": "https://t.co/n0G9Wkour8\n안녕하세요! 인지펜 클립스튜디오에 배포시작했습니다(^^)ㅇ 트위터 글은 적당히 두다 내릴 예정이니 사용하실 의향이 있으시다면 트윗보단 링크 자체의 백업을 추천드려요… https://t.co/l2GwlXDq23",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n0G9Wkour8",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1712061",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/l2GwlXDq23",
+						"expanded_url": "https://twitter.com/i/web/status/984833938181963776",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 716213180742049800,
+				"id_str": "716213180742049793",
+				"name": "💙💚",
+				"screen_name": "summer_to_",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/O7SvHkghFK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O7SvHkghFK",
+								"expanded_url": "https://www.youtube.com/watch?v=l8R1seKmBh4",
+								"display_url": "youtube.com/watch?v=l8R1se…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101,
+				"friends_count": 103,
+				"listed_count": 0,
+				"created_at": "Sat Apr 02 10:38:23 +0000 2016",
+				"favourites_count": 1860,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 230,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984642404522246144/pCAnGpqU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984642404522246144/pCAnGpqU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/716213180742049793/1511651483",
+				"profile_link_color": "F7BBAF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4208,
+			"favorite_count": 3331,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4208,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 13 10:04:35 +0000 2018",
 		"id": 984734081249263600,
 		"id_str": "984734081249263616",
