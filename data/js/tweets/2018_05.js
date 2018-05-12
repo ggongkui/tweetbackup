@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 11 03:44:57 +0000 2018",
+		"id": 994785405366165500,
+		"id_str": "994785405366165504",
+		"text": "RT @tjwjddl75: [RT🙏✨] 5월 서울 코믹월드 양일,위치는 토요일 F29/ 일요일 K21 인포입니다! 좋은하루 되시고 행사장에서 뵈요 😘💕  \n\n책 샘플/ 아기가생기는담요 ▶ https://t.co/Bi5X8p6uti\n안녕시리즈 ▶htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tjwjddl75",
+					"name": "[서코/토:F29/일:K21]ㅇㅅㅈ",
+					"id": 2580446623,
+					"id_str": "2580446623",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bi5X8p6uti",
+					"expanded_url": "https://twitter.com/tjwjddl75/status/957928201526759425",
+					"display_url": "twitter.com/tjwjddl75/stat…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 144,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1528,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 09 21:56:09 +0000 2018",
+			"id": 994335240888844300,
+			"id_str": "994335240888844288",
+			"text": "[RT🙏✨] 5월 서울 코믹월드 양일,위치는 토요일 F29/ 일요일 K21 인포입니다! 좋은하루 되시고 행사장에서 뵈요 😘💕  \n\n책 샘플/ 아기가생기는담요 ▶ https://t.co/Bi5X8p6uti\n안… https://t.co/xmNjiEeJkb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Bi5X8p6uti",
+						"expanded_url": "https://twitter.com/tjwjddl75/status/957928201526759425",
+						"display_url": "twitter.com/tjwjddl75/stat…",
+						"indices": [
+							90,
+							113
+						]
+					},
+					{
+						"url": "https://t.co/xmNjiEeJkb",
+						"expanded_url": "https://twitter.com/i/web/status/994335240888844288",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2580446623,
+				"id_str": "2580446623",
+				"name": "[서코/토:F29/일:K21]ㅇㅅㅈ",
+				"screen_name": "tjwjddl75",
+				"location": "",
+				"description": "반갑습니다 :D /DM사용안합니다",
+				"url": "https://t.co/2gQssEpH57",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2gQssEpH57",
+								"expanded_url": "http://tjwjddl75.postype.com/",
+								"display_url": "tjwjddl75.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23825,
+				"friends_count": 88,
+				"listed_count": 105,
+				"created_at": "Sat Jun 21 13:09:15 +0000 2014",
+				"favourites_count": 3332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5373,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848200415229300736/PtnKVjwN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848200415229300736/PtnKVjwN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2580446623/1480375737",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 957928201526759400,
+			"quoted_status_id_str": "957928201526759425",
+			"quoted_status": {
+				"created_at": "Mon Jan 29 10:47:35 +0000 2018",
+				"id": 957928201526759400,
+				"id_str": "957928201526759425",
+				"text": "육아물에환장하는친구 입덕염원만화..ㅋㅋ \n[카게히나] 카라스노 7대 불가사의 아기가생기는담요 (1) https://t.co/TKd3TTR4l0",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 957928050779279400,
+							"id_str": "957928050779279360",
+							"indices": [
+								56,
+								79
+							],
+							"media_url": "http://pbs.twimg.com/media/DUs-fKMU0AAFlAO.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUs-fKMU0AAFlAO.jpg",
+							"url": "https://t.co/TKd3TTR4l0",
+							"display_url": "pic.twitter.com/TKd3TTR4l0",
+							"expanded_url": "https://twitter.com/tjwjddl75/status/957928201526759425/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1443,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 845,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 479,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 957928050779279400,
+							"id_str": "957928050779279360",
+							"indices": [
+								56,
+								79
+							],
+							"media_url": "http://pbs.twimg.com/media/DUs-fKMU0AAFlAO.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUs-fKMU0AAFlAO.jpg",
+							"url": "https://t.co/TKd3TTR4l0",
+							"display_url": "pic.twitter.com/TKd3TTR4l0",
+							"expanded_url": "https://twitter.com/tjwjddl75/status/957928201526759425/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1443,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 845,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 479,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 957928065773977600,
+							"id_str": "957928065773977600",
+							"indices": [
+								56,
+								79
+							],
+							"media_url": "http://pbs.twimg.com/media/DUs-gCDVwAAc9uC.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUs-gCDVwAAc9uC.jpg",
+							"url": "https://t.co/TKd3TTR4l0",
+							"display_url": "pic.twitter.com/TKd3TTR4l0",
+							"expanded_url": "https://twitter.com/tjwjddl75/status/957928201526759425/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1443,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 845,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 479,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 957928080584003600,
+							"id_str": "957928080584003584",
+							"indices": [
+								56,
+								79
+							],
+							"media_url": "http://pbs.twimg.com/media/DUs-g5OU0AA-I_e.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUs-g5OU0AA-I_e.jpg",
+							"url": "https://t.co/TKd3TTR4l0",
+							"display_url": "pic.twitter.com/TKd3TTR4l0",
+							"expanded_url": "https://twitter.com/tjwjddl75/status/957928201526759425/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 479,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 845,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1443,
+									"h": 2048,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2580446623,
+					"id_str": "2580446623",
+					"name": "[서코/토:F29/일:K21]ㅇㅅㅈ",
+					"screen_name": "tjwjddl75",
+					"location": "",
+					"description": "반갑습니다 :D /DM사용안합니다",
+					"url": "https://t.co/2gQssEpH57",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/2gQssEpH57",
+									"expanded_url": "http://tjwjddl75.postype.com/",
+									"display_url": "tjwjddl75.postype.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 23825,
+					"friends_count": 88,
+					"listed_count": 105,
+					"created_at": "Sat Jun 21 13:09:15 +0000 2014",
+					"favourites_count": 3332,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 5373,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/848200415229300736/PtnKVjwN_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/848200415229300736/PtnKVjwN_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2580446623/1480375737",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11489,
+				"favorite_count": 9175,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 389,
+			"favorite_count": 256,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 957928201526759400,
+		"quoted_status_id_str": "957928201526759425",
+		"retweet_count": 389,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed May 09 15:57:06 +0000 2018",
 		"id": 994244882007965700,
 		"id_str": "994244882007965696",
