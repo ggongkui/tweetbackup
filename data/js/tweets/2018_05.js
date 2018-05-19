@@ -1,6 +1,912 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 18 14:31:48 +0000 2018",
+		"id": 997484904244904000,
+		"id_str": "997484904244903936",
+		"text": "알렉 똥차새끼...내가 매그너스의 이런 눈을 봐야해? https://t.co/4fS6ijyU1H",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 997484818605658100,
+					"id_str": "997484818605658112",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdfHKFnV0AATHso.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdfHKFnV0AATHso.jpg",
+					"url": "https://t.co/4fS6ijyU1H",
+					"display_url": "pic.twitter.com/4fS6ijyU1H",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997484904244903936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997484818605658100,
+					"id_str": "997484818605658112",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdfHKFnV0AATHso.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdfHKFnV0AATHso.jpg",
+					"url": "https://t.co/4fS6ijyU1H",
+					"display_url": "pic.twitter.com/4fS6ijyU1H",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997484904244903936/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							329,
+							191
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdfHKFnV0AATHso.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997484701647487000,
+		"in_reply_to_status_id_str": "997484701647486982",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri May 18 14:30:59 +0000 2018",
+		"id": 997484701647487000,
+		"id_str": "997484701647486982",
+		"text": "이렇게 로맨틱한 장면인데... https://t.co/qJ2dCjJoOH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 997484462706323500,
+					"id_str": "997484462706323456",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdfG1XyU8AArztM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdfG1XyU8AArztM.jpg",
+					"url": "https://t.co/qJ2dCjJoOH",
+					"display_url": "pic.twitter.com/qJ2dCjJoOH",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997484701647486982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997484462706323500,
+					"id_str": "997484462706323456",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdfG1XyU8AArztM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdfG1XyU8AArztM.jpg",
+					"url": "https://t.co/qJ2dCjJoOH",
+					"display_url": "pic.twitter.com/qJ2dCjJoOH",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997484701647486982/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							329,
+							191
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdfG1XyU8AArztM.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997481814221471700,
+		"in_reply_to_status_id_str": "997481814221471744",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri May 18 14:19:31 +0000 2018",
+		"id": 997481814221471700,
+		"id_str": "997481814221471744",
+		"text": "알렉 흥분해서 제이스 찾으니까 이지가 도와달라는 듯이 매그너스 한 번 쳐다보고 매그너스도 눈치 계속 보면서 알렉 부르는거 너무 좋다... 그냥 hey 하고 부른 것도 좋음 다만 알렉이 똥차일뿐 https://t.co/EHucvxjozc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 997481754742014000,
+					"id_str": "997481754742013952",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdfEXv1UwAAzjJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdfEXv1UwAAzjJn.jpg",
+					"url": "https://t.co/EHucvxjozc",
+					"display_url": "pic.twitter.com/EHucvxjozc",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997481814221471744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997481754742014000,
+					"id_str": "997481754742013952",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdfEXv1UwAAzjJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdfEXv1UwAAzjJn.jpg",
+					"url": "https://t.co/EHucvxjozc",
+					"display_url": "pic.twitter.com/EHucvxjozc",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997481814221471744/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							329,
+							191
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdfEXv1UwAAzjJn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997480802513375200,
+		"in_reply_to_status_id_str": "997480802513375232",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri May 18 14:15:30 +0000 2018",
+		"id": 997480802513375200,
+		"id_str": "997480802513375232",
+		"text": "[S02E01]",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997301865539752000,
+		"in_reply_to_status_id_str": "997301865539751936",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri May 18 02:24:28 +0000 2018",
+		"id": 997301865539752000,
+		"id_str": "997301865539751936",
+		"text": "👻섀헌 보는 타래 \n시즌2부터 매그너스 위주 https://t.co/ySkalWFv2J",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 997301855947386900,
+					"id_str": "997301855947386880",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DdcgwQmU8AA1LHR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdcgwQmU8AA1LHR.jpg",
+					"url": "https://t.co/ySkalWFv2J",
+					"display_url": "pic.twitter.com/ySkalWFv2J",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997301865539751936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997301855947386900,
+					"id_str": "997301855947386880",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DdcgwQmU8AA1LHR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdcgwQmU8AA1LHR.jpg",
+					"url": "https://t.co/ySkalWFv2J",
+					"display_url": "pic.twitter.com/ySkalWFv2J",
+					"expanded_url": "https://twitter.com/PF_Si2/status/997301865539751936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri May 18 02:23:47 +0000 2018",
+		"id": 997301695691411500,
+		"id_str": "997301695691411456",
+		"text": "계정 박제해두기 https://t.co/iqCI1D0lcG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iqCI1D0lcG",
+					"expanded_url": "https://twitter.com/yumnmy/status/997301541928292352",
+					"display_url": "twitter.com/yumnmy/status/…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614830902074437632/owtHOm8x.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 997301541928292400,
+		"quoted_status_id_str": "997301541928292352",
+		"quoted_status": {
+			"created_at": "Fri May 18 02:23:11 +0000 2018",
+			"id": 997301541928292400,
+			"id_str": "997301541928292352",
+			"text": "덕질하는 그날까지 로그아웃 해둠💦",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 975241178709815300,
+				"id_str": "975241178709815296",
+				"name": "얌비",
+				"screen_name": "yumnmy",
+				"location": "",
+				"description": "덕질하면 쓰려고 아껴놓은 계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Sun Mar 18 05:23:10 +0000 2018",
+				"favourites_count": 38,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/997300958953537537/khUkEoFz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/997300958953537537/khUkEoFz_normal.jpg",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue May 15 03:33:53 +0000 2018",
 		"id": 996232173542719500,
 		"id_str": "996232173542719488",
