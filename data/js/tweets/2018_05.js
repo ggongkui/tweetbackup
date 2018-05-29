@@ -1,6 +1,1347 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 28 10:13:10 +0000 2018",
+		"id": 1001043696857436200,
+		"id_str": "1001043696857436161",
+		"text": "RT @DDMLjY8LULsk0S6: https://t.co/eNSdXesCe9\n안에 흰색 선이 나와주는 말풍선과 브러쉬(.... https://t.co/L3hCvpzMzk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DDMLjY8LULsk0S6",
+					"name": "페이스 찾아가는 중인 '사이'",
+					"id": 867205377707843600,
+					"id_str": "867205377707843585",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eNSdXesCe9",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1591256",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1000998333731635200,
+					"id_str": "1000998333731635201",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+					"url": "https://t.co/L3hCvpzMzk",
+					"display_url": "pic.twitter.com/L3hCvpzMzk",
+					"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/1000998512773890053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 452,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 452,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 452,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000998512773890000,
+					"source_status_id_str": "1000998512773890053",
+					"source_user_id": 867205377707843600,
+					"source_user_id_str": "867205377707843585"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1000998333731635200,
+					"id_str": "1000998333731635201",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+					"url": "https://t.co/L3hCvpzMzk",
+					"display_url": "pic.twitter.com/L3hCvpzMzk",
+					"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/1000998512773890053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 452,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 452,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 452,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1000998512773890000,
+					"source_status_id_str": "1000998512773890053",
+					"source_user_id": 867205377707843600,
+					"source_user_id_str": "867205377707843585"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 28 07:13:37 +0000 2018",
+			"id": 1000998512773890000,
+			"id_str": "1000998512773890053",
+			"text": "https://t.co/eNSdXesCe9\n안에 흰색 선이 나와주는 말풍선과 브러쉬(.... https://t.co/L3hCvpzMzk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eNSdXesCe9",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1591256",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1000998333731635200,
+						"id_str": "1000998333731635201",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+						"url": "https://t.co/L3hCvpzMzk",
+						"display_url": "pic.twitter.com/L3hCvpzMzk",
+						"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/1000998512773890053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 452,
+								"h": 332,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 452,
+								"h": 332,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 452,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000998333731635200,
+						"id_str": "1000998333731635201",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeRCrlbVAAEhENV.jpg",
+						"url": "https://t.co/L3hCvpzMzk",
+						"display_url": "pic.twitter.com/L3hCvpzMzk",
+						"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/1000998512773890053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 452,
+								"h": 332,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 452,
+								"h": 332,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 452,
+								"h": 332,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 997855193743085600,
+			"in_reply_to_status_id_str": "997855193743085568",
+			"in_reply_to_user_id": 867205377707843600,
+			"in_reply_to_user_id_str": "867205377707843585",
+			"in_reply_to_screen_name": "DDMLjY8LULsk0S6",
+			"user": {
+				"id": 867205377707843600,
+				"id_str": "867205377707843585",
+				"name": "페이스 찾아가는 중인 '사이'",
+				"screen_name": "DDMLjY8LULsk0S6",
+				"location": "",
+				"description": "페이스 찾는동안 좀 찌질함./\n잡덕 / 알람이 잘 안울려요ㅠ죄송합니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45,
+				"friends_count": 6,
+				"listed_count": 2,
+				"created_at": "Wed May 24 02:27:28 +0000 2017",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 216,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1132,
+			"favorite_count": 811,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1132,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon May 28 10:12:53 +0000 2018",
+		"id": 1001043626460250100,
+		"id_str": "1001043626460250113",
+		"text": "RT @DDMLjY8LULsk0S6: https://t.co/f80wkf86XO\n지면 브러쉬\n뭔가 허전하다 싶을때 콕콕 찍어주면 딱 https://t.co/eajyRIu5zW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DDMLjY8LULsk0S6",
+					"name": "페이스 찾아가는 중인 '사이'",
+					"id": 867205377707843600,
+					"id_str": "867205377707843585",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f80wkf86XO",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1709673",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 998788914935550000,
+					"id_str": "998788914935549953",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+					"url": "https://t.co/eajyRIu5zW",
+					"display_url": "pic.twitter.com/eajyRIu5zW",
+					"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/998789115096150016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 183,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998789115096150000,
+					"source_status_id_str": "998789115096150016",
+					"source_user_id": 867205377707843600,
+					"source_user_id_str": "867205377707843585"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 998788914935550000,
+					"id_str": "998788914935549953",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+					"url": "https://t.co/eajyRIu5zW",
+					"display_url": "pic.twitter.com/eajyRIu5zW",
+					"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/998789115096150016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 183,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 188,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 188,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 998789115096150000,
+					"source_status_id_str": "998789115096150016",
+					"source_user_id": 867205377707843600,
+					"source_user_id_str": "867205377707843585"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 22 04:54:16 +0000 2018",
+			"id": 998789115096150000,
+			"id_str": "998789115096150016",
+			"text": "https://t.co/f80wkf86XO\n지면 브러쉬\n뭔가 허전하다 싶을때 콕콕 찍어주면 딱 https://t.co/eajyRIu5zW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/f80wkf86XO",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1709673",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 998788914935550000,
+						"id_str": "998788914935549953",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+						"url": "https://t.co/eajyRIu5zW",
+						"display_url": "pic.twitter.com/eajyRIu5zW",
+						"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/998789115096150016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 183,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 698,
+								"h": 188,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 698,
+								"h": 188,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 998788914935550000,
+						"id_str": "998788914935549953",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdxpOfBU0AEPsRx.jpg",
+						"url": "https://t.co/eajyRIu5zW",
+						"display_url": "pic.twitter.com/eajyRIu5zW",
+						"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/998789115096150016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 183,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 698,
+								"h": 188,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 698,
+								"h": 188,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 997855193743085600,
+			"in_reply_to_status_id_str": "997855193743085568",
+			"in_reply_to_user_id": 867205377707843600,
+			"in_reply_to_user_id_str": "867205377707843585",
+			"in_reply_to_screen_name": "DDMLjY8LULsk0S6",
+			"user": {
+				"id": 867205377707843600,
+				"id_str": "867205377707843585",
+				"name": "페이스 찾아가는 중인 '사이'",
+				"screen_name": "DDMLjY8LULsk0S6",
+				"location": "",
+				"description": "페이스 찾는동안 좀 찌질함./\n잡덕 / 알람이 잘 안울려요ㅠ죄송합니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45,
+				"friends_count": 6,
+				"listed_count": 2,
+				"created_at": "Wed May 24 02:27:28 +0000 2017",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 216,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1786,
+			"favorite_count": 1532,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1786,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon May 28 10:12:43 +0000 2018",
+		"id": 1001043583191822300,
+		"id_str": "1001043583191822338",
+		"text": "RT @DDMLjY8LULsk0S6: https://t.co/i2m6XwbIBp\n클립 스튜디오 반짝이 브러숴 곰팡이(??) 브러쉬\n여기 반짝이도 이쁘지만 뭣보다 곰팡이 브러쉬(전 그렇게 부름...)가 젤 이뻐요 \n뭔가 뾰로롱한 이뻐욜 https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DDMLjY8LULsk0S6",
+					"name": "페이스 찾아가는 중인 '사이'",
+					"id": 867205377707843600,
+					"id_str": "867205377707843585",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i2m6XwbIBp",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1658057",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 22 04:26:20 +0000 2018",
+			"id": 998782084880654300,
+			"id_str": "998782084880654336",
+			"text": "https://t.co/i2m6XwbIBp\n클립 스튜디오 반짝이 브러숴 곰팡이(??) 브러쉬\n여기 반짝이도 이쁘지만 뭣보다 곰팡이 브러쉬(전 그렇게 부름...)가 젤 이뻐요 \n뭔가 뾰로롱한 이뻐욜 https://t.co/VLu1sxxojh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i2m6XwbIBp",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1658057",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 998781751269834800,
+						"id_str": "998781751269834752",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DdxitgSUwAAL1LC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdxitgSUwAAL1LC.jpg",
+						"url": "https://t.co/VLu1sxxojh",
+						"display_url": "pic.twitter.com/VLu1sxxojh",
+						"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/998782084880654336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 410,
+								"h": 538,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 410,
+								"h": 538,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 410,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 998781751269834800,
+						"id_str": "998781751269834752",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DdxitgSUwAAL1LC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdxitgSUwAAL1LC.jpg",
+						"url": "https://t.co/VLu1sxxojh",
+						"display_url": "pic.twitter.com/VLu1sxxojh",
+						"expanded_url": "https://twitter.com/DDMLjY8LULsk0S6/status/998782084880654336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 410,
+								"h": 538,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 410,
+								"h": 538,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 410,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 997855193743085600,
+			"in_reply_to_status_id_str": "997855193743085568",
+			"in_reply_to_user_id": 867205377707843600,
+			"in_reply_to_user_id_str": "867205377707843585",
+			"in_reply_to_screen_name": "DDMLjY8LULsk0S6",
+			"user": {
+				"id": 867205377707843600,
+				"id_str": "867205377707843585",
+				"name": "페이스 찾아가는 중인 '사이'",
+				"screen_name": "DDMLjY8LULsk0S6",
+				"location": "",
+				"description": "페이스 찾는동안 좀 찌질함./\n잡덕 / 알람이 잘 안울려요ㅠ죄송합니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45,
+				"friends_count": 6,
+				"listed_count": 2,
+				"created_at": "Wed May 24 02:27:28 +0000 2017",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 216,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon May 28 10:12:32 +0000 2018",
+		"id": 1001043537167700000,
+		"id_str": "1001043537167699970",
+		"text": "RT @DDMLjY8LULsk0S6: https://t.co/VT0Ve7Tm7R\n반짝이 브러쉬, 반짝 브러쉬, 키라키라 브러쉬, ++브러쉬\n찾으시는분 많으시는데 웹툰 외에도 만화책에도 많이 쓰이는 브러쉬...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DDMLjY8LULsk0S6",
+					"name": "페이스 찾아가는 중인 '사이'",
+					"id": 867205377707843600,
+					"id_str": "867205377707843585",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VT0Ve7Tm7R",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1706032",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 21 12:04:03 +0000 2018",
+			"id": 998534885777199100,
+			"id_str": "998534885777199106",
+			"text": "https://t.co/VT0Ve7Tm7R\n반짝이 브러쉬, 반짝 브러쉬, 키라키라 브러쉬, ++브러쉬\n찾으시는분 많으시는데 웹툰 외에도 만화책에도 많이 쓰이는 브러쉬...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VT0Ve7Tm7R",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1706032",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 998533918423793700,
+			"in_reply_to_status_id_str": "998533918423793665",
+			"in_reply_to_user_id": 867205377707843600,
+			"in_reply_to_user_id_str": "867205377707843585",
+			"in_reply_to_screen_name": "DDMLjY8LULsk0S6",
+			"user": {
+				"id": 867205377707843600,
+				"id_str": "867205377707843585",
+				"name": "페이스 찾아가는 중인 '사이'",
+				"screen_name": "DDMLjY8LULsk0S6",
+				"location": "",
+				"description": "페이스 찾는동안 좀 찌질함./\n잡덕 / 알람이 잘 안울려요ㅠ죄송합니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45,
+				"friends_count": 6,
+				"listed_count": 2,
+				"created_at": "Wed May 24 02:27:28 +0000 2017",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 216,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965123467128455169/Bfz5mLEV_normal.jpg",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 239,
+			"favorite_count": 189,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 239,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon May 28 05:10:55 +0000 2018",
+		"id": 1000967632718258200,
+		"id_str": "1000967632718258176",
+		"text": "RT @s_____ToT_____s: 캐릭터 스탠딩 포즈 250\n\n*비상업적인 용도의 저장, 사용, 트레이싱 자유입니다.\n(커미션 신청할때-이 포즈로 그려주세요!는 가능/커미션 그릴때-이 포즈 트레해야지 불가)\n*골격 차이 약간 외에, 여/남자다운…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "s_____ToT_____s",
+					"name": "바단물 그림💘커미션",
+					"id": 760317180680417300,
+					"id_str": "760317180680417280",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": -36000,
+			"time_zone": "Hawaii",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			984425384157433900
+		],
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 13:59:50 +0000 2018",
+			"id": 988417164720783400,
+			"id_str": "988417164720783360",
+			"text": "캐릭터 스탠딩 포즈 250\n\n*비상업적인 용도의 저장, 사용, 트레이싱 자유입니다.\n(커미션 신청할때-이 포즈로 그려주세요!는 가능/커미션 그릴때-이 포즈 트레해야지 불가)\n*골격 차이 약간 외에, 여/남자… https://t.co/n7ZJ2dbUaS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n7ZJ2dbUaS",
+						"expanded_url": "https://twitter.com/i/web/status/988417164720783360",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760317180680417300,
+				"id_str": "760317180680417280",
+				"name": "바단물 그림💘커미션",
+				"screen_name": "s_____ToT_____s",
+				"location": "고양이입냄새",
+				"description": "본계  @z_____ToT_____z / 멘션스루 / 만화가져가지마세용 //",
+				"url": "https://t.co/Jr5AQ53KXZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Jr5AQ53KXZ",
+								"expanded_url": "http://blog.naver.com/c-_-8",
+								"display_url": "blog.naver.com/c-_-8",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13829,
+				"friends_count": 147,
+				"listed_count": 0,
+				"created_at": "Tue Aug 02 03:31:56 +0000 2016",
+				"favourites_count": 1574,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11316,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/997852091207962624/HnybsFRF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/997852091207962624/HnybsFRF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760317180680417280/1525272921",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8704,
+			"favorite_count": 7243,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8704,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun May 27 10:02:16 +0000 2018",
 		"id": 1000678566676197400,
 		"id_str": "1000678566676197376",
