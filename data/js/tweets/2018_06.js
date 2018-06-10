@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 09 06:23:04 +0000 2018",
+		"id": 1005334444071219200,
+		"id_str": "1005334444071219200",
+		"text": "RT @kurosuke033: 【血ブラシセットNo.2】発売しました。\nhttps://t.co/67ORVpCgYa https://t.co/Fj8jcTBuEu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kurosuke033",
+					"name": "くろすけ@漫画素材",
+					"id": 3375814393,
+					"id_str": "3375814393",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/67ORVpCgYa",
+					"expanded_url": "https://kurosuke033.booth.pm/items/894772",
+					"display_url": "kurosuke033.booth.pm/items/894772",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1005189026830344200,
+					"id_str": "1005189026830344194",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+					"url": "https://t.co/Fj8jcTBuEu",
+					"display_url": "pic.twitter.com/Fj8jcTBuEu",
+					"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005189172527882200,
+					"source_status_id_str": "1005189172527882241",
+					"source_user_id": 3375814393,
+					"source_user_id_str": "3375814393"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005189026830344200,
+					"id_str": "1005189026830344194",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+					"url": "https://t.co/Fj8jcTBuEu",
+					"display_url": "pic.twitter.com/Fj8jcTBuEu",
+					"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005189172527882200,
+					"source_status_id_str": "1005189172527882241",
+					"source_user_id": 3375814393,
+					"source_user_id_str": "3375814393"
+				},
+				{
+					"id": 1005189048602939400,
+					"id_str": "1005189048602939392",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DfMmHS4XUAAuWXM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfMmHS4XUAAuWXM.jpg",
+					"url": "https://t.co/Fj8jcTBuEu",
+					"display_url": "pic.twitter.com/Fj8jcTBuEu",
+					"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 761,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005189172527882200,
+					"source_status_id_str": "1005189172527882241",
+					"source_user_id": 3375814393,
+					"source_user_id_str": "3375814393"
+				},
+				{
+					"id": 1005189074091741200,
+					"id_str": "1005189074091741184",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DfMmIx1XkAA5j2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfMmIx1XkAA5j2f.jpg",
+					"url": "https://t.co/Fj8jcTBuEu",
+					"display_url": "pic.twitter.com/Fj8jcTBuEu",
+					"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005189172527882200,
+					"source_status_id_str": "1005189172527882241",
+					"source_user_id": 3375814393,
+					"source_user_id_str": "3375814393"
+				},
+				{
+					"id": 1005189084783038500,
+					"id_str": "1005189084783038465",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DfMmJZqX0AEciwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfMmJZqX0AEciwQ.jpg",
+					"url": "https://t.co/Fj8jcTBuEu",
+					"display_url": "pic.twitter.com/Fj8jcTBuEu",
+					"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 986,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1217,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005189172527882200,
+					"source_status_id_str": "1005189172527882241",
+					"source_user_id": 3375814393,
+					"source_user_id_str": "3375814393"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1532,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			984425384157433900
+		],
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 20:45:48 +0000 2018",
+			"id": 1005189172527882200,
+			"id_str": "1005189172527882241",
+			"text": "【血ブラシセットNo.2】発売しました。\nhttps://t.co/67ORVpCgYa https://t.co/Fj8jcTBuEu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/67ORVpCgYa",
+						"expanded_url": "https://kurosuke033.booth.pm/items/894772",
+						"display_url": "kurosuke033.booth.pm/items/894772",
+						"indices": [
+							21,
+							44
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1005189026830344200,
+						"id_str": "1005189026830344194",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+						"url": "https://t.co/Fj8jcTBuEu",
+						"display_url": "pic.twitter.com/Fj8jcTBuEu",
+						"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005189026830344200,
+						"id_str": "1005189026830344194",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfMmGBxX4AIAZOR.jpg",
+						"url": "https://t.co/Fj8jcTBuEu",
+						"display_url": "pic.twitter.com/Fj8jcTBuEu",
+						"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1005189048602939400,
+						"id_str": "1005189048602939392",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DfMmHS4XUAAuWXM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfMmHS4XUAAuWXM.jpg",
+						"url": "https://t.co/Fj8jcTBuEu",
+						"display_url": "pic.twitter.com/Fj8jcTBuEu",
+						"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 761,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1269,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1005189074091741200,
+						"id_str": "1005189074091741184",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DfMmIx1XkAA5j2f.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfMmIx1XkAA5j2f.jpg",
+						"url": "https://t.co/Fj8jcTBuEu",
+						"display_url": "pic.twitter.com/Fj8jcTBuEu",
+						"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 1414,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1005189084783038500,
+						"id_str": "1005189084783038465",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DfMmJZqX0AEciwQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfMmJZqX0AEciwQ.jpg",
+						"url": "https://t.co/Fj8jcTBuEu",
+						"display_url": "pic.twitter.com/Fj8jcTBuEu",
+						"expanded_url": "https://twitter.com/kurosuke033/status/1005189172527882241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 986,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1217,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3375814393,
+				"id_str": "3375814393",
+				"name": "くろすけ@漫画素材",
+				"screen_name": "kurosuke033",
+				"location": "",
+				"description": "漫画用背景素材を各サイトにて販売してます。　　　　　　 　　　　　　 【BOOTH】https://t.co/oTeD0X0OvT　【CLIP ASSETS】https://t.co/izQ70PUyeR            　　【背景倉庫】https://t.co/X47c4f0JwO",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oTeD0X0OvT",
+								"expanded_url": "https://kurosuke033.booth.pm/",
+								"display_url": "kurosuke033.booth.pm",
+								"indices": [
+									42,
+									65
+								]
+							},
+							{
+								"url": "https://t.co/izQ70PUyeR",
+								"expanded_url": "https://goo.gl/km80mf",
+								"display_url": "goo.gl/km80mf",
+								"indices": [
+									79,
+									102
+								]
+							},
+							{
+								"url": "https://t.co/X47c4f0JwO",
+								"expanded_url": "http://goo.gl/OYDyqp",
+								"display_url": "goo.gl/OYDyqp",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3698,
+				"friends_count": 2968,
+				"listed_count": 89,
+				"created_at": "Sat Aug 29 00:00:30 +0000 2015",
+				"favourites_count": 730,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 828,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944324975212630016/3LMIH461_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944324975212630016/3LMIH461_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3375814393/1469726124",
+				"profile_link_color": "8B4513",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2252,
+			"favorite_count": 3963,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2252,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sun Jun 03 18:19:46 +0000 2018",
 		"id": 1003340481177120800,
 		"id_str": "1003340481177120768",
