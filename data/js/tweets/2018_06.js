@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 18 10:10:28 +0000 2018",
+		"id": 1008653161677008900,
+		"id_str": "1008653161677008896",
+		"text": "RT @wwww8891: 에스크에 폰트 질문이 많이 들어와서..\n아예 한번에 정리해서 올립니다..\n이 이후로는 폰트 질문은 하지말아주세요 ^-^ https://t.co/pbAG2ZIySM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wwww8891",
+					"name": "-",
+					"id": 894888536079388700,
+					"id_str": "894888536079388674",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1008651746841784300,
+					"id_str": "1008651746841784320",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+					"url": "https://t.co/pbAG2ZIySM",
+					"display_url": "pic.twitter.com/pbAG2ZIySM",
+					"expanded_url": "https://twitter.com/wwww8891/status/1008651892975529986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1008651892975530000,
+					"source_status_id_str": "1008651892975529986",
+					"source_user_id": 894888536079388700,
+					"source_user_id_str": "894888536079388674"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1008651746841784300,
+					"id_str": "1008651746841784320",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+					"url": "https://t.co/pbAG2ZIySM",
+					"display_url": "pic.twitter.com/pbAG2ZIySM",
+					"expanded_url": "https://twitter.com/wwww8891/status/1008651892975529986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1008651892975530000,
+					"source_status_id_str": "1008651892975529986",
+					"source_user_id": 894888536079388700,
+					"source_user_id_str": "894888536079388674"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 3,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1536,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 18 10:05:25 +0000 2018",
+			"id": 1008651892975530000,
+			"id_str": "1008651892975529986",
+			"text": "에스크에 폰트 질문이 많이 들어와서..\n아예 한번에 정리해서 올립니다..\n이 이후로는 폰트 질문은 하지말아주세요 ^-^ https://t.co/pbAG2ZIySM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1008651746841784300,
+						"id_str": "1008651746841784320",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+						"url": "https://t.co/pbAG2ZIySM",
+						"display_url": "pic.twitter.com/pbAG2ZIySM",
+						"expanded_url": "https://twitter.com/wwww8891/status/1008651892975529986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 567,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1008651746841784300,
+						"id_str": "1008651746841784320",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Df9za3CU8AAKtjA.jpg",
+						"url": "https://t.co/pbAG2ZIySM",
+						"display_url": "pic.twitter.com/pbAG2ZIySM",
+						"expanded_url": "https://twitter.com/wwww8891/status/1008651892975529986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 567,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 894888536079388700,
+				"id_str": "894888536079388674",
+				"name": "-",
+				"screen_name": "wwww8891",
+				"location": "시작일 20170805",
+				"description": "https://t.co/0FDwGZHgwU",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0FDwGZHgwU",
+								"expanded_url": "http://twpf.jp/wwww8891",
+								"display_url": "twpf.jp/wwww8891",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10763,
+				"friends_count": 85,
+				"listed_count": 99,
+				"created_at": "Tue Aug 08 11:50:28 +0000 2017",
+				"favourites_count": 1589,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 151,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001179426397175808/6QlINddU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001179426397175808/6QlINddU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/894888536079388674/1513431476",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1770,
+			"favorite_count": 1310,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1770,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jun 17 08:07:38 +0000 2018",
 		"id": 1008259864160636900,
 		"id_str": "1008259864160636928",
