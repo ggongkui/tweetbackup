@@ -1,6 +1,850 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 23 07:13:53 +0000 2018",
+		"id": 1010420664220565500,
+		"id_str": "1010420664220565506",
+		"text": "RT @noah1773: https://t.co/3hbihiJN02\n원고하다 필요해져서 나비 브러쉬 만들었어요! 마음껏 쓰시자 https://t.co/YGsDRGWthz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noah1773",
+					"name": "마감의 노예",
+					"id": 912718707813576700,
+					"id_str": "912718707813576704",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3hbihiJN02",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1716238",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1010202639722733600,
+					"id_str": "1010202639722733568",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+					"url": "https://t.co/YGsDRGWthz",
+					"display_url": "pic.twitter.com/YGsDRGWthz",
+					"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1050,
+							"h": 755,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 755,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010203059392135200,
+					"source_status_id_str": "1010203059392135173",
+					"source_user_id": 912718707813576700,
+					"source_user_id_str": "912718707813576704"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010202639722733600,
+					"id_str": "1010202639722733568",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+					"url": "https://t.co/YGsDRGWthz",
+					"display_url": "pic.twitter.com/YGsDRGWthz",
+					"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1050,
+							"h": 755,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 755,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010203059392135200,
+					"source_status_id_str": "1010203059392135173",
+					"source_user_id": 912718707813576700,
+					"source_user_id_str": "912718707813576704"
+				},
+				{
+					"id": 1010202693447532500,
+					"id_str": "1010202693447532544",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DgT1_1YVQAA0VRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgT1_1YVQAA0VRM.jpg",
+					"url": "https://t.co/YGsDRGWthz",
+					"display_url": "pic.twitter.com/YGsDRGWthz",
+					"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1186,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1186,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010203059392135200,
+					"source_status_id_str": "1010203059392135173",
+					"source_user_id": 912718707813576700,
+					"source_user_id_str": "912718707813576704"
+				},
+				{
+					"id": 1010202980165926900,
+					"id_str": "1010202980165926913",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DgT2QhfUwAEOWxC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgT2QhfUwAEOWxC.jpg",
+					"url": "https://t.co/YGsDRGWthz",
+					"display_url": "pic.twitter.com/YGsDRGWthz",
+					"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 877,
+							"h": 1235,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010203059392135200,
+					"source_status_id_str": "1010203059392135173",
+					"source_user_id": 912718707813576700,
+					"source_user_id_str": "912718707813576704"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1539,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 22 16:49:12 +0000 2018",
+			"id": 1010203059392135200,
+			"id_str": "1010203059392135173",
+			"text": "https://t.co/3hbihiJN02\n원고하다 필요해져서 나비 브러쉬 만들었어요! 마음껏 쓰시자 https://t.co/YGsDRGWthz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3hbihiJN02",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1716238",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1010202639722733600,
+						"id_str": "1010202639722733568",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+						"url": "https://t.co/YGsDRGWthz",
+						"display_url": "pic.twitter.com/YGsDRGWthz",
+						"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1050,
+								"h": 755,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 755,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010202639722733600,
+						"id_str": "1010202639722733568",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgT18tPV4AAI4RV.jpg",
+						"url": "https://t.co/YGsDRGWthz",
+						"display_url": "pic.twitter.com/YGsDRGWthz",
+						"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1050,
+								"h": 755,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 755,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1010202693447532500,
+						"id_str": "1010202693447532544",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DgT1_1YVQAA0VRM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgT1_1YVQAA0VRM.jpg",
+						"url": "https://t.co/YGsDRGWthz",
+						"display_url": "pic.twitter.com/YGsDRGWthz",
+						"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1186,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 440,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1186,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1010202980165926900,
+						"id_str": "1010202980165926913",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DgT2QhfUwAEOWxC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgT2QhfUwAEOWxC.jpg",
+						"url": "https://t.co/YGsDRGWthz",
+						"display_url": "pic.twitter.com/YGsDRGWthz",
+						"expanded_url": "https://twitter.com/noah1773/status/1010203059392135173/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 483,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 877,
+								"h": 1235,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 852,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912718707813576700,
+				"id_str": "912718707813576704",
+				"name": "마감의 노예",
+				"screen_name": "noah1773",
+				"location": "",
+				"description": "오소마츠상 위주/성인/그림러/속도, 색 위주 지뢰없는 올라운더/이별은 블언블/멘션스루 고의×/구독많이해요 에스크: https://t.co/Wc0mOV6nlu 헤더 소얌!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Wc0mOV6nlu",
+								"expanded_url": "http://ask.fm/noah1773",
+								"display_url": "ask.fm/noah1773",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1846,
+				"friends_count": 158,
+				"listed_count": 1,
+				"created_at": "Tue Sep 26 16:41:12 +0000 2017",
+				"favourites_count": 16724,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5830,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002964108373778432/SNoRIhBm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002964108373778432/SNoRIhBm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912718707813576704/1526969943",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2225,
+			"favorite_count": 1952,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2225,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 23 05:06:42 +0000 2018",
+		"id": 1010388658090750000,
+		"id_str": "1010388658090749952",
+		"text": "RT @deltavega2222: 던전밥 만화... https://t.co/VD8uTiCssm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deltavega2222",
+					"name": "묄",
+					"id": 3307922971,
+					"id_str": "3307922971",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984493899652591600,
+					"id_str": "984493899652591616",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+					"url": "https://t.co/VD8uTiCssm",
+					"display_url": "pic.twitter.com/VD8uTiCssm",
+					"expanded_url": "https://twitter.com/deltavega2222/status/984494101373448192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984494101373448200,
+					"source_status_id_str": "984494101373448192",
+					"source_user_id": 3307922971,
+					"source_user_id_str": "3307922971"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984493899652591600,
+					"id_str": "984493899652591616",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+					"url": "https://t.co/VD8uTiCssm",
+					"display_url": "pic.twitter.com/VD8uTiCssm",
+					"expanded_url": "https://twitter.com/deltavega2222/status/984494101373448192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984494101373448200,
+					"source_status_id_str": "984494101373448192",
+					"source_user_id": 3307922971,
+					"source_user_id_str": "3307922971"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1539,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 12 18:10:59 +0000 2018",
+			"id": 984494101373448200,
+			"id_str": "984494101373448192",
+			"text": "던전밥 만화... https://t.co/VD8uTiCssm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984493899652591600,
+						"id_str": "984493899652591616",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+						"url": "https://t.co/VD8uTiCssm",
+						"display_url": "pic.twitter.com/VD8uTiCssm",
+						"expanded_url": "https://twitter.com/deltavega2222/status/984494101373448192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984493899652591600,
+						"id_str": "984493899652591616",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
+						"url": "https://t.co/VD8uTiCssm",
+						"display_url": "pic.twitter.com/VD8uTiCssm",
+						"expanded_url": "https://twitter.com/deltavega2222/status/984494101373448192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3307922971,
+				"id_str": "3307922971",
+				"name": "묄",
+				"screen_name": "deltavega2222",
+				"location": "",
+				"description": "판단력을상실한사람",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2387,
+				"friends_count": 64,
+				"listed_count": 25,
+				"created_at": "Thu Aug 06 14:30:28 +0000 2015",
+				"favourites_count": 3894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7511,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009366634031558656/c9tL8Qbl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009366634031558656/c9tL8Qbl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3307922971/1528286250",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 881,
+			"favorite_count": 551,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 881,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jun 21 04:33:33 +0000 2018",
 		"id": 1009655539574308900,
 		"id_str": "1009655539574308866",
