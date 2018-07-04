@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 03 10:22:12 +0000 2018",
+		"id": 1014091933151424500,
+		"id_str": "1014091933151424512",
+		"text": "https://t.co/7whwJIkm19",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7whwJIkm19",
+					"expanded_url": "https://twitter.com/tadongsa/status/1013427212622557186",
+					"display_url": "twitter.com/tadongsa/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			984425384157433900
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 1013427212622557200,
+		"quoted_status_id_str": "1013427212622557186",
+		"quoted_status": {
+			"created_at": "Sun Jul 01 14:20:50 +0000 2018",
+			"id": 1013427212622557200,
+			"id_str": "1013427212622557186",
+			"text": "클튜 ex쓰시는분들 원고 시작하기전에 도이트님 포스팅 한번 정독하고 작업하시기...진짜 한번 읽고나서 작업하면 속도가 증맬 빨라지거든요...(너무편함) 방치하고 있었던 페이지 매니지먼트 기능너무 잘쓰고잇음,… https://t.co/4SaNn0jTAX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4SaNn0jTAX",
+						"expanded_url": "https://twitter.com/i/web/status/1013427212622557186",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 775925869,
+				"id_str": "775925869",
+				"name": "(★긴급호출메인트★)감나무 Gamnamu",
+				"screen_name": "tadongsa",
+				"location": "웹사이트는 리퀘박스지요",
+				"description": "[자네/바디] 1차창작/커뮤/ 레벅 2D&3D/콘레보/사이쿠스/잡덕/알티&구독위주/헤더:진님!/프로필:제로님 /작업계: @wkrdjqrP/ *디엠&멘션 잘 놓칩니다.  중요한건 메일로 systemina@naver.com\n당분간 이쪽@saiki_kusgam이 빠릅니다",
+				"url": "https://t.co/U10b21bgcn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U10b21bgcn",
+								"expanded_url": "http://naver.me/xk4mBMGZ",
+								"display_url": "naver.me/xk4mBMGZ",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3811,
+				"friends_count": 1637,
+				"listed_count": 32,
+				"created_at": "Thu Aug 23 13:04:05 +0000 2012",
+				"favourites_count": 31813,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 198084,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001452554314694656/CiFbO4S-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001452554314694656/CiFbO4S-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/775925869/1529223678",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5836,
+			"favorite_count": 4698,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Jul 01 15:14:57 +0000 2018",
 		"id": 1013440829313069000,
 		"id_str": "1013440829313069058",
