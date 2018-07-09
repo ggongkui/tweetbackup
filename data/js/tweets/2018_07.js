@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 08 16:53:36 +0000 2018",
+		"id": 1016002370688303100,
+		"id_str": "1016002370688303105",
+		"text": "RT @NoUV5vJ4STtgC9N: 경위님뒤로 한걸음뽀짝로이드 코너 넘 겹다 렬로  。진지해서 큰점찍엇다。 https://t.co/uYquWU4tPA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoUV5vJ4STtgC9N",
+					"name": "⭕코너800남",
+					"id": 1014117669975482400,
+					"id_str": "1014117669975482368",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015995060075225100,
+					"id_str": "1015995060075225091",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+					"url": "https://t.co/uYquWU4tPA",
+					"display_url": "pic.twitter.com/uYquWU4tPA",
+					"expanded_url": "https://twitter.com/NoUV5vJ4STtgC9N/status/1015995467904180224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1036,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015995467904180200,
+					"source_status_id_str": "1015995467904180224",
+					"source_user_id": 1014117669975482400,
+					"source_user_id_str": "1014117669975482368"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015995060075225100,
+					"id_str": "1015995060075225091",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+					"url": "https://t.co/uYquWU4tPA",
+					"display_url": "pic.twitter.com/uYquWU4tPA",
+					"expanded_url": "https://twitter.com/NoUV5vJ4STtgC9N/status/1015995467904180224/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1036,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015995467904180200,
+					"source_status_id_str": "1015995467904180224",
+					"source_user_id": 1014117669975482400,
+					"source_user_id_str": "1014117669975482368",
+					"video_info": {
+						"aspect_ratio": [
+							275,
+							259
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DhmKH8lV4AMC-Gh.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1540,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 16:26:10 +0000 2018",
+			"id": 1015995467904180200,
+			"id_str": "1015995467904180224",
+			"text": "경위님뒤로 한걸음뽀짝로이드 코너 넘 겹다 렬로  。진지해서 큰점찍엇다。 https://t.co/uYquWU4tPA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015995060075225100,
+						"id_str": "1015995060075225091",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+						"url": "https://t.co/uYquWU4tPA",
+						"display_url": "pic.twitter.com/uYquWU4tPA",
+						"expanded_url": "https://twitter.com/NoUV5vJ4STtgC9N/status/1015995467904180224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1100,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 1036,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015995060075225100,
+						"id_str": "1015995060075225091",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DhmKH8lV4AMC-Gh.jpg",
+						"url": "https://t.co/uYquWU4tPA",
+						"display_url": "pic.twitter.com/uYquWU4tPA",
+						"expanded_url": "https://twitter.com/NoUV5vJ4STtgC9N/status/1015995467904180224/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1100,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 1036,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								275,
+								259
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DhmKH8lV4AMC-Gh.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1014117669975482400,
+				"id_str": "1014117669975482368",
+				"name": "⭕코너800남",
+				"screen_name": "NoUV5vJ4STtgC9N",
+				"location": "",
+				"description": "38년생/남자/183cm/바텀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 4,
+				"listed_count": 0,
+				"created_at": "Tue Jul 03 12:04:28 +0000 2018",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 61,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1014164492333170690/fzVACjtn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014164492333170690/fzVACjtn_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 234,
+			"favorite_count": 429,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jul 08 08:26:03 +0000 2018",
+		"id": 1015874641825448000,
+		"id_str": "1015874641825447937",
+		"text": "RT @DAM_DAM_0: 이걸 누가몰라? 같은 클튜의 짜잘한 팁을 올리는 타래\n마감 하기 싫을때 간간히 올림 https://t.co/2W5UhwLC1h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DAM_DAM_0",
+					"name": "🌠MC. DODAM🌠",
+					"id": 3760798519,
+					"id_str": "3760798519",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 991294245431464000,
+					"id_str": "991294245431463938",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+					"url": "https://t.co/2W5UhwLC1h",
+					"display_url": "pic.twitter.com/2W5UhwLC1h",
+					"expanded_url": "https://twitter.com/DAM_DAM_0/status/991294544384737281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991294544384737300,
+					"source_status_id_str": "991294544384737281",
+					"source_user_id": 3760798519,
+					"source_user_id_str": "3760798519"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 991294245431464000,
+					"id_str": "991294245431463938",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+					"url": "https://t.co/2W5UhwLC1h",
+					"display_url": "pic.twitter.com/2W5UhwLC1h",
+					"expanded_url": "https://twitter.com/DAM_DAM_0/status/991294544384737281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991294544384737300,
+					"source_status_id_str": "991294544384737281",
+					"source_user_id": 3760798519,
+					"source_user_id_str": "3760798519"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1540,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			984425384157433900
+		],
+		"retweeted_status": {
+			"created_at": "Tue May 01 12:33:31 +0000 2018",
+			"id": 991294544384737300,
+			"id_str": "991294544384737281",
+			"text": "이걸 누가몰라? 같은 클튜의 짜잘한 팁을 올리는 타래\n마감 하기 싫을때 간간히 올림 https://t.co/2W5UhwLC1h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 991294245431464000,
+						"id_str": "991294245431463938",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+						"url": "https://t.co/2W5UhwLC1h",
+						"display_url": "pic.twitter.com/2W5UhwLC1h",
+						"expanded_url": "https://twitter.com/DAM_DAM_0/status/991294544384737281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 991294245431464000,
+						"id_str": "991294245431463938",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcHI3TbU0AIg1r9.jpg",
+						"url": "https://t.co/2W5UhwLC1h",
+						"display_url": "pic.twitter.com/2W5UhwLC1h",
+						"expanded_url": "https://twitter.com/DAM_DAM_0/status/991294544384737281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3760798519,
+				"id_str": "3760798519",
+				"name": "🌠MC. DODAM🌠",
+				"screen_name": "DAM_DAM_0",
+				"location": "스포, 사담 많음. 알티는 뮤트. 팔로하면 저랑 저댄해야함",
+				"description": "🍾오늘부터 덕계🎤 신주쿠에서 칵테일 병나발 불며 마감중 @DAMI__0 ☜본계",
+				"url": "https://t.co/UlQwdhFfZq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UlQwdhFfZq",
+								"expanded_url": "http://twpf.jp/DAM_DAM_0",
+								"display_url": "twpf.jp/DAM_DAM_0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6035,
+				"friends_count": 102,
+				"listed_count": 97,
+				"created_at": "Fri Oct 02 16:30:07 +0000 2015",
+				"favourites_count": 6325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7442,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D8D8D8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015525362996948992/Jts1nqSv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015525362996948992/Jts1nqSv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3760798519/1531070249",
+				"profile_link_color": "CC3146",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12165,
+			"favorite_count": 8660,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12165,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jul 05 10:00:48 +0000 2018",
 		"id": 1014811322079297500,
 		"id_str": "1014811322079297539",
