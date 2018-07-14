@@ -1,6 +1,1103 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 13 17:29:02 +0000 2018",
+		"id": 1017823226104201200,
+		"id_str": "1017823226104201216",
+		"text": "https://t.co/gntA9u12gk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gntA9u12gk",
+					"expanded_url": "https://twitter.com/DAM_DAM_0/status/997835100514533377",
+					"display_url": "twitter.com/DAM_DAM_0/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1543,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			984425384157433900
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 997835100514533400,
+		"quoted_status_id_str": "997835100514533377",
+		"quoted_status": {
+			"created_at": "Sat May 19 13:43:21 +0000 2018",
+			"id": 997835100514533400,
+			"id_str": "997835100514533377",
+			"text": "7. [집중선 만들기]\n캔버스 사이즈에 맞게 브러쉬 사이즈를 바꿔야 제대로된게 나옵니다.. 클튜는 잘못하지 않았다 다시 설정해주어야한다.. https://t.co/2hGVaBdABD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 997834769256742900,
+						"id_str": "997834769256742913",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DdkFb5YVAAEKyMF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdkFb5YVAAEKyMF.jpg",
+						"url": "https://t.co/2hGVaBdABD",
+						"display_url": "pic.twitter.com/2hGVaBdABD",
+						"expanded_url": "https://twitter.com/DAM_DAM_0/status/997835100514533377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 811,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997834769256742900,
+						"id_str": "997834769256742913",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DdkFb5YVAAEKyMF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdkFb5YVAAEKyMF.jpg",
+						"url": "https://t.co/2hGVaBdABD",
+						"display_url": "pic.twitter.com/2hGVaBdABD",
+						"expanded_url": "https://twitter.com/DAM_DAM_0/status/997835100514533377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 811,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 811,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 997834864761102300,
+						"id_str": "997834864761102336",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DdkFhdKV4AAQHHI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DdkFhdKV4AAQHHI.jpg",
+						"url": "https://t.co/2hGVaBdABD",
+						"display_url": "pic.twitter.com/2hGVaBdABD",
+						"expanded_url": "https://twitter.com/DAM_DAM_0/status/997835100514533377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 390,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 991294544384737300,
+			"in_reply_to_status_id_str": "991294544384737281",
+			"in_reply_to_user_id": 3760798519,
+			"in_reply_to_user_id_str": "3760798519",
+			"in_reply_to_screen_name": "DAM_DAM_0",
+			"user": {
+				"id": 3760798519,
+				"id_str": "3760798519",
+				"name": "🌠MC. DODAM🌠",
+				"screen_name": "DAM_DAM_0",
+				"location": "스포, 사담 많음. 알티는 뮤트. 팔로하면 저랑 저댄해야함",
+				"description": "🍾오늘부터 덕계🎤 신주쿠에서 칵테일 병나발 불며 마감중 @DAMI__0 ☜본계",
+				"url": "https://t.co/UlQwdhFfZq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UlQwdhFfZq",
+								"expanded_url": "http://twpf.jp/DAM_DAM_0",
+								"display_url": "twpf.jp/DAM_DAM_0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6038,
+				"friends_count": 109,
+				"listed_count": 100,
+				"created_at": "Fri Oct 02 16:30:07 +0000 2015",
+				"favourites_count": 6332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7553,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D8D8D8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015525362996948992/Jts1nqSv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015525362996948992/Jts1nqSv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3760798519/1531070249",
+				"profile_link_color": "CC3146",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 375,
+			"favorite_count": 333,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Jul 13 05:55:52 +0000 2018",
+		"id": 1017648787878117400,
+		"id_str": "1017648787878117376",
+		"text": "RT @Irene_heyum: 우체국 택배 방문(다량) 접수하기\nhttps://t.co/cqYb11qZnq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Irene_heyum",
+					"name": "이렌느",
+					"id": 801393386427019300,
+					"id_str": "801393386427019264",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cqYb11qZnq",
+					"expanded_url": "http://oasisinfo.tistory.com/m/21",
+					"display_url": "oasisinfo.tistory.com/m/21",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1543,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 17:32:26 +0000 2017",
+			"id": 910194887034728400,
+			"id_str": "910194887034728448",
+			"text": "우체국 택배 방문(다량) 접수하기\nhttps://t.co/cqYb11qZnq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cqYb11qZnq",
+						"expanded_url": "http://oasisinfo.tistory.com/m/21",
+						"display_url": "oasisinfo.tistory.com/m/21",
+						"indices": [
+							19,
+							42
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 910182300687544300,
+			"in_reply_to_status_id_str": "910182300687544320",
+			"in_reply_to_user_id": 801393386427019300,
+			"in_reply_to_user_id_str": "801393386427019264",
+			"in_reply_to_screen_name": "Irene_heyum",
+			"user": {
+				"id": 801393386427019300,
+				"id_str": "801393386427019264",
+				"name": "이렌느",
+				"screen_name": "Irene_heyum",
+				"location": "",
+				"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+				"url": "https://t.co/ZgK4l1kvTn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZgK4l1kvTn",
+								"expanded_url": "http://cielhero-heyum.postype.com/",
+								"display_url": "cielhero-heyum.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 185,
+				"friends_count": 720,
+				"listed_count": 1,
+				"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+				"favourites_count": 95257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 142050,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jul 13 05:55:44 +0000 2018",
+		"id": 1017648755531640800,
+		"id_str": "1017648755531640833",
+		"text": "RT @Irene_heyum: 통판시 주의 사항\nhttps://t.co/FnE5fefIHM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Irene_heyum",
+					"name": "이렌느",
+					"id": 801393386427019300,
+					"id_str": "801393386427019264",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FnE5fefIHM",
+					"expanded_url": "http://blog.naver.com/woal14/220289795522",
+					"display_url": "blog.naver.com/woal14/2202897…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1543,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 17:19:29 +0000 2017",
+			"id": 910191627259355100,
+			"id_str": "910191627259355136",
+			"text": "통판시 주의 사항\nhttps://t.co/FnE5fefIHM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FnE5fefIHM",
+						"expanded_url": "http://blog.naver.com/woal14/220289795522",
+						"display_url": "blog.naver.com/woal14/2202897…",
+						"indices": [
+							10,
+							33
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 910182300687544300,
+			"in_reply_to_status_id_str": "910182300687544320",
+			"in_reply_to_user_id": 801393386427019300,
+			"in_reply_to_user_id_str": "801393386427019264",
+			"in_reply_to_screen_name": "Irene_heyum",
+			"user": {
+				"id": 801393386427019300,
+				"id_str": "801393386427019264",
+				"name": "이렌느",
+				"screen_name": "Irene_heyum",
+				"location": "",
+				"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+				"url": "https://t.co/ZgK4l1kvTn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZgK4l1kvTn",
+								"expanded_url": "http://cielhero-heyum.postype.com/",
+								"display_url": "cielhero-heyum.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 185,
+				"friends_count": 720,
+				"listed_count": 1,
+				"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+				"favourites_count": 95257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 142050,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jul 13 05:55:28 +0000 2018",
+		"id": 1017648685029576700,
+		"id_str": "1017648685029576704",
+		"text": "RT @Irene_heyum: 엑셀을 통한 우편번호 라벨 인쇄하기\nhttps://t.co/NNJfdVNxxa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Irene_heyum",
+					"name": "이렌느",
+					"id": 801393386427019300,
+					"id_str": "801393386427019264",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NNJfdVNxxa",
+					"expanded_url": "http://blog.daum.net/gubagsa/14837750",
+					"display_url": "blog.daum.net/gubagsa/148377…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1543,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 17:16:25 +0000 2017",
+			"id": 910190856195383300,
+			"id_str": "910190856195383296",
+			"text": "엑셀을 통한 우편번호 라벨 인쇄하기\nhttps://t.co/NNJfdVNxxa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NNJfdVNxxa",
+						"expanded_url": "http://blog.daum.net/gubagsa/14837750",
+						"display_url": "blog.daum.net/gubagsa/148377…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 910182300687544300,
+			"in_reply_to_status_id_str": "910182300687544320",
+			"in_reply_to_user_id": 801393386427019300,
+			"in_reply_to_user_id_str": "801393386427019264",
+			"in_reply_to_screen_name": "Irene_heyum",
+			"user": {
+				"id": 801393386427019300,
+				"id_str": "801393386427019264",
+				"name": "이렌느",
+				"screen_name": "Irene_heyum",
+				"location": "",
+				"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+				"url": "https://t.co/ZgK4l1kvTn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZgK4l1kvTn",
+								"expanded_url": "http://cielhero-heyum.postype.com/",
+								"display_url": "cielhero-heyum.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 185,
+				"friends_count": 720,
+				"listed_count": 1,
+				"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+				"favourites_count": 95257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 142050,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jul 13 05:55:16 +0000 2018",
+		"id": 1017648638044995600,
+		"id_str": "1017648638044995585",
+		"text": "RT @Irene_heyum: 통판을 위한 메일 여러개 보내기\nhttps://t.co/mNalHFWmo0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Irene_heyum",
+					"name": "이렌느",
+					"id": 801393386427019300,
+					"id_str": "801393386427019264",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mNalHFWmo0",
+					"expanded_url": "http://nunee-data.tistory.com/m/3",
+					"display_url": "nunee-data.tistory.com/m/3",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1543,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 17:02:52 +0000 2017",
+			"id": 910187448386256900,
+			"id_str": "910187448386256896",
+			"text": "통판을 위한 메일 여러개 보내기\nhttps://t.co/mNalHFWmo0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mNalHFWmo0",
+						"expanded_url": "http://nunee-data.tistory.com/m/3",
+						"display_url": "nunee-data.tistory.com/m/3",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 910182300687544300,
+			"in_reply_to_status_id_str": "910182300687544320",
+			"in_reply_to_user_id": 801393386427019300,
+			"in_reply_to_user_id_str": "801393386427019264",
+			"in_reply_to_screen_name": "Irene_heyum",
+			"user": {
+				"id": 801393386427019300,
+				"id_str": "801393386427019264",
+				"name": "이렌느",
+				"screen_name": "Irene_heyum",
+				"location": "",
+				"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+				"url": "https://t.co/ZgK4l1kvTn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZgK4l1kvTn",
+								"expanded_url": "http://cielhero-heyum.postype.com/",
+								"display_url": "cielhero-heyum.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 185,
+				"friends_count": 720,
+				"listed_count": 1,
+				"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+				"favourites_count": 95257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 142050,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jul 08 16:53:36 +0000 2018",
 		"id": 1016002370688303100,
 		"id_str": "1016002370688303105",
