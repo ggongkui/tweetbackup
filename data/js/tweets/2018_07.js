@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 17 03:00:24 +0000 2018",
+		"id": 1019054180965670900,
+		"id_str": "1019054180965670914",
+		"text": "RT @GGGGma: 폭발 브러쉬 업로드 했습니다... 시험삼아 만든 무료 브러쉬 수준이니 가볍게 써주세욤😀\n \n爆発セット by gumama https://t.co/pXVKcWVvq2 https://t.co/7iqQzK1IMh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GGGGma",
+					"name": "구마 o0(피가 끓어오르는군)",
+					"id": 484618201,
+					"id_str": "484618201",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pXVKcWVvq2",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1718073",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1018904354189860900,
+					"id_str": "1018904354189860864",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+					"url": "https://t.co/7iqQzK1IMh",
+					"display_url": "pic.twitter.com/7iqQzK1IMh",
+					"expanded_url": "https://twitter.com/GGGGma/status/1018904835737845761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018904835737845800,
+					"source_status_id_str": "1018904835737845761",
+					"source_user_id": 484618201,
+					"source_user_id_str": "484618201"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1018904354189860900,
+					"id_str": "1018904354189860864",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+					"url": "https://t.co/7iqQzK1IMh",
+					"display_url": "pic.twitter.com/7iqQzK1IMh",
+					"expanded_url": "https://twitter.com/GGGGma/status/1018904835737845761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018904835737845800,
+					"source_status_id_str": "1018904835737845761",
+					"source_user_id": 484618201,
+					"source_user_id_str": "484618201"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1542,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 16 17:06:57 +0000 2018",
+			"id": 1018904835737845800,
+			"id_str": "1018904835737845761",
+			"text": "폭발 브러쉬 업로드 했습니다... 시험삼아 만든 무료 브러쉬 수준이니 가볍게 써주세욤😀\n \n爆発セット by gumama https://t.co/pXVKcWVvq2 https://t.co/7iqQzK1IMh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pXVKcWVvq2",
+						"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1718073",
+						"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1018904354189860900,
+						"id_str": "1018904354189860864",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+						"url": "https://t.co/7iqQzK1IMh",
+						"display_url": "pic.twitter.com/7iqQzK1IMh",
+						"expanded_url": "https://twitter.com/GGGGma/status/1018904835737845761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1018904354189860900,
+						"id_str": "1018904354189860864",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiPgHJuV4AAMdV9.jpg",
+						"url": "https://t.co/7iqQzK1IMh",
+						"display_url": "pic.twitter.com/7iqQzK1IMh",
+						"expanded_url": "https://twitter.com/GGGGma/status/1018904835737845761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 630,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 484618201,
+				"id_str": "484618201",
+				"name": "구마 o0(피가 끓어오르는군)",
+				"screen_name": "GGGGma",
+				"location": "프사 헤더 골드맘님 ^ ^",
+				"description": "저예요.\n제 탐라는 제거라서 팔로와 언팔이 쌍방 자유로워요.",
+				"url": "https://t.co/1sRq6YljWO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1sRq6YljWO",
+								"expanded_url": "http://dreameat.byus.net",
+								"display_url": "dreameat.byus.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 807,
+				"friends_count": 158,
+				"listed_count": 21,
+				"created_at": "Mon Feb 06 09:35:30 +0000 2012",
+				"favourites_count": 2239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5001,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008613529593700353/BytDPMnO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008613529593700353/BytDPMnO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/484618201/1529299362",
+				"profile_link_color": "4D3DA6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1769,
+			"favorite_count": 1402,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1769,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Jul 13 17:29:02 +0000 2018",
 		"id": 1017823226104201200,
 		"id_str": "1017823226104201216",
