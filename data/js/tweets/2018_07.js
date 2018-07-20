@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 19 10:13:26 +0000 2018",
+		"id": 1019887934126710800,
+		"id_str": "1019887934126710784",
+		"text": "RT @SH_rlapf: 굉장히 희귀한 영상입니다. \n#SaveShadowhunters \n촬영 - 맷\n노래 - 돔\n댄스 - 해리\n#PickUpShadowhunters\n맷돔슘이 함께한....?\n그나저나 돔 목소리 좋네요 ㅜ https://t.co/MD…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SaveShadowhunters",
+					"indices": [
+						30,
+						48
+					]
+				},
+				{
+					"text": "PickUpShadowhunters",
+					"indices": [
+						72,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SH_rlapf",
+					"name": "SH_기멜",
+					"id": 995131861285290000,
+					"id_str": "995131861285289984",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1544,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 19 10:13:09 +0000 2018",
+			"id": 1019887863511461900,
+			"id_str": "1019887863511461889",
+			"text": "굉장히 희귀한 영상입니다. \n#SaveShadowhunters \n촬영 - 맷\n노래 - 돔\n댄스 - 해리\n#PickUpShadowhunters\n맷돔슘이 함께한....?\n그나저나 돔 목소리 좋네요 ㅜ https://t.co/MDDIoblzKe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SaveShadowhunters",
+						"indices": [
+							16,
+							34
+						]
+					},
+					{
+						"text": "PickUpShadowhunters",
+						"indices": [
+							58,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1019887822042423300,
+						"id_str": "1019887822042423296",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1019887822042423296/pu/img/4TXCRR2Yqb71JieZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1019887822042423296/pu/img/4TXCRR2Yqb71JieZ.jpg",
+						"url": "https://t.co/MDDIoblzKe",
+						"display_url": "pic.twitter.com/MDDIoblzKe",
+						"expanded_url": "https://twitter.com/SH_rlapf/status/1019887863511461889/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019887822042423300,
+						"id_str": "1019887822042423296",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1019887822042423296/pu/img/4TXCRR2Yqb71JieZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1019887822042423296/pu/img/4TXCRR2Yqb71JieZ.jpg",
+						"url": "https://t.co/MDDIoblzKe",
+						"display_url": "pic.twitter.com/MDDIoblzKe",
+						"expanded_url": "https://twitter.com/SH_rlapf/status/1019887863511461889/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 464,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								213,
+								116
+							],
+							"duration_millis": 13300,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1019887822042423296/pu/vid/330x180/JlhlW7SoIa3osoWo.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1019887822042423296/pu/vid/660x360/4LRCDVi5READIdrO.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1019887822042423296/pu/pl/melonHrbRYLlew14.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 995131861285290000,
+				"id_str": "995131861285289984",
+				"name": "SH_기멜",
+				"screen_name": "SH_rlapf",
+				"location": "",
+				"description": "말렉(알렉매그)/맷슘/해리 셤 주니어 😀FUB FREE😀\n헤더아트-아쥬르님",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 417,
+				"friends_count": 232,
+				"listed_count": 1,
+				"created_at": "Sat May 12 02:41:39 +0000 2018",
+				"favourites_count": 2337,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10325,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/995133942658301952/Lzs5CN6g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/995133942658301952/Lzs5CN6g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/995131861285289984/1531990812",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 190,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jul 18 07:45:37 +0000 2018",
 		"id": 1019488344823115800,
 		"id_str": "1019488344823115776",
