@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 27 08:33:19 +0000 2018",
+		"id": 1022761839594070000,
+		"id_str": "1022761839594070016",
+		"text": "RT @skyhope_j: 샘들 이운동하세요,,땅끄부부 유산소30분짜리 운동입니다,,1년전에 급하게 살뺄일이있어 2주일했는데 8키로빠졌었어요,,요즘 살너무많이쪄서 다시 시작하려고여🙌🏻🙌🏻효과는 보장해요 짱짱 https://t.co/Vvw8OpYLkl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "skyhope_j",
+					"name": "ﾟ･*:.｡우연*:ﾟ･♡",
+					"id": 914926842108186600,
+					"id_str": "914926842108186624",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022452128697081900,
+					"id_str": "1022452128697081856",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+					"url": "https://t.co/Vvw8OpYLkl",
+					"display_url": "pic.twitter.com/Vvw8OpYLkl",
+					"expanded_url": "https://twitter.com/skyhope_j/status/1022452135873589248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 274,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022452135873589200,
+					"source_status_id_str": "1022452135873589248",
+					"source_user_id": 914926842108186600,
+					"source_user_id_str": "914926842108186624"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022452128697081900,
+					"id_str": "1022452128697081856",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+					"url": "https://t.co/Vvw8OpYLkl",
+					"display_url": "pic.twitter.com/Vvw8OpYLkl",
+					"expanded_url": "https://twitter.com/skyhope_j/status/1022452135873589248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 274,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022452135873589200,
+					"source_status_id_str": "1022452135873589248",
+					"source_user_id": 914926842108186600,
+					"source_user_id_str": "914926842108186624"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1542,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 26 12:02:40 +0000 2018",
+			"id": 1022452135873589200,
+			"id_str": "1022452135873589248",
+			"text": "샘들 이운동하세요,,땅끄부부 유산소30분짜리 운동입니다,,1년전에 급하게 살뺄일이있어 2주일했는데 8키로빠졌었어요,,요즘 살너무많이쪄서 다시 시작하려고여🙌🏻🙌🏻효과는 보장해요 짱짱 https://t.co/Vvw8OpYLkl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1022452128697081900,
+						"id_str": "1022452128697081856",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+						"url": "https://t.co/Vvw8OpYLkl",
+						"display_url": "pic.twitter.com/Vvw8OpYLkl",
+						"expanded_url": "https://twitter.com/skyhope_j/status/1022452135873589248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 420,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022452128697081900,
+						"id_str": "1022452128697081856",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjB6yzrU4AAGshN.jpg",
+						"url": "https://t.co/Vvw8OpYLkl",
+						"display_url": "pic.twitter.com/Vvw8OpYLkl",
+						"expanded_url": "https://twitter.com/skyhope_j/status/1022452135873589248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 420,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 914926842108186600,
+				"id_str": "914926842108186624",
+				"name": "ﾟ･*:.｡우연*:ﾟ･♡",
+				"screen_name": "skyhope_j",
+				"location": "🌱호석이와 함께하는 6번째 여름🌱",
+				"description": "⚘･*:.｡#호석 이의 모든날*:ﾟ. ⚘･*:.•",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3022,
+				"friends_count": 1155,
+				"listed_count": 0,
+				"created_at": "Mon Oct 02 18:55:32 +0000 2017",
+				"favourites_count": 5464,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12904,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022832857490710528/maYilUmF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022832857490710528/maYilUmF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/914926842108186624/1532080651",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13562,
+			"favorite_count": 8193,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13562,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 23 02:13:26 +0000 2018",
 		"id": 1021216688006545400,
 		"id_str": "1021216688006545408",
