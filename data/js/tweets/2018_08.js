@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 05 03:02:10 +0000 2018",
+		"id": 1025939993108181000,
+		"id_str": "1025939993108180992",
+		"text": "https://t.co/qrYGOBWz5t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qrYGOBWz5t",
+					"expanded_url": "https://twitter.com/1wo1wo/status/1025513839947788288",
+					"display_url": "twitter.com/1wo1wo/status/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			975241178709815300
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 1025513839947788300,
+		"quoted_status_id_str": "1025513839947788288",
+		"quoted_status": {
+			"created_at": "Fri Aug 03 22:48:47 +0000 2018",
+			"id": 1025513839947788300,
+			"id_str": "1025513839947788288",
+			"text": "요즘 에어프라이어가 흥하는거 같길래 써보는 존맛 냉동식품 추천 타래. \n\n가끔 가게에서 존맛 냉동 발견하면 진짜 어디에다가 말할데도 없고 번거롭게 튀겨먹어야 하는 냉동 추천 해봤자 아무도 안듣는 세월이 너무 비통했음을•••",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 779652570813829100,
+				"id_str": "779652570813829120",
+				"name": "래빝",
+				"screen_name": "1wo1wo",
+				"location": "찬첸러브하우츄",
+				"description": "RPS / 찬챈 🔥⚡ / 세준 🐺🐰 / 썰은 모멘트 (~˘▽˘)~♡ / 비팔 알림 off",
+				"url": "https://t.co/pbk9hppnyZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pbk9hppnyZ",
+								"expanded_url": "https://1wo1wo.postype.com",
+								"display_url": "1wo1wo.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3189,
+				"friends_count": 83,
+				"listed_count": 2,
+				"created_at": "Sat Sep 24 12:03:52 +0000 2016",
+				"favourites_count": 10664,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20416,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009026629610266624/WFZi7CnU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009026629610266624/WFZi7CnU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/779652570813829120/1533166389",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12892,
+			"favorite_count": 9356,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Aug 04 16:55:56 +0000 2018",
 		"id": 1025787429846827000,
 		"id_str": "1025787429846827008",
