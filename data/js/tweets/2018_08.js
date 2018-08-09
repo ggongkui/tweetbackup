@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 09:45:47 +0000 2018",
+		"id": 1027128730760572900,
+		"id_str": "1027128730760572928",
+		"text": "RT @guyo_momoo: デジー丸ペン by ぐよもも https://t.co/6qRTz7xUrZ #clipstudio　평소 펜선넣을때 쓰고있는 브러쉬입니다. 펜브러쉬 첫작인지라 어셋에는 안올리려 했으나 이것만큼 손에익은게 없어서 더이상 안만들것 같…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clipstudio",
+					"indices": [
+						55,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guyo_momoo",
+					"name": "구요모모@ぐよもも",
+					"id": 931608736770048000,
+					"id_str": "931608736770048000",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6qRTz7xUrZ",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1719810",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1553,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 07 16:37:48 +0000 2018",
+			"id": 1026870031093645300,
+			"id_str": "1026870031093645312",
+			"text": "デジー丸ペン by ぐよもも https://t.co/6qRTz7xUrZ #clipstudio　평소 펜선넣을때 쓰고있는 브러쉬입니다. 펜브러쉬 첫작인지라 어셋에는 안올리려 했으나 이것만큼 손에익은게 없어서 더이상 안만들것 같네요..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "clipstudio",
+						"indices": [
+							39,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6qRTz7xUrZ",
+						"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1719810",
+						"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+						"indices": [
+							15,
+							38
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 931608736770048000,
+				"id_str": "931608736770048000",
+				"name": "구요모모@ぐよもも",
+				"screen_name": "guyo_momoo",
+				"location": "follow=subscribe",
+				"description": "freelance illustrator ・ 創作や版権など色々描きます。/ fkmt垢）@myuung_jp / ＊お仕事募集中＊contact: guyomomo1030@gmail.com / pf: parana / pixiv id=guyomomo_1030",
+				"url": "https://t.co/2OpXe4jbPn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2OpXe4jbPn",
+								"expanded_url": "https://instant-heart.tumblr.com/",
+								"display_url": "instant-heart.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1850,
+				"friends_count": 75,
+				"listed_count": 27,
+				"created_at": "Fri Nov 17 19:43:26 +0000 2017",
+				"favourites_count": 1222,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 386,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948604401555464199/-Z_IcdSM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948604401555464199/-Z_IcdSM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/931608736770048000/1512043444",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1434,
+			"favorite_count": 1250,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1434,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sun Aug 05 03:02:10 +0000 2018",
 		"id": 1025939993108181000,
 		"id_str": "1025939993108180992",
