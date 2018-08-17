@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 16 06:53:20 +0000 2018",
+		"id": 1029984437784608800,
+		"id_str": "1029984437784608768",
+		"text": "RT @allyur_twit: 급하게 옆구리 살을 빼야 한다: 유튜브에서 이소라 허리 다이어트+티파니 허리 다이언트 운동 보기. 이거 두개 함께해서 15분정도밖에 안 걸리는데 하루만 해도 라인 잡힘 5일정도 하면 많이 빠짐",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "allyur_twit",
+					"name": "➰🌵알열🌵➰",
+					"id": 2470772317,
+					"id_str": "2470772317",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1553,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 16 05:51:55 +0000 2018",
+			"id": 1029968979081584600,
+			"id_str": "1029968979081584640",
+			"text": "급하게 옆구리 살을 빼야 한다: 유튜브에서 이소라 허리 다이어트+티파니 허리 다이언트 운동 보기. 이거 두개 함께해서 15분정도밖에 안 걸리는데 하루만 해도 라인 잡힘 5일정도 하면 많이 빠짐",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2470772317,
+				"id_str": "2470772317",
+				"name": "➰🌵알열🌵➰",
+				"screen_name": "allyur_twit",
+				"location": "",
+				"description": "리버스X/롤겜만/알렉매그/2.5D/그림쟁이/글쟁이/코겸사/ https://t.co/LmwAl7B7Z6 / https://t.co/TZoH5z9QVz헤더는 요시님(@DISNEYU8)/ ⭐Do not save and repost all my arts without my permission⭐",
+				"url": "https://t.co/BzWZQmnQ6i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BzWZQmnQ6i",
+								"expanded_url": "http://blog.naver.com/allyur",
+								"display_url": "blog.naver.com/allyur",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LmwAl7B7Z6",
+								"expanded_url": "http://allyur.postype.com",
+								"display_url": "allyur.postype.com",
+								"indices": [
+									33,
+									56
+								]
+							},
+							{
+								"url": "https://t.co/TZoH5z9QVz",
+								"expanded_url": "http://blog.naver.com/allyur/",
+								"display_url": "blog.naver.com/allyur/",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2046,
+				"friends_count": 346,
+				"listed_count": 27,
+				"created_at": "Wed Apr 30 12:12:29 +0000 2014",
+				"favourites_count": 6425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28668,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026871378144706560/xhIEOfyO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026871378144706560/xhIEOfyO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2470772317/1531830461",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Aug 08 09:45:47 +0000 2018",
 		"id": 1027128730760572900,
 		"id_str": "1027128730760572928",
