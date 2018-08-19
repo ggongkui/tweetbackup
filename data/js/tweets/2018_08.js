@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 18 04:14:54 +0000 2018",
+		"id": 1030669342902345700,
+		"id_str": "1030669342902345728",
+		"text": "https://t.co/t90G7JlDeN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t90G7JlDeN",
+					"expanded_url": "https://twitter.com/yurikomorota/status/1030310562058645505",
+					"display_url": "twitter.com/yurikomorota/s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1554,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1030310562058645500,
+		"quoted_status_id_str": "1030310562058645505",
+		"quoted_status": {
+			"created_at": "Fri Aug 17 04:29:14 +0000 2018",
+			"id": 1030310562058645500,
+			"id_str": "1030310562058645505",
+			"text": "「黒猫はインスタ映えしないから保護猫のもらい手が少ない」という信じられない記事を目にしたので、黒猫がどれほどインスタ映えするかのビデオ「マーラーと黒猫」を再投稿。\n黒猫万歳！黒猫ハンパない可愛さ。 https://t.co/U998QWP4Zx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030310502633627600,
+						"id_str": "1030310502633627648",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1030310502633627648/pu/img/44E8QgRlvJHnUKX4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1030310502633627648/pu/img/44E8QgRlvJHnUKX4.jpg",
+						"url": "https://t.co/U998QWP4Zx",
+						"display_url": "pic.twitter.com/U998QWP4Zx",
+						"expanded_url": "https://twitter.com/yurikomorota/status/1030310562058645505/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030310502633627600,
+						"id_str": "1030310502633627648",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1030310502633627648/pu/img/44E8QgRlvJHnUKX4.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1030310502633627648/pu/img/44E8QgRlvJHnUKX4.jpg",
+						"url": "https://t.co/U998QWP4Zx",
+						"display_url": "pic.twitter.com/U998QWP4Zx",
+						"expanded_url": "https://twitter.com/yurikomorota/status/1030310562058645505/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 42733,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1030310502633627648/pu/pl/jkm5rC0KsoXTNe8E.m3u8?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1030310502633627648/pu/vid/720x720/KEM6_otbJfSolYEZ.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1030310502633627648/pu/vid/480x480/kheuTF8MuNWL4As3.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1030310502633627648/pu/vid/240x240/Eli18MTcUmsHxJxy.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110754185,
+				"id_str": "110754185",
+				"name": "諸田　由里子",
+				"screen_name": "yurikomorota",
+				"location": "Tokyo",
+				"description": "Pianist.  人生を猫と音楽に捧げて生きている。",
+				"url": "https://t.co/wQGfTW2uPs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wQGfTW2uPs",
+								"expanded_url": "http://yurikomorota.com",
+								"display_url": "yurikomorota.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2213,
+				"friends_count": 97,
+				"listed_count": 68,
+				"created_at": "Tue Feb 02 17:15:49 +0000 2010",
+				"favourites_count": 643,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8128,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876436596643450880/0bo_cNNx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876436596643450880/0bo_cNNx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110754185/1497793744",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91959,
+			"favorite_count": 229332,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Aug 16 06:53:20 +0000 2018",
 		"id": 1029984437784608800,
 		"id_str": "1029984437784608768",
