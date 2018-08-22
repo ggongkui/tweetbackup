@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 21 14:39:30 +0000 2018",
+		"id": 1031913692470730800,
+		"id_str": "1031913692470730752",
+		"text": "RT @kuroxpeng: 예전에 찍다가 멈춘 스페 파일이 있길래 살짝 올려봄.. 언젠가 다 찍으면 유튜브에 올려야지 https://t.co/n0KDlGDUio",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kuroxpeng",
+					"name": "🌺펭구연 | HYEMIN🌺",
+					"id": 821020597,
+					"id_str": "821020597",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031841636295180300,
+					"id_str": "1031841636295180289",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+					"url": "https://t.co/n0KDlGDUio",
+					"display_url": "pic.twitter.com/n0KDlGDUio",
+					"expanded_url": "https://twitter.com/kuroxpeng/status/1031844430863429634/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031844430863429600,
+					"source_status_id_str": "1031844430863429634",
+					"source_user_id": 821020597,
+					"source_user_id_str": "821020597"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031841636295180300,
+					"id_str": "1031841636295180289",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+					"url": "https://t.co/n0KDlGDUio",
+					"display_url": "pic.twitter.com/n0KDlGDUio",
+					"expanded_url": "https://twitter.com/kuroxpeng/status/1031844430863429634/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031844430863429600,
+					"source_status_id_str": "1031844430863429634",
+					"source_user_id": 821020597,
+					"source_user_id_str": "821020597",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/pl/V_I7v1QgqvfCZIcD.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/320x180/1mg07_i6rIT5n9ul.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/640x360/lo4ey8qNZbRwL_6d.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/1280x720/DYbjip3afzrlaX71.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 821020597,
+							"id_str": "821020597",
+							"name": "🌺펭구연 | HYEMIN🌺",
+							"screen_name": "kuroxpeng",
+							"location": "베느님 마음속",
+							"description": "작업문의 : khm9733@naver.com / JOJO계정: @Otaku__JOJO 헤더 다은님❤️💎",
+							"url": "https://t.co/t51na1877J",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/t51na1877J",
+											"expanded_url": "http://ask.fm/kuroxpeng",
+											"display_url": "ask.fm/kuroxpeng",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8400,
+							"friends_count": 172,
+							"listed_count": 83,
+							"created_at": "Thu Sep 13 06:51:25 +0000 2012",
+							"favourites_count": 4268,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 1352,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1019967112901607425/jNtMi1HE_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019967112901607425/jNtMi1HE_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/821020597/1525706127",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1554,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			975241178709815300
+		],
+		"retweeted_status": {
+			"created_at": "Tue Aug 21 10:04:17 +0000 2018",
+			"id": 1031844430863429600,
+			"id_str": "1031844430863429634",
+			"text": "예전에 찍다가 멈춘 스페 파일이 있길래 살짝 올려봄.. 언젠가 다 찍으면 유튜브에 올려야지 https://t.co/n0KDlGDUio",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1031841636295180300,
+						"id_str": "1031841636295180289",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+						"url": "https://t.co/n0KDlGDUio",
+						"display_url": "pic.twitter.com/n0KDlGDUio",
+						"expanded_url": "https://twitter.com/kuroxpeng/status/1031844430863429634/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1031841636295180300,
+						"id_str": "1031841636295180289",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
+						"url": "https://t.co/n0KDlGDUio",
+						"display_url": "pic.twitter.com/n0KDlGDUio",
+						"expanded_url": "https://twitter.com/kuroxpeng/status/1031844430863429634/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/pl/V_I7v1QgqvfCZIcD.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/320x180/1mg07_i6rIT5n9ul.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/640x360/lo4ey8qNZbRwL_6d.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/1280x720/DYbjip3afzrlaX71.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 821020597,
+				"id_str": "821020597",
+				"name": "🌺펭구연 | HYEMIN🌺",
+				"screen_name": "kuroxpeng",
+				"location": "베느님 마음속",
+				"description": "작업문의 : khm9733@naver.com / JOJO계정: @Otaku__JOJO 헤더 다은님❤️💎",
+				"url": "https://t.co/t51na1877J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t51na1877J",
+								"expanded_url": "http://ask.fm/kuroxpeng",
+								"display_url": "ask.fm/kuroxpeng",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8400,
+				"friends_count": 172,
+				"listed_count": 83,
+				"created_at": "Thu Sep 13 06:51:25 +0000 2012",
+				"favourites_count": 4268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1352,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019967112901607425/jNtMi1HE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019967112901607425/jNtMi1HE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821020597/1525706127",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3379,
+			"favorite_count": 4899,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3379,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Aug 18 04:14:54 +0000 2018",
 		"id": 1030669342902345700,
 		"id_str": "1030669342902345728",
