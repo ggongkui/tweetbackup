@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 24 14:19:24 +0000 2018",
+		"id": 1032995794092093400,
+		"id_str": "1032995794092093442",
+		"text": "RT @Morabi_2081: 연어 조지고싶다... 여러분 수원 롯데몰 안에 마켓D 라는 곳이 있는데 리얼 싱싱한 연어 덩어리를 1만원 후반에서 2만원 초반에 팔아요 두툼하게 썰어서 취향에 따라 간장 케이퍼 홀스래디쉬 양파랑 먹으면 존맛... 연어덕…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Morabi_2081",
+					"name": "[드림옥션 양도 구함] ᴍᴏʀᴀʙɪ",
+					"id": 753164496223342600,
+					"id_str": "753164496223342592",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1556,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 23 09:09:20 +0000 2018",
+			"id": 1032555378150535200,
+			"id_str": "1032555378150535168",
+			"text": "연어 조지고싶다... 여러분 수원 롯데몰 안에 마켓D 라는 곳이 있는데 리얼 싱싱한 연어 덩어리를 1만원 후반에서 2만원 초반에 팔아요 두툼하게 썰어서 취향에 따라 간장 케이퍼 홀스래디쉬 양파랑 먹으면 존맛… https://t.co/tZfbiOpgEs",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tZfbiOpgEs",
+						"expanded_url": "https://twitter.com/i/web/status/1032555378150535168",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 753164496223342600,
+				"id_str": "753164496223342592",
+				"name": "[드림옥션 양도 구함] ᴍᴏʀᴀʙɪ",
+				"screen_name": "Morabi_2081",
+				"location": "수원역 롯데몰 3층 프리파라 기계 앞",
+				"description": "❣️ 페달 | 헌터X헌터 | 프리파라❣️ #라비_할_일",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171,
+				"friends_count": 185,
+				"listed_count": 1,
+				"created_at": "Wed Jul 13 09:49:43 +0000 2016",
+				"favourites_count": 30523,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 58994,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032167695267950592/guC6Or8y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032167695267950592/guC6Or8y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/753164496223342592/1528759404",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10436,
+			"favorite_count": 4770,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10436,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Aug 24 09:35:19 +0000 2018",
+		"id": 1032924304671834100,
+		"id_str": "1032924304671834112",
+		"text": "RT @kimkkokkam: 냉동식품 너무 쳐먹어서 소위 뒤져도 방부제 때문에 썩지도 않을 인간인데 개인적인 만두 추천 리스트.. 올반 만두 전반적으로 괜찮은데 알티 타는 명란군만두는 진짜 호불호 갈릴 맛이니 참고하시길. 한섬만두랑 올반 왕교자는 쪄…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kimkkokkam",
+					"name": "김꼬깜(나훈아팡인)",
+					"id": 45101740,
+					"id_str": "45101740",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1556,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 23 15:41:41 +0000 2018",
+			"id": 1032654116810453000,
+			"id_str": "1032654116810452992",
+			"text": "냉동식품 너무 쳐먹어서 소위 뒤져도 방부제 때문에 썩지도 않을 인간인데 개인적인 만두 추천 리스트.. 올반 만두 전반적으로 괜찮은데 알티 타는 명란군만두는 진짜 호불호 갈릴 맛이니 참고하시길. 한섬만두랑 올… https://t.co/eXu8BQ3VqQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eXu8BQ3VqQ",
+						"expanded_url": "https://twitter.com/i/web/status/1032654116810452992",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45101740,
+				"id_str": "45101740",
+				"name": "김꼬깜(나훈아팡인)",
+				"screen_name": "kimkkokkam",
+				"location": "나훈아기호랑이",
+				"description": "살 구 꽃이 필 때면 돌 아 온 다 던 내 사랑 훈아는 돌아올 줄 모르고...🐯 / #마켓컬리 추천인 #zicokim 잊지말긔 🐅",
+				"url": "https://t.co/7i49eKJs9B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7i49eKJs9B",
+								"expanded_url": "http://dksehffkd323.blog.me",
+								"display_url": "dksehffkd323.blog.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12254,
+				"friends_count": 246,
+				"listed_count": 146,
+				"created_at": "Sat Jun 06 09:42:30 +0000 2009",
+				"favourites_count": 5034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11435,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032830090193719296/nGiYgphJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032830090193719296/nGiYgphJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45101740/1533792350",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 596,
+			"favorite_count": 305,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 596,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Aug 22 18:14:36 +0000 2018",
 		"id": 1032330211138854900,
 		"id_str": "1032330211138854912",
