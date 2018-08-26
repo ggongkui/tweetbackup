@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 25 10:35:41 +0000 2018",
+		"id": 1033301883610222600,
+		"id_str": "1033301883610222592",
+		"text": "RT @KathrynGamer: Animated Alduin dragon from Skyrim https://t.co/f7rzcopLqf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KathrynGamer",
+					"name": "Kathryn 💙",
+					"id": 388818499,
+					"id_str": "388818499",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1032482010449752000,
+					"id_str": "1032482010449752065",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+					"url": "https://t.co/f7rzcopLqf",
+					"display_url": "pic.twitter.com/f7rzcopLqf",
+					"expanded_url": "https://twitter.com/KathrynGamer/status/1032482032214073345/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032482032214073300,
+					"source_status_id_str": "1032482032214073345",
+					"source_user_id": 388818499,
+					"source_user_id_str": "388818499"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1032482010449752000,
+					"id_str": "1032482010449752065",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+					"url": "https://t.co/f7rzcopLqf",
+					"display_url": "pic.twitter.com/f7rzcopLqf",
+					"expanded_url": "https://twitter.com/KathrynGamer/status/1032482032214073345/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032482032214073300,
+					"source_status_id_str": "1032482032214073345",
+					"source_user_id": 388818499,
+					"source_user_id_str": "388818499",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10967,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/pl/mbb_la8se1nf4nvR.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/vid/640x640/8TQV1Pu7WXHRcSCW.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/vid/240x240/bbr32VrO1SilGs5w.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/vid/480x480/6J9V0bwMAiBTZv5n.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 388818499,
+							"id_str": "388818499",
+							"name": "Kathryn 💙",
+							"screen_name": "KathrynGamer",
+							"location": "Los Angeles, CA",
+							"description": "Geek girl ❤️ videogames. 18+ hardcore PC gamer. Games gifs lover",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 15148,
+							"friends_count": 38,
+							"listed_count": 88,
+							"created_at": "Tue Oct 11 11:53:57 +0000 2011",
+							"favourites_count": 6565,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 7981,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/777983387999014912/JWdHHhfq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/777983387999014912/JWdHHhfq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/388818499/1473963670",
+							"profile_link_color": "00AFBC",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1557,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 23 04:17:53 +0000 2018",
+			"id": 1032482032214073300,
+			"id_str": "1032482032214073345",
+			"text": "Animated Alduin dragon from Skyrim https://t.co/f7rzcopLqf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1032482010449752000,
+						"id_str": "1032482010449752065",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+						"url": "https://t.co/f7rzcopLqf",
+						"display_url": "pic.twitter.com/f7rzcopLqf",
+						"expanded_url": "https://twitter.com/KathrynGamer/status/1032482032214073345/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1032482010449752000,
+						"id_str": "1032482010449752065",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1032482010449752065/pu/img/4T7r--ultNWh7EbM.jpg",
+						"url": "https://t.co/f7rzcopLqf",
+						"display_url": "pic.twitter.com/f7rzcopLqf",
+						"expanded_url": "https://twitter.com/KathrynGamer/status/1032482032214073345/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 10967,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/pl/mbb_la8se1nf4nvR.m3u8?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/vid/640x640/8TQV1Pu7WXHRcSCW.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/vid/240x240/bbr32VrO1SilGs5w.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1032482010449752065/pu/vid/480x480/6J9V0bwMAiBTZv5n.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://deusexit.com/\" rel=\"nofollow\">DeusexTwitterMaster</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 388818499,
+				"id_str": "388818499",
+				"name": "Kathryn 💙",
+				"screen_name": "KathrynGamer",
+				"location": "Los Angeles, CA",
+				"description": "Geek girl ❤️ videogames. 18+ hardcore PC gamer. Games gifs lover",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15148,
+				"friends_count": 38,
+				"listed_count": 88,
+				"created_at": "Tue Oct 11 11:53:57 +0000 2011",
+				"favourites_count": 6565,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7981,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/777983387999014912/JWdHHhfq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/777983387999014912/JWdHHhfq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/388818499/1473963670",
+				"profile_link_color": "00AFBC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9761,
+			"favorite_count": 25401,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9761,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 24 14:19:24 +0000 2018",
 		"id": 1032995794092093400,
 		"id_str": "1032995794092093442",
