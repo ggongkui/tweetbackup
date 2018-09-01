@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 31 12:18:56 +0000 2018",
+		"id": 1035502193271431200,
+		"id_str": "1035502193271431168",
+		"text": "RT @rangwadis_949: 클튜 진심 편함...\n요 신발은 https://t.co/KC7YFJeAgB 입니다. https://t.co/GnrcMhzoll",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rangwadis_949",
+					"name": "*:･ﾟ✧༺커미션받는 왇༻✧ﾟ･: *",
+					"id": 281058535,
+					"id_str": "281058535",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KC7YFJeAgB",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1683944",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 985180373180018700,
+					"id_str": "985180373180018690",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+					"url": "https://t.co/GnrcMhzoll",
+					"display_url": "pic.twitter.com/GnrcMhzoll",
+					"expanded_url": "https://twitter.com/rangwadis_949/status/985180559923019776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 467,
+							"h": 545,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 467,
+							"h": 545,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 545,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985180559923019800,
+					"source_status_id_str": "985180559923019776",
+					"source_user_id": 281058535,
+					"source_user_id_str": "281058535"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985180373180018700,
+					"id_str": "985180373180018690",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+					"url": "https://t.co/GnrcMhzoll",
+					"display_url": "pic.twitter.com/GnrcMhzoll",
+					"expanded_url": "https://twitter.com/rangwadis_949/status/985180559923019776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 467,
+							"h": 545,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 467,
+							"h": 545,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 545,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985180559923019800,
+					"source_status_id_str": "985180559923019776",
+					"source_user_id": 281058535,
+					"source_user_id_str": "281058535"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1557,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 15:38:43 +0000 2018",
+			"id": 985180559923019800,
+			"id_str": "985180559923019776",
+			"text": "클튜 진심 편함...\n요 신발은 https://t.co/KC7YFJeAgB 입니다. https://t.co/GnrcMhzoll",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KC7YFJeAgB",
+						"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1683944",
+						"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 985180373180018700,
+						"id_str": "985180373180018690",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+						"url": "https://t.co/GnrcMhzoll",
+						"display_url": "pic.twitter.com/GnrcMhzoll",
+						"expanded_url": "https://twitter.com/rangwadis_949/status/985180559923019776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 467,
+								"h": 545,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 467,
+								"h": 545,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 467,
+								"h": 545,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985180373180018700,
+						"id_str": "985180373180018690",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DawQVGcU8AItpXt.jpg",
+						"url": "https://t.co/GnrcMhzoll",
+						"display_url": "pic.twitter.com/GnrcMhzoll",
+						"expanded_url": "https://twitter.com/rangwadis_949/status/985180559923019776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 467,
+								"h": 545,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 467,
+								"h": 545,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 467,
+								"h": 545,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 281058535,
+				"id_str": "281058535",
+				"name": "*:･ﾟ✧༺커미션받는 왇༻✧ﾟ･: *",
+				"screen_name": "rangwadis_949",
+				"location": "",
+				"description": "Whad∥FUF FREE 이별은 블언블로 부탁드립니다.∥All my Artwork copyright to me, Don't use without permission. ∥자캐 언급은 멘션으로 해주세요! 저를 탐라에 둬주세요..[프사:밍님]",
+				"url": "https://t.co/Blez5SkMHw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Blez5SkMHw",
+								"expanded_url": "https://norang94.wixsite.com/profile",
+								"display_url": "norang94.wixsite.com/profile",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 824,
+				"friends_count": 529,
+				"listed_count": 15,
+				"created_at": "Tue Apr 12 15:00:17 +0000 2011",
+				"favourites_count": 4000,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 215549,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031177112932077568/Tj-aFLgJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031177112932077568/Tj-aFLgJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281058535/1531791942",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5814,
+			"favorite_count": 6053,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5814,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Aug 25 10:35:41 +0000 2018",
 		"id": 1033301883610222600,
 		"id_str": "1033301883610222592",
