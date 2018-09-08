@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 07 04:41:59 +0000 2018",
+		"id": 1037923913273987100,
+		"id_str": "1037923913273987076",
+		"text": "https://t.co/bcwxKiAGkB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bcwxKiAGkB",
+					"expanded_url": "https://twitter.com/poisonstew/status/1019546855594774528",
+					"display_url": "twitter.com/poisonstew/sta…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1559,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1019546855594774500,
+		"quoted_status_id_str": "1019546855594774528",
+		"quoted_status": {
+			"created_at": "Wed Jul 18 11:38:07 +0000 2018",
+			"id": 1019546855594774500,
+			"id_str": "1019546855594774528",
+			"text": "가끔 물어보는 분들 계셔서 다시 백업 클스소재타래 유료무료 두루두루씁니당 https://t.co/Z6sWTD9X3D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1019546664569221100,
+						"id_str": "1019546664569221121",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DiYoSiWVMAEm0a3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiYoSiWVMAEm0a3.jpg",
+						"url": "https://t.co/Z6sWTD9X3D",
+						"display_url": "pic.twitter.com/Z6sWTD9X3D",
+						"expanded_url": "https://twitter.com/poisonstew/status/1019546855594774528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 536,
+								"h": 282,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 536,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 536,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019546664569221100,
+						"id_str": "1019546664569221121",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DiYoSiWVMAEm0a3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiYoSiWVMAEm0a3.jpg",
+						"url": "https://t.co/Z6sWTD9X3D",
+						"display_url": "pic.twitter.com/Z6sWTD9X3D",
+						"expanded_url": "https://twitter.com/poisonstew/status/1019546855594774528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 536,
+								"h": 282,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 536,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 536,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992053514208665600,
+				"id_str": "992053514208665606",
+				"name": "베닌",
+				"screen_name": "poisonstew",
+				"location": "",
+				"description": "백합함 시끄러움 poi666son@naver.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4348,
+				"friends_count": 20,
+				"listed_count": 35,
+				"created_at": "Thu May 03 14:49:24 +0000 2018",
+				"favourites_count": 87,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 163,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1024982779006599169/nGNeYua9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024982779006599169/nGNeYua9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992053514208665606/1535921579",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5437,
+			"favorite_count": 5054,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Sep 02 23:54:32 +0000 2018",
 		"id": 1036402022256238600,
 		"id_str": "1036402022256238592",
