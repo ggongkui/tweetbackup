@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sat Sep 08 08:16:12 +0000 2018",
+		"id": 1038340212957442000,
+		"id_str": "1038340212957442048",
+		"text": "https://t.co/YzGrUEaMKd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YzGrUEaMKd",
+					"expanded_url": "https://twitter.com/lq_wekimeki/status/1038035323324784640?s=21",
+					"display_url": "twitter.com/lq_wekimeki/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1560,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1038035323324784600,
+		"quoted_status_id_str": "1038035323324784640",
+		"quoted_status": {
+			"created_at": "Fri Sep 07 12:04:41 +0000 2018",
+			"id": 1038035323324784600,
+			"id_str": "1038035323324784640",
+			"text": "[비밀언니] 하니 놀리는 최유정 2\n\n#비밀언니 #최유정 https://t.co/0nODW5xy9B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "비밀언니",
+						"indices": [
+							21,
+							26
+						]
+					},
+					{
+						"text": "최유정",
+						"indices": [
+							27,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1038035033510969300,
+						"id_str": "1038035033510969344",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038035033510969344/pu/img/sLFuno8Z79Vt8pNy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038035033510969344/pu/img/sLFuno8Z79Vt8pNy.jpg",
+						"url": "https://t.co/0nODW5xy9B",
+						"display_url": "pic.twitter.com/0nODW5xy9B",
+						"expanded_url": "https://twitter.com/LQ_WekiMeki/status/1038035323324784640/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1038035033510969300,
+						"id_str": "1038035033510969344",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038035033510969344/pu/img/sLFuno8Z79Vt8pNy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038035033510969344/pu/img/sLFuno8Z79Vt8pNy.jpg",
+						"url": "https://t.co/0nODW5xy9B",
+						"display_url": "pic.twitter.com/0nODW5xy9B",
+						"expanded_url": "https://twitter.com/LQ_WekiMeki/status/1038035323324784640/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140019,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038035033510969344/pu/vid/320x180/S4-b1LXTxo_2sIEi.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038035033510969344/pu/vid/640x360/5geRM2cflqej-TmL.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038035033510969344/pu/vid/1280x720/RXcXFVvJrcnMwbWP.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1038035033510969344/pu/pl/ceszMKNdkp1qBRT_.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 967945199753113600,
+				"id_str": "967945199753113600",
+				"name": "저화질의 위키미키",
+				"screen_name": "LQ_WekiMeki",
+				"location": "",
+				"description": "화면 어딘가의 위키미키",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 800,
+				"friends_count": 4,
+				"listed_count": 18,
+				"created_at": "Mon Feb 26 02:11:33 +0000 2018",
+				"favourites_count": 42,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1698,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970012800180367360/WrU14hSi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970012800180367360/WrU14hSi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/967945199753113600/1520104668",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 526,
+			"favorite_count": 410,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Sep 07 04:41:59 +0000 2018",
 		"id": 1037923913273987100,
 		"id_str": "1037923913273987076",
