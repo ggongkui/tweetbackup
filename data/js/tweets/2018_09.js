@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 14 07:21:16 +0000 2018",
+		"id": 1040500712759648300,
+		"id_str": "1040500712759648256",
+		"text": "RT @reia417: 클튜 소재추천 ~ 그려서 쓰는 말풍선인데 굉장히 편리하게 잘쓰고있셈\nhttps://t.co/p9lY7BqMGO https://t.co/xdsdV6M0PK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reia417",
+					"name": "쵸포🕸",
+					"id": 844533855889502200,
+					"id_str": "844533855889502208",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p9lY7BqMGO",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1699263",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 993805001179852800,
+					"id_str": "993805001179852801",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+					"url": "https://t.co/xdsdV6M0PK",
+					"display_url": "pic.twitter.com/xdsdV6M0PK",
+					"expanded_url": "https://twitter.com/reia417/status/993805167567945730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1136,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993805167567945700,
+					"source_status_id_str": "993805167567945730",
+					"source_user_id": 844533855889502200,
+					"source_user_id_str": "844533855889502208"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993805001179852800,
+					"id_str": "993805001179852801",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+					"url": "https://t.co/xdsdV6M0PK",
+					"display_url": "pic.twitter.com/xdsdV6M0PK",
+					"expanded_url": "https://twitter.com/reia417/status/993805167567945730/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 1136,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993805167567945700,
+					"source_status_id_str": "993805167567945730",
+					"source_user_id": 844533855889502200,
+					"source_user_id_str": "844533855889502208",
+					"video_info": {
+						"aspect_ratio": [
+							284,
+							225
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dcq0YhdU8AE2YD_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1539,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 08 10:49:50 +0000 2018",
+			"id": 993805167567945700,
+			"id_str": "993805167567945730",
+			"text": "클튜 소재추천 ~ 그려서 쓰는 말풍선인데 굉장히 편리하게 잘쓰고있셈\nhttps://t.co/p9lY7BqMGO https://t.co/xdsdV6M0PK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p9lY7BqMGO",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1699263",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 993805001179852800,
+						"id_str": "993805001179852801",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+						"url": "https://t.co/xdsdV6M0PK",
+						"display_url": "pic.twitter.com/xdsdV6M0PK",
+						"expanded_url": "https://twitter.com/reia417/status/993805167567945730/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1136,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1136,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 539,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 993805001179852800,
+						"id_str": "993805001179852801",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dcq0YhdU8AE2YD_.jpg",
+						"url": "https://t.co/xdsdV6M0PK",
+						"display_url": "pic.twitter.com/xdsdV6M0PK",
+						"expanded_url": "https://twitter.com/reia417/status/993805167567945730/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 1136,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1136,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 539,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								284,
+								225
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dcq0YhdU8AE2YD_.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 844533855889502200,
+				"id_str": "844533855889502208",
+				"name": "쵸포🕸",
+				"screen_name": "reia417",
+				"location": "마토나토 신혼집",
+				"description": "부제굴능이야 넌.",
+				"url": "https://t.co/gJhYvRUC18",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gJhYvRUC18",
+								"expanded_url": "https://reia4182.postype.com/",
+								"display_url": "reia4182.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 756,
+				"friends_count": 82,
+				"listed_count": 5,
+				"created_at": "Wed Mar 22 12:58:56 +0000 2017",
+				"favourites_count": 3404,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21721,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033023849334337536/S7X5L8j6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033023849334337536/S7X5L8j6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/844533855889502208/1525889283",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17000,
+			"favorite_count": 14215,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17000,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Sep 12 09:48:52 +0000 2018",
 		"id": 1039813084112609300,
 		"id_str": "1039813084112609280",
