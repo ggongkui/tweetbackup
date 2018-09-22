@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 21 04:56:42 +0000 2018",
+		"id": 1043001047801688000,
+		"id_str": "1043001047801688064",
+		"text": "RT @thenitsok: 하도 나다니길 좋아하니까 이런 가방만 눈에 들어오고... 아 진짜 짱인 거 같아 1박 2일용 백팩이래 하나 살까 https://t.co/4MACAJYwz5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thenitsok",
+					"name": "레로리",
+					"id": 620087610,
+					"id_str": "620087610",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1039498255288029200,
+					"id_str": "1039498255288029184",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+					"url": "https://t.co/4MACAJYwz5",
+					"display_url": "pic.twitter.com/4MACAJYwz5",
+					"expanded_url": "https://twitter.com/thenitsok/status/1039498546829910016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 692,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 416,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039498546829910000,
+					"source_status_id_str": "1039498546829910016",
+					"source_user_id": 620087610,
+					"source_user_id_str": "620087610"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1039498255288029200,
+					"id_str": "1039498255288029184",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+					"url": "https://t.co/4MACAJYwz5",
+					"display_url": "pic.twitter.com/4MACAJYwz5",
+					"expanded_url": "https://twitter.com/thenitsok/status/1039498546829910016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 692,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 692,
+							"h": 416,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039498546829910000,
+					"source_status_id_str": "1039498546829910016",
+					"source_user_id": 620087610,
+					"source_user_id_str": "620087610"
+				},
+				{
+					"id": 1039498414348632000,
+					"id_str": "1039498414348632064",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dm0KTOPVAAAgXdl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dm0KTOPVAAAgXdl.jpg",
+					"url": "https://t.co/4MACAJYwz5",
+					"display_url": "pic.twitter.com/4MACAJYwz5",
+					"expanded_url": "https://twitter.com/thenitsok/status/1039498546829910016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 506,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039498546829910000,
+					"source_status_id_str": "1039498546829910016",
+					"source_user_id": 620087610,
+					"source_user_id_str": "620087610"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1533,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 11 12:59:01 +0000 2018",
+			"id": 1039498546829910000,
+			"id_str": "1039498546829910016",
+			"text": "하도 나다니길 좋아하니까 이런 가방만 눈에 들어오고... 아 진짜 짱인 거 같아 1박 2일용 백팩이래 하나 살까 https://t.co/4MACAJYwz5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1039498255288029200,
+						"id_str": "1039498255288029184",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+						"url": "https://t.co/4MACAJYwz5",
+						"display_url": "pic.twitter.com/4MACAJYwz5",
+						"expanded_url": "https://twitter.com/thenitsok/status/1039498546829910016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 692,
+								"h": 416,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 692,
+								"h": 416,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1039498255288029200,
+						"id_str": "1039498255288029184",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm0KJ9sU0AAmK8F.jpg",
+						"url": "https://t.co/4MACAJYwz5",
+						"display_url": "pic.twitter.com/4MACAJYwz5",
+						"expanded_url": "https://twitter.com/thenitsok/status/1039498546829910016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 692,
+								"h": 416,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 692,
+								"h": 416,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1039498414348632000,
+						"id_str": "1039498414348632064",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm0KTOPVAAAgXdl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm0KTOPVAAAgXdl.jpg",
+						"url": "https://t.co/4MACAJYwz5",
+						"display_url": "pic.twitter.com/4MACAJYwz5",
+						"expanded_url": "https://twitter.com/thenitsok/status/1039498546829910016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 620087610,
+				"id_str": "620087610",
+				"name": "레로리",
+				"screen_name": "thenitsok",
+				"location": "",
+				"description": "손더게스트 보신다면 @rerori_ssul",
+				"url": "https://t.co/nxKboYa9qd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nxKboYa9qd",
+								"expanded_url": "https://thatkidisaghost.postype.com",
+								"display_url": "thatkidisaghost.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1622,
+				"friends_count": 229,
+				"listed_count": 19,
+				"created_at": "Wed Jun 27 13:45:23 +0000 2012",
+				"favourites_count": 29749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 171950,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979542907366514688/1s6vz9mm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979542907366514688/1s6vz9mm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/620087610/1526260913",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2858,
+			"favorite_count": 1111,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2858,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Sep 20 00:50:58 +0000 2018",
 		"id": 1042576818044203000,
 		"id_str": "1042576818044203008",
