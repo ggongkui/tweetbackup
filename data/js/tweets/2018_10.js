@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 08:05:25 +0000 2018",
+		"id": 1051383462656073700,
+		"id_str": "1051383462656073731",
+		"full_text": "고양이 3D소재... 단돈 300골드...  색도 변경가능. \n\nhttps://t.co/KDPyYV6yEB https://t.co/h17OhVyCOd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KDPyYV6yEB",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1705361",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051383068064247800,
+					"id_str": "1051383068064247808",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpdDVHbUcAAUvtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpdDVHbUcAAUvtH.jpg",
+					"url": "https://t.co/h17OhVyCOd",
+					"display_url": "pic.twitter.com/h17OhVyCOd",
+					"expanded_url": "https://twitter.com/lt_tfg/status/1051383462656073731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051383068064247800,
+					"id_str": "1051383068064247808",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpdDVHbUcAAUvtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpdDVHbUcAAUvtH.jpg",
+					"url": "https://t.co/h17OhVyCOd",
+					"display_url": "pic.twitter.com/h17OhVyCOd",
+					"expanded_url": "https://twitter.com/lt_tfg/status/1051383462656073731/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 832,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							52
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpdDVHbUcAAUvtH.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 349484069,
+			"id_str": "349484069",
+			"name": "🌸소아월🌸",
+			"screen_name": "lt_tfg",
+			"location": "트로스트",
+			"description": "soawol/小児月★20↑★AOT/엘빈쟝(본진),립엘/エルジャン中心、リヴァエレ★명코/아카이x아무로/赤安★Pixiv id=6165614★자세한 프로필은 블로그!",
+			"url": "https://t.co/27nNmRsAmW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/27nNmRsAmW",
+							"expanded_url": "http://cs_tfg.blog.me/",
+							"display_url": "cs_tfg.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 180,
+			"listed_count": 7,
+			"created_at": "Sat Aug 06 05:06:08 +0000 2011",
+			"favourites_count": 1449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141396,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043740856946065408/g-7linBe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043740856946065408/g-7linBe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/349484069/1495286811",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 716,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고양이 3D소재... 단돈 300골드...  색도 변경가능. \n\nhttps://t.co/KDPyYV6yEB https://t.co/h17OhVyCOd"
+	},
+	{
+		"created_at": "Thu Jul 19 17:00:58 +0000 2018",
+		"id": 1019990490538639400,
+		"id_str": "1019990490538639360",
+		"full_text": "모닝섹스 최고 https://t.co/fhZMrNmn7A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1019990080285335600,
+					"id_str": "1019990080285335553",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1019990080285335553/pu/img/QsOSCbsZ8xXRekwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1019990080285335553/pu/img/QsOSCbsZ8xXRekwU.jpg",
+					"url": "https://t.co/fhZMrNmn7A",
+					"display_url": "pic.twitter.com/fhZMrNmn7A",
+					"expanded_url": "https://twitter.com/gaideo69/status/1019990490538639360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1019990080285335600,
+					"id_str": "1019990080285335553",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1019990080285335553/pu/img/QsOSCbsZ8xXRekwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1019990080285335553/pu/img/QsOSCbsZ8xXRekwU.jpg",
+					"url": "https://t.co/fhZMrNmn7A",
+					"display_url": "pic.twitter.com/fhZMrNmn7A",
+					"expanded_url": "https://twitter.com/gaideo69/status/1019990490538639360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140015,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1019990080285335553/pu/vid/640x360/KTb29YLauTzK-GfW.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1019990080285335553/pu/pl/gAI90XDYSLnGvgAN.m3u8?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1019990080285335553/pu/vid/1280x720/K80l9LiUuQcAwsCs.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1019990080285335553/pu/vid/320x180/3VX4PP52LQoCKDbE.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1015954749072465900,
+			"id_str": "1015954749072465920",
+			"name": "게동콜렉터",
+			"screen_name": "gaideo69",
+			"location": "",
+			"description": "제가 꼴리는거 위주로 업해요/원하는거나 찾는거 있으면 뎀주세요/편히 다가와주세요 외로워요 😂",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Sun Jul 08 13:44:22 +0000 2018",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028195268569620480/D90F3OqX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028195268569620480/D90F3OqX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1015954749072465920/1531057842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모닝섹스 최고 https://t.co/fhZMrNmn7A"
+	},
+	{
 		"created_at": "Thu Oct 04 15:50:31 +0000 2018",
 		"id": 1047876630566166500,
 		"id_str": "1047876630566166528",
