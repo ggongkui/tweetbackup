@@ -40,7 +40,7 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
-			"favourites_count": 139,
+			"favourites_count": 138,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -122,7 +122,7 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
-			"favourites_count": 139,
+			"favourites_count": 138,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -204,7 +204,7 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
-			"favourites_count": 139,
+			"favourites_count": 138,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -408,14 +408,14 @@ Grailbird.data.tweets_2017_12 =
 			"protected": false,
 			"followers_count": 240,
 			"friends_count": 144,
-			"listed_count": 9,
+			"listed_count": 0,
 			"created_at": "Wed Apr 20 08:47:19 +0000 2016",
-			"favourites_count": 1867,
+			"favourites_count": 1866,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 44152,
+			"statuses_count": 44150,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -445,12 +445,163 @@ Grailbird.data.tweets_2017_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 646,
-		"favorite_count": 779,
+		"favorite_count": 781,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
 		"text": "2. text effect psd 소스\rhttps://t.co/wWfWB0tZVx 커뮤 로고나 홍보지 만들때 유용합니다 소스 있는거 그냥 글씨만 바꾸면 됨. 두번째가 소스 다운 받아서 내가 적용해본거 그리고 텍스트 이펙트는 구글에 치면 많이 나옴 https://t.co/2iksGQdtrc"
+	},
+	{
+		"created_at": "Sat Dec 09 11:43:14 +0000 2017",
+		"id": 939460424646271000,
+		"id_str": "939460424646270976",
+		"full_text": "색별료 무료이미지 찾아줌\nhttps://t.co/BssZ26cOmT\n\n저작권문제없는 사진\nhttps://t.co/XHWIB52lv8\n\n무료 벡터이미지\nhttps://t.co/vJyU2OVh3b\n\n손3d모델링되어있는곳\nhttps://t.co/mocbxRPvj3\n\n포즈죤내많은곳\nhttps://t.co/4aJTVmBNrj\n\n사진에3d효과\nhttps://t.co/namxgWxCaC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BssZ26cOmT",
+					"expanded_url": "http://finda.photo/",
+					"display_url": "finda.photo",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/XHWIB52lv8",
+					"expanded_url": "https://unsplash.com/",
+					"display_url": "unsplash.com",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/vJyU2OVh3b",
+					"expanded_url": "https://www.freepik.com/",
+					"display_url": "freepik.com",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/mocbxRPvj3",
+					"expanded_url": "http://www.posemaniacs.com/tools/handviewer/",
+					"display_url": "posemaniacs.com/tools/handview…",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/4aJTVmBNrj",
+					"expanded_url": "https://www.posespace.com/posetool/",
+					"display_url": "posespace.com/posetool/",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/namxgWxCaC",
+					"expanded_url": "http://depthy.me/#/",
+					"display_url": "depthy.me/#/",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859092349732872200,
+			"id_str": "859092349732872192",
+			"name": "𝕊𝕠 𝕎𝕙𝕒𝕥",
+			"screen_name": "SoWhat_na",
+			"location": "진우리리, 달루카, 덕구이온, 독고주환",
+			"description": "사찰 1회 만원 디엠문의 / 누구 오너인지 기억 안나면 웹사이트란",
+			"url": "https://t.co/0XmaiCY4AX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0XmaiCY4AX",
+							"expanded_url": "https://www.evernote.com/shard/s733/sh/cc477234-ac00-440b-a74e-6b5a84921fc0/206d236fea1bea517ac10183",
+							"display_url": "evernote.com/shard/s733/sh/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 122,
+			"friends_count": 129,
+			"listed_count": 1,
+			"created_at": "Mon May 01 17:09:12 +0000 2017",
+			"favourites_count": 15989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49916,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049343237108822016/_ssIAuWN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049343237108822016/_ssIAuWN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859092349732872192/1532890270",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 976,
+		"favorite_count": 906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "색별료 무료이미지 찾아줌\nhttps://t.co/BssZ26cOmT\n\n저작권문제없는 사진\nhttps://t.co/XHWIB52lv8\n\n무료 벡터이미지\nhttps://t.co/vJyU2OVh3b\n\n손3d모델링되어있는곳\nhttps://t.co/mocbxRPvj3\n\n포즈죤내많은곳\nhttps://t.co/4aJTVmBNrj\n\n사진에3d효과\nhttps://t.co/namxgWxCaC"
 	},
 	{
 		"created_at": "Thu Dec 07 08:38:08 +0000 2017",
@@ -684,7 +835,7 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4267,
+			"followers_count": 4275,
 			"friends_count": 122,
 			"listed_count": 46,
 			"created_at": "Sat Nov 11 14:38:44 +0000 2017",
@@ -723,8 +874,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 834,
-		"favorite_count": 1714,
+		"retweet_count": 833,
+		"favorite_count": 1713,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -782,7 +933,7 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
-			"favourites_count": 139,
+			"favourites_count": 138,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -951,16 +1102,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14285,
+			"followers_count": 14275,
 			"friends_count": 80,
-			"listed_count": 318,
+			"listed_count": 317,
 			"created_at": "Fri Jan 03 02:52:35 +0000 2014",
 			"favourites_count": 2958,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 17446,
+			"statuses_count": 17444,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -990,8 +1141,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3940,
-		"favorite_count": 9154,
+		"retweet_count": 3938,
+		"favorite_count": 9152,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1048,12 +1199,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 96,
 			"listed_count": 2,
 			"created_at": "Mon May 23 03:14:48 +0000 2016",
-			"favourites_count": 7617,
+			"favourites_count": 7612,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 20042,
+			"statuses_count": 20038,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1083,7 +1234,7 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1826,
+		"retweet_count": 1824,
 		"favorite_count": 923,
 		"favorited": false,
 		"retweeted": true,
