@@ -375,7 +375,7 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 15226,
+			"followers_count": 15212,
 			"friends_count": 1,
 			"listed_count": 12,
 			"created_at": "Fri Nov 04 00:16:11 +0000 2016",
@@ -415,7 +415,7 @@ Grailbird.data.tweets_2016_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 436,
-		"favorite_count": 434,
+		"favorite_count": 433,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 291,
+			"followers_count": 290,
 			"friends_count": 0,
 			"listed_count": 2,
 			"created_at": "Sat Jul 30 20:18:25 +0000 2016",
@@ -519,8 +519,8 @@ Grailbird.data.tweets_2016_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 12496,
-		"favorite_count": 11945,
+		"retweet_count": 12490,
+		"favorite_count": 11937,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -772,16 +772,16 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 328,
-			"friends_count": 91,
+			"followers_count": 327,
+			"friends_count": 92,
 			"listed_count": 0,
 			"created_at": "Sat Jul 14 05:12:35 +0000 2012",
-			"favourites_count": 17312,
+			"favourites_count": 17290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 45295,
+			"statuses_count": 45307,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -811,210 +811,13 @@ Grailbird.data.tweets_2016_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 12343,
-		"favorite_count": 7873,
+		"retweet_count": 12337,
+		"favorite_count": 7872,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
 		"text": "\"좋아하는 사람에게 안경을 씌워보자!\"\nhttps://t.co/Bpu06MkYpF\n\n링크는 일본의 안경 피팅 사이트.\n얼굴이 정면으로 나온 사진(또는 그림)을 넣으면, 사진 각도에 따라 캐릭터에 안경을 씌울 수 있다.\n\n이제 여러분도 손쉽게 씌워보자. https://t.co/xAGwOC4wfs"
-	},
-	{
-		"created_at": "Sun Nov 13 08:28:58 +0000 2016",
-		"id": 797717883606290400,
-		"id_str": "797717883606290433",
-		"full_text": "반려동물 을 키우는 분들 꼭 봐야하는 영상\n반려동물을 위한 심폐소생술 \n아시는 분들도 있겠지만 아직 모르는 분들 꼭 봐주세요 \nhttps://t.co/YQjUPLd971 https://t.co/dlszUbexIF",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			94
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/YQjUPLd971",
-					"expanded_url": "https://youtu.be/yFYo6KylK2g",
-					"display_url": "youtu.be/yFYo6KylK2g",
-					"indices": [
-						71,
-						94
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 797717563438297100,
-					"id_str": "797717563438297088",
-					"indices": [
-						95,
-						118
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/797717563438297088/pu/img/fGLjiaxdMvotzQdq.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/797717563438297088/pu/img/fGLjiaxdMvotzQdq.jpg",
-					"url": "https://t.co/dlszUbexIF",
-					"display_url": "pic.twitter.com/dlszUbexIF",
-					"expanded_url": "https://twitter.com/oasis97127/status/797717883606290433/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 797717563438297100,
-					"id_str": "797717563438297088",
-					"indices": [
-						95,
-						118
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/797717563438297088/pu/img/fGLjiaxdMvotzQdq.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/797717563438297088/pu/img/fGLjiaxdMvotzQdq.jpg",
-					"url": "https://t.co/dlszUbexIF",
-					"display_url": "pic.twitter.com/dlszUbexIF",
-					"expanded_url": "https://twitter.com/oasis97127/status/797717883606290433/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							16,
-							9
-						],
-						"duration_millis": 107474,
-						"variants": [
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/797717563438297088/pu/vid/640x360/G_9CCURkmhsKOAvE.mp4"
-							},
-							{
-								"bitrate": 256000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/797717563438297088/pu/vid/320x180/cVkd1eXCQok3qkHL.mp4"
-							},
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/ext_tw_video/797717563438297088/pu/pl/TmxsBGFHM7BpQPpo.m3u8"
-							}
-						]
-					},
-					"additional_media_info": {
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 4766221580,
-			"id_str": "4766221580",
-			"name": "[반동결❄️]🍡",
-			"screen_name": "oasis97127",
-			"location": "나 골카무 판다~ 별로면 블락 해줘",
-			"description": "본진 골든카무이/7사단 러버\n/그외 타장르 언급 정말쪼금)\n현생+노엘콘 한동안 반동결❄️",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 90,
-			"friends_count": 44,
-			"listed_count": 0,
-			"created_at": "Sat Jan 16 03:22:33 +0000 2016",
-			"favourites_count": 513,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 1729,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "F5F8FA",
-			"profile_background_image_url": null,
-			"profile_background_image_url_https": null,
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/988854838258626561/htMXq8V8_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988854838258626561/htMXq8V8_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4766221580/1524615384",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 10795,
-		"favorite_count": 5473,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "반려동물 을 키우는 분들 꼭 봐야하는 영상\n반려동물을 위한 심폐소생술 \n아시는 분들도 있겠지만 아직 모르는 분들 꼭 봐주세요 \nhttps://t.co/YQjUPLd971 https://t.co/dlszUbexIF"
 	},
 	{
 		"created_at": "Sun Nov 13 15:33:09 +0000 2016",
@@ -1134,16 +937,16 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 96750,
+			"followers_count": 96660,
 			"friends_count": 193,
-			"listed_count": 1519,
+			"listed_count": 1520,
 			"created_at": "Wed Apr 04 09:57:04 +0000 2012",
 			"favourites_count": 835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 43168,
+			"statuses_count": 43200,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1304,16 +1107,16 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 19504,
+			"followers_count": 19514,
 			"friends_count": 0,
-			"listed_count": 422,
+			"listed_count": 424,
 			"created_at": "Wed Oct 14 09:03:24 +0000 2015",
 			"favourites_count": 7,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 464,
+			"statuses_count": 465,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1343,8 +1146,8 @@ Grailbird.data.tweets_2016_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4312,
-		"favorite_count": 6773,
+		"retweet_count": 4309,
+		"favorite_count": 6768,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1496,11 +1299,11 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 91337,
-			"friends_count": 22882,
+			"followers_count": 91298,
+			"friends_count": 22866,
 			"listed_count": 156,
 			"created_at": "Sat Oct 10 07:06:42 +0000 2015",
-			"favourites_count": 4492,
+			"favourites_count": 4490,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1535,8 +1338,8 @@ Grailbird.data.tweets_2016_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3477,
-		"favorite_count": 2727,
+		"retweet_count": 3475,
+		"favorite_count": 2724,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1765,16 +1568,16 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4400,
-			"friends_count": 3649,
-			"listed_count": 29,
+			"followers_count": 4391,
+			"friends_count": 3644,
+			"listed_count": 0,
 			"created_at": "Fri Aug 08 09:12:32 +0000 2014",
 			"favourites_count": 510,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 59384,
+			"statuses_count": 59383,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2001,8 +1804,8 @@ Grailbird.data.tweets_2016_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 736,
-		"favorite_count": 517,
+		"retweet_count": 735,
+		"favorite_count": 516,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2482,16 +2285,16 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1786,
+			"followers_count": 1785,
 			"friends_count": 176,
 			"listed_count": 10,
 			"created_at": "Mon Nov 04 13:45:09 +0000 2013",
-			"favourites_count": 431,
+			"favourites_count": 433,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 43442,
+			"statuses_count": 43476,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2521,8 +2324,8 @@ Grailbird.data.tweets_2016_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9242,
-		"favorite_count": 3403,
+		"retweet_count": 9235,
+		"favorite_count": 3401,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2669,16 +2472,16 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 74396,
-			"friends_count": 28702,
-			"listed_count": 860,
+			"followers_count": 74371,
+			"friends_count": 28684,
+			"listed_count": 859,
 			"created_at": "Wed Nov 04 10:15:04 +0000 2015",
-			"favourites_count": 4947,
+			"favourites_count": 4949,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14434,
+			"statuses_count": 14441,
 			"lang": "ar",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2709,7 +2512,7 @@ Grailbird.data.tweets_2016_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2558,
-		"favorite_count": 2052,
+		"favorite_count": 2051,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -5321,9 +5124,9 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 36220,
+			"followers_count": 36194,
 			"friends_count": 23,
-			"listed_count": 875,
+			"listed_count": 874,
 			"created_at": "Sat Jan 11 05:38:17 +0000 2014",
 			"favourites_count": 1403,
 			"utc_offset": null,
@@ -5507,16 +5310,16 @@ Grailbird.data.tweets_2016_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 74396,
-			"friends_count": 28702,
-			"listed_count": 860,
+			"followers_count": 74371,
+			"friends_count": 28684,
+			"listed_count": 859,
 			"created_at": "Wed Nov 04 10:15:04 +0000 2015",
-			"favourites_count": 4947,
+			"favourites_count": 4949,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14434,
+			"statuses_count": 14441,
 			"lang": "ar",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5547,7 +5350,7 @@ Grailbird.data.tweets_2016_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 7812,
-		"favorite_count": 8171,
+		"favorite_count": 8167,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,

@@ -145,16 +145,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1479,
-			"friends_count": 323,
+			"followers_count": 1477,
+			"friends_count": 322,
 			"listed_count": 10,
 			"created_at": "Mon Sep 14 10:04:34 +0000 2015",
-			"favourites_count": 6115,
+			"favourites_count": 6116,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 20961,
+			"statuses_count": 20985,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -184,174 +184,13 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4769,
-		"favorite_count": 6275,
+		"retweet_count": 4761,
+		"favorite_count": 6271,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
 		"text": "꽃다발 그리는 영상~ \n그리는덴 2시간 걸렸는데 동영상 만드는건 계속 오류나서 4시간걸림....인셍.. https://t.co/WqraPRWgEE"
-	},
-	{
-		"created_at": "Thu Apr 12 18:10:59 +0000 2018",
-		"id": 984494101373448200,
-		"id_str": "984494101373448192",
-		"full_text": "던전밥 만화... https://t.co/VD8uTiCssm",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			9
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 984493899652591600,
-					"id_str": "984493899652591616",
-					"indices": [
-						10,
-						33
-					],
-					"media_url": "http://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
-					"url": "https://t.co/VD8uTiCssm",
-					"display_url": "pic.twitter.com/VD8uTiCssm",
-					"expanded_url": "https://twitter.com/deltavega2222/status/984494101373448192/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 453,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 800,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 800,
-							"h": 1200,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 984493899652591600,
-					"id_str": "984493899652591616",
-					"indices": [
-						10,
-						33
-					],
-					"media_url": "http://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Damf_FRU8AAnAac.jpg",
-					"url": "https://t.co/VD8uTiCssm",
-					"display_url": "pic.twitter.com/VD8uTiCssm",
-					"expanded_url": "https://twitter.com/deltavega2222/status/984494101373448192/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 453,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 800,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 800,
-							"h": 1200,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3307922971,
-			"id_str": "3307922971",
-			"name": "계이합니다..",
-			"screen_name": "deltavega2222",
-			"location": "",
-			"description": "@hunny_be",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 2203,
-			"friends_count": 0,
-			"listed_count": 28,
-			"created_at": "Thu Aug 06 14:30:28 +0000 2015",
-			"favourites_count": 4034,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 11202,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1040076181498806273/YL2jcaQt_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040076181498806273/YL2jcaQt_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3307922971/1533490569",
-			"profile_link_color": "1B95E0",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 820,
-		"favorite_count": 531,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "던전밥 만화... https://t.co/VD8uTiCssm"
 	},
 	{
 		"created_at": "Wed Jun 06 16:51:32 +0000 2018",
@@ -389,16 +228,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 463,
-			"friends_count": 378,
+			"followers_count": 461,
+			"friends_count": 377,
 			"listed_count": 9,
 			"created_at": "Fri Jun 06 13:49:49 +0000 2014",
-			"favourites_count": 4557,
+			"favourites_count": 4555,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 132694,
+			"statuses_count": 132684,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -428,8 +267,8 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 26047,
-		"favorite_count": 17697,
+		"retweet_count": 26033,
+		"favorite_count": 17703,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
