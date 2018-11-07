@@ -140,16 +140,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16315,
-			"friends_count": 178,
-			"listed_count": 194,
+			"followers_count": 16305,
+			"friends_count": 176,
+			"listed_count": 195,
 			"created_at": "Sat Oct 04 10:48:22 +0000 2014",
-			"favourites_count": 2300,
+			"favourites_count": 2295,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 7900,
+			"statuses_count": 7890,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -314,16 +314,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5196,
-			"friends_count": 143,
-			"listed_count": 48,
+			"followers_count": 5195,
+			"friends_count": 144,
+			"listed_count": 0,
 			"created_at": "Tue Mar 07 15:56:23 +0000 2017",
-			"favourites_count": 2751,
+			"favourites_count": 2750,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 810,
+			"statuses_count": 811,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -352,8 +352,8 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4458,
-		"favorite_count": 4153,
+		"retweet_count": 4454,
+		"favorite_count": 4149,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -396,8 +396,8 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": true,
-			"followers_count": 1,
-			"friends_count": 2,
+			"followers_count": 3,
+			"friends_count": 4,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 138,
@@ -497,16 +497,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1988,
-			"friends_count": 548,
+			"followers_count": 1990,
+			"friends_count": 555,
 			"listed_count": 23,
 			"created_at": "Tue Feb 09 19:50:21 +0000 2016",
-			"favourites_count": 5352,
+			"favourites_count": 5348,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 21530,
+			"statuses_count": 21538,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -535,7 +535,7 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1344,
+		"retweet_count": 1343,
 		"favorite_count": 1387,
 		"favorited": false,
 		"retweeted": true,
@@ -729,11 +729,11 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 13359,
+			"followers_count": 13357,
 			"friends_count": 72,
-			"listed_count": 89,
+			"listed_count": 90,
 			"created_at": "Fri Sep 23 13:33:28 +0000 2016",
-			"favourites_count": 1934,
+			"favourites_count": 1933,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -768,13 +768,187 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 11344,
-		"favorite_count": 9990,
+		"retweet_count": 11330,
+		"favorite_count": 9986,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
 		"text": "흰 색 물체 그럴싸하게 칠하는법\n빛 원리에 정확히 맞아떨어지지는 않지만 그럴싸하게 묘사할 수 있어염 https://t.co/QBR2USic7c"
+	},
+	{
+		"created_at": "Mon Sep 12 08:15:45 +0000 2016",
+		"id": 775246506697732100,
+		"id_str": "775246506697732096",
+		"full_text": "어딜 보시는겁니까 ?\n그쪽은 J A N S A N G 입니다만 ¿ https://t.co/b3Vzlc33am",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 775246317127815200,
+					"id_str": "775246317127815168",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsI6awHVUAAu8Q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsI6awHVUAAu8Q0.jpg",
+					"url": "https://t.co/b3Vzlc33am",
+					"display_url": "pic.twitter.com/b3Vzlc33am",
+					"expanded_url": "https://twitter.com/donotwannadie/status/775246506697732096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 294,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 294,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 294,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775246317127815200,
+					"id_str": "775246317127815168",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CsI6awHVUAAu8Q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CsI6awHVUAAu8Q0.jpg",
+					"url": "https://t.co/b3Vzlc33am",
+					"display_url": "pic.twitter.com/b3Vzlc33am",
+					"expanded_url": "https://twitter.com/donotwannadie/status/775246506697732096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 294,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 294,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 294,
+							"h": 336,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							7,
+							8
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/CsI6awHVUAAu8Q0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 715094521130852400,
+			"id_str": "715094521130852353",
+			"name": "✌🤕",
+			"screen_name": "donotwannadie",
+			"location": "",
+			"description": "🍆🍆한다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 84,
+			"listed_count": 1,
+			"created_at": "Wed Mar 30 08:33:14 +0000 2016",
+			"favourites_count": 4047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42351,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051484351370747904/3OkrV_2T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051484351370747904/3OkrV_2T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/715094521130852353/1522595784",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6302,
+		"favorite_count": 767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어딜 보시는겁니까 ?\n그쪽은 J A N S A N G 입니다만 ¿ https://t.co/b3Vzlc33am"
 	},
 	{
 		"created_at": "Tue Sep 12 13:32:46 +0000 2017",
@@ -909,16 +1083,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 13575,
+			"followers_count": 13572,
 			"friends_count": 85,
-			"listed_count": 179,
+			"listed_count": 180,
 			"created_at": "Thu Aug 27 12:39:38 +0000 2015",
 			"favourites_count": 2802,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 12832,
+			"statuses_count": 12834,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -948,8 +1122,8 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3579,
-		"favorite_count": 5481,
+		"retweet_count": 3577,
+		"favorite_count": 5478,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1119,16 +1293,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17766,
+			"followers_count": 17732,
 			"friends_count": 61,
-			"listed_count": 0,
+			"listed_count": 72,
 			"created_at": "Sun Aug 02 18:03:11 +0000 2015",
-			"favourites_count": 55416,
+			"favourites_count": 55409,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 9351,
+			"statuses_count": 9348,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1158,8 +1332,8 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 10224,
-		"favorite_count": 7356,
+		"retweet_count": 10209,
+		"favorite_count": 7349,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1269,10 +1443,10 @@ Grailbird.data.tweets_2017_11 =
 		"user": {
 			"id": 258811619,
 			"id_str": "258811619",
-			"name": "[카게히 도적단] 민뎅",
+			"name": "민뎅",
 			"screen_name": "min_dan9",
 			"location": "용사됨zelda_account:@min_dan9_zel",
-			"description": "캌히/노야/급암/Draw kagehina✧\n               ★DO NOT repost my arts★",
+			"description": "DO NOT repost my arts",
 			"url": "https://t.co/jn8fQcximR",
 			"entities": {
 				"url": {
@@ -1293,16 +1467,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1942,
-			"friends_count": 177,
+			"followers_count": 1940,
+			"friends_count": 176,
 			"listed_count": 10,
 			"created_at": "Mon Feb 28 15:12:53 +0000 2011",
-			"favourites_count": 3291,
+			"favourites_count": 3289,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 20198,
+			"statuses_count": 20192,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1332,8 +1506,8 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 15238,
-		"favorite_count": 11284,
+		"retweet_count": 15237,
+		"favorite_count": 11287,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
