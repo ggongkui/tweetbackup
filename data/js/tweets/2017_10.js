@@ -45,7 +45,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1528,
+			"statuses_count": 1527,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -127,7 +127,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1528,
+			"statuses_count": 1527,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -390,12 +390,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 77,
 			"listed_count": 1,
 			"created_at": "Wed Aug 31 05:08:26 +0000 2016",
-			"favourites_count": 1649,
+			"favourites_count": 1648,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11546,
+			"statuses_count": 11545,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -424,287 +424,13 @@ Grailbird.data.tweets_2017_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3435,
-		"favorite_count": 2246,
+		"retweet_count": 3432,
+		"favorite_count": 2241,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
 		"text": "[부클 파밍할 때 알아두면 좋은 것]\n\n5레벨부터 40대 후반부 레벨까지 각 레벨에 맞는 무기와 장비를 구할 수 있는 상점들을 모아보았습니다. 사실 저 편하자고 만든 거지만 님들도 보시라구... https://t.co/SqpHWogUMm"
-	},
-	{
-		"created_at": "Sun Sep 03 07:22:00 +0000 2017",
-		"id": 904243060657160200,
-		"id_str": "904243060657160192",
-		"full_text": "내가 신청서 쓸 때/자캐 짤 때 참고하는것들\nMBTI 테스트 https://t.co/IB9NuHsoLy\n에고그램 테스트 https://t.co/aXJ7dkQfG6\n애니어그램 테스트 https://t.co/Ml89EqRVVB https://t.co/bsIduCA9Tu",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			124
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/IB9NuHsoLy",
-					"expanded_url": "https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9-%EC%9C%A0%ED%98%95",
-					"display_url": "16personalities.com/ko/%EC%84%B1%E…",
-					"indices": [
-						34,
-						57
-					]
-				},
-				{
-					"url": "https://t.co/aXJ7dkQfG6",
-					"expanded_url": "http://egogramtest.kr/",
-					"display_url": "egogramtest.kr",
-					"indices": [
-						67,
-						90
-					]
-				},
-				{
-					"url": "https://t.co/Ml89EqRVVB",
-					"expanded_url": "https://enneagram-app.appspot.com/quest",
-					"display_url": "enneagram-app.appspot.com/quest",
-					"indices": [
-						101,
-						124
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 904242286707449900,
-					"id_str": "904242286707449856",
-					"indices": [
-						125,
-						148
-					],
-					"media_url": "http://pbs.twimg.com/media/DIyDkaIVoAA0GP8.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIyDkaIVoAA0GP8.jpg",
-					"url": "https://t.co/bsIduCA9Tu",
-					"display_url": "pic.twitter.com/bsIduCA9Tu",
-					"expanded_url": "https://twitter.com/O_ZZ_U/status/904243060657160192/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 469,
-							"h": 178,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 469,
-							"h": 178,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 469,
-							"h": 178,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 904242286707449900,
-					"id_str": "904242286707449856",
-					"indices": [
-						125,
-						148
-					],
-					"media_url": "http://pbs.twimg.com/media/DIyDkaIVoAA0GP8.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIyDkaIVoAA0GP8.jpg",
-					"url": "https://t.co/bsIduCA9Tu",
-					"display_url": "pic.twitter.com/bsIduCA9Tu",
-					"expanded_url": "https://twitter.com/O_ZZ_U/status/904243060657160192/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 469,
-							"h": 178,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 469,
-							"h": 178,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 469,
-							"h": 178,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 904242287391129600,
-					"id_str": "904242287391129600",
-					"indices": [
-						125,
-						148
-					],
-					"media_url": "http://pbs.twimg.com/media/DIyDkcrVwAAwmec.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIyDkcrVwAAwmec.jpg",
-					"url": "https://t.co/bsIduCA9Tu",
-					"display_url": "pic.twitter.com/bsIduCA9Tu",
-					"expanded_url": "https://twitter.com/O_ZZ_U/status/904243060657160192/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 500,
-							"h": 672,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 500,
-							"h": 672,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 500,
-							"h": 672,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 904242287516958700,
-					"id_str": "904242287516958720",
-					"indices": [
-						125,
-						148
-					],
-					"media_url": "http://pbs.twimg.com/media/DIyDkdJVwAA1PjU.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIyDkdJVwAA1PjU.jpg",
-					"url": "https://t.co/bsIduCA9Tu",
-					"display_url": "pic.twitter.com/bsIduCA9Tu",
-					"expanded_url": "https://twitter.com/O_ZZ_U/status/904243060657160192/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 560,
-							"h": 481,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 560,
-							"h": 481,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 560,
-							"h": 481,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 4673089298,
-			"id_str": "4673089298",
-			"name": "🍒L͓̽I͓̽T͓̽T͓̽ 𝙇𝙄𝙏𝙏🍒",
-			"screen_name": "LITT___",
-			"location": "헤더피프리사랑뿐",
-			"description": "1차 위주　세기말　 ｜　트청　｜　체인블락 사용중",
-			"url": "https://t.co/ALbYRXgIg0",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/ALbYRXgIg0",
-							"expanded_url": "http://petit-b-612.tistory.com/",
-							"display_url": "petit-b-612.tistory.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 501,
-			"friends_count": 98,
-			"listed_count": 3,
-			"created_at": "Tue Dec 29 13:57:38 +0000 2015",
-			"favourites_count": 7895,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 96,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1051328439955812352/JhDUdVB3_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051328439955812352/JhDUdVB3_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4673089298/1538239481",
-			"profile_link_color": "E0AABB",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 7634,
-		"favorite_count": 6000,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "내가 신청서 쓸 때/자캐 짤 때 참고하는것들\nMBTI 테스트 https://t.co/IB9NuHsoLy\n에고그램 테스트 https://t.co/aXJ7dkQfG6\n애니어그램 테스트 https://t.co/Ml89EqRVVB https://t.co/bsIduCA9Tu"
 	},
 	{
 		"created_at": "Sat Oct 07 18:15:50 +0000 2017",
@@ -751,7 +477,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1528,
+			"statuses_count": 1527,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1033,16 +759,16 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7478,
+			"followers_count": 7465,
 			"friends_count": 5,
-			"listed_count": 17,
+			"listed_count": 16,
 			"created_at": "Sun Nov 16 07:23:28 +0000 2014",
-			"favourites_count": 59,
+			"favourites_count": 60,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 373,
+			"statuses_count": 375,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1072,8 +798,8 @@ Grailbird.data.tweets_2017_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 956,
-		"favorite_count": 908,
+		"retweet_count": 953,
+		"favorite_count": 907,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,

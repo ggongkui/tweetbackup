@@ -45,7 +45,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1528,
+			"statuses_count": 1527,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -81,244 +81,6 @@ Grailbird.data.tweets_2017_12 =
 		"retweeted": false,
 		"lang": "ko",
 		"text": "기다리지 않는 사람을 기다리지 말아라."
-	},
-	{
-		"created_at": "Sat Oct 14 02:45:12 +0000 2017",
-		"id": 919031303143530500,
-		"id_str": "919031303143530497",
-		"full_text": "체형 시뮬레이터 (여성) https://t.co/MAuskOIrYI\n체형 시뮬레이터 (남성) https://t.co/ecU43vbBfq\n키차이 시뮬레이터? https://t.co/55dvoo0Jl8\n키&amp;체중표 남 / 여 https://t.co/vuW03slhaM",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			126
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/MAuskOIrYI",
-					"expanded_url": "http://www.modelmydiet.com/ko/women.html",
-					"display_url": "modelmydiet.com/ko/women.html",
-					"indices": [
-						14,
-						37
-					]
-				},
-				{
-					"url": "https://t.co/ecU43vbBfq",
-					"expanded_url": "http://www.modelmydiet.com/ko/men.html",
-					"display_url": "modelmydiet.com/ko/men.html",
-					"indices": [
-						52,
-						75
-					]
-				},
-				{
-					"url": "https://t.co/55dvoo0Jl8",
-					"expanded_url": "http://www.mrinitialman.com/OddsEnds/Sizes/sizes.html",
-					"display_url": "mrinitialman.com/OddsEnds/Sizes…",
-					"indices": [
-						87,
-						110
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 919030480648810500,
-					"id_str": "919030480648810497",
-					"indices": [
-						127,
-						150
-					],
-					"media_url": "http://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
-					"url": "https://t.co/vuW03slhaM",
-					"display_url": "pic.twitter.com/vuW03slhaM",
-					"expanded_url": "https://twitter.com/O_ZZ_U/status/919031303143530497/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 435,
-							"h": 599,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 435,
-							"h": 599,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 435,
-							"h": 599,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 919030480648810500,
-					"id_str": "919030480648810497",
-					"indices": [
-						127,
-						150
-					],
-					"media_url": "http://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
-					"url": "https://t.co/vuW03slhaM",
-					"display_url": "pic.twitter.com/vuW03slhaM",
-					"expanded_url": "https://twitter.com/O_ZZ_U/status/919031303143530497/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 435,
-							"h": 599,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 435,
-							"h": 599,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 435,
-							"h": 599,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 919031063762034700,
-					"id_str": "919031063762034688",
-					"indices": [
-						127,
-						150
-					],
-					"media_url": "http://pbs.twimg.com/media/DMEN4h0V4AAgpZ4.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DMEN4h0V4AAgpZ4.jpg",
-					"url": "https://t.co/vuW03slhaM",
-					"display_url": "pic.twitter.com/vuW03slhaM",
-					"expanded_url": "https://twitter.com/O_ZZ_U/status/919031303143530497/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 488,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 603,
-							"h": 840,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 603,
-							"h": 840,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": 919028995244539900,
-		"in_reply_to_status_id_str": "919028995244539904",
-		"in_reply_to_user_id": 4673089298,
-		"in_reply_to_user_id_str": "4673089298",
-		"in_reply_to_screen_name": "LITT___",
-		"user": {
-			"id": 4673089298,
-			"id_str": "4673089298",
-			"name": "🍒L͓̽I͓̽T͓̽T͓̽ 𝙇𝙄𝙏𝙏🍒",
-			"screen_name": "LITT___",
-			"location": "헤더피프리사랑뿐",
-			"description": "1차 위주　세기말　 ｜　트청　｜　체인블락 사용중",
-			"url": "https://t.co/ALbYRXgIg0",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/ALbYRXgIg0",
-							"expanded_url": "http://petit-b-612.tistory.com/",
-							"display_url": "petit-b-612.tistory.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 501,
-			"friends_count": 98,
-			"listed_count": 3,
-			"created_at": "Tue Dec 29 13:57:38 +0000 2015",
-			"favourites_count": 7895,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 96,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1051328439955812352/JhDUdVB3_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051328439955812352/JhDUdVB3_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4673089298/1538239481",
-			"profile_link_color": "E0AABB",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 697,
-		"favorite_count": 466,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "체형 시뮬레이터 (여성) https://t.co/MAuskOIrYI\n체형 시뮬레이터 (남성) https://t.co/ecU43vbBfq\n키차이 시뮬레이터? https://t.co/55dvoo0Jl8\n키&amp;체중표 남 / 여 https://t.co/vuW03slhaM"
 	},
 	{
 		"created_at": "Sat Dec 16 17:50:18 +0000 2017",
@@ -365,7 +127,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1528,
+			"statuses_count": 1527,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -447,7 +209,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1528,
+			"statuses_count": 1527,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -644,16 +406,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 236,
-			"friends_count": 143,
+			"followers_count": 234,
+			"friends_count": 141,
 			"listed_count": 9,
 			"created_at": "Wed Apr 20 08:47:19 +0000 2016",
-			"favourites_count": 1858,
+			"favourites_count": 1856,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 44096,
+			"statuses_count": 44091,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -682,8 +444,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 685,
-		"favorite_count": 813,
+		"retweet_count": 684,
+		"favorite_count": 811,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -798,12 +560,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 127,
 			"listed_count": 1,
 			"created_at": "Mon May 01 17:09:12 +0000 2017",
-			"favourites_count": 17309,
+			"favourites_count": 17453,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 52968,
+			"statuses_count": 53254,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -833,8 +595,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 970,
-		"favorite_count": 907,
+		"retweet_count": 967,
+		"favorite_count": 902,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1073,9 +835,9 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4278,
+			"followers_count": 4275,
 			"friends_count": 122,
-			"listed_count": 46,
+			"listed_count": 0,
 			"created_at": "Sat Nov 11 14:38:44 +0000 2017",
 			"favourites_count": 637,
 			"utc_offset": null,
@@ -1113,7 +875,7 @@ Grailbird.data.tweets_2017_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 832,
-		"favorite_count": 1707,
+		"favorite_count": 1708,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1176,7 +938,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1528,
+			"statuses_count": 1527,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1340,16 +1102,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14197,
+			"followers_count": 14191,
 			"friends_count": 80,
-			"listed_count": 315,
+			"listed_count": 317,
 			"created_at": "Fri Jan 03 02:52:35 +0000 2014",
-			"favourites_count": 2932,
+			"favourites_count": 2931,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 17425,
+			"statuses_count": 17427,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1379,8 +1141,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3914,
-		"favorite_count": 9116,
+		"retweet_count": 3906,
+		"favorite_count": 9108,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1437,12 +1199,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 95,
 			"listed_count": 2,
 			"created_at": "Mon May 23 03:14:48 +0000 2016",
-			"favourites_count": 7590,
+			"favourites_count": 7587,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 20007,
+			"statuses_count": 20004,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1472,8 +1234,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1807,
-		"favorite_count": 912,
+		"retweet_count": 1805,
+		"favorite_count": 914,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
