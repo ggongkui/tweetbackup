@@ -145,16 +145,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16211,
+			"followers_count": 16240,
 			"friends_count": 38,
-			"listed_count": 103,
+			"listed_count": 107,
 			"created_at": "Tue Oct 11 11:53:57 +0000 2011",
-			"favourites_count": 6496,
+			"favourites_count": 6494,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 8614,
+			"statuses_count": 8628,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -184,8 +184,8 @@ Grailbird.data.tweets_2018_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 10916,
-		"favorite_count": 27987,
+		"retweet_count": 10913,
+		"favorite_count": 27983,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -310,7 +310,7 @@ Grailbird.data.tweets_2018_08 =
 			"friends_count": 169,
 			"listed_count": 1,
 			"created_at": "Wed Jul 13 09:49:43 +0000 2016",
-			"favourites_count": 32117,
+			"favourites_count": 32068,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -345,8 +345,8 @@ Grailbird.data.tweets_2018_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 12692,
-		"favorite_count": 5838,
+		"retweet_count": 12669,
+		"favorite_count": 5836,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -588,16 +588,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11897,
-			"friends_count": 258,
+			"followers_count": 11927,
+			"friends_count": 259,
 			"listed_count": 151,
 			"created_at": "Sat Jun 06 09:42:30 +0000 2009",
-			"favourites_count": 8564,
+			"favourites_count": 8727,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 8583,
+			"statuses_count": 9158,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -627,8 +627,8 @@ Grailbird.data.tweets_2018_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1052,
-		"favorite_count": 562,
+		"retweet_count": 1051,
+		"favorite_count": 560,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -729,211 +729,6 @@ Grailbird.data.tweets_2018_08 =
 		"possibly_sensitive": false,
 		"lang": "ko",
 		"text": "https://t.co/qWUAuqV6io 주소 라벨 인쇄"
-	},
-	{
-		"created_at": "Tue Aug 21 10:04:17 +0000 2018",
-		"id": 1031844430863429600,
-		"id_str": "1031844430863429634",
-		"full_text": "예전에 찍다가 멈춘 스페 파일이 있길래 살짝 올려봄.. 언젠가 다 찍으면 유튜브에 올려야지 https://t.co/n0KDlGDUio",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			50
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1031841636295180300,
-					"id_str": "1031841636295180289",
-					"indices": [
-						51,
-						74
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
-					"url": "https://t.co/n0KDlGDUio",
-					"display_url": "pic.twitter.com/n0KDlGDUio",
-					"expanded_url": "https://twitter.com/kuroxpeng/status/1031844430863429634/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1280,
-							"h": 720,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1031841636295180300,
-					"id_str": "1031841636295180289",
-					"indices": [
-						51,
-						74
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031841636295180289/pu/img/ohYZXDfxrJUEa-iE.jpg",
-					"url": "https://t.co/n0KDlGDUio",
-					"display_url": "pic.twitter.com/n0KDlGDUio",
-					"expanded_url": "https://twitter.com/kuroxpeng/status/1031844430863429634/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1280,
-							"h": 720,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							16,
-							9
-						],
-						"duration_millis": 140000,
-						"variants": [
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/pl/V_I7v1QgqvfCZIcD.m3u8?tag=5"
-							},
-							{
-								"bitrate": 256000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/320x180/1mg07_i6rIT5n9ul.mp4?tag=5"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/640x360/lo4ey8qNZbRwL_6d.mp4?tag=5"
-							},
-							{
-								"bitrate": 2176000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/1031841636295180289/pu/vid/1280x720/DYbjip3afzrlaX71.mp4?tag=5"
-							}
-						]
-					},
-					"additional_media_info": {
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 821020597,
-			"id_str": "821020597",
-			"name": "펭구연",
-			"screen_name": "kuroxpeng",
-			"location": "베느님 마음속",
-			"description": "contact : khm9733@naver.com | JOJO계정: @Otaku__JOJO 헤더 다은님❤️ Don't use my picture without permission.",
-			"url": "https://t.co/t51na1877J",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/t51na1877J",
-							"expanded_url": "http://ask.fm/kuroxpeng",
-							"display_url": "ask.fm/kuroxpeng",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 9853,
-			"friends_count": 172,
-			"listed_count": 91,
-			"created_at": "Thu Sep 13 06:51:25 +0000 2012",
-			"favourites_count": 4351,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 1714,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1056539345513922561/3YB4xjQ6_normal.png",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056539345513922561/3YB4xjQ6_normal.png",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/821020597/1525706127",
-			"profile_link_color": "FC4CB2",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 6971,
-		"favorite_count": 13403,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "예전에 찍다가 멈춘 스페 파일이 있길래 살짝 올려봄.. 언젠가 다 찍으면 유튜브에 올려야지 https://t.co/n0KDlGDUio"
 	},
 	{
 		"created_at": "Sat Aug 18 04:14:54 +0000 2018",
@@ -1185,16 +980,16 @@ Grailbird.data.tweets_2018_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2345,
+				"followers_count": 2342,
 				"friends_count": 95,
 				"listed_count": 70,
 				"created_at": "Tue Feb 02 17:15:49 +0000 2010",
-				"favourites_count": 407,
+				"favourites_count": 408,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 8341,
+				"statuses_count": 8347,
 				"lang": "ja",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1224,8 +1019,8 @@ Grailbird.data.tweets_2018_08 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 99693,
-			"favorite_count": 249676,
+			"retweet_count": 99639,
+			"favorite_count": 249591,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1264,7 +1059,7 @@ Grailbird.data.tweets_2018_08 =
 		"user": {
 			"id": 2470772317,
 			"id_str": "2470772317",
-			"name": "말렉키링 오늘까지 선입금&통판!!!!➰알열➰",
+			"name": "D-3) 말렉다키 선입금&통판➰알열➰",
 			"screen_name": "allyur_twit",
 			"location": "",
 			"description": "리버스X/롤겜만/알렉매그/2.5D/그림쟁이/글쟁이/코겸사/ https://t.co/LmwAl7B7Z6 / https://t.co/TZoH5z9QVz헤더는 요시님(@DISNEYU8)/ ⭐Do not save and repost all my arts without my permission⭐",
@@ -1307,16 +1102,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2150,
-			"friends_count": 373,
-			"listed_count": 0,
+			"followers_count": 2152,
+			"friends_count": 374,
+			"listed_count": 28,
 			"created_at": "Wed Apr 30 12:12:29 +0000 2014",
-			"favourites_count": 6641,
+			"favourites_count": 6651,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 37368,
+			"statuses_count": 37547,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1325,8 +1120,8 @@ Grailbird.data.tweets_2018_08 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1061190886766260224/4ykHO9Wj_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061190886766260224/4ykHO9Wj_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063804675743305728/jQkmF3M6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063804675743305728/jQkmF3M6_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2470772317/1541273719",
 			"profile_link_color": "3B94D9",
 			"profile_sidebar_border_color": "000000",
@@ -1496,16 +1291,16 @@ Grailbird.data.tweets_2018_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3552,
-				"friends_count": 91,
+				"followers_count": 3563,
+				"friends_count": 92,
 				"listed_count": 4,
 				"created_at": "Sat Sep 24 12:03:52 +0000 2016",
-				"favourites_count": 11682,
+				"favourites_count": 11624,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 23914,
+				"statuses_count": 24005,
 				"lang": "ko",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1535,8 +1330,8 @@ Grailbird.data.tweets_2018_08 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 16880,
-			"favorite_count": 12530,
+			"retweet_count": 16863,
+			"favorite_count": 12525,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "ko"
@@ -1574,7 +1369,7 @@ Grailbird.data.tweets_2018_08 =
 		"user": {
 			"id": 3478021633,
 			"id_str": "3478021633",
-			"name": "[17일 생방!: 메인트] 판 님",
+			"name": "판 님",
 			"screen_name": "Pro_Phan_",
 			"location": "City of Angel",
 			"description": "진한 화장하는 사람 입니다.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFUB FREE | 그 게임 | 컨셉 메이크업 | 드렉 | 리버시블 올라운더 | 내연남들 @Phan_s_Ricardo, @Phan_s_Camille, @Phan_s_Melvin",
@@ -1598,16 +1393,16 @@ Grailbird.data.tweets_2018_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2530,
+			"followers_count": 2522,
 			"friends_count": 272,
 			"listed_count": 9,
 			"created_at": "Mon Sep 07 04:31:54 +0000 2015",
-			"favourites_count": 19024,
+			"favourites_count": 19066,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 49073,
+			"statuses_count": 49089,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1637,8 +1432,8 @@ Grailbird.data.tweets_2018_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 11702,
-		"favorite_count": 5712,
+		"retweet_count": 11687,
+		"favorite_count": 5708,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
