@@ -36,16 +36,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 38267,
+			"followers_count": 38268,
 			"friends_count": 8,
-			"listed_count": 898,
+			"listed_count": 896,
 			"created_at": "Thu Sep 12 11:44:24 +0000 2013",
 			"favourites_count": 26,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 6880,
+			"statuses_count": 6884,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -75,8 +75,8 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4017,
-		"favorite_count": 1441,
+		"retweet_count": 4012,
+		"favorite_count": 1444,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -265,7 +265,7 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3506,
+			"followers_count": 3508,
 			"friends_count": 25,
 			"listed_count": 49,
 			"created_at": "Sun Sep 10 01:05:13 +0000 2017",
@@ -274,7 +274,7 @@ Grailbird.data.tweets_2018_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 675,
+			"statuses_count": 680,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -304,7 +304,7 @@ Grailbird.data.tweets_2018_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 313,
-		"favorite_count": 338,
+		"favorite_count": 337,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -425,11 +425,11 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2728,
-			"friends_count": 996,
+			"followers_count": 2719,
+			"friends_count": 994,
 			"listed_count": 0,
 			"created_at": "Mon Oct 02 18:55:32 +0000 2017",
-			"favourites_count": 4876,
+			"favourites_count": 4869,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -464,8 +464,8 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 19999,
-		"favorite_count": 12729,
+		"retweet_count": 19973,
+		"favorite_count": 12724,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -590,7 +590,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 3,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
-			"favourites_count": 138,
+			"favourites_count": 137,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -789,15 +789,15 @@ Grailbird.data.tweets_2018_07 =
 			},
 			"protected": false,
 			"followers_count": 556,
-			"friends_count": 283,
+			"friends_count": 287,
 			"listed_count": 0,
 			"created_at": "Sat May 12 02:41:39 +0000 2018",
-			"favourites_count": 4962,
+			"favourites_count": 5038,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 15385,
+			"statuses_count": 15450,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1034,16 +1034,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 37945,
+			"followers_count": 37955,
 			"friends_count": 5,
-			"listed_count": 101,
+			"listed_count": 99,
 			"created_at": "Wed Feb 07 15:56:11 +0000 2018",
 			"favourites_count": 617,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 274,
+			"statuses_count": 268,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1052,8 +1052,8 @@ Grailbird.data.tweets_2018_07 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/965934387882704896/pozKyI7B_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965934387882704896/pozKyI7B_normal.jpg",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064847804688818176/MeSXOS3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064847804688818176/MeSXOS3w_normal.jpg",
 			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961267352271650821/1524409902",
 			"profile_link_color": "000000",
 			"profile_sidebar_border_color": "000000",
@@ -1073,13 +1073,437 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 41470,
-		"favorite_count": 28884,
+		"retweet_count": 41420,
+		"favorite_count": 28870,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
 		"text": "선비와 검은고양이 https://t.co/kb0IdRKkbo"
+	},
+	{
+		"created_at": "Tue Sep 19 17:32:26 +0000 2017",
+		"id": 910194887034728400,
+		"id_str": "910194887034728448",
+		"full_text": "우체국 택배 방문(다량) 접수하기\nhttps://t.co/cqYb11qZnq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cqYb11qZnq",
+					"expanded_url": "http://oasisinfo.tistory.com/m/21",
+					"display_url": "oasisinfo.tistory.com/m/21",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 910182300687544300,
+		"in_reply_to_status_id_str": "910182300687544320",
+		"in_reply_to_user_id": 801393386427019300,
+		"in_reply_to_user_id_str": "801393386427019264",
+		"in_reply_to_screen_name": "Irene_heyum",
+		"user": {
+			"id": 801393386427019300,
+			"id_str": "801393386427019264",
+			"name": "이렌느 ೕ(•̀ᴗ•́)",
+			"screen_name": "Irene_heyum",
+			"location": "",
+			"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+			"url": "https://t.co/ZgK4l1kvTn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZgK4l1kvTn",
+							"expanded_url": "http://cielhero-heyum.postype.com/",
+							"display_url": "cielhero-heyum.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 750,
+			"listed_count": 1,
+			"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+			"favourites_count": 116253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167736,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우체국 택배 방문(다량) 접수하기\nhttps://t.co/cqYb11qZnq"
+	},
+	{
+		"created_at": "Tue Sep 19 17:19:29 +0000 2017",
+		"id": 910191627259355100,
+		"id_str": "910191627259355136",
+		"full_text": "통판시 주의 사항\nhttps://t.co/FnE5fefIHM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FnE5fefIHM",
+					"expanded_url": "http://blog.naver.com/woal14/220289795522",
+					"display_url": "blog.naver.com/woal14/2202897…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 910182300687544300,
+		"in_reply_to_status_id_str": "910182300687544320",
+		"in_reply_to_user_id": 801393386427019300,
+		"in_reply_to_user_id_str": "801393386427019264",
+		"in_reply_to_screen_name": "Irene_heyum",
+		"user": {
+			"id": 801393386427019300,
+			"id_str": "801393386427019264",
+			"name": "이렌느 ೕ(•̀ᴗ•́)",
+			"screen_name": "Irene_heyum",
+			"location": "",
+			"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+			"url": "https://t.co/ZgK4l1kvTn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZgK4l1kvTn",
+							"expanded_url": "http://cielhero-heyum.postype.com/",
+							"display_url": "cielhero-heyum.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 750,
+			"listed_count": 1,
+			"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+			"favourites_count": 116253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167736,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "통판시 주의 사항\nhttps://t.co/FnE5fefIHM"
+	},
+	{
+		"created_at": "Tue Sep 19 17:16:25 +0000 2017",
+		"id": 910190856195383300,
+		"id_str": "910190856195383296",
+		"full_text": "엑셀을 통한 우편번호 라벨 인쇄하기\nhttps://t.co/NNJfdVNxxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NNJfdVNxxa",
+					"expanded_url": "http://blog.daum.net/gubagsa/14837750",
+					"display_url": "blog.daum.net/gubagsa/148377…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 910182300687544300,
+		"in_reply_to_status_id_str": "910182300687544320",
+		"in_reply_to_user_id": 801393386427019300,
+		"in_reply_to_user_id_str": "801393386427019264",
+		"in_reply_to_screen_name": "Irene_heyum",
+		"user": {
+			"id": 801393386427019300,
+			"id_str": "801393386427019264",
+			"name": "이렌느 ೕ(•̀ᴗ•́)",
+			"screen_name": "Irene_heyum",
+			"location": "",
+			"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+			"url": "https://t.co/ZgK4l1kvTn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZgK4l1kvTn",
+							"expanded_url": "http://cielhero-heyum.postype.com/",
+							"display_url": "cielhero-heyum.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 750,
+			"listed_count": 1,
+			"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+			"favourites_count": 116253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167736,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엑셀을 통한 우편번호 라벨 인쇄하기\nhttps://t.co/NNJfdVNxxa"
+	},
+	{
+		"created_at": "Tue Sep 19 17:02:52 +0000 2017",
+		"id": 910187448386256900,
+		"id_str": "910187448386256896",
+		"full_text": "통판을 위한 메일 여러개 보내기\nhttps://t.co/mNalHFWmo0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNalHFWmo0",
+					"expanded_url": "http://nunee-data.tistory.com/m/3",
+					"display_url": "nunee-data.tistory.com/m/3",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 910182300687544300,
+		"in_reply_to_status_id_str": "910182300687544320",
+		"in_reply_to_user_id": 801393386427019300,
+		"in_reply_to_user_id_str": "801393386427019264",
+		"in_reply_to_screen_name": "Irene_heyum",
+		"user": {
+			"id": 801393386427019300,
+			"id_str": "801393386427019264",
+			"name": "이렌느 ೕ(•̀ᴗ•́)",
+			"screen_name": "Irene_heyum",
+			"location": "",
+			"description": "카이른 중심의 올라운더/리버시블/FUB FREE/RPS \nOK/GS(TS) OK. 카이른 뒷계 @Irene_heyum2 \n헤더는 아칭님 @LangLang015",
+			"url": "https://t.co/ZgK4l1kvTn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZgK4l1kvTn",
+							"expanded_url": "http://cielhero-heyum.postype.com/",
+							"display_url": "cielhero-heyum.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 750,
+			"listed_count": 1,
+			"created_at": "Wed Nov 23 11:54:07 +0000 2016",
+			"favourites_count": 116253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167736,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990847976976269312/JgXyd9IO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/801393386427019264/1512887647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "통판을 위한 메일 여러개 보내기\nhttps://t.co/mNalHFWmo0"
 	},
 	{
 		"created_at": "Thu Jul 05 10:00:48 +0000 2018",
@@ -1121,7 +1545,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 3,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
-			"favourites_count": 138,
+			"favourites_count": 137,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -1303,16 +1727,16 @@ Grailbird.data.tweets_2018_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 544,
-			"friends_count": 32,
+			"followers_count": 548,
+			"friends_count": 31,
 			"listed_count": 2,
 			"created_at": "Tue Jun 26 14:40:34 +0000 2018",
-			"favourites_count": 8855,
+			"favourites_count": 8908,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 11648,
+			"statuses_count": 11821,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1341,8 +1765,8 @@ Grailbird.data.tweets_2018_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 13080,
-		"favorite_count": 9882,
+		"retweet_count": 13062,
+		"favorite_count": 9869,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1399,7 +1823,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 3,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
-			"favourites_count": 138,
+			"favourites_count": 137,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
