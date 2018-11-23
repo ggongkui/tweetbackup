@@ -36,8 +36,8 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": true,
-			"followers_count": 2,
-			"friends_count": 3,
+			"followers_count": 3,
+			"friends_count": 4,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -45,7 +45,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1527,
+			"statuses_count": 1528,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -83,6 +83,244 @@ Grailbird.data.tweets_2017_12 =
 		"text": "기다리지 않는 사람을 기다리지 말아라."
 	},
 	{
+		"created_at": "Sat Oct 14 02:45:12 +0000 2017",
+		"id": 919031303143530500,
+		"id_str": "919031303143530497",
+		"full_text": "체형 시뮬레이터 (여성) https://t.co/MAuskOIrYI\n체형 시뮬레이터 (남성) https://t.co/ecU43vbBfq\n키차이 시뮬레이터? https://t.co/55dvoo0Jl8\n키&amp;체중표 남 / 여 https://t.co/vuW03slhaM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MAuskOIrYI",
+					"expanded_url": "http://www.modelmydiet.com/ko/women.html",
+					"display_url": "modelmydiet.com/ko/women.html",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/ecU43vbBfq",
+					"expanded_url": "http://www.modelmydiet.com/ko/men.html",
+					"display_url": "modelmydiet.com/ko/men.html",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/55dvoo0Jl8",
+					"expanded_url": "http://www.mrinitialman.com/OddsEnds/Sizes/sizes.html",
+					"display_url": "mrinitialman.com/OddsEnds/Sizes…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 919030480648810500,
+					"id_str": "919030480648810497",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
+					"url": "https://t.co/vuW03slhaM",
+					"display_url": "pic.twitter.com/vuW03slhaM",
+					"expanded_url": "https://twitter.com/O_ZZ_U/status/919031303143530497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 435,
+							"h": 599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 435,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919030480648810500,
+					"id_str": "919030480648810497",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMENWljUMAE44Dq.jpg",
+					"url": "https://t.co/vuW03slhaM",
+					"display_url": "pic.twitter.com/vuW03slhaM",
+					"expanded_url": "https://twitter.com/O_ZZ_U/status/919031303143530497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 435,
+							"h": 599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 435,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 435,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 919031063762034700,
+					"id_str": "919031063762034688",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DMEN4h0V4AAgpZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMEN4h0V4AAgpZ4.jpg",
+					"url": "https://t.co/vuW03slhaM",
+					"display_url": "pic.twitter.com/vuW03slhaM",
+					"expanded_url": "https://twitter.com/O_ZZ_U/status/919031303143530497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 603,
+							"h": 840,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 603,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 919028995244539900,
+		"in_reply_to_status_id_str": "919028995244539904",
+		"in_reply_to_user_id": 4673089298,
+		"in_reply_to_user_id_str": "4673089298",
+		"in_reply_to_screen_name": "LITT___",
+		"user": {
+			"id": 4673089298,
+			"id_str": "4673089298",
+			"name": "🍒𝙇𝙄𝙏𝙏🍒",
+			"screen_name": "LITT___",
+			"location": "헤더피프리사랑뿐",
+			"description": "1차 위주　세기말　 ｜　트청　｜　체인블락 사용중",
+			"url": "https://t.co/ALbYRXgIg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALbYRXgIg0",
+							"expanded_url": "http://petit-b-612.tistory.com/",
+							"display_url": "petit-b-612.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 101,
+			"listed_count": 3,
+			"created_at": "Tue Dec 29 13:57:38 +0000 2015",
+			"favourites_count": 7870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051328439955812352/JhDUdVB3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051328439955812352/JhDUdVB3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4673089298/1538239481",
+			"profile_link_color": "E0AABB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 692,
+		"favorite_count": 466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "체형 시뮬레이터 (여성) https://t.co/MAuskOIrYI\n체형 시뮬레이터 (남성) https://t.co/ecU43vbBfq\n키차이 시뮬레이터? https://t.co/55dvoo0Jl8\n키&amp;체중표 남 / 여 https://t.co/vuW03slhaM"
+	},
+	{
 		"created_at": "Sat Dec 16 17:50:18 +0000 2017",
 		"id": 942089516495466500,
 		"id_str": "942089516495466496",
@@ -118,8 +356,8 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": true,
-			"followers_count": 2,
-			"friends_count": 3,
+			"followers_count": 3,
+			"friends_count": 4,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -127,7 +365,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1527,
+			"statuses_count": 1528,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -200,8 +438,8 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": true,
-			"followers_count": 2,
-			"friends_count": 3,
+			"followers_count": 3,
+			"friends_count": 4,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -209,7 +447,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1527,
+			"statuses_count": 1528,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -406,7 +644,7 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 233,
+			"followers_count": 234,
 			"friends_count": 141,
 			"listed_count": 9,
 			"created_at": "Wed Apr 20 08:47:19 +0000 2016",
@@ -415,7 +653,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 44076,
+			"statuses_count": 44074,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -444,8 +682,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 683,
-		"favorite_count": 809,
+		"retweet_count": 686,
+		"favorite_count": 817,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -556,16 +794,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 118,
-			"friends_count": 125,
+			"followers_count": 117,
+			"friends_count": 122,
 			"listed_count": 1,
 			"created_at": "Mon May 01 17:09:12 +0000 2017",
-			"favourites_count": 17589,
+			"favourites_count": 17674,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 53497,
+			"statuses_count": 53607,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -595,8 +833,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 964,
-		"favorite_count": 901,
+		"retweet_count": 962,
+		"favorite_count": 900,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -835,9 +1073,9 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4269,
+			"followers_count": 4264,
 			"friends_count": 122,
-			"listed_count": 45,
+			"listed_count": 44,
 			"created_at": "Sat Nov 11 14:38:44 +0000 2017",
 			"favourites_count": 636,
 			"utc_offset": null,
@@ -875,7 +1113,7 @@ Grailbird.data.tweets_2017_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 831,
-		"favorite_count": 1705,
+		"favorite_count": 1704,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -929,8 +1167,8 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": true,
-			"followers_count": 2,
-			"friends_count": 3,
+			"followers_count": 3,
+			"friends_count": 4,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -938,7 +1176,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1527,
+			"statuses_count": 1528,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1102,11 +1340,11 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14167,
+			"followers_count": 14168,
 			"friends_count": 80,
 			"listed_count": 321,
 			"created_at": "Fri Jan 03 02:52:35 +0000 2014",
-			"favourites_count": 2927,
+			"favourites_count": 2926,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -1141,8 +1379,8 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3900,
-		"favorite_count": 9095,
+		"retweet_count": 3897,
+		"favorite_count": 9102,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1199,12 +1437,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 95,
 			"listed_count": 2,
 			"created_at": "Mon May 23 03:14:48 +0000 2016",
-			"favourites_count": 7580,
+			"favourites_count": 7577,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 19996,
+			"statuses_count": 19991,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
