@@ -1,6 +1,1068 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 10 19:37:12 +0000 2018",
+		"id": 1072213660225855500,
+		"id_str": "1072213660225855488",
+		"full_text": "https://t.co/U8Av88XlfR https://t.co/RkpZtzuO9B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U8Av88XlfR",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1730024",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/RkpZtzuO9B",
+					"expanded_url": "https://twitter.com/holic_institute/status/1072079782270005248",
+					"display_url": "twitter.com/holic_institut…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072079782270005200,
+		"quoted_status_id_str": "1072079782270005248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RkpZtzuO9B",
+			"expanded": "https://twitter.com/holic_institute/status/1072079782270005248",
+			"display": "twitter.com/holic_institut…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 10 10:45:13 +0000 2018",
+			"id": 1072079782270005200,
+			"id_str": "1072079782270005248",
+			"full_text": "&lt;소재추천&gt;\n스타더스트 브러쉬! 손그림 느낌이 너무 예뻐요! 이런 브러쉬는 허전한 배경을 채우는 데코 용도로 참 좋습니다. 쟁여두면 언젠가는 쓰게 되는 그런 브러쉬!😇 두 가지 종류가 있고 둘 모두 넘나 귀여워요 😭\nhttps://t.co/BLymy6fZV0 https://t.co/Kz8pTWEOco",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BLymy6fZV0",
+						"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1730175",
+						"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1072078178288468000,
+						"id_str": "1072078178288467968",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/DuDJbExVAAASAGB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuDJbExVAAASAGB.jpg",
+						"url": "https://t.co/Kz8pTWEOco",
+						"display_url": "pic.twitter.com/Kz8pTWEOco",
+						"expanded_url": "https://twitter.com/holic_institute/status/1072079782270005248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 389,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 389,
+								"h": 617,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 389,
+								"h": 617,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072078178288468000,
+						"id_str": "1072078178288467968",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/DuDJbExVAAASAGB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuDJbExVAAASAGB.jpg",
+						"url": "https://t.co/Kz8pTWEOco",
+						"display_url": "pic.twitter.com/Kz8pTWEOco",
+						"expanded_url": "https://twitter.com/holic_institute/status/1072079782270005248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 389,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 389,
+								"h": 617,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 389,
+								"h": 617,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1072078251827187700,
+						"id_str": "1072078251827187712",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/DuDJfWuU0AA-9Ud.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuDJfWuU0AA-9Ud.jpg",
+						"url": "https://t.co/Kz8pTWEOco",
+						"display_url": "pic.twitter.com/Kz8pTWEOco",
+						"expanded_url": "https://twitter.com/holic_institute/status/1072079782270005248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1009375005057036300,
+				"id_str": "1009375005057036288",
+				"name": "홀릭 그림자료봇",
+				"screen_name": "holic_institute",
+				"location": "",
+				"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+				"url": "https://t.co/PryDL4IEgG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PryDL4IEgG",
+								"expanded_url": "https://blog.naver.com/hohong10",
+								"display_url": "blog.naver.com/hohong10",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16861,
+				"friends_count": 1253,
+				"listed_count": 124,
+				"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 130,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+				"profile_link_color": "EF3E36",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2063,
+			"favorite_count": 2238,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/U8Av88XlfR https://t.co/RkpZtzuO9B"
+	},
+	{
+		"created_at": "Mon Dec 10 18:43:07 +0000 2018",
+		"id": 1072200050372005900,
+		"id_str": "1072200050372005889",
+		"full_text": "그냥 이 감정에 취해있는 거였으면 좋겠다 언젠가 그랬듯...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그냥 이 감정에 취해있는 거였으면 좋겠다 언젠가 그랬듯..."
+	},
+	{
+		"created_at": "Mon Dec 10 18:42:39 +0000 2018",
+		"id": 1072199933522993200,
+		"id_str": "1072199933522993154",
+		"full_text": "더 많이 알고 싶어 사실 당신에 대해 모르는 게 없었으면 좋겠어 그럼 조금 덜 불안할 것 같아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "더 많이 알고 싶어 사실 당신에 대해 모르는 게 없었으면 좋겠어 그럼 조금 덜 불안할 것 같아"
+	},
+	{
+		"created_at": "Mon Dec 10 18:41:27 +0000 2018",
+		"id": 1072199634313871400,
+		"id_str": "1072199634313871360",
+		"full_text": "당신을 사랑하는 게 내게 어떤 의미인지 아마 당신은 평생토록 모를 것이다 나 혼자 품고있는 이 감정이 나를 얼마나 뒤바꾸게 될지는 나조차도 모른다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "당신을 사랑하는 게 내게 어떤 의미인지 아마 당신은 평생토록 모를 것이다 나 혼자 품고있는 이 감정이 나를 얼마나 뒤바꾸게 될지는 나조차도 모른다"
+	},
+	{
+		"created_at": "Mon Dec 10 18:40:20 +0000 2018",
+		"id": 1072199351248707600,
+		"id_str": "1072199351248707584",
+		"full_text": "내가 할 수 있는건 그저 잘 듣는 것, 기억하는 것, 존중하는 것 정도... 정말 그것 뿐인데 자꾸만 그것보다 더 많은 것을 걱정해 아마도 감정이 너무 커서 그런거겠지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072199051335090200,
+		"in_reply_to_status_id_str": "1072199051335090176",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "내가 할 수 있는건 그저 잘 듣는 것, 기억하는 것, 존중하는 것 정도... 정말 그것 뿐인데 자꾸만 그것보다 더 많은 것을 걱정해 아마도 감정이 너무 커서 그런거겠지"
+	},
+	{
+		"created_at": "Mon Dec 10 18:39:08 +0000 2018",
+		"id": 1072199051335090200,
+		"id_str": "1072199051335090176",
+		"full_text": "상황과 입장이 먼저고 사람은 어떤 사소한 것을 계기로 흠집나고 멀어질 수 있으며 그건 내 노력 여부와는 사실 크게 관련이 없다 어떤 재능일수도 행운일수도 있는 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072198854395682800,
+		"in_reply_to_status_id_str": "1072198854395682821",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "상황과 입장이 먼저고 사람은 어떤 사소한 것을 계기로 흠집나고 멀어질 수 있으며 그건 내 노력 여부와는 사실 크게 관련이 없다 어떤 재능일수도 행운일수도 있는 것"
+	},
+	{
+		"created_at": "Mon Dec 10 18:38:22 +0000 2018",
+		"id": 1072198854395682800,
+		"id_str": "1072198854395682821",
+		"full_text": "나를 좋아하는 사람이 나를 싫어하게 될까봐 안절부절 못하는 것... 그런데 분명 사람 마음은 뜻대로 되는 게 아니란걸 알고 있다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072198705460142100,
+		"in_reply_to_status_id_str": "1072198705460142081",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나를 좋아하는 사람이 나를 싫어하게 될까봐 안절부절 못하는 것... 그런데 분명 사람 마음은 뜻대로 되는 게 아니란걸 알고 있다"
+	},
+	{
+		"created_at": "Mon Dec 10 18:37:46 +0000 2018",
+		"id": 1072198705460142100,
+		"id_str": "1072198705460142081",
+		"full_text": "좋아진 것은 새로운 것이나 모르는 것을 두려워하지 않게된 것 (사실 완전히는 아니고... 적어도 시도를 해본다) 나빠진 것은 자신을 포장하는 말을 멈추지 못하는 거",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072198400060227600,
+		"in_reply_to_status_id_str": "1072198400060227584",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "좋아진 것은 새로운 것이나 모르는 것을 두려워하지 않게된 것 (사실 완전히는 아니고... 적어도 시도를 해본다) 나빠진 것은 자신을 포장하는 말을 멈추지 못하는 거"
+	},
+	{
+		"created_at": "Mon Dec 10 18:36:33 +0000 2018",
+		"id": 1072198400060227600,
+		"id_str": "1072198400060227584",
+		"full_text": "https://t.co/SyCZBIsfzI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072198393097740300,
+					"id_str": "1072198393097740289",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2wf1V4AEthRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2wf1V4AEthRF.jpg",
+					"url": "https://t.co/SyCZBIsfzI",
+					"display_url": "pic.twitter.com/SyCZBIsfzI",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1072198400060227584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 126,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 114,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072198393097740300,
+					"id_str": "1072198393097740289",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2wf1V4AEthRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2wf1V4AEthRF.jpg",
+					"url": "https://t.co/SyCZBIsfzI",
+					"display_url": "pic.twitter.com/SyCZBIsfzI",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1072198400060227584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 126,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 114,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "로맨틱하고 유쾌한 한때를 위하여",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/SyCZBIsfzI"
+	},
+	{
 		"created_at": "Sat Dec 08 14:00:46 +0000 2018",
 		"id": 1071404220870324200,
 		"id_str": "1071404220870324224",
@@ -198,7 +1260,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Sat Dec 08 11:03:09 +0000 2018",
 		"id": 1071359523296690200,
 		"id_str": "1071359523296690176",
-		"full_text": "[RT💕]\n[말렉배포전/스6] 섀도우헌터 말렉(알렉매그) 개인지 \"happily ever after\" 선입금예약/통판을 진행합니다. 입금선착순으로 옛날에 지인나눔만 했던 전차스 끼워드립니다🙆‍♀️\n\n🍸기간 :  12월 8일 ~ 12월 16일\n🍸 폼 : https://t.co/v4RcVI076r\n\n샘플 및 모든 자세한 사항은 폼을 참고해주세요 :) https://t.co/ptv9xDahRP",
+		"full_text": "[RT💕]\n[말렉배포전/스6] 섀도우헌터 말렉(알렉매그) 개인지 \"happily ever after\" 선입금예약/통판을 진행합니다. 입금선착순으로 옛날에 지인나눔만 했던 전차스 끼워드립니다🙆♀️\n\n🍸기간 :  12월 8일 ~ 12월 16일\n🍸 폼 : https://t.co/v4RcVI076r\n\n샘플 및 모든 자세한 사항은 폼을 참고해주세요 :) https://t.co/ptv9xDahRP",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -376,7 +1438,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[RT💕]\n[말렉배포전/스6] 섀도우헌터 말렉(알렉매그) 개인지 \"happily ever after\" 선입금예약/통판을 진행합니다. 입금선착순으로 옛날에 지인나눔만 했던 전차스 끼워드립니다🙆‍♀️\n\n🍸기간 :  12월 8일 ~ 12월 16일\n🍸 폼 : https://t.co/v4RcVI076r\n\n샘플 및 모든 자세한 사항은 폼을 참고해주세요 :) https://t.co/ptv9xDahRP"
+		"text": "[RT💕]\n[말렉배포전/스6] 섀도우헌터 말렉(알렉매그) 개인지 \"happily ever after\" 선입금예약/통판을 진행합니다. 입금선착순으로 옛날에 지인나눔만 했던 전차스 끼워드립니다🙆♀️\n\n🍸기간 :  12월 8일 ~ 12월 16일\n🍸 폼 : https://t.co/v4RcVI076r\n\n샘플 및 모든 자세한 사항은 폼을 참고해주세요 :) https://t.co/ptv9xDahRP"
 	},
 	{
 		"created_at": "Sun Dec 09 12:31:13 +0000 2018",
