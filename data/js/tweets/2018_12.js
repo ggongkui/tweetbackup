@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 16 08:05:12 +0000 2018",
+		"id": 1074213841758638100,
+		"id_str": "1074213841758638080",
+		"full_text": "(RT🙏💕)\n[말렉배포/니1] 말렉(알렉매그) 회지 &lt;그 월록&gt; 현장수령 선입금 진행합니다. \n기간 :  ~12월 22일 \n폼 : https://t.co/dxYcIGQH1v\n샘플페이지 : https://t.co/2M4tE80puc\n\n자세한 사항은 각 페이지를 참고해주세요~☺️ https://t.co/QYYlnBYPEI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxYcIGQH1v",
+					"expanded_url": "http://naver.me/xItUCT7H",
+					"display_url": "naver.me/xItUCT7H",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/2M4tE80puc",
+					"expanded_url": "http://posty.pe/1fgt25",
+					"display_url": "posty.pe/1fgt25",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074199151586402300,
+					"id_str": "1074199151586402304",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/DuhSb-BVYAAZuB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuhSb-BVYAAZuB_.jpg",
+					"url": "https://t.co/QYYlnBYPEI",
+					"display_url": "pic.twitter.com/QYYlnBYPEI",
+					"expanded_url": "https://twitter.com/dotfive_TR/status/1074213841758638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1040,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074199151586402300,
+					"id_str": "1074199151586402304",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/DuhSb-BVYAAZuB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuhSb-BVYAAZuB_.jpg",
+					"url": "https://t.co/QYYlnBYPEI",
+					"display_url": "pic.twitter.com/QYYlnBYPEI",
+					"expanded_url": "https://twitter.com/dotfive_TR/status/1074213841758638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1040,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1056,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2379780900,
+			"id_str": "2379780900",
+			"name": "➰[배포/니1]선입&통판수요 소억🔯",
+			"screen_name": "dotfive_TR",
+			"location": "RPS노상관, 연성없음.",
+			"description": "성인. 쩜오&구독계. FUF free★Don't repost or download my drawings. don't do QT.★ SH, HANNIBAL. 손더게(@Soon_oek). ★ 낡고헤짐 (헤어짐은 블언블) ★멘션이 가끔 알림창에서도 안떠요ㅜㅜ★",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 85,
+			"listed_count": 6,
+			"created_at": "Sun Mar 09 04:04:27 +0000 2014",
+			"favourites_count": 11754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12217,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000601492716339200/dwRnBvrS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000601492716339200/dwRnBvrS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2379780900/1538845455",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(RT🙏💕)\n[말렉배포/니1] 말렉(알렉매그) 회지 &lt;그 월록&gt; 현장수령 선입금 진행합니다. \n기간 :  ~12월 22일 \n폼 : https://t.co/dxYcIGQH1v\n샘플페이지 : https://t.co/2M4tE80puc\n\n자세한 사항은 각 페이지를 참고해주세요~☺️ https://t.co/QYYlnBYPEI"
+	},
+	{
 		"created_at": "Wed Dec 19 14:18:49 +0000 2018",
 		"id": 1075395030183858200,
 		"id_str": "1075395030183858177",
