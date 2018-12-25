@@ -214,7 +214,7 @@ Grailbird.data.tweets_2018_01 =
 			"name": "¿?",
 			"screen_name": "PF_Si2",
 			"location": "",
-			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"description": "",
 			"url": null,
 			"entities": {
 				"description": {
@@ -222,8 +222,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": true,
-			"followers_count": 3,
-			"friends_count": 4,
+			"followers_count": 1,
+			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -231,7 +231,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1530,
+			"statuses_count": 1547,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -307,7 +307,7 @@ Grailbird.data.tweets_2018_01 =
 			"name": "砂糖ふくろう😀（佐藤やすよ）",
 			"screen_name": "hakubi8888",
 			"location": "埼玉県 所沢",
-			"description": "スーツ男性メインのお絵かきアカウント。洋ナシとIEKAのスモークサーモンが好きです。くるみゆべしより洋ナシの方が好きな事に気付いてしまいました。 #5分だけ描く #15min30days 主催と ＃SUITSLETTER 配信と #スーツドロ会 の講師、＃アニメーションエイド の広報をやらせてもらてます。働かない広報…",
+			"description": "スーツ男性メインの練習しかしてないお絵かきアカウント。くるみゆべしより洋ナシの方が好きな事に気付いてしまいました。 #5分だけ描く #15min30days 主催と ＃SUITSLETTER 配信と #スーツドロ会 の講師、＃アニメーションエイド の広報をやらせてもらてます。働かない広報…",
 			"url": "https://t.co/rGJu3cv0Xt",
 			"entities": {
 				"url": {
@@ -328,16 +328,16 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 26409,
-			"friends_count": 1244,
-			"listed_count": 616,
+			"followers_count": 26312,
+			"friends_count": 1270,
+			"listed_count": 622,
 			"created_at": "Tue Aug 18 10:10:28 +0000 2015",
-			"favourites_count": 40309,
+			"favourites_count": 40745,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 19606,
+			"statuses_count": 20028,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -413,7 +413,7 @@ Grailbird.data.tweets_2018_01 =
 			"name": "¿?",
 			"screen_name": "PF_Si2",
 			"location": "",
-			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"description": "",
 			"url": null,
 			"entities": {
 				"description": {
@@ -421,8 +421,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": true,
-			"followers_count": 3,
-			"friends_count": 4,
+			"followers_count": 1,
+			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -430,7 +430,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1530,
+			"statuses_count": 1547,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -612,16 +612,16 @@ Grailbird.data.tweets_2018_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 410,
-				"friends_count": 149,
-				"listed_count": 5,
+				"followers_count": 406,
+				"friends_count": 148,
+				"listed_count": 4,
 				"created_at": "Wed Oct 24 03:13:32 +0000 2012",
-				"favourites_count": 4075,
+				"favourites_count": 4048,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 8559,
+				"statuses_count": 8563,
 				"lang": "ko",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2018_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 8,
+			"retweet_count": 7,
 			"favorite_count": 6,
 			"favorited": false,
 			"retweeted": false,
@@ -703,7 +703,7 @@ Grailbird.data.tweets_2018_01 =
 			"name": "¿?",
 			"screen_name": "PF_Si2",
 			"location": "",
-			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"description": "",
 			"url": null,
 			"entities": {
 				"description": {
@@ -711,8 +711,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": true,
-			"followers_count": 3,
-			"friends_count": 4,
+			"followers_count": 1,
+			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -720,7 +720,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1530,
+			"statuses_count": 1547,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -786,7 +786,7 @@ Grailbird.data.tweets_2018_01 =
 			"name": "¿?",
 			"screen_name": "PF_Si2",
 			"location": "",
-			"description": "나는 재앙을 불러들였고, 그리하여 모래와 피로 숨이 막혔다. 불행은 나의 신이었다. / 아르튀르 랭보, 지옥에서 보내는 한철",
+			"description": "",
 			"url": null,
 			"entities": {
 				"description": {
@@ -794,8 +794,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": true,
-			"followers_count": 3,
-			"friends_count": 4,
+			"followers_count": 1,
+			"friends_count": 2,
 			"listed_count": 0,
 			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
 			"favourites_count": 137,
@@ -803,7 +803,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1530,
+			"statuses_count": 1547,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -886,16 +886,16 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4963,
-			"friends_count": 53,
+			"followers_count": 5029,
+			"friends_count": 54,
 			"listed_count": 49,
 			"created_at": "Fri Jul 02 02:07:15 +0000 2010",
-			"favourites_count": 3651,
+			"favourites_count": 3696,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 5208,
+			"statuses_count": 5425,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -924,8 +924,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 11501,
-		"favorite_count": 9634,
+		"retweet_count": 11383,
+		"favorite_count": 9534,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -968,9 +968,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1007,8 +1007,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3854,
-		"favorite_count": 1783,
+		"retweet_count": 3796,
+		"favorite_count": 1770,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -1050,9 +1050,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1089,309 +1089,12 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2327,
-		"favorite_count": 1164,
+		"retweet_count": 2300,
+		"favorite_count": 1157,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
 		"text": "저한테 마음 주지 마세요. 주셨다면 다 거둬 가세요. 저 끝내주게 못된 애예요. 얼마나 못됐는지 상상도 못 하실 거예요. 날마다 무슨 생각을 하면서 사는지 아시면 절대 일 초도 절 보고 싶지 않으실 거예요.\n\n/드라마, 신데렐라 언니"
-	},
-	{
-		"created_at": "Sat Jan 06 12:53:33 +0000 2018",
-		"id": 949624981066936300,
-		"id_str": "949624981066936322",
-		"full_text": "로고넣는건 스킵하고 아샤님이 스샷보정하는법 알려달래서 후다닥 야매로 맹글어드립니다😼\n포토스케이프 https://t.co/1xaWoe5SCl\nwaifu2x https://t.co/jMfGBwVLBS\nTwl PNG https://t.co/VWHyKLuydh https://t.co/Y4JxMXUsQj",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			141
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/1xaWoe5SCl",
-					"expanded_url": "http://photoscape.co.kr/ps/main/index.php",
-					"display_url": "photoscape.co.kr/ps/main/index.…",
-					"indices": [
-						54,
-						77
-					]
-				},
-				{
-					"url": "https://t.co/jMfGBwVLBS",
-					"expanded_url": "http://waifu2x.udp.jp/",
-					"display_url": "waifu2x.udp.jp",
-					"indices": [
-						86,
-						109
-					]
-				},
-				{
-					"url": "https://t.co/VWHyKLuydh",
-					"expanded_url": "https://totoraj930.github.io/twi-png/",
-					"display_url": "totoraj930.github.io/twi-png/",
-					"indices": [
-						118,
-						141
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 949624297181495300,
-					"id_str": "949624297181495297",
-					"indices": [
-						142,
-						165
-					],
-					"media_url": "http://pbs.twimg.com/media/DS2-RFeVQAEp6YG.png",
-					"media_url_https": "https://pbs.twimg.com/media/DS2-RFeVQAEp6YG.png",
-					"url": "https://t.co/Y4JxMXUsQj",
-					"display_url": "pic.twitter.com/Y4JxMXUsQj",
-					"expanded_url": "https://twitter.com/ff14_na_sungho/status/949624981066936322/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1276,
-							"h": 956,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 509,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 899,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 949624297181495300,
-					"id_str": "949624297181495297",
-					"indices": [
-						142,
-						165
-					],
-					"media_url": "http://pbs.twimg.com/media/DS2-RFeVQAEp6YG.png",
-					"media_url_https": "https://pbs.twimg.com/media/DS2-RFeVQAEp6YG.png",
-					"url": "https://t.co/Y4JxMXUsQj",
-					"display_url": "pic.twitter.com/Y4JxMXUsQj",
-					"expanded_url": "https://twitter.com/ff14_na_sungho/status/949624981066936322/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1276,
-							"h": 956,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 509,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 899,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						}
-					}
-				},
-				{
-					"id": 949624329452400600,
-					"id_str": "949624329452400641",
-					"indices": [
-						142,
-						165
-					],
-					"media_url": "http://pbs.twimg.com/media/DS2-S9sUMAEocyC.png",
-					"media_url_https": "https://pbs.twimg.com/media/DS2-S9sUMAEocyC.png",
-					"url": "https://t.co/Y4JxMXUsQj",
-					"display_url": "pic.twitter.com/Y4JxMXUsQj",
-					"expanded_url": "https://twitter.com/ff14_na_sungho/status/949624981066936322/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1276,
-							"h": 956,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 509,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 899,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						}
-					}
-				},
-				{
-					"id": 949624360620326900,
-					"id_str": "949624360620326912",
-					"indices": [
-						142,
-						165
-					],
-					"media_url": "http://pbs.twimg.com/media/DS2-UxzVAAA2FLe.png",
-					"media_url_https": "https://pbs.twimg.com/media/DS2-UxzVAAA2FLe.png",
-					"url": "https://t.co/Y4JxMXUsQj",
-					"display_url": "pic.twitter.com/Y4JxMXUsQj",
-					"expanded_url": "https://twitter.com/ff14_na_sungho/status/949624981066936322/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1920,
-							"h": 1080,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 949624369348730900,
-					"id_str": "949624369348730880",
-					"indices": [
-						142,
-						165
-					],
-					"media_url": "http://pbs.twimg.com/media/DS2-VSUV4AAwG9N.png",
-					"media_url_https": "https://pbs.twimg.com/media/DS2-VSUV4AAwG9N.png",
-					"url": "https://t.co/Y4JxMXUsQj",
-					"display_url": "pic.twitter.com/Y4JxMXUsQj",
-					"expanded_url": "https://twitter.com/ff14_na_sungho/status/949624981066936322/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1920,
-							"h": 1080,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 796356281313263600,
-			"id_str": "796356281313263616",
-			"name": "🛑커미션3",
-			"screen_name": "ff14_na_sungho",
-			"location": "[하프] [카벙클] 나성호",
-			"description": "FF14 · mabinogi ● 스포일러☠ 르웰린 악개 ● 아이템 외형교체 ㅇㅍ 사용자는 블락 부탁드립니다. 의장은 바닐라로 착용합시다.",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 187,
-			"friends_count": 244,
-			"listed_count": 1,
-			"created_at": "Wed Nov 09 14:18:27 +0000 2016",
-			"favourites_count": 4218,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 32378,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "F5F8FA",
-			"profile_background_image_url": null,
-			"profile_background_image_url_https": null,
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1022702973615394816/bgGjH_D4_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022702973615394816/bgGjH_D4_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/796356281313263616/1528834528",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1205,
-		"favorite_count": 1060,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "로고넣는건 스킵하고 아샤님이 스샷보정하는법 알려달래서 후다닥 야매로 맹글어드립니다😼\n포토스케이프 https://t.co/1xaWoe5SCl\nwaifu2x https://t.co/jMfGBwVLBS\nTwl PNG https://t.co/VWHyKLuydh https://t.co/Y4JxMXUsQj"
 	},
 	{
 		"created_at": "Thu Aug 17 14:56:40 +0000 2017",
@@ -1429,9 +1132,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1468,8 +1171,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1275,
-		"favorite_count": 680,
+		"retweet_count": 1256,
+		"favorite_count": 678,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -1511,9 +1214,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1550,8 +1253,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1634,
-		"favorite_count": 853,
+		"retweet_count": 1615,
+		"favorite_count": 846,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -1593,9 +1296,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1632,8 +1335,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1858,
-		"favorite_count": 959,
+		"retweet_count": 1841,
+		"favorite_count": 951,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -1675,9 +1378,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1714,8 +1417,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2587,
-		"favorite_count": 1406,
+		"retweet_count": 2555,
+		"favorite_count": 1392,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -1757,9 +1460,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1796,8 +1499,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2971,
-		"favorite_count": 1484,
+		"retweet_count": 2943,
+		"favorite_count": 1483,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -1839,9 +1542,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1878,8 +1581,8 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2073,
-		"favorite_count": 1234,
+		"retweet_count": 2047,
+		"favorite_count": 1217,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
@@ -1921,9 +1624,9 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119641,
+			"followers_count": 117778,
 			"friends_count": 0,
-			"listed_count": 1216,
+			"listed_count": 1209,
 			"created_at": "Tue Nov 15 09:11:54 +0000 2016",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -1960,204 +1663,11 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4889,
-		"favorite_count": 2632,
+		"retweet_count": 4846,
+		"favorite_count": 2615,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
 		"text": "사랑해, 알고 있지.\n올해도 내년에도\n오늘 아침에도 저녁에도\n낮에도 밤에도 곧 너를 사랑할 거야.\n\n/느린, 눈 온 아침"
-	},
-	{
-		"created_at": "Thu Jan 04 04:58:30 +0000 2018",
-		"id": 948780656594640900,
-		"id_str": "948780656594640896",
-		"full_text": "2017 년 12 월 27 일 (수) ~ 2018 년 1 월 16 일 (화) 23:59까지만 \n클립스튜디오에서 2018clippy 줍니다8ㅁ8 클리피로 유료소재 받을 수 있음!!!!\n빨리받아요...\n\n여기서받고 👉https://t.co/Hfm5hl3gnR\n\n여기서 유료소재 다운 👉https://t.co/80qBx4DuZP https://t.co/cTYFIJwgEM",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			180
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/Hfm5hl3gnR",
-					"expanded_url": "https://profile.clip-studio.com/ja-jp/gift/newyear2018/",
-					"display_url": "profile.clip-studio.com/ja-jp/gift/new…",
-					"indices": [
-						119,
-						142
-					]
-				},
-				{
-					"url": "https://t.co/80qBx4DuZP",
-					"expanded_url": "https://assets.clip-studio.com/ja-jp/ranking?freq=weekly&sales=sales&content=clipstudio&corp=priv",
-					"display_url": "assets.clip-studio.com/ja-jp/ranking?…",
-					"indices": [
-						157,
-						180
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 948780410883915800,
-					"id_str": "948780410883915776",
-					"indices": [
-						181,
-						204
-					],
-					"media_url": "http://pbs.twimg.com/media/DSq-wcCVwAAl6U-.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DSq-wcCVwAAl6U-.jpg",
-					"url": "https://t.co/cTYFIJwgEM",
-					"display_url": "pic.twitter.com/cTYFIJwgEM",
-					"expanded_url": "https://twitter.com/jaya_HQ/status/948780656594640896/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 614,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1762,
-							"h": 902,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 348,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 948780410883915800,
-					"id_str": "948780410883915776",
-					"indices": [
-						181,
-						204
-					],
-					"media_url": "http://pbs.twimg.com/media/DSq-wcCVwAAl6U-.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DSq-wcCVwAAl6U-.jpg",
-					"url": "https://t.co/cTYFIJwgEM",
-					"display_url": "pic.twitter.com/cTYFIJwgEM",
-					"expanded_url": "https://twitter.com/jaya_HQ/status/948780656594640896/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 614,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1762,
-							"h": 902,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 348,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 735439092628873200,
-			"id_str": "735439092628873216",
-			"name": "❄자야❄",
-			"screen_name": "jaya_HQ",
-			"location": "트위터",
-			"description": "취준동결 인장 사케쨘(@KBM_D)",
-			"url": "https://t.co/UqTWWvhpGB",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/UqTWWvhpGB",
-							"expanded_url": "http://cannotbeundone.postype.com/",
-							"display_url": "cannotbeundone.postype.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 336,
-			"friends_count": 159,
-			"listed_count": 3,
-			"created_at": "Wed May 25 11:55:18 +0000 2016",
-			"favourites_count": 16158,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 13518,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/934442941732421640/0cTNIl5l_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/934442941732421640/0cTNIl5l_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/735439092628873216/1500988739",
-			"profile_link_color": "E81C4F",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 4532,
-		"favorite_count": 2812,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "2017 년 12 월 27 일 (수) ~ 2018 년 1 월 16 일 (화) 23:59까지만 \n클립스튜디오에서 2018clippy 줍니다8ㅁ8 클리피로 유료소재 받을 수 있음!!!!\n빨리받아요...\n\n여기서받고 👉https://t.co/Hfm5hl3gnR\n\n여기서 유료소재 다운 👉https://t.co/80qBx4DuZP https://t.co/cTYFIJwgEM"
 	}
 ]
