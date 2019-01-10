@@ -49,6 +49,101 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 21906,
+			"friends_count": 148,
+			"listed_count": 572,
+			"created_at": "Fri Jun 23 03:23:23 +0000 2017",
+			"favourites_count": 416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32331,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878349253336104960/bG2p1O4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878349253336104960/bG2p1O4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878091084219334656/1498240840",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "네가 날 보고 싶어 하면 좋겠어.\n아무것도 없는 골목길에서 날 그리워했음 좋겠어.\n내가 뭘 하는지 생각하면 좋겠어.\n뜨거운 햇볕 아래서도 내 손을 잡고 싶어 하면 좋겠어.\n내 빈자리를 느끼면 좋겠어.\n\n무엇보다 나를 사랑했으면 좋겠어.\n\n: 백가희"
+	},
+	{
+		"created_at": "Sun Dec 30 17:05:02 +0000 2018",
+		"id": 1079423125979185200,
+		"id_str": "1079423125979185153",
+		"full_text": "네가 날 보고 싶어 하면 좋겠어.\n아무것도 없는 골목길에서 날 그리워했음 좋겠어.\n내가 뭘 하는지 생각하면 좋겠어.\n뜨거운 햇볕 아래서도 내 손을 잡고 싶어 하면 좋겠어.\n내 빈자리를 느끼면 좋겠어.\n\n무엇보다 나를 사랑했으면 좋겠어.\n\n: 백가희",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.cub.so\" rel=\"nofollow\">Cubi.so</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878091084219334700,
+			"id_str": "878091084219334656",
+			"name": "시선",
+			"screen_name": "S2_Feeling",
+			"location": "이 또한 모두 지나가리라.",
+			"description": "나의 눈동자가 너를 향하여 초점을 잡았다.",
+			"url": "https://t.co/DBx8bILnoJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DBx8bILnoJ",
+							"expanded_url": "https://youtu.be/CX5f0NcqlMs",
+							"display_url": "youtu.be/CX5f0NcqlMs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 21858,
 			"friends_count": 148,
 			"listed_count": 570,
