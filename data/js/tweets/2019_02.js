@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 05:34:23 +0000 2019",
+		"id": 1093744832026050600,
+		"id_str": "1093799779476299776",
+		"full_text": "말자펜 2.. ,.\n나왓다..\n  https://t.co/CL462GaWFc https://t.co/FBmLW30cvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CL462GaWFc",
+					"expanded_url": "https://assets.clip-studio.com/en-us/detail?id=1735387",
+					"display_url": "assets.clip-studio.com/en-us/detail?i…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093744720600154100,
+					"id_str": "1093744720600154112",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3DB0pUwAAQSZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3DB0pUwAAQSZQ.jpg",
+					"url": "https://t.co/FBmLW30cvj",
+					"display_url": "pic.twitter.com/FBmLW30cvj",
+					"expanded_url": "https://twitter.com/__9a99ff/status/1093744832026050560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093744720600154100,
+					"id_str": "1093744720600154112",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3DB0pUwAAQSZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3DB0pUwAAQSZQ.jpg",
+					"url": "https://t.co/FBmLW30cvj",
+					"display_url": "pic.twitter.com/FBmLW30cvj",
+					"expanded_url": "https://twitter.com/__9a99ff/status/1093744832026050560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093744730926530600,
+					"id_str": "1093744730926530560",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy3DCbHUwAAPbu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy3DCbHUwAAPbu6.jpg",
+					"url": "https://t.co/FBmLW30cvj",
+					"display_url": "pic.twitter.com/FBmLW30cvj",
+					"expanded_url": "https://twitter.com/__9a99ff/status/1093744832026050560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 930,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3041636246,
+			"id_str": "3041636246",
+			"name": "💉",
+			"screen_name": "__9a99ff",
+			"location": "탐큐-다즈, 청백-니지무라",
+			"description": "!구독안받음블언블해요! 션,냑구,최말자/ 컴으로 가끔 들어와요! 블언블 편하게!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 114,
+			"listed_count": 2,
+			"created_at": "Wed Feb 25 17:22:43 +0000 2015",
+			"favourites_count": 5790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079758754692775937/rrlbvz36_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079758754692775937/rrlbvz36_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3041636246/1537014316",
+			"profile_link_color": "FFC1B5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2331,
+		"favorite_count": 2049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "말자펜 2.. ,.\n나왓다..\n  https://t.co/CL462GaWFc https://t.co/FBmLW30cvj"
+	},
+	{
 		"created_at": "Fri Feb 01 10:34:28 +0000 2019",
 		"id": 1091283635452338200,
 		"id_str": "1092550969965985792",
