@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Jan 09 08:52:12 +0000 2019",
+		"id": 1082922977224646700,
+		"id_str": "1094491561352523777",
+		"full_text": "11. 유성우 브러쉬 \n-  https://t.co/pjraWPlZT7\n아래 브러쉬들과 함께 사용하면 3분만에 밤하늘을 만들어 볼 수 있어요!\n-https://t.co/7gjXS2NjMo (구름)\n-https://t.co/WAmXJRTJUm (구름2)\n-https://t.co/kQx9HufMtD (은하수 별)\n-https://t.co/bmhnb6gT51 (별자리) https://t.co/PwrxDNrjoE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pjraWPlZT7",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1712018",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/7gjXS2NjMo",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1723992",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/WAmXJRTJUm",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1717535",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/kQx9HufMtD",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1715798",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/bmhnb6gT51",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1727688",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082921666445856800,
+					"id_str": "1082921666445856768",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/DwdPhKAUUAAtUkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwdPhKAUUAAtUkG.jpg",
+					"url": "https://t.co/PwrxDNrjoE",
+					"display_url": "pic.twitter.com/PwrxDNrjoE",
+					"expanded_url": "https://twitter.com/Clip_use222/status/1082922977224646656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 908,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 908,
+							"h": 407,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082921666445856800,
+					"id_str": "1082921666445856768",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/DwdPhKAUUAAtUkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwdPhKAUUAAtUkG.jpg",
+					"url": "https://t.co/PwrxDNrjoE",
+					"display_url": "pic.twitter.com/PwrxDNrjoE",
+					"expanded_url": "https://twitter.com/Clip_use222/status/1082922977224646656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 908,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 908,
+							"h": 407,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082892604969181200,
+		"in_reply_to_status_id_str": "1082892604969181184",
+		"in_reply_to_user_id": 1068737139523735600,
+		"in_reply_to_user_id_str": "1068737139523735553",
+		"in_reply_to_screen_name": "Clip_use222",
+		"user": {
+			"id": 1068737139523735600,
+			"id_str": "1068737139523735553",
+			"name": "갓클",
+			"screen_name": "Clip_use222",
+			"location": "",
+			"description": "아는 것만 알려드립니다(업로드 천천히함) 클튜 기초 기능 팁 = 메인트 타래",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1477,
+			"friends_count": 1,
+			"listed_count": 20,
+			"created_at": "Sat Dec 01 05:22:45 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068738828154748928/j2HvBTCZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068738828154748928/j2HvBTCZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068737139523735553/1546104816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2960,
+		"favorite_count": 2653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11. 유성우 브러쉬 \n-  https://t.co/pjraWPlZT7\n아래 브러쉬들과 함께 사용하면 3분만에 밤하늘을 만들어 볼 수 있어요!\n-https://t.co/7gjXS2NjMo (구름)\n-https://t.co/WAmXJRTJUm (구름2)\n-https://t.co/kQx9HufMtD (은하수 별)\n-https://t.co/bmhnb6gT51 (별자리) https://t.co/PwrxDNrjoE"
+	},
+	{
 		"created_at": "Sat Feb 09 13:40:47 +0000 2019",
 		"id": 1094229628380561400,
 		"id_str": "1094229628380561409",
