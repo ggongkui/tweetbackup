@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 13:09:27 +0000 2019",
+		"id": 1094946518685999100,
+		"id_str": "1094974616865394690",
+		"full_text": "와씨; 님들아 클튜에 가죽 브러쉬 떴어요;;;\n\nhttps://t.co/5z1HEGYrFz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5z1HEGYrFz",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1735801",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042114140477612000,
+			"id_str": "1042114140477612032",
+			"name": "🐥D-12🐥앗 {팔로하지마세요",
+			"screen_name": "cmu_azzie",
+			"location": "",
+			"description": "탐라대화,욕트,섹트,아무말,노래방 많아요/트청,체블 돌립니다",
+			"url": "https://t.co/4KSt56QGc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4KSt56QGc4",
+							"expanded_url": "https://bit.ly/2NnCRJn",
+							"display_url": "bit.ly/2NnCRJn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 229,
+			"listed_count": 0,
+			"created_at": "Tue Sep 18 18:12:27 +0000 2018",
+			"favourites_count": 4294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2369,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094971277331259392/e0DkkBJt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094971277331259392/e0DkkBJt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1042114140477612032/1543721354",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3660,
+		"favorite_count": 2660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와씨; 님들아 클튜에 가죽 브러쉬 떴어요;;;\n\nhttps://t.co/5z1HEGYrFz"
+	},
+	{
 		"created_at": "Wed Jan 09 08:52:12 +0000 2019",
 		"id": 1082922977224646700,
 		"id_str": "1094491561352523777",
