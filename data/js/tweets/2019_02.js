@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 12:49:05 +0000 2019",
+		"id": 1095666167815925800,
+		"id_str": "1095877872181379072",
+		"full_text": "https://t.co/ekbjpliQsJ \n\n저 커뮤 개인작 만화 할 거 없이 모두 다 이 펜 쓰는데 정말 조와서 트친 님들이랑 공유 할라구요 ㅎㅎ 펜 진짜 가볍고 대충 써도 선 예쁘고... 트친 님들이 자주 선화 예쁘다고 말씀해 주시는데 거기에 이 펜도 진짜 한 몫하는 것 같아욥 ㅎㅎ 좋은 건 원래 공유하는 거죠!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ekbjpliQsJ",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1718297",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 811403613452922900,
+			"id_str": "811403613452922880",
+			"name": "단비",
+			"screen_name": "danvinim",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 153,
+			"listed_count": 0,
+			"created_at": "Wed Dec 21 02:51:11 +0000 2016",
+			"favourites_count": 2119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 231,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095112746109067264/t4LSDdk0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095112746109067264/t4LSDdk0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/811403613452922880/1549490251",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2336,
+		"favorite_count": 2083,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/ekbjpliQsJ \n\n저 커뮤 개인작 만화 할 거 없이 모두 다 이 펜 쓰는데 정말 조와서 트친 님들이랑 공유 할라구요 ㅎㅎ 펜 진짜 가볍고 대충 써도 선 예쁘고... 트친 님들이 자주 선화 예쁘다고 말씀해 주시는데 거기에 이 펜도 진짜 한 몫하는 것 같아욥 ㅎㅎ 좋은 건 원래 공유하는 거죠!"
+	},
+	{
 		"created_at": "Mon Feb 11 13:09:27 +0000 2019",
 		"id": 1094946518685999100,
 		"id_str": "1094974616865394690",
