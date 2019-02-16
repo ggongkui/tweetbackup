@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 13:10:04 +0000 2019",
+		"id": 1095671447811321900,
+		"id_str": "1096485158906093568",
+		"full_text": "우리는 버로우를 샀다(1/6)\n몰리와 릴리 사이 인연이 있었으면 좋겠다는 생각에서 시작된 이야기에요 미리 해피 발렌타인~ https://t.co/MbEoI9Tz92",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095670799204118500,
+					"id_str": "1095670799204118529",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSayWlUcAE_yNk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSayWlUcAE_yNk.jpg",
+					"url": "https://t.co/MbEoI9Tz92",
+					"display_url": "pic.twitter.com/MbEoI9Tz92",
+					"expanded_url": "https://twitter.com/manri_potter/status/1095671447811321856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095670799204118500,
+					"id_str": "1095670799204118529",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSayWlUcAE_yNk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSayWlUcAE_yNk.jpg",
+					"url": "https://t.co/MbEoI9Tz92",
+					"display_url": "pic.twitter.com/MbEoI9Tz92",
+					"expanded_url": "https://twitter.com/manri_potter/status/1095671447811321856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095670843105960000,
+					"id_str": "1095670843105959936",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSa06IVYAAXryR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSa06IVYAAXryR.jpg",
+					"url": "https://t.co/MbEoI9Tz92",
+					"display_url": "pic.twitter.com/MbEoI9Tz92",
+					"expanded_url": "https://twitter.com/manri_potter/status/1095671447811321856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095670873497919500,
+					"id_str": "1095670873497919493",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSa2rWV4AUVqRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSa2rWV4AUVqRy.jpg",
+					"url": "https://t.co/MbEoI9Tz92",
+					"display_url": "pic.twitter.com/MbEoI9Tz92",
+					"expanded_url": "https://twitter.com/manri_potter/status/1095671447811321856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1095670893978693600,
+					"id_str": "1095670893978693633",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSa33pVsAE4EfV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSa33pVsAE4EfV.jpg",
+					"url": "https://t.co/MbEoI9Tz92",
+					"display_url": "pic.twitter.com/MbEoI9Tz92",
+					"expanded_url": "https://twitter.com/manri_potter/status/1095671447811321856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1064,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885696109150064600,
+			"id_str": "885696109150064640",
+			"name": "최애커플 넨도가 나오는사람",
+			"screen_name": "manri_potter",
+			"location": "",
+			"description": "::: DO NOT REPOST :::  스네해리 usually snarry(bottom Harry) スネハリ / 비팔알림 off 팔로워 가려받음 용건은 DM / 대깨문🌕",
+			"url": "https://t.co/09Ff4pJPjQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/09Ff4pJPjQ",
+							"expanded_url": "https://ask.fm/macomvs",
+							"display_url": "ask.fm/macomvs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 39,
+			"listed_count": 17,
+			"created_at": "Fri Jul 14 03:03:02 +0000 2017",
+			"favourites_count": 530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 712,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086126834826104832/AiNwZpvU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086126834826104832/AiNwZpvU_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885696109150064640/1547909088",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5694,
+		"favorite_count": 3699,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리는 버로우를 샀다(1/6)\n몰리와 릴리 사이 인연이 있었으면 좋겠다는 생각에서 시작된 이야기에요 미리 해피 발렌타인~ https://t.co/MbEoI9Tz92"
+	},
+	{
 		"created_at": "Wed Feb 13 12:49:05 +0000 2019",
 		"id": 1095666167815925800,
 		"id_str": "1095877872181379072",
