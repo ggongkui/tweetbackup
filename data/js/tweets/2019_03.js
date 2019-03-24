@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 05:08:41 +0000 2019",
+		"id": 1108799644413427700,
+		"id_str": "1109321041963159552",
+		"full_text": "https://t.co/NffThPChkR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108799600213876700,
+					"id_str": "1108799600213876738",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108799600213876738/pu/img/h4zj3LorkTX-21cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108799600213876738/pu/img/h4zj3LorkTX-21cy.jpg",
+					"url": "https://t.co/NffThPChkR",
+					"display_url": "pic.twitter.com/NffThPChkR",
+					"expanded_url": "https://twitter.com/animalspng/status/1108799644413427713/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108799600213876700,
+					"id_str": "1108799600213876738",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108799600213876738/pu/img/h4zj3LorkTX-21cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108799600213876738/pu/img/h4zj3LorkTX-21cy.jpg",
+					"url": "https://t.co/NffThPChkR",
+					"display_url": "pic.twitter.com/NffThPChkR",
+					"expanded_url": "https://twitter.com/animalspng/status/1108799644413427713/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 19087,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108799600213876738/pu/vid/640x640/Xik2y_6VS1-2Tci2.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108799600213876738/pu/vid/480x480/pD-WJTscvYEmR4HK.mp4?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108799600213876738/pu/vid/320x320/s8PvQSUQHd_roVFM.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1108799600213876738/pu/pl/Z-91T_FRVq3BGjS1.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871692241546485800,
+			"id_str": "871692241546485760",
+			"name": "🐾",
+			"screen_name": "animalspng",
+			"location": "dm for credit/removal! :)",
+			"description": "posting the cutest animals • i own no content posted",
+			"url": "https://t.co/sFr3qiJF0Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sFr3qiJF0Q",
+							"expanded_url": "https://instagram.com/animalspng",
+							"display_url": "instagram.com/animalspng",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72365,
+			"friends_count": 6422,
+			"listed_count": 541,
+			"created_at": "Mon Jun 05 11:36:40 +0000 2017",
+			"favourites_count": 647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 550,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006942862896967681/bAkJJpvA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006942862896967681/bAkJJpvA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871692241546485760/1529163460",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4945,
+		"favorite_count": 9163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/NffThPChkR"
+	},
+	{
 		"created_at": "Fri Mar 15 17:21:02 +0000 2019",
 		"id": 1106606242036744200,
 		"id_str": "1106606242036744192",
