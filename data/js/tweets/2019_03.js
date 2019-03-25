@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 03:29:19 +0000 2019",
+		"id": 1022035435151736800,
+		"id_str": "1109658426232102912",
+		"full_text": "CLIP STUDIO PAINT 초보자용 새로운 TIPS를 공개했습니다. 깨끗하게 인쇄할 수 있는 흑백 만화 원고 작성법, \"모아레\"가 생기지 않는 톤 사용법에 대해 자세히 설명합니다.\nhttps://t.co/95c0CqorL7\n#clipstudio https://t.co/FFIx4s5tqh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clipstudio",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/95c0CqorL7",
+					"expanded_url": "https://tips.clip-studio.com/ko-kr/articles/1019",
+					"display_url": "tips.clip-studio.com/ko-kr/articles…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022035383536644100,
+					"id_str": "1022035383536644096",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Di7_xC-U8AA6PYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di7_xC-U8AA6PYO.jpg",
+					"url": "https://t.co/FFIx4s5tqh",
+					"display_url": "pic.twitter.com/FFIx4s5tqh",
+					"expanded_url": "https://twitter.com/clipstudiopaint/status/1022035435151736832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 442,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 442,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 442,
+							"h": 496,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022035383536644100,
+					"id_str": "1022035383536644096",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Di7_xC-U8AA6PYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di7_xC-U8AA6PYO.jpg",
+					"url": "https://t.co/FFIx4s5tqh",
+					"display_url": "pic.twitter.com/FFIx4s5tqh",
+					"expanded_url": "https://twitter.com/clipstudiopaint/status/1022035435151736832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 442,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 442,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 442,
+							"h": 496,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1022035401693962200,
+					"id_str": "1022035401693962241",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Di7_yGnXoAEj_6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Di7_yGnXoAEj_6j.jpg",
+					"url": "https://t.co/FFIx4s5tqh",
+					"display_url": "pic.twitter.com/FFIx4s5tqh",
+					"expanded_url": "https://twitter.com/clipstudiopaint/status/1022035435151736832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 879,
+							"h": 737,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 879,
+							"h": 737,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1693158097,
+			"id_str": "1693158097",
+			"name": "CLIP STUDIO PAINT",
+			"screen_name": "clipstudiopaint",
+			"location": "",
+			"description": "Enjoy creating more.\nThe artist’s software for drawing & painting. Try it for free! https://t.co/wYrafPmwCV Please contact https://t.co/ScDkKguCeq for inquiries.",
+			"url": "http://t.co/VsulNMcY3r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VsulNMcY3r",
+							"expanded_url": "http://www.clipstudio.net/en/",
+							"display_url": "clipstudio.net/en/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wYrafPmwCV",
+							"expanded_url": "http://cli.re/63wEj9",
+							"display_url": "cli.re/63wEj9",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/ScDkKguCeq",
+							"expanded_url": "http://cli.re/GZa8w7",
+							"display_url": "cli.re/GZa8w7",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 100156,
+			"friends_count": 5163,
+			"listed_count": 321,
+			"created_at": "Fri Aug 23 07:14:59 +0000 2013",
+			"favourites_count": 614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2125,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017627886302388227/WBXr_hJb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017627886302388227/WBXr_hJb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1693158097/1548731455",
+			"profile_link_color": "062A55",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5844,
+		"favorite_count": 5250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CLIP STUDIO PAINT 초보자용 새로운 TIPS를 공개했습니다. 깨끗하게 인쇄할 수 있는 흑백 만화 원고 작성법, \"모아레\"가 생기지 않는 톤 사용법에 대해 자세히 설명합니다.\nhttps://t.co/95c0CqorL7\n#clipstudio https://t.co/FFIx4s5tqh"
+	},
+	{
 		"created_at": "Sat Mar 23 05:08:41 +0000 2019",
 		"id": 1108799644413427700,
 		"id_str": "1109321041963159552",
