@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 14:58:36 +0000 2019",
+		"id": 1110145316236349400,
+		"id_str": "1110194275562582016",
+		"full_text": "클립스튜디오 컷테두리 지우는법.. https://t.co/x88nXCSbkk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110145308330070000,
+					"id_str": "1110145308330070017",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D2gHRrAUkAE4L86.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2gHRrAUkAE4L86.jpg",
+					"url": "https://t.co/x88nXCSbkk",
+					"display_url": "pic.twitter.com/x88nXCSbkk",
+					"expanded_url": "https://twitter.com/space_octopus_/status/1110145316236349441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 983,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 983,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110145308330070000,
+					"id_str": "1110145308330070017",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D2gHRrAUkAE4L86.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2gHRrAUkAE4L86.jpg",
+					"url": "https://t.co/x88nXCSbkk",
+					"display_url": "pic.twitter.com/x88nXCSbkk",
+					"expanded_url": "https://twitter.com/space_octopus_/status/1110145316236349441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 983,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 923,
+							"h": 983,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1110145308053274600,
+					"id_str": "1110145308053274624",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D2gHRp-VAAADkjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2gHRp-VAAADkjp.jpg",
+					"url": "https://t.co/x88nXCSbkk",
+					"display_url": "pic.twitter.com/x88nXCSbkk",
+					"expanded_url": "https://twitter.com/space_octopus_/status/1110145316236349441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 550,
+							"h": 585,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 585,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3018251195,
+			"id_str": "3018251195",
+			"name": "화분에 물갈아줘라",
+			"screen_name": "space_octopus_",
+			"location": "LLAP",
+			"description": "STAR TREK(AOS,DSC) | 2.5D | 알림🔇 | 그림뜸해요 | 2D👉@octo_Kim | ask👉 https://t.co/asyjhV4MLW",
+			"url": "https://t.co/UyUTGj9XLo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UyUTGj9XLo",
+							"expanded_url": "https://space-octopus.postype.com",
+							"display_url": "space-octopus.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/asyjhV4MLW",
+							"expanded_url": "https://peing.net/ko/space_octopus_?event=0",
+							"display_url": "peing.net/ko/space_octop…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3370,
+			"friends_count": 201,
+			"listed_count": 43,
+			"created_at": "Wed Feb 04 18:09:49 +0000 2015",
+			"favourites_count": 26431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40120,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110176426643226624/nIJttQah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110176426643226624/nIJttQah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3018251195/1552414556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1426,
+		"favorite_count": 1300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클립스튜디오 컷테두리 지우는법.. https://t.co/x88nXCSbkk"
+	},
+	{
 		"created_at": "Sun Mar 24 03:29:19 +0000 2019",
 		"id": 1022035435151736800,
 		"id_str": "1109658426232102912",
