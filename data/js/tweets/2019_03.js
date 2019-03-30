@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 03:38:43 +0000 2019",
+		"id": 1023402598412369900,
+		"id_str": "1111472729792761857",
+		"full_text": "클립스튜디오 업데이트 할 때마다 소재가 일부 소실되고 정리해뒀던것들이 엉망이 되시는 분들을 위한 실시간 동기화/백업방법\n이 순서대로 버튼을 눌러서 활성화하면 자신의 현재 소재함 상태가 통째로 클라우드에 저장됩니다. 영어로는 Organize 어쩌구였어요 https://t.co/MfKeEf7mjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1023402156924198900,
+					"id_str": "1023402156924198912",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DjPa1unV4AAWsBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjPa1unV4AAWsBu.jpg",
+					"url": "https://t.co/MfKeEf7mjG",
+					"display_url": "pic.twitter.com/MfKeEf7mjG",
+					"expanded_url": "https://twitter.com/_haga_nom/status/1023402598412369921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1023402156924198900,
+					"id_str": "1023402156924198912",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DjPa1unV4AAWsBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjPa1unV4AAWsBu.jpg",
+					"url": "https://t.co/MfKeEf7mjG",
+					"display_url": "pic.twitter.com/MfKeEf7mjG",
+					"expanded_url": "https://twitter.com/_haga_nom/status/1023402598412369921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387213946,
+			"id_str": "1387213946",
+			"name": "🎗하가 / HAGA",
+			"screen_name": "_haga_nom",
+			"location": "e-mail : dltkdal112@naver.com",
+			"description": "연재(완) 킹스메이커 / 공주는 잠 못 이루고 / 시타를 위하여 ▶ 모든 창작물의 공유,불펌 및 도용금지. I want the pictures to be displayed only here ▶ 헤더 신선님💜K_JAY_JAY_",
+			"url": "https://t.co/vgjN3oeY89",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vgjN3oeY89",
+							"expanded_url": "http://blog.naver.com/dltkdal112",
+							"display_url": "blog.naver.com/dltkdal112",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30300,
+			"friends_count": 90,
+			"listed_count": 99,
+			"created_at": "Sun Apr 28 15:25:05 +0000 2013",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1871,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867018131570642952/l_X6JTpP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867018131570642952/l_X6JTpP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387213946/1547048239",
+			"profile_link_color": "BF1900",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8755,
+		"favorite_count": 6253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클립스튜디오 업데이트 할 때마다 소재가 일부 소실되고 정리해뒀던것들이 엉망이 되시는 분들을 위한 실시간 동기화/백업방법\n이 순서대로 버튼을 눌러서 활성화하면 자신의 현재 소재함 상태가 통째로 클라우드에 저장됩니다. 영어로는 Organize 어쩌구였어요 https://t.co/MfKeEf7mjG"
+	},
+	{
 		"created_at": "Thu Mar 28 14:13:20 +0000 2019",
 		"id": 1110954947271516200,
 		"id_str": "1111270048667033600",
