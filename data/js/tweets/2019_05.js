@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 13:27:03 +0000 2019",
+		"id": 1126778304143319000,
+		"id_str": "1126841076789104640",
+		"full_text": "11. 절벽이나 동굴 씬을 그리게 돼도 손목을 지켜 줄 멋진 바위와 이끼 브러쉬\n바위,이끼 - https://t.co/Kb3T0jX4Ii\n자갈 바닥 - https://t.co/UkFLFskNab https://t.co/vmHtAtOSKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kb3T0jX4Ii",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1622785",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/UkFLFskNab",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1709673",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126778035087130600,
+					"id_str": "1126778035087130625",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D6MepyoUwAEp0EO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6MepyoUwAEp0EO.jpg",
+					"url": "https://t.co/vmHtAtOSKH",
+					"display_url": "pic.twitter.com/vmHtAtOSKH",
+					"expanded_url": "https://twitter.com/Clip_use222/status/1126778304143319040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1105,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1105,
+							"h": 955,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126778035087130600,
+					"id_str": "1126778035087130625",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D6MepyoUwAEp0EO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6MepyoUwAEp0EO.jpg",
+					"url": "https://t.co/vmHtAtOSKH",
+					"display_url": "pic.twitter.com/vmHtAtOSKH",
+					"expanded_url": "https://twitter.com/Clip_use222/status/1126778304143319040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1105,
+							"h": 955,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1105,
+							"h": 955,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126774600916881400,
+		"in_reply_to_status_id_str": "1126774600916881408",
+		"in_reply_to_user_id": 1068737139523735600,
+		"in_reply_to_user_id_str": "1068737139523735553",
+		"in_reply_to_screen_name": "Clip_use222",
+		"user": {
+			"id": 1068737139523735600,
+			"id_str": "1068737139523735553",
+			"name": "갓클",
+			"screen_name": "Clip_use222",
+			"location": "",
+			"description": "아는 것만 알려드립니다(업로드 천천히함) \n클튜 기초 기능 팁 = 메인트 타래",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3937,
+			"friends_count": 1,
+			"listed_count": 33,
+			"created_at": "Sat Dec 01 05:22:45 +0000 2018",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 214,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068738828154748928/j2HvBTCZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068738828154748928/j2HvBTCZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068737139523735553/1546104816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 471,
+		"favorite_count": 414,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11. 절벽이나 동굴 씬을 그리게 돼도 손목을 지켜 줄 멋진 바위와 이끼 브러쉬\n바위,이끼 - https://t.co/Kb3T0jX4Ii\n자갈 바닥 - https://t.co/UkFLFskNab https://t.co/vmHtAtOSKH"
+	},
+	{
 		"created_at": "Fri May 03 05:03:07 +0000 2019",
 		"id": 1123565983992467500,
 		"id_str": "1124177544658341888",
