@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 05:26:18 +0000 2019",
+		"id": 1128851266199666700,
+		"id_str": "1128894420596604934",
+		"full_text": "시선 유도/분위기 연출\n光玉ブラシセット by 貝類 https://t.co/AlbSiTBVjB\nチラ星 by manbong https://t.co/Nd6w95eggy\nキラキラ点描カケアミセット by 27pt https://t.co/CUxu9xLRe4\nキラカケセット by gumama https://t.co/AD9C40IgP5\nあわブラシセット by にしざわとと https://t.co/RXQqjhxlRH https://t.co/7yqVJtIp9N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AlbSiTBVjB",
+					"expanded_url": "http://assets.clip-studio.com/ja-jp/detail?id=1701982",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/Nd6w95eggy",
+					"expanded_url": "http://assets.clip-studio.com/ja-jp/detail?id=1717434",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/CUxu9xLRe4",
+					"expanded_url": "http://assets.clip-studio.com/ja-jp/detail?id=1725746",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/AD9C40IgP5",
+					"expanded_url": "http://assets.clip-studio.com/ja-jp/detail?id=1717121",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/RXQqjhxlRH",
+					"expanded_url": "http://assets.clip-studio.com/ja-jp/detail?id=1736264",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128851261686607900,
+					"id_str": "1128851261686607872",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D6p8PdkU8AAFDnp.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6p8PdkU8AAFDnp.png",
+					"url": "https://t.co/7yqVJtIp9N",
+					"display_url": "pic.twitter.com/7yqVJtIp9N",
+					"expanded_url": "https://twitter.com/papez_circuit/status/1128851266199666688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1008,
+							"h": 693,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 693,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128851261686607900,
+					"id_str": "1128851261686607872",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D6p8PdkU8AAFDnp.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6p8PdkU8AAFDnp.png",
+					"url": "https://t.co/7yqVJtIp9N",
+					"display_url": "pic.twitter.com/7yqVJtIp9N",
+					"expanded_url": "https://twitter.com/papez_circuit/status/1128851266199666688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1008,
+							"h": 693,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 693,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 927191640506212400,
+			"id_str": "927191640506212353",
+			"name": "주전",
+			"screen_name": "papez_circuit",
+			"location": "weekend dancehall",
+			"description": "프로필 사진은 생강차님께서! 1차/야구만화/모브사이코 닌타마계 @kinou_no_qs 日本語OK・成人済・無言フォロー失礼します。 オリジナル／モブサイコ／おおふり／BTR／ダイA etc.",
+			"url": "https://t.co/Padb8D5ouJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Padb8D5ouJ",
+							"expanded_url": "http://wholetone.tistory.com/154",
+							"display_url": "wholetone.tistory.com/154",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 412,
+			"friends_count": 57,
+			"listed_count": 5,
+			"created_at": "Sun Nov 05 15:11:28 +0000 2017",
+			"favourites_count": 2411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2596,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079743234639708166/mKCehOr5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079743234639708166/mKCehOr5_normal.jpg",
+			"profile_link_color": "293F35",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1977,
+		"favorite_count": 1903,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "시선 유도/분위기 연출\n光玉ブラシセット by 貝類 https://t.co/AlbSiTBVjB\nチラ星 by manbong https://t.co/Nd6w95eggy\nキラキラ点描カケアミセット by 27pt https://t.co/CUxu9xLRe4\nキラカケセット by gumama https://t.co/AD9C40IgP5\nあわブラシセット by にしざわとと https://t.co/RXQqjhxlRH https://t.co/7yqVJtIp9N"
+	},
+	{
 		"created_at": "Wed May 15 18:23:19 +0000 2019",
 		"id": 1112768243096141800,
 		"id_str": "1128727574887034881",
