@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 20:20:19 +0000 2019",
+		"id": 1126008787674878000,
+		"id_str": "1130206570912993281",
+		"full_text": "&lt;소재추천&gt;\n뉘앙스 말풍선 펜💬 소년만화풍의 말풍선을 가지고 싶어 제작하셨다고 해요. 크기를 조절하면 임팩트 있는 대사에도 활용할 수 있어요😉 두께가 스타일리쉬한 말풍선 펜을 찾고 있었다면 이 소재는 어떠세요? 😄\nhttps://t.co/bK260141Q3 https://t.co/e8yvtyqskU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bK260141Q3",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1742450",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126007092962152400,
+					"id_str": "1126007092962152449",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D6BhfDaUUAESqPU.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6BhfDaUUAESqPU.png",
+					"url": "https://t.co/e8yvtyqskU",
+					"display_url": "pic.twitter.com/e8yvtyqskU",
+					"expanded_url": "https://twitter.com/holic_institute/status/1126008787674877952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 288,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 288,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 288,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126007092962152400,
+					"id_str": "1126007092962152449",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D6BhfDaUUAESqPU.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6BhfDaUUAESqPU.png",
+					"url": "https://t.co/e8yvtyqskU",
+					"display_url": "pic.twitter.com/e8yvtyqskU",
+					"expanded_url": "https://twitter.com/holic_institute/status/1126008787674877952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 288,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 288,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 288,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1126007172091932700,
+					"id_str": "1126007172091932673",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D6BhjqMU8AEqwxv.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6BhjqMU8AEqwxv.png",
+					"url": "https://t.co/e8yvtyqskU",
+					"display_url": "pic.twitter.com/e8yvtyqskU",
+					"expanded_url": "https://twitter.com/holic_institute/status/1126008787674877952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 827,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32778,
+			"friends_count": 1087,
+			"listed_count": 230,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2829,
+		"favorite_count": 2926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\n뉘앙스 말풍선 펜💬 소년만화풍의 말풍선을 가지고 싶어 제작하셨다고 해요. 크기를 조절하면 임팩트 있는 대사에도 활용할 수 있어요😉 두께가 스타일리쉬한 말풍선 펜을 찾고 있었다면 이 소재는 어떠세요? 😄\nhttps://t.co/bK260141Q3 https://t.co/e8yvtyqskU"
+	},
+	{
 		"created_at": "Thu May 16 05:26:18 +0000 2019",
 		"id": 1128851266199666700,
 		"id_str": "1128894420596604934",
