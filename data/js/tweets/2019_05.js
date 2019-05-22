@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 19:29:44 +0000 2019",
+		"id": 1130918618286346200,
+		"id_str": "1130918618286346240",
+		"full_text": "https://t.co/94HFwiqifv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/94HFwiqifv",
+					"expanded_url": "https://twitter.com/papez_circuit/status/1128196785107636225?s=19",
+					"display_url": "twitter.com/papez_circuit/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128196785107636200,
+		"quoted_status_id_str": "1128196785107636225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/94HFwiqifv",
+			"expanded": "https://twitter.com/papez_circuit/status/1128196785107636225?s=19",
+			"display": "twitter.com/papez_circuit/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 14 07:14:09 +0000 2019",
+			"id": 1128196785107636200,
+			"id_str": "1128196785107636225",
+			"full_text": "원고에 뿌리기 좋은 꽃\n簡単桜ブラシ 線画 by seseri55 https://t.co/CEDcZs79gB\n花 by PeNG https://t.co/EgE1DXqgWX\n春の植物ブラシ by seseri55 https://t.co/jUsAzQx7p9\n切り花ブーケセット【グリーン】 by こぼれなみだ https://t.co/D89PDbfbnK https://t.co/EBSywQcCCq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CEDcZs79gB",
+						"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1735242",
+						"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+						"indices": [
+							35,
+							58
+						]
+					},
+					{
+						"url": "https://t.co/EgE1DXqgWX",
+						"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1736947",
+						"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/jUsAzQx7p9",
+						"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1738990",
+						"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+						"indices": [
+							113,
+							136
+						]
+					},
+					{
+						"url": "https://t.co/D89PDbfbnK",
+						"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1722433",
+						"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1128196778812067800,
+						"id_str": "1128196778812067841",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/D6go_i3VUAE_xBd.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6go_i3VUAE_xBd.png",
+						"url": "https://t.co/EBSywQcCCq",
+						"display_url": "pic.twitter.com/EBSywQcCCq",
+						"expanded_url": "https://twitter.com/papez_circuit/status/1128196785107636225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 820,
+								"h": 585,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 820,
+								"h": 585,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128196778812067800,
+						"id_str": "1128196778812067841",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/D6go_i3VUAE_xBd.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6go_i3VUAE_xBd.png",
+						"url": "https://t.co/EBSywQcCCq",
+						"display_url": "pic.twitter.com/EBSywQcCCq",
+						"expanded_url": "https://twitter.com/papez_circuit/status/1128196785107636225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 820,
+								"h": 585,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 820,
+								"h": 585,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 927191640506212400,
+				"id_str": "927191640506212353",
+				"name": "주전",
+				"screen_name": "papez_circuit",
+				"location": "weekend dancehall",
+				"description": "프로필 사진은 생강차님께서! 1차/야구만화/모브사이코 닌타마계 @kinou_no_qs 日本語OK・成人済・無言フォロー失礼します。 オリジナル／モブサイコ／おおふり／BTR／ダイA etc.",
+				"url": "https://t.co/Padb8D5ouJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Padb8D5ouJ",
+								"expanded_url": "http://wholetone.tistory.com/154",
+								"display_url": "wholetone.tistory.com/154",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 421,
+				"friends_count": 56,
+				"listed_count": 6,
+				"created_at": "Sun Nov 05 15:11:28 +0000 2017",
+				"favourites_count": 2391,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2599,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079743234639708166/mKCehOr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079743234639708166/mKCehOr5_normal.jpg",
+				"profile_link_color": "293F35",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2837,
+			"favorite_count": 2953,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/94HFwiqifv"
+	},
+	{
 		"created_at": "Sun May 19 20:20:19 +0000 2019",
 		"id": 1126008787674878000,
 		"id_str": "1130206570912993281",
