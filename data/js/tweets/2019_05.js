@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 18:13:20 +0000 2019",
+		"id": 881780847950549000,
+		"id_str": "1133073717033021440",
+		"full_text": "양재 윈윈수산에서 먹은 연어회, 매운탕 (라면사리 추가). 연어를 직접 수입하는 곳이라 연어 퀄리티가 좋다. 큰사이즈로 회를 주문하면 일반 횟집에서는 잘 내주지 않는 다양한 부위의 연어를 맛볼 수도 있음. 연어 좋아하는 사람들 사이에선 꽤나 유명한 곳 https://t.co/ucnvBv9AME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 881780835124256800,
+					"id_str": "881780835124256768",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DDy2_2dUIAAuDEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDy2_2dUIAAuDEd.jpg",
+					"url": "https://t.co/ucnvBv9AME",
+					"display_url": "pic.twitter.com/ucnvBv9AME",
+					"expanded_url": "https://twitter.com/MellyKMK/status/881780847950548992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 881780835124256800,
+					"id_str": "881780835124256768",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DDy2_2dUIAAuDEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDy2_2dUIAAuDEd.jpg",
+					"url": "https://t.co/ucnvBv9AME",
+					"display_url": "pic.twitter.com/ucnvBv9AME",
+					"expanded_url": "https://twitter.com/MellyKMK/status/881780847950548992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 881780835124338700,
+					"id_str": "881780835124338690",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DDy2_2dVYAIjRru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDy2_2dVYAIjRru.jpg",
+					"url": "https://t.co/ucnvBv9AME",
+					"display_url": "pic.twitter.com/ucnvBv9AME",
+					"expanded_url": "https://twitter.com/MellyKMK/status/881780847950548992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 881780835132690400,
+					"id_str": "881780835132690432",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DDy2_2fU0AABcbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDy2_2fU0AABcbE.jpg",
+					"url": "https://t.co/ucnvBv9AME",
+					"display_url": "pic.twitter.com/ucnvBv9AME",
+					"expanded_url": "https://twitter.com/MellyKMK/status/881780847950548992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 182845246,
+			"id_str": "182845246",
+			"name": "쫌좀벌레",
+			"screen_name": "MellyKMK",
+			"location": " ",
+			"description": "Such is life. 즐기세ㅇㅕ",
+			"url": "https://t.co/lpOdB5kwrd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lpOdB5kwrd",
+							"expanded_url": "http://ask.fm/MellyKMK",
+							"display_url": "ask.fm/MellyKMK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22570,
+			"friends_count": 63,
+			"listed_count": 231,
+			"created_at": "Wed Aug 25 14:53:50 +0000 2010",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540212681311911937/5S8tqVHb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540212681311911937/5S8tqVHb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/182845246/1514382630",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13782,
+		"favorite_count": 7939,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "양재 윈윈수산에서 먹은 연어회, 매운탕 (라면사리 추가). 연어를 직접 수입하는 곳이라 연어 퀄리티가 좋다. 큰사이즈로 회를 주문하면 일반 횟집에서는 잘 내주지 않는 다양한 부위의 연어를 맛볼 수도 있음. 연어 좋아하는 사람들 사이에선 꽤나 유명한 곳 https://t.co/ucnvBv9AME"
+	},
+	{
 		"created_at": "Tue May 21 19:29:44 +0000 2019",
 		"id": 1130918618286346200,
 		"id_str": "1130918618286346240",
