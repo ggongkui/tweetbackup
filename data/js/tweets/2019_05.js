@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 20:02:45 +0000 2019",
+		"id": 1133463640751738900,
+		"id_str": "1133463640751738880",
+		"full_text": "https://t.co/5O3PjOFMvq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5O3PjOFMvq",
+					"expanded_url": "https://tojinletter.wixsite.com/toyou",
+					"display_url": "tojinletter.wixsite.com/toyou",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/5O3PjOFMvq"
+	},
+	{
+		"created_at": "Tue May 28 19:50:13 +0000 2019",
+		"id": 1125718185942982700,
+		"id_str": "1133460486177951744",
+		"full_text": "&lt;소재추천&gt;\n렌즈 플레어 브러쉬🌟바다를 비추고 있는 듯한 맑은 색상의 렌즈 플레어입니다. 입자 크기는 취향에 맞게 변경할 수 있어요. 블러와 함께 사용하면 더욱더 좋을 것 같습니다. 빛 표현을 좋아하는 홀릭 학생 여러분에게 추천해 드리고 싶어요.😊\nhttps://t.co/DjL1NVI4cL https://t.co/CAC3puIkED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DjL1NVI4cL",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1742385",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125716437958443000,
+					"id_str": "1125716437958443008",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D59ZItJUwAAGdz7.png",
+					"media_url_https": "https://pbs.twimg.com/media/D59ZItJUwAAGdz7.png",
+					"url": "https://t.co/CAC3puIkED",
+					"display_url": "pic.twitter.com/CAC3puIkED",
+					"expanded_url": "https://twitter.com/holic_institute/status/1125718185942982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 284,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 284,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 284,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125716437958443000,
+					"id_str": "1125716437958443008",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D59ZItJUwAAGdz7.png",
+					"media_url_https": "https://pbs.twimg.com/media/D59ZItJUwAAGdz7.png",
+					"url": "https://t.co/CAC3puIkED",
+					"display_url": "pic.twitter.com/CAC3puIkED",
+					"expanded_url": "https://twitter.com/holic_institute/status/1125718185942982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 284,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 284,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 284,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125717778873311200,
+					"id_str": "1125717778873311232",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D59aWwcV4AANug2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D59aWwcV4AANug2.jpg",
+					"url": "https://t.co/CAC3puIkED",
+					"display_url": "pic.twitter.com/CAC3puIkED",
+					"expanded_url": "https://twitter.com/holic_institute/status/1125718185942982656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33561,
+			"friends_count": 1082,
+			"listed_count": 231,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1839,
+		"favorite_count": 2247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\n렌즈 플레어 브러쉬🌟바다를 비추고 있는 듯한 맑은 색상의 렌즈 플레어입니다. 입자 크기는 취향에 맞게 변경할 수 있어요. 블러와 함께 사용하면 더욱더 좋을 것 같습니다. 빛 표현을 좋아하는 홀릭 학생 여러분에게 추천해 드리고 싶어요.😊\nhttps://t.co/DjL1NVI4cL https://t.co/CAC3puIkED"
+	},
+	{
+		"created_at": "Tue May 28 18:37:31 +0000 2019",
+		"id": 1124948110503960600,
+		"id_str": "1133442190363881472",
+		"full_text": "흑발 많이 그리는 사람에게 진짜 핵 추천 소재,,,,,.,.,작업속도 엄청 빨라져욥 ㅠ ㅠ\n\nhttps://t.co/zmbjZyEfOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zmbjZyEfOM",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1728439",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1035044709830287400,
+			"id_str": "1035044709830287361",
+			"name": "zi myeol gi",
+			"screen_name": "zimyeolgi00",
+			"location": "",
+			"description": "20↑ / 전독시,내스급,백망되(스포O) 이외 잡다하게 / 프사·헤더 by. 양반 / 본계 @myeolgi_zi",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1837,
+			"friends_count": 31,
+			"listed_count": 18,
+			"created_at": "Thu Aug 30 06:01:03 +0000 2018",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088830731587964928/YjDRRJLC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088830731587964928/YjDRRJLC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1035044709830287361/1549208800",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9491,
+		"favorite_count": 9096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흑발 많이 그리는 사람에게 진짜 핵 추천 소재,,,,,.,.,작업속도 엄청 빨라져욥 ㅠ ㅠ\n\nhttps://t.co/zmbjZyEfOM"
+	},
+	{
+		"created_at": "Tue May 28 10:06:58 +0000 2019",
+		"id": 1132652090843586600,
+		"id_str": "1133313708669558784",
+		"full_text": "https://t.co/O8CLOGWk2F\n저오늘 이거 다운받고 강해졋어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O8CLOGWk2F",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1736401",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863250123664482300,
+			"id_str": "863250123664482304",
+			"name": "💚",
+			"screen_name": "HxH_sj",
+			"location": "진패리",
+			"description": "모든 알림 off",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 16,
+			"listed_count": 27,
+			"created_at": "Sat May 13 04:30:42 +0000 2017",
+			"favourites_count": 1190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004397826141405185/N15gniQO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004397826141405185/N15gniQO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863250123664482304/1528302267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2769,
+		"favorite_count": 2687,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/O8CLOGWk2F\n저오늘 이거 다운받고 강해졋어요"
+	},
+	{
 		"created_at": "Mon May 27 18:13:20 +0000 2019",
 		"id": 881780847950549000,
 		"id_str": "1133073717033021440",
