@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 12:42:21 +0000 2019",
+		"id": 1134403758471798800,
+		"id_str": "1134439974147747840",
+		"full_text": "&lt;소재추천&gt;\n장미 덤불 소재집🌿무모하게 장미 정원을 시도한 원고러들의 시간을 지켜줄 장미 덤불 소재집입니다. 장미는 포함되어있지 않고, 덤불만 있다는 점 주의하세요! 정원 배경 조성에 아주 좋을 것 같아요.\nhttps://t.co/M3N0w5NbVH https://t.co/8LJJvBJUQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M3N0w5NbVH",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1743767",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134403669690949600,
+					"id_str": "1134403669690949632",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D742IJPUIAA-hAj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D742IJPUIAA-hAj.png",
+					"url": "https://t.co/8LJJvBJUQ3",
+					"display_url": "pic.twitter.com/8LJJvBJUQ3",
+					"expanded_url": "https://twitter.com/holic_institute/status/1134403758471798785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 289,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 289,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 289,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134403669690949600,
+					"id_str": "1134403669690949632",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D742IJPUIAA-hAj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D742IJPUIAA-hAj.png",
+					"url": "https://t.co/8LJJvBJUQ3",
+					"display_url": "pic.twitter.com/8LJJvBJUQ3",
+					"expanded_url": "https://twitter.com/holic_institute/status/1134403758471798785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 289,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 289,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 289,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1134403700795953200,
+					"id_str": "1134403700795953154",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D742J9HU0AIMz4c.png",
+					"media_url_https": "https://pbs.twimg.com/media/D742J9HU0AIMz4c.png",
+					"url": "https://t.co/8LJJvBJUQ3",
+					"display_url": "pic.twitter.com/8LJJvBJUQ3",
+					"expanded_url": "https://twitter.com/holic_institute/status/1134403758471798785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1134403717510324200,
+					"id_str": "1134403717510324224",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D742K7YV4AAPi0Y.png",
+					"media_url_https": "https://pbs.twimg.com/media/D742K7YV4AAPi0Y.png",
+					"url": "https://t.co/8LJJvBJUQ3",
+					"display_url": "pic.twitter.com/8LJJvBJUQ3",
+					"expanded_url": "https://twitter.com/holic_institute/status/1134403758471798785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 507,
+							"h": 507,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 507,
+							"h": 507,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 507,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33727,
+			"friends_count": 1077,
+			"listed_count": 236,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1658,
+		"favorite_count": 1815,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\n장미 덤불 소재집🌿무모하게 장미 정원을 시도한 원고러들의 시간을 지켜줄 장미 덤불 소재집입니다. 장미는 포함되어있지 않고, 덤불만 있다는 점 주의하세요! 정원 배경 조성에 아주 좋을 것 같아요.\nhttps://t.co/M3N0w5NbVH https://t.co/8LJJvBJUQ3"
+	},
+	{
 		"created_at": "Thu May 30 02:42:03 +0000 2019",
 		"id": 1133721211492397000,
 		"id_str": "1133926515354112007",
