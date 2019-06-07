@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 11:58:09 +0000 2019",
+		"id": 1136595153051721700,
+		"id_str": "1136603180198793216",
+		"full_text": "&lt;소재추천&gt;\n5분 우산 브러쉬☔️우산은 채색이 생각보다 까다로운 개체 중 하나인데, 특유의 재질 묘사를 손쉽게 할 수 있도록 도와주는 브러쉬입니다. 우산이 어려운 홀릭 학생 여러분에게 추천해 드리고 싶어요. 😊\nhttps://t.co/wdVxMjN8f2 https://t.co/QgzGwN0CBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wdVxMjN8f2",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1744318",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136593701457735700,
+					"id_str": "1136593701457735680",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D8X98xVVsAAw1Av.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8X98xVVsAAw1Av.png",
+					"url": "https://t.co/QgzGwN0CBS",
+					"display_url": "pic.twitter.com/QgzGwN0CBS",
+					"expanded_url": "https://twitter.com/holic_institute/status/1136595153051721728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 291,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 291,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 291,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136593701457735700,
+					"id_str": "1136593701457735680",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D8X98xVVsAAw1Av.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8X98xVVsAAw1Av.png",
+					"url": "https://t.co/QgzGwN0CBS",
+					"display_url": "pic.twitter.com/QgzGwN0CBS",
+					"expanded_url": "https://twitter.com/holic_institute/status/1136595153051721728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 291,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 291,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 291,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1136593763277475800,
+					"id_str": "1136593763277475840",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D8X-AXoUEAAsgUA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8X-AXoUEAAsgUA.jpg",
+					"url": "https://t.co/QgzGwN0CBS",
+					"display_url": "pic.twitter.com/QgzGwN0CBS",
+					"expanded_url": "https://twitter.com/holic_institute/status/1136595153051721728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 952,
+							"h": 986,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 657,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 986,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34044,
+			"friends_count": 1077,
+			"listed_count": 238,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1221,
+		"favorite_count": 1473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\n5분 우산 브러쉬☔️우산은 채색이 생각보다 까다로운 개체 중 하나인데, 특유의 재질 묘사를 손쉽게 할 수 있도록 도와주는 브러쉬입니다. 우산이 어려운 홀릭 학생 여러분에게 추천해 드리고 싶어요. 😊\nhttps://t.co/wdVxMjN8f2 https://t.co/QgzGwN0CBS"
+	},
+	{
 		"created_at": "Wed Jun 05 02:43:50 +0000 2019",
 		"id": 1135855413952278500,
 		"id_str": "1136101292592361472",
