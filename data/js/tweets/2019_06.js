@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 09:42:27 +0000 2019",
+		"id": 1136955045197467600,
+		"id_str": "1137293804958916608",
+		"full_text": "어느 글쓴이 베란다 화단에 황조롱이가 알 낳았대 표정봐봐 순둥하니 잘부탁합니다 하는거같음(ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ) https://t.co/KaXZla6HZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136299684035682300,
+					"id_str": "1136299684035682307",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136299684035682307/pu/img/lbhPpLx92eaqjqTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136299684035682307/pu/img/lbhPpLx92eaqjqTu.jpg",
+					"url": "https://t.co/KaXZla6HZz",
+					"display_url": "pic.twitter.com/KaXZla6HZz",
+					"expanded_url": "https://twitter.com/BgSnezana/status/1136299788817829888/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1136299788817829900,
+					"source_status_id_str": "1136299788817829888",
+					"source_user_id": 2199831698,
+					"source_user_id_str": "2199831698"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136299684035682300,
+					"id_str": "1136299684035682307",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136299684035682307/pu/img/lbhPpLx92eaqjqTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136299684035682307/pu/img/lbhPpLx92eaqjqTu.jpg",
+					"url": "https://t.co/KaXZla6HZz",
+					"display_url": "pic.twitter.com/KaXZla6HZz",
+					"expanded_url": "https://twitter.com/BgSnezana/status/1136299788817829888/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1136299788817829900,
+					"source_status_id_str": "1136299788817829888",
+					"source_user_id": 2199831698,
+					"source_user_id_str": "2199831698",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57270,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136299684035682307/pu/vid/320x320/bFaDpId-3rbwkO0b.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136299684035682307/pu/vid/480x480/0qY9gWW0JmXUI5q4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1136299684035682307/pu/pl/F_LAMOS5eyDjOwtz.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2199831698,
+							"id_str": "2199831698",
+							"name": "Snezana🌷",
+							"screen_name": "BgSnezana",
+							"location": "BELGRADE ,SERBIA",
+							"description": "🐶🐤🐣🐁🐭🐰🐢🐥🐧🌷💕",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 42769,
+							"friends_count": 40471,
+							"listed_count": 348,
+							"created_at": "Sun Nov 17 16:48:02 +0000 2013",
+							"favourites_count": 265520,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 231154,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/914236397858557952/1nVlV6rX_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/914236397858557952/1nVlV6rX_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2199831698/1505322572",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116425753,
+			"id_str": "3116425753",
+			"name": "[상시커미션] 베타엄마 제제",
+			"screen_name": "R6s_J_Montagne",
+			"location": "",
+			"description": "학명 Genreteojimus Burangburang-doisimims / 자캐 / 드림러 / 레식 버닝중 /english , Korean / 너가 나의 이름을 불러 주었어.",
+			"url": "https://t.co/XImJbIsWig",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XImJbIsWig",
+							"expanded_url": "http://asked.kr/Jeje08",
+							"display_url": "asked.kr/Jeje08",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 708,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 04:52:03 +0000 2015",
+			"favourites_count": 23084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133601566638759941/Fu7lp6QC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133601566638759941/Fu7lp6QC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116425753/1556996154",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13291,
+		"favorite_count": 9774,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어느 글쓴이 베란다 화단에 황조롱이가 알 낳았대 표정봐봐 순둥하니 잘부탁합니다 하는거같음(ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ) https://t.co/KaXZla6HZz"
+	},
+	{
 		"created_at": "Thu Jun 06 11:58:09 +0000 2019",
 		"id": 1136595153051721700,
 		"id_str": "1136603180198793216",
