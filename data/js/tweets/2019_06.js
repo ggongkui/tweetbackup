@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 04:12:12 +0000 2019",
+		"id": 907560049416867800,
+		"id_str": "1137935471122604033",
+		"full_text": "汚いんですが良かったら体格差あれこれどうぞ…\n改変ご自由に\n\n #トレス素材 https://t.co/bwMedUniiq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "トレス素材",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 907560030894833700,
+					"id_str": "907560030894833665",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DJhNCiXUQAEDbbv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJhNCiXUQAEDbbv.jpg",
+					"url": "https://t.co/bwMedUniiq",
+					"display_url": "pic.twitter.com/bwMedUniiq",
+					"expanded_url": "https://twitter.com/Edamame_Out/status/907560049416867844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 808,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907560030894833700,
+					"id_str": "907560030894833665",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DJhNCiXUQAEDbbv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJhNCiXUQAEDbbv.jpg",
+					"url": "https://t.co/bwMedUniiq",
+					"display_url": "pic.twitter.com/bwMedUniiq",
+					"expanded_url": "https://twitter.com/Edamame_Out/status/907560049416867844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 808,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 907560030890745900,
+					"id_str": "907560030890745858",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DJhNCiWV4AIhMeq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJhNCiWV4AIhMeq.jpg",
+					"url": "https://t.co/bwMedUniiq",
+					"display_url": "pic.twitter.com/bwMedUniiq",
+					"expanded_url": "https://twitter.com/Edamame_Out/status/907560049416867844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 848,
+							"h": 848,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 907560030894833700,
+					"id_str": "907560030894833664",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DJhNCiXUQAAqADA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJhNCiXUQAAqADA.jpg",
+					"url": "https://t.co/bwMedUniiq",
+					"display_url": "pic.twitter.com/bwMedUniiq",
+					"expanded_url": "https://twitter.com/Edamame_Out/status/907560049416867844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1092,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 907560030886551600,
+					"id_str": "907560030886551552",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DJhNCiVV4AALGOn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJhNCiVV4AALGOn.jpg",
+					"url": "https://t.co/bwMedUniiq",
+					"display_url": "pic.twitter.com/bwMedUniiq",
+					"expanded_url": "https://twitter.com/Edamame_Out/status/907560049416867844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 749,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3131460687,
+			"id_str": "3131460687",
+			"name": "OUT海賊団",
+			"screen_name": "Edamame_Out",
+			"location": "↙︎←↖︎↑↗︎→↘︎",
+			"description": "宝島「そこになければないですね」",
+			"url": "https://t.co/gMiIu4kA82",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gMiIu4kA82",
+							"expanded_url": "http://twpf.jp/Edamame_Out",
+							"display_url": "twpf.jp/Edamame_Out",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744,
+			"friends_count": 205,
+			"listed_count": 27,
+			"created_at": "Fri Apr 03 04:21:05 +0000 2015",
+			"favourites_count": 7112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133319437086470144/ElU_YKlC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133319437086470144/ElU_YKlC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3131460687/1542529467",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17227,
+		"favorite_count": 27445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "汚いんですが良かったら体格差あれこれどうぞ…\n改変ご自由に\n\n #トレス素材 https://t.co/bwMedUniiq"
+	},
+	{
 		"created_at": "Sun Jun 09 18:25:52 +0000 2019",
 		"id": 1137787912219635700,
 		"id_str": "1137787912219635713",
