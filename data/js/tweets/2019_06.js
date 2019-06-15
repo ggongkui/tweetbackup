@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 06:47:50 +0000 2019",
+		"id": 1139418364147748900,
+		"id_str": "1139424185753591808",
+		"full_text": "※ 본 계정 및, 구글 드라이브에 올려져 있던 아보카도 에디선 관련 파일을 6월 말 일괄 정리 합니다! (구글 드라이브 용량이 부족하다고 합니다ㅠㅠ!)\n※ 이에 사전에 파일을 다운받으실 분들은 모두 받아 보관해 주시길 바랍니다.\n\n구글드라이브 경로 : https://t.co/b2BkUZ0qYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b2BkUZ0qYk",
+					"expanded_url": "https://drive.google.com/open?id=1A_weuN8gh-ySkeMtQnI3w8R3Y1GWEv9F",
+					"display_url": "drive.google.com/open?id=1A_weu…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1016807567027105800,
+			"id_str": "1016807567027105792",
+			"name": "Avocado Edition",
+			"screen_name": "avocado_web",
+			"location": "",
+			"description": "Avocado Edition / 관련 문의는 일체 받지 않습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Tue Jul 10 22:13:10 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016812098733551616/IKYntofj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016812098733551616/IKYntofj_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "※ 본 계정 및, 구글 드라이브에 올려져 있던 아보카도 에디선 관련 파일을 6월 말 일괄 정리 합니다! (구글 드라이브 용량이 부족하다고 합니다ㅠㅠ!)\n※ 이에 사전에 파일을 다운받으실 분들은 모두 받아 보관해 주시길 바랍니다.\n\n구글드라이브 경로 : https://t.co/b2BkUZ0qYk"
+	},
+	{
 		"created_at": "Tue Jun 11 04:59:16 +0000 2019",
 		"id": 1138309701362282500,
 		"id_str": "1138309701362282498",
