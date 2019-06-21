@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 13:35:14 +0000 2019",
+		"id": 1063299419695661000,
+		"id_str": "1141701041869639680",
+		"full_text": "https://t.co/ORjJ7pD7dR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063297257716547600,
+					"id_str": "1063297257716547584",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063297257716547584/pu/img/NagKenTQoXkvmKFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063297257716547584/pu/img/NagKenTQoXkvmKFm.jpg",
+					"url": "https://t.co/ORjJ7pD7dR",
+					"display_url": "pic.twitter.com/ORjJ7pD7dR",
+					"expanded_url": "https://twitter.com/asixnporn/status/1063299419695661056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063297257716547600,
+					"id_str": "1063297257716547584",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063297257716547584/pu/img/NagKenTQoXkvmKFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063297257716547584/pu/img/NagKenTQoXkvmKFm.jpg",
+					"url": "https://t.co/ORjJ7pD7dR",
+					"display_url": "pic.twitter.com/ORjJ7pD7dR",
+					"expanded_url": "https://twitter.com/asixnporn/status/1063299419695661056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 80681,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063297257716547584/pu/pl/yX0HT-wQkR9nIJ-J.m3u8?tag=7"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063297257716547584/pu/vid/320x180/_HNTJOBppYaRV9AT.mp4?tag=7"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063297257716547584/pu/vid/1280x720/FSu8UiTRWsWzK7NB.mp4?tag=7"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063297257716547584/pu/vid/640x360/6ZAWa8k8HZKHJpkp.mp4?tag=7"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 999003190464073700,
+			"id_str": "999003190464073728",
+			"name": "一 asianporn ♡™",
+			"screen_name": "asixnporn",
+			"location": "pics|gifs|videos arent mine /",
+			"description": "🏳️‍🌈🔞NSFW-ɑsiɑn porn♡,mostly gay porn♡ I dont own ɑny content posted here; free to dm me if there's ɑnyissue!  @asianpnxn @boysasiancute @asixnpxxrn",
+			"url": "https://t.co/Raue6vXgO9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Raue6vXgO9",
+							"expanded_url": "https://curiouscat.me/asixnpxrn",
+							"display_url": "curiouscat.me/asixnpxrn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50457,
+			"friends_count": 15,
+			"listed_count": 586,
+			"created_at": "Tue May 22 19:04:55 +0000 2018",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103924681881468929/Hx4YenpO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103924681881468929/Hx4YenpO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/999003190464073728/1552031117",
+			"profile_link_color": "B03060",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2539,
+		"favorite_count": 7418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/ORjJ7pD7dR"
+	},
+	{
 		"created_at": "Wed Jun 19 15:49:53 +0000 2019",
 		"id": 1141372540473839600,
 		"id_str": "1141372540473839616",
