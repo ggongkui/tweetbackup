@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 13:08:27 +0000 2019",
+		"id": 1143905615380566000,
+		"id_str": "1144593404464025601",
+		"full_text": "マルチブラシ by conohi https://t.co/lhw0ihT4lJ \n참다참다 올립니다. 녹두옆집에사는 사람입니다. 짐승새끼도 아니고 이 펜으로 채색하시면서 \"나지구에있는거야?...\"이런멘트좀쓰지말아주시기바랍니다. 이펜이 덩어리도 잘잡힌다는것쯤은 저도이미알고있다고요. 부디 지식인답게 교양을지킵시다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lhw0ihT4lJ",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1735009",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1143904988940234800,
+		"in_reply_to_status_id_str": "1143904988940234753",
+		"in_reply_to_user_id": 4672124330,
+		"in_reply_to_user_id_str": "4672124330",
+		"in_reply_to_screen_name": "nkd200",
+		"user": {
+			"id": 4672124330,
+			"id_str": "4672124330",
+			"name": "💗삼수생애인 녹두💗",
+			"screen_name": "nkd200",
+			"location": "",
+			"description": "비팔📴🦔💗",
+			"url": "https://t.co/MXBckRS4IG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MXBckRS4IG",
+							"expanded_url": "http://posty.pe/11dw2i",
+							"display_url": "posty.pe/11dw2i",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1143,
+			"friends_count": 773,
+			"listed_count": 9,
+			"created_at": "Tue Dec 29 09:30:34 +0000 2015",
+			"favourites_count": 22319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137660614405320705/Ic-l08_D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137660614405320705/Ic-l08_D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4672124330/1560331800",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 517,
+		"favorite_count": 413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "マルチブラシ by conohi https://t.co/lhw0ihT4lJ \n참다참다 올립니다. 녹두옆집에사는 사람입니다. 짐승새끼도 아니고 이 펜으로 채색하시면서 \"나지구에있는거야?...\"이런멘트좀쓰지말아주시기바랍니다. 이펜이 덩어리도 잘잡힌다는것쯤은 저도이미알고있다고요. 부디 지식인답게 교양을지킵시다."
+	},
+	{
 		"created_at": "Thu Jun 20 13:35:14 +0000 2019",
 		"id": 1063299419695661000,
 		"id_str": "1141701041869639680",
@@ -137,7 +243,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "一 asianporn ♡™",
 			"screen_name": "asixnporn",
 			"location": "pics|gifs|videos arent mine /",
-			"description": "🏳️‍🌈🔞NSFW-ɑsiɑn porn♡,mostly gay porn♡ I dont own ɑny content posted here; free to dm me if there's ɑnyissue!  @asianpnxn @boysasiancute @asixnpxxrn",
+			"description": "🏳️🌈🔞NSFW-ɑsiɑn porn♡,mostly gay porn♡ I dont own ɑny content posted here; free to dm me if there's ɑnyissue!  @asianpnxn @boysasiancute @asixnpxxrn",
 			"url": "https://t.co/Raue6vXgO9",
 			"entities": {
 				"url": {
