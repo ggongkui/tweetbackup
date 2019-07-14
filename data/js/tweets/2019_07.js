@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 06:18:06 +0000 2019",
+		"id": 1149925955143471100,
+		"id_str": "1149925955143471104",
+		"full_text": ". https://t.co/wfC8zrwim5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wfC8zrwim5",
+					"expanded_url": "https://twitter.com/mori199810/status/1123950737548095498",
+					"display_url": "twitter.com/mori199810/sta…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "¿?",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 3,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981236962622193664/YPhFNja3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1466982374",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123950737548095500,
+		"quoted_status_id_str": "1123950737548095498",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wfC8zrwim5",
+			"expanded": "https://twitter.com/mori199810/status/1123950737548095498",
+			"display": "twitter.com/mori199810/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 02 14:01:52 +0000 2019",
+			"id": 1123950737548095500,
+			"id_str": "1123950737548095498",
+			"full_text": "※入ってません以来の衝撃 https://t.co/yowlJux8Bo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				12
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1123950645667684400,
+						"id_str": "1123950645667684352",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123950645667684352/pu/img/wjAINXpA1hCsLcdy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123950645667684352/pu/img/wjAINXpA1hCsLcdy.jpg",
+						"url": "https://t.co/yowlJux8Bo",
+						"display_url": "pic.twitter.com/yowlJux8Bo",
+						"expanded_url": "https://twitter.com/mori199810/status/1123950737548095498/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1123950645667684400,
+						"id_str": "1123950645667684352",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123950645667684352/pu/img/wjAINXpA1hCsLcdy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123950645667684352/pu/img/wjAINXpA1hCsLcdy.jpg",
+						"url": "https://t.co/yowlJux8Bo",
+						"display_url": "pic.twitter.com/yowlJux8Bo",
+						"expanded_url": "https://twitter.com/mori199810/status/1123950737548095498/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 39753,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1123950645667684352/pu/vid/640x360/3k4nlEGuGjJGOqV0.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1123950645667684352/pu/vid/1280x720/xTZ0fvu2zLA49WZC.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1123950645667684352/pu/pl/fox3wJCcq_dbCKa5.m3u8?tag=9"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1123950645667684352/pu/vid/320x180/ahDL8laM2cDstbqw.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3464882352,
+				"id_str": "3464882352",
+				"name": "たっくん。_りえたく",
+				"screen_name": "mori199810",
+				"location": "りっくん",
+				"description": "ボーカル・ギター練習中。りえたくのりえい→@chidayamato",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24442,
+				"friends_count": 139,
+				"listed_count": 84,
+				"created_at": "Sun Sep 06 00:40:46 +0000 2015",
+				"favourites_count": 1784,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1861,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136624136455839744/3ZqnOYY1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136624136455839744/3ZqnOYY1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3464882352/1557042711",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16305,
+			"favorite_count": 58434,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ". https://t.co/wfC8zrwim5"
+	},
+	{
 		"created_at": "Mon Jul 08 05:03:51 +0000 2019",
 		"id": 1148092680448049200,
 		"id_str": "1148095326655410176",
