@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 04:59:45 +0000 2019",
+		"id": 1145874851401310200,
+		"id_str": "1150631013204127744",
+		"full_text": "[ ANT ACADEMY 소재추천 ]\n🏰왕실 내부등을 쉽게 그릴 수 있도록 만들어주는 클튜용3D 유료소스 추천합니다!!\n300~400골드 가격에 비해 퀄리티가 엄청나서 꼭 추천드리고 싶은 소재에요!\n선화,흑백 모두 조정가능!\n1. https://t.co/dI3NSiWGB7\n2. https://t.co/PFFesPus6B\n3. https://t.co/yUiOb5jeX7 https://t.co/coPU4VxVGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dI3NSiWGB7",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1695740",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/PFFesPus6B",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1707605",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/yUiOb5jeX7",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1746115",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1145871033427062800,
+					"id_str": "1145871033427062784",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/D-bzokHUcAATUu9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-bzokHUcAATUu9.jpg",
+					"url": "https://t.co/coPU4VxVGa",
+					"display_url": "pic.twitter.com/coPU4VxVGa",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1145874851401310209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1343,
+							"h": 1269,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145871033427062800,
+					"id_str": "1145871033427062784",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/D-bzokHUcAATUu9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-bzokHUcAATUu9.jpg",
+					"url": "https://t.co/coPU4VxVGa",
+					"display_url": "pic.twitter.com/coPU4VxVGa",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1145874851401310209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1343,
+							"h": 1269,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145871041610145800,
+					"id_str": "1145871041610145792",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/D-bzpCmUYAAOKy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-bzpCmUYAAOKy7.jpg",
+					"url": "https://t.co/coPU4VxVGa",
+					"display_url": "pic.twitter.com/coPU4VxVGa",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1145874851401310209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1352,
+							"h": 1043,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145871053693976600,
+					"id_str": "1145871053693976577",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/D-bzpvnVAAE1yIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-bzpvnVAAE1yIJ.jpg",
+					"url": "https://t.co/coPU4VxVGa",
+					"display_url": "pic.twitter.com/coPU4VxVGa",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1145874851401310209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1342,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145871053723328500,
+					"id_str": "1145871053723328513",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/D-bzpvuU4AEsmg2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-bzpvuU4AEsmg2.jpg",
+					"url": "https://t.co/coPU4VxVGa",
+					"display_url": "pic.twitter.com/coPU4VxVGa",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1145874851401310209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 874,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1375,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1656949124,
+			"id_str": "1656949124",
+			"name": "🎨ANT ACADEMY :: 앤트아카데미",
+			"screen_name": "ant_academy_",
+			"location": "",
+			"description": "Ant studio & Academy 입니다! / 웹툰 작가데뷔과정 / 인체드로잉 / 게임 일러스트 강의진행중 studio : @antstudio3 (ᵔᗜᵔ*)!",
+			"url": "https://t.co/wXByuM8wHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXByuM8wHB",
+							"expanded_url": "https://cafe.naver.com/antacademy1",
+							"display_url": "cafe.naver.com/antacademy1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6551,
+			"friends_count": 1604,
+			"listed_count": 110,
+			"created_at": "Fri Aug 09 05:07:37 +0000 2013",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089767701386412033/XRKCUVC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089767701386412033/XRKCUVC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1656949124/1548665988",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3855,
+		"favorite_count": 3966,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ ANT ACADEMY 소재추천 ]\n🏰왕실 내부등을 쉽게 그릴 수 있도록 만들어주는 클튜용3D 유료소스 추천합니다!!\n300~400골드 가격에 비해 퀄리티가 엄청나서 꼭 추천드리고 싶은 소재에요!\n선화,흑백 모두 조정가능!\n1. https://t.co/dI3NSiWGB7\n2. https://t.co/PFFesPus6B\n3. https://t.co/yUiOb5jeX7 https://t.co/coPU4VxVGa"
+	},
+	{
 		"created_at": "Sat Jul 13 06:18:06 +0000 2019",
 		"id": 1149925955143471100,
 		"id_str": "1149925955143471104",
