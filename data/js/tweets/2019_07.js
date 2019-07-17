@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 18:34:00 +0000 2019",
+		"id": 1151052456911986700,
+		"id_str": "1151198310914383873",
+		"full_text": "아아아아아아아아?\n무료 https://t.co/SnpcSxbhYx https://t.co/Wv8q88JbDJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SnpcSxbhYx",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1747639",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151052450020782100,
+					"id_str": "1151052450020782080",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D_lcGtFU8AAKb7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_lcGtFU8AAKb7b.jpg",
+					"url": "https://t.co/Wv8q88JbDJ",
+					"display_url": "pic.twitter.com/Wv8q88JbDJ",
+					"expanded_url": "https://twitter.com/3I707/status/1151052456911986688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151052450020782100,
+					"id_str": "1151052450020782080",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D_lcGtFU8AAKb7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_lcGtFU8AAKb7b.jpg",
+					"url": "https://t.co/Wv8q88JbDJ",
+					"display_url": "pic.twitter.com/Wv8q88JbDJ",
+					"expanded_url": "https://twitter.com/3I707/status/1151052456911986688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2723616618,
+			"id_str": "2723616618",
+			"name": "하와이안셔츠셔츠",
+			"screen_name": "3I707",
+			"location": "🏳️‍🌈",
+			"description": "헤더는 노예님의 와이키키 오딜(하와이안셔츠 입음)",
+			"url": "https://t.co/647EXurzAd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/647EXurzAd",
+							"expanded_url": "http://db.history.go.kr",
+							"display_url": "db.history.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123,
+			"friends_count": 120,
+			"listed_count": 6,
+			"created_at": "Mon Aug 11 10:16:54 +0000 2014",
+			"favourites_count": 343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94C5BF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144755849149046784/N4Thj6hk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144755849149046784/N4Thj6hk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2723616618/1563084479",
+			"profile_link_color": "D7707A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1523,
+		"favorite_count": 1111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아아아아아아아아?\n무료 https://t.co/SnpcSxbhYx https://t.co/Wv8q88JbDJ"
+	},
+	{
 		"created_at": "Mon Jul 15 04:59:45 +0000 2019",
 		"id": 1145874851401310200,
 		"id_str": "1150631013204127744",
