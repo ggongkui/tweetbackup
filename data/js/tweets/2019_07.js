@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 17:58:06 +0000 2019",
+		"id": 1152057776362799100,
+		"id_str": "1152638830169604098",
+		"full_text": "거기까지, 늘 거기까지는 아름다웠다.\n/류성훈, 밤의 도플러",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1351879938,
+			"id_str": "1351879938",
+			"name": "소녀봇",
+			"screen_name": "littlelady_bot2",
+			"location": "곁에",
+			"description": "@littlelady_bot 의 백업 계정입니다. 오래된 트윗들이 올라옵니다(´▽`*)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16772,
+			"friends_count": 1,
+			"listed_count": 433,
+			"created_at": "Sun Apr 14 13:42:22 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3519971737/bfc9398f72a46ffd5312cced53298b2f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3519971737/bfc9398f72a46ffd5312cced53298b2f_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "거기까지, 늘 거기까지는 아름다웠다.\n/류성훈, 밤의 도플러"
+	},
+	{
+		"created_at": "Sat Jul 20 17:57:38 +0000 2019",
+		"id": 1152130429610123300,
+		"id_str": "1152638713186226176",
+		"full_text": "내 꿈을 꺾어서 너의 가슴에 안길까. 너는 내 대신 꿈을 꾸고, 나는 텅 빈 잠을 자는 동안,\n(김행숙 _ 상형문자 같은)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 623658875,
+			"id_str": "623658875",
+			"name": "애정봇🏳️‍🌈",
+			"screen_name": "ThisIsLove_krb",
+			"location": "",
+			"description": "너는 내가 버리지 못하는 단 하나의 문장이야.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53958,
+			"friends_count": 2,
+			"listed_count": 945,
+			"created_at": "Sun Jul 01 11:25:28 +0000 2012",
+			"favourites_count": 6210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959335191222169600/fTR8cXnr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959335191222169600/fTR8cXnr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/623658875/1452449598",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내 꿈을 꺾어서 너의 가슴에 안길까. 너는 내 대신 꿈을 꾸고, 나는 텅 빈 잠을 자는 동안,\n(김행숙 _ 상형문자 같은)"
+	},
+	{
+		"created_at": "Sat Jul 20 17:55:48 +0000 2019",
+		"id": 1152385999952961500,
+		"id_str": "1152638249942130688",
+		"full_text": "영원히 계속되는 겨울도, 자기 차례에서 빠지는 봄도 결코 없다. 오월은 반드시 사월 다음에 온다. 당신의 때가 오고있다.\n/H.볼런드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 545083728,
+			"id_str": "545083728",
+			"name": "소녀봇",
+			"screen_name": "littlelady_bot",
+			"location": "곁에",
+			"description": "'제가' 좋아하는 문장들의 아카이브. 수정/추가 요청 받습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89429,
+			"friends_count": 181,
+			"listed_count": 1498,
+			"created_at": "Wed Apr 04 09:57:04 +0000 2012",
+			"favourites_count": 835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCAC6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/737662947493707777/YlqsfbCJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/737662947493707777/YlqsfbCJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/545083728/1423133880",
+			"profile_link_color": "A68F88",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "영원히 계속되는 겨울도, 자기 차례에서 빠지는 봄도 결코 없다. 오월은 반드시 사월 다음에 온다. 당신의 때가 오고있다.\n/H.볼런드"
+	},
+	{
+		"created_at": "Sat Jul 20 15:42:02 +0000 2019",
+		"id": 1152597576291508200,
+		"id_str": "1152604586797981697",
+		"full_text": "안녕하세요! 7월  22 일 하루동안 커미션 신청을 받습니다! 4슬롯이 차면 닫힐예정입니다!  \n\n기타문의는 DM으로 보내주세요! \n\n기타샘플+양식  :  https://t.co/iZuC7wEQZB https://t.co/v2Y6zQs3A3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iZuC7wEQZB",
+					"expanded_url": "https://tlskfdyd.postype.com/post/3842188",
+					"display_url": "tlskfdyd.postype.com/post/3842188",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1152597388898402300,
+					"id_str": "1152597388898402304",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D_7ZN-5VAAA3PCI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_7ZN-5VAAA3PCI.png",
+					"url": "https://t.co/v2Y6zQs3A3",
+					"display_url": "pic.twitter.com/v2Y6zQs3A3",
+					"expanded_url": "https://twitter.com/G_Dalgi/status/1152597576291508224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152597388898402300,
+					"id_str": "1152597388898402304",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D_7ZN-5VAAA3PCI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_7ZN-5VAAA3PCI.png",
+					"url": "https://t.co/v2Y6zQs3A3",
+					"display_url": "pic.twitter.com/v2Y6zQs3A3",
+					"expanded_url": "https://twitter.com/G_Dalgi/status/1152597576291508224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1129668864097153000,
+			"id_str": "1129668864097153025",
+			"name": "남의자컾진도 대신빼주는 할머니",
+			"screen_name": "G_Dalgi",
+			"location": "",
+			"description": "커미션계정임",
+			"url": "https://t.co/MNZj8jEs6R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MNZj8jEs6R",
+							"expanded_url": "https://tlskfdyd.postype.com/post/3842188",
+							"display_url": "tlskfdyd.postype.com/post/3842188",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 344,
+			"friends_count": 8,
+			"listed_count": 4,
+			"created_at": "Sat May 18 08:43:40 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129669823070232576/9E4zn6Od_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129669823070232576/9E4zn6Od_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1129668864097153025/1558169573",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요! 7월  22 일 하루동안 커미션 신청을 받습니다! 4슬롯이 차면 닫힐예정입니다!  \n\n기타문의는 DM으로 보내주세요! \n\n기타샘플+양식  :  https://t.co/iZuC7wEQZB https://t.co/v2Y6zQs3A3"
+	},
+	{
 		"created_at": "Fri Jul 19 12:30:25 +0000 2019",
 		"id": 1136699162475585500,
 		"id_str": "1152193977115803648",
