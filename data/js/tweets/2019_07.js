@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 21 10:55:28 +0000 2019",
+		"id": 1128545380898037800,
+		"id_str": "1152894858115203074",
+		"full_text": "합작용으로 만들었던 해바라기 클튜 브러쉬로 배포해요... 줄기까지 길쭉한 해바라기예요\n해바라기 가득찬 부분을 그릴때 좋아요\nhttps://t.co/EYjSG4F8k6 https://t.co/McTkYkmeBK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EYjSG4F8k6",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1742983",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128545310353920000,
+					"id_str": "1128545310353920002",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ll-wCUEAITLQc.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6ll-wCUEAITLQc.png",
+					"url": "https://t.co/McTkYkmeBK",
+					"display_url": "pic.twitter.com/McTkYkmeBK",
+					"expanded_url": "https://twitter.com/La_sp_berry__/status/1128545380898037760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 202,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 202,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 202,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128545310353920000,
+					"id_str": "1128545310353920002",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ll-wCUEAITLQc.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6ll-wCUEAITLQc.png",
+					"url": "https://t.co/McTkYkmeBK",
+					"display_url": "pic.twitter.com/McTkYkmeBK",
+					"expanded_url": "https://twitter.com/La_sp_berry__/status/1128545380898037760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 202,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 202,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 202,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1128545332713779200,
+					"id_str": "1128545332713779201",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D6lmADVUcAEzZDs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6lmADVUcAEzZDs.jpg",
+					"url": "https://t.co/McTkYkmeBK",
+					"display_url": "pic.twitter.com/McTkYkmeBK",
+					"expanded_url": "https://twitter.com/La_sp_berry__/status/1128545380898037760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1492693454,
+			"id_str": "1492693454",
+			"name": "🎀ʚ아루ɞ🎀",
+			"screen_name": "La_sp_berry__",
+			"location": "ꈍꈊꈍ  { 먀! ) ='∞'= { 므앙 ) . ___ .",
+			"description": "❀ FUB free ❀ I→와데데님 커미션 H →진진님 커미션",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 360,
+			"friends_count": 262,
+			"listed_count": 3,
+			"created_at": "Sat Jun 08 11:37:12 +0000 2013",
+			"favourites_count": 3492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F4F5E2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142357254957486080/c_VZbD-P_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142357254957486080/c_VZbD-P_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1492693454/1562700485",
+			"profile_link_color": "FFA7A7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1874,
+		"favorite_count": 1713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "합작용으로 만들었던 해바라기 클튜 브러쉬로 배포해요... 줄기까지 길쭉한 해바라기예요\n해바라기 가득찬 부분을 그릴때 좋아요\nhttps://t.co/EYjSG4F8k6 https://t.co/McTkYkmeBK"
+	},
+	{
 		"created_at": "Sat Jul 20 17:58:06 +0000 2019",
 		"id": 1152057776362799100,
 		"id_str": "1152638830169604098",
@@ -106,7 +313,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 623658875,
 			"id_str": "623658875",
-			"name": "애정봇🏳️‍🌈",
+			"name": "애정봇🏳️🌈",
 			"screen_name": "ThisIsLove_krb",
 			"location": "",
 			"description": "너는 내가 버리지 못하는 단 하나의 문장이야.",
