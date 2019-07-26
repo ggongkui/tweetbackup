@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 25 00:38:50 +0000 2019",
+		"id": 623679654168240100,
+		"id_str": "1154189227728392192",
+		"full_text": "오 맙소사 나 방금 사랑에 빠진 것 같아. 프리소재 사진을 공유해주시는 분이야. 상업적으로도 사용가능, 오브젝트만 따로 잘라놓은 폴더도있으니 확인바람. 다만 재배포금지!\nhttp://t.co/n9u1cwrYdR http://t.co/1ktc7shlSO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "http://t.co/n9u1cwrYdR",
+					"expanded_url": "http://kuschelirmel-stock.deviantart.com/",
+					"display_url": "kuschelirmel-stock.deviantart.com",
+					"indices": [
+						95,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 623679653492994000,
+					"id_str": "623679653492994048",
+					"indices": [
+						118,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CKfBVygWsAAze1M.png",
+					"media_url_https": "https://pbs.twimg.com/media/CKfBVygWsAAze1M.png",
+					"url": "http://t.co/1ktc7shlSO",
+					"display_url": "pic.twitter.com/1ktc7shlSO",
+					"expanded_url": "https://twitter.com/AD_rto_bot/status/623679654168240128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1097,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1097,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 623679653492994000,
+					"id_str": "623679653492994048",
+					"indices": [
+						118,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CKfBVygWsAAze1M.png",
+					"media_url_https": "https://pbs.twimg.com/media/CKfBVygWsAAze1M.png",
+					"url": "http://t.co/1ktc7shlSO",
+					"display_url": "pic.twitter.com/1ktc7shlSO",
+					"expanded_url": "https://twitter.com/AD_rto_bot/status/623679654168240128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1097,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1097,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 623679650611490800,
+					"id_str": "623679650611490817",
+					"indices": [
+						118,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CKfBVnxWcAEjZNs.png",
+					"media_url_https": "https://pbs.twimg.com/media/CKfBVnxWcAEjZNs.png",
+					"url": "http://t.co/1ktc7shlSO",
+					"display_url": "pic.twitter.com/1ktc7shlSO",
+					"expanded_url": "https://twitter.com/AD_rto_bot/status/623679654168240128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1176,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1176,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776959129,
+			"id_str": "776959129",
+			"name": "추천하는 여자",
+			"screen_name": "AD_rto_bot",
+			"location": "오타의 여신",
+			"description": "소설쓰는 여자 설정의 잡다추천봇. 말걸어준다면 기쁠거야~",
+			"url": "http://t.co/pgdIZy9Cq0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pgdIZy9Cq0",
+							"expanded_url": "http://ask.fm/AD_rto_bot",
+							"display_url": "ask.fm/AD_rto_bot",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5204,
+			"friends_count": 6,
+			"listed_count": 135,
+			"created_at": "Thu Aug 23 23:14:44 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/590409650585128960/5k0whSQB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/590409650585128960/5k0whSQB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776959129/1429598809",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2951,
+		"favorite_count": 5435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오 맙소사 나 방금 사랑에 빠진 것 같아. 프리소재 사진을 공유해주시는 분이야. 상업적으로도 사용가능, 오브젝트만 따로 잘라놓은 폴더도있으니 확인바람. 다만 재배포금지!\nhttp://t.co/n9u1cwrYdR http://t.co/1ktc7shlSO"
+	},
+	{
 		"created_at": "Sun Jul 21 10:55:28 +0000 2019",
 		"id": 1128545380898037800,
 		"id_str": "1152894858115203074",
