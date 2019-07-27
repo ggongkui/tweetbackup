@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 19:58:05 +0000 2019",
+		"id": 1154708576721490000,
+		"id_str": "1154843351520202752",
+		"full_text": "왜 제 복수의 최종 목표가 용서라고 생각하는 것인지요 유감스럽게도 제 밀도 높은 분노에 용서를 포용할 자리는 없습니다 평생을 회쳐서 당신도 나도 망치고 터져 죽으면 죽었지 이만하면 됐다 싶은 돈과 이만하면 충분하다 싶은 절망이 세상에 있긴 한가요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4846161452,
+			"id_str": "4846161452",
+			"name": "외설.",
+			"screen_name": "peop1eshit_",
+			"location": "욕설 문장집 구매 링크",
+			"description": "욕설(@_peoplesh1t)에 쓴 문장을 자동으로 트윗합니다.",
+			"url": "https://t.co/26bHCzwjx0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26bHCzwjx0",
+							"expanded_url": "http://smartstore.naver.com/knifeequalspen/products/2870888222",
+							"display_url": "smartstore.naver.com/knifeequalspen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19507,
+			"friends_count": 1,
+			"listed_count": 348,
+			"created_at": "Mon Feb 01 20:51:21 +0000 2016",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118320704795987968/TOMUmJDU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118320704795987968/TOMUmJDU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4846161452/1555463603",
+			"profile_link_color": "111111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "왜 제 복수의 최종 목표가 용서라고 생각하는 것인지요 유감스럽게도 제 밀도 높은 분노에 용서를 포용할 자리는 없습니다 평생을 회쳐서 당신도 나도 망치고 터져 죽으면 죽었지 이만하면 됐다 싶은 돈과 이만하면 충분하다 싶은 절망이 세상에 있긴 한가요"
+	},
+	{
 		"created_at": "Thu Jul 25 00:38:50 +0000 2019",
 		"id": 623679654168240100,
 		"id_str": "1154189227728392192",
