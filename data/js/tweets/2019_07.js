@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 05:00:49 +0000 2019",
+		"id": 1155823546473443300,
+		"id_str": "1156067099573248001",
+		"full_text": "&lt;소재추천&gt;\n수면, 지면 브러쉬 😊 바다와 땅을 간단히 터치 몇 번으로 완성할 수 있는 브러쉬! 스탬프 형식으로 사용할 수 있어요. 밝은색과 어두운색을 함께 사용하면 더욱 자연스러워요. 물 표현이 고민인 홀릭 학생 여러분들에게 추천드리고 싶은 브러쉬!\nhttps://t.co/kt0x0YMdA5 https://t.co/zvfKeoODpx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kt0x0YMdA5",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1717963",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1155823533919887400,
+					"id_str": "1155823533919887361",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EApPYVpU4AE5W7R.png",
+					"media_url_https": "https://pbs.twimg.com/media/EApPYVpU4AE5W7R.png",
+					"url": "https://t.co/zvfKeoODpx",
+					"display_url": "pic.twitter.com/zvfKeoODpx",
+					"expanded_url": "https://twitter.com/holic_institute/status/1155823546473443329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 294,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 294,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 294,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155823533919887400,
+					"id_str": "1155823533919887361",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EApPYVpU4AE5W7R.png",
+					"media_url_https": "https://pbs.twimg.com/media/EApPYVpU4AE5W7R.png",
+					"url": "https://t.co/zvfKeoODpx",
+					"display_url": "pic.twitter.com/zvfKeoODpx",
+					"expanded_url": "https://twitter.com/holic_institute/status/1155823546473443329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 294,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 294,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 294,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1155823533932470300,
+					"id_str": "1155823533932470272",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EApPYVsU4AAPl2L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EApPYVsU4AAPl2L.jpg",
+					"url": "https://t.co/zvfKeoODpx",
+					"display_url": "pic.twitter.com/zvfKeoODpx",
+					"expanded_url": "https://twitter.com/holic_institute/status/1155823546473443329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1155823533936660500,
+					"id_str": "1155823533936660480",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EApPYVtU0AAjCJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EApPYVtU0AAjCJv.jpg",
+					"url": "https://t.co/zvfKeoODpx",
+					"display_url": "pic.twitter.com/zvfKeoODpx",
+					"expanded_url": "https://twitter.com/holic_institute/status/1155823546473443329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40101,
+			"friends_count": 1046,
+			"listed_count": 270,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1520,
+		"favorite_count": 2046,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\n수면, 지면 브러쉬 😊 바다와 땅을 간단히 터치 몇 번으로 완성할 수 있는 브러쉬! 스탬프 형식으로 사용할 수 있어요. 밝은색과 어두운색을 함께 사용하면 더욱 자연스러워요. 물 표현이 고민인 홀릭 학생 여러분들에게 추천드리고 싶은 브러쉬!\nhttps://t.co/kt0x0YMdA5 https://t.co/zvfKeoODpx"
+	},
+	{
 		"created_at": "Sun Jul 28 15:42:10 +0000 2019",
 		"id": 640499862379720700,
 		"id_str": "1155503722006364162",
