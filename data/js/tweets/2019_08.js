@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 05:41:52 +0000 2019",
+		"id": 1159399475674112000,
+		"id_str": "1159701305478152192",
+		"full_text": "최근 웹툰 배경작업하면서 만들었던 자료.. 먹이 많이 들어가는 어두운 배경들하면서 주관적으로 정리했던거 https://t.co/t96RyP4ADT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159399261001269200,
+					"id_str": "1159399261001269249",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcDfDDUwAEXMe6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBcDfDDUwAEXMe6.png",
+					"url": "https://t.co/t96RyP4ADT",
+					"display_url": "pic.twitter.com/t96RyP4ADT",
+					"expanded_url": "https://twitter.com/holy__01/status/1159399475674112002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 815,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 815,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159399261001269200,
+					"id_str": "1159399261001269249",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcDfDDUwAEXMe6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBcDfDDUwAEXMe6.png",
+					"url": "https://t.co/t96RyP4ADT",
+					"display_url": "pic.twitter.com/t96RyP4ADT",
+					"expanded_url": "https://twitter.com/holy__01/status/1159399475674112002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 815,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 815,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1159399269566013400,
+					"id_str": "1159399269566013440",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcDfi9UYAA6myh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBcDfi9UYAA6myh.png",
+					"url": "https://t.co/t96RyP4ADT",
+					"display_url": "pic.twitter.com/t96RyP4ADT",
+					"expanded_url": "https://twitter.com/holy__01/status/1159399475674112002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3238980296,
+			"id_str": "3238980296",
+			"name": "HOL | ホリ",
+			"screen_name": "holy__01",
+			"location": "",
+			"description": "日本語, ENG ok / 背景美術, 水彩画 / background artist, illustrator / 외주 및 작업문의 ✉️ xldjwm02@naver.com",
+			"url": "https://t.co/j0QfOMOH5D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j0QfOMOH5D",
+							"expanded_url": "https://www.pixiv.net/member.php?id=4564598",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7783,
+			"friends_count": 183,
+			"listed_count": 143,
+			"created_at": "Sun Jun 07 15:12:49 +0000 2015",
+			"favourites_count": 5999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "123130",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146841180853788672/OWFUAhl-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146841180853788672/OWFUAhl-_normal.png",
+			"profile_link_color": "8B8988",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3233,
+		"favorite_count": 3651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 웹툰 배경작업하면서 만들었던 자료.. 먹이 많이 들어가는 어두운 배경들하면서 주관적으로 정리했던거 https://t.co/t96RyP4ADT"
+	},
+	{
 		"created_at": "Wed Aug 07 02:42:52 +0000 2019",
 		"id": 1156392168958787600,
 		"id_str": "1158931483588870144",
