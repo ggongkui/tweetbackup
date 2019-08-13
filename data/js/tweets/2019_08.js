@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 11:08:22 +0000 2019",
+		"id": 1114586990421266400,
+		"id_str": "1160870638778589184",
+		"full_text": "야망가용손.자료추천합니다 ^^ https://t.co/L7Ij8UipBT https://t.co/tEn5uq7hpq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L7Ij8UipBT",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1739741",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114586912159719400,
+					"id_str": "1114586912159719424",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D3fO5CqUYAACRD8.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3fO5CqUYAACRD8.png",
+					"url": "https://t.co/tEn5uq7hpq",
+					"display_url": "pic.twitter.com/tEn5uq7hpq",
+					"expanded_url": "https://twitter.com/didvkfmld/status/1114586990421266433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 558,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 671,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114586912159719400,
+					"id_str": "1114586912159719424",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D3fO5CqUYAACRD8.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3fO5CqUYAACRD8.png",
+					"url": "https://t.co/tEn5uq7hpq",
+					"display_url": "pic.twitter.com/tEn5uq7hpq",
+					"expanded_url": "https://twitter.com/didvkfmld/status/1114586990421266433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 558,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 558,
+							"h": 671,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1114586940328661000,
+					"id_str": "1114586940328660992",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D3fO6rmUUAAbo1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3fO6rmUUAAbo1G.jpg",
+					"url": "https://t.co/tEn5uq7hpq",
+					"display_url": "pic.twitter.com/tEn5uq7hpq",
+					"expanded_url": "https://twitter.com/didvkfmld/status/1114586990421266433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 935,
+							"h": 507,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 935,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440811940,
+			"id_str": "1440811940",
+			"name": "양까까",
+			"screen_name": "didRkRk",
+			"location": "",
+			"description": "만화가(작화) 문의  didrhkwk93@naver.com\n체인블락돌립니다..",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13013,
+			"friends_count": 401,
+			"listed_count": 141,
+			"created_at": "Sun May 19 10:24:24 +0000 2013",
+			"favourites_count": 8047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127913717750853637/S1P16YAs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127913717750853637/S1P16YAs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440811940/1428926574",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2479,
+		"favorite_count": 2349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야망가용손.자료추천합니다 ^^ https://t.co/L7Ij8UipBT https://t.co/tEn5uq7hpq"
+	},
+	{
 		"created_at": "Fri Aug 09 05:41:52 +0000 2019",
 		"id": 1159399475674112000,
 		"id_str": "1159701305478152192",
