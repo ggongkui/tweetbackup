@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 13:21:21 +0000 2019",
+		"id": 1027550421873700900,
+		"id_str": "1161266491045474305",
+		"full_text": "드라큘라 백작(레즈) https://t.co/q6spZlRC6f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027550410750345200,
+					"id_str": "1027550410750345216",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DkKXp4WUwAAWgcW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkKXp4WUwAAWgcW.jpg",
+					"url": "https://t.co/q6spZlRC6f",
+					"display_url": "pic.twitter.com/q6spZlRC6f",
+					"expanded_url": "https://twitter.com/qt1_jo/status/1027550421873700864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027550410750345200,
+					"id_str": "1027550410750345216",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DkKXp4WUwAAWgcW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkKXp4WUwAAWgcW.jpg",
+					"url": "https://t.co/q6spZlRC6f",
+					"display_url": "pic.twitter.com/q6spZlRC6f",
+					"expanded_url": "https://twitter.com/qt1_jo/status/1027550421873700864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1027550410775515100,
+					"id_str": "1027550410775515136",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DkKXp4cU0AAkT8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkKXp4cU0AAkT8J.jpg",
+					"url": "https://t.co/q6spZlRC6f",
+					"display_url": "pic.twitter.com/q6spZlRC6f",
+					"expanded_url": "https://twitter.com/qt1_jo/status/1027550421873700864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 694,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 949738846870106100,
+			"id_str": "949738846870106112",
+			"name": "정현",
+			"screen_name": "qt1_jo",
+			"location": "",
+			"description": "47eaee@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40647,
+			"friends_count": 22,
+			"listed_count": 374,
+			"created_at": "Sat Jan 06 20:26:01 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027548040767234048/iH7XwBAx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027548040767234048/iH7XwBAx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/949738846870106112/1526658182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 888,
+		"favorite_count": 1482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드라큘라 백작(레즈) https://t.co/q6spZlRC6f"
+	},
+	{
 		"created_at": "Mon Aug 12 11:08:22 +0000 2019",
 		"id": 1114586990421266400,
 		"id_str": "1160870638778589184",
