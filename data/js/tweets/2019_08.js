@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 12:03:56 +0000 2019",
+		"id": 1158625367516598300,
+		"id_str": "1161609397702762497",
+		"full_text": "아!!!!!! 최고다 방금 올라온 양뿔 브러쉬\nhttps://t.co/umlTGOIOoF (100CP) https://t.co/BgtsnRnZTe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/umlTGOIOoF",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1749525",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158625355051094000,
+					"id_str": "1158625355051094017",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRDnyuU0AEIGL8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRDnyuU0AEIGL8.jpg",
+					"url": "https://t.co/BgtsnRnZTe",
+					"display_url": "pic.twitter.com/BgtsnRnZTe",
+					"expanded_url": "https://twitter.com/3I707/status/1158625367516598273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 699,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 699,
+							"h": 657,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158625355051094000,
+					"id_str": "1158625355051094017",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRDnyuU0AEIGL8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRDnyuU0AEIGL8.jpg",
+					"url": "https://t.co/BgtsnRnZTe",
+					"display_url": "pic.twitter.com/BgtsnRnZTe",
+					"expanded_url": "https://twitter.com/3I707/status/1158625367516598273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 699,
+							"h": 657,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 699,
+							"h": 657,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155647487228596200,
+		"in_reply_to_status_id_str": "1155647487228596225",
+		"in_reply_to_user_id": 2723616618,
+		"in_reply_to_user_id_str": "2723616618",
+		"in_reply_to_screen_name": "3I707",
+		"user": {
+			"id": 2723616618,
+			"id_str": "2723616618",
+			"name": "하와이안셔츠셔츠",
+			"screen_name": "3I707",
+			"location": "🏳️‍🌈",
+			"description": "샤라망궈 빙고망수 즉떡석볶이 녹타치백 조르존골라 톨오브트쿨루 아도카보 야치참채",
+			"url": "https://t.co/v98rky4NGe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v98rky4NGe",
+							"expanded_url": "https://702535.tistory.com/",
+							"display_url": "702535.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 121,
+			"listed_count": 7,
+			"created_at": "Mon Aug 11 10:16:54 +0000 2014",
+			"favourites_count": 298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94C5BF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161494031416926214/D-JmdKKt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161494031416926214/D-JmdKKt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2723616618/1565240317",
+			"profile_link_color": "D7707A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1363,
+		"favorite_count": 1041,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아!!!!!! 최고다 방금 올라온 양뿔 브러쉬\nhttps://t.co/umlTGOIOoF (100CP) https://t.co/BgtsnRnZTe"
+	},
+	{
 		"created_at": "Tue Aug 13 13:21:21 +0000 2019",
 		"id": 1027550421873700900,
 		"id_str": "1161266491045474305",
