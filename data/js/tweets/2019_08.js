@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 05:46:47 +0000 2019",
+		"id": 1161461424498983000,
+		"id_str": "1161876873200070656",
+		"full_text": "[ ANT ACADEMY 소재추천 ]\n연필+마커의 오묘한 느낌을 낼 수 있는 브러쉬 3종 추천드립니다.\n텍스처와 투명도가 어느정도 있어서 레이어링이 가능!\n낙서나 수채화 풍 그림에 좋아요｡^‿^｡\n\n1.https://t.co/wZLhp2o3Hf\n2.https://t.co/3uS6UTnJXj\n3.https://t.co/syIlqrGiyI https://t.co/0BTQpti7Lz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wZLhp2o3Hf",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1744175",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/3uS6UTnJXj",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1750080",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/syIlqrGiyI",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1750068",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161461413405048800,
+					"id_str": "1161461413405048835",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EB5XAHZUwAMODiu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB5XAHZUwAMODiu.png",
+					"url": "https://t.co/0BTQpti7Lz",
+					"display_url": "pic.twitter.com/0BTQpti7Lz",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1161461424498982912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 752,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161461413405048800,
+					"id_str": "1161461413405048835",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EB5XAHZUwAMODiu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB5XAHZUwAMODiu.png",
+					"url": "https://t.co/0BTQpti7Lz",
+					"display_url": "pic.twitter.com/0BTQpti7Lz",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1161461424498982912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 752,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1161461413405065200,
+					"id_str": "1161461413405065216",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EB5XAHZVAAAaJWN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB5XAHZVAAAaJWN.png",
+					"url": "https://t.co/0BTQpti7Lz",
+					"display_url": "pic.twitter.com/0BTQpti7Lz",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1161461424498982912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 609,
+							"h": 392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 609,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1161461413409255400,
+					"id_str": "1161461413409255424",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EB5XAHaU8AAu5qZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB5XAHaU8AAu5qZ.png",
+					"url": "https://t.co/0BTQpti7Lz",
+					"display_url": "pic.twitter.com/0BTQpti7Lz",
+					"expanded_url": "https://twitter.com/ant_academy_/status/1161461424498982912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 397,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 397,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1656949124,
+			"id_str": "1656949124",
+			"name": "🎨ANT ACADEMY :: 앤트아카데미",
+			"screen_name": "ant_academy_",
+			"location": "서울 광진구 능동로 243-1 3층",
+			"description": "· Ant Studio & Academy\n웹툰 작가데뷔과정 / 인체드로잉 / 게임 일러스트 강의진행중\n강의안내는=♥ \n\n· ANT STUDIO : @antstudio3",
+			"url": "https://t.co/wXByuM8wHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXByuM8wHB",
+							"expanded_url": "https://cafe.naver.com/antacademy1",
+							"display_url": "cafe.naver.com/antacademy1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7145,
+			"friends_count": 1600,
+			"listed_count": 116,
+			"created_at": "Fri Aug 09 05:07:37 +0000 2013",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089767701386412033/XRKCUVC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089767701386412033/XRKCUVC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1656949124/1563935359",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 991,
+		"favorite_count": 1140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ ANT ACADEMY 소재추천 ]\n연필+마커의 오묘한 느낌을 낼 수 있는 브러쉬 3종 추천드립니다.\n텍스처와 투명도가 어느정도 있어서 레이어링이 가능!\n낙서나 수채화 풍 그림에 좋아요｡^‿^｡\n\n1.https://t.co/wZLhp2o3Hf\n2.https://t.co/3uS6UTnJXj\n3.https://t.co/syIlqrGiyI https://t.co/0BTQpti7Lz"
+	},
+	{
 		"created_at": "Wed Aug 14 12:03:56 +0000 2019",
 		"id": 1158625367516598300,
 		"id_str": "1161609397702762497",
@@ -115,7 +389,7 @@ Grailbird.data.tweets_2019_08 =
 			"id_str": "2723616618",
 			"name": "하와이안셔츠셔츠",
 			"screen_name": "3I707",
-			"location": "🏳️‍🌈",
+			"location": "🏳️🌈",
 			"description": "샤라망궈 빙고망수 즉떡석볶이 녹타치백 조르존골라 톨오브트쿨루 아도카보 야치참채",
 			"url": "https://t.co/v98rky4NGe",
 			"entities": {
