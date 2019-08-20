@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 19 12:47:25 +0000 2019",
+		"id": 1163429082115166200,
+		"id_str": "1163432280225751040",
+		"full_text": "&lt;소재추천&gt;\n직선 펜 🖊️ 아무리 흐물흐물한 선을 그리더라도 직선으로 보정되는 펜입니다. 굳이 자를 대지 않아도 직선을 그을 수 있다는 점이 굉장히 편리해 보여요! 직선 묘사가 필요한 부분에서도 유용히 쓰일 것 같습니다.\nhttps://t.co/DmtqecKQVw https://t.co/VVh3puNaqP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DmtqecKQVw",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1746576",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1163429073239986200,
+					"id_str": "1163429073239986179",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ECVUk_fU0AM6d-h.png",
+					"media_url_https": "https://pbs.twimg.com/media/ECVUk_fU0AM6d-h.png",
+					"url": "https://t.co/VVh3puNaqP",
+					"display_url": "pic.twitter.com/VVh3puNaqP",
+					"expanded_url": "https://twitter.com/holic_institute/status/1163429082115166208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 290,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 290,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 290,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1163429073239986200,
+					"id_str": "1163429073239986179",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ECVUk_fU0AM6d-h.png",
+					"media_url_https": "https://pbs.twimg.com/media/ECVUk_fU0AM6d-h.png",
+					"url": "https://t.co/VVh3puNaqP",
+					"display_url": "pic.twitter.com/VVh3puNaqP",
+					"expanded_url": "https://twitter.com/holic_institute/status/1163429082115166208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 290,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 290,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 290,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1163429073252540400,
+					"id_str": "1163429073252540416",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ECVUk_iUYAATjpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECVUk_iUYAATjpp.jpg",
+					"url": "https://t.co/VVh3puNaqP",
+					"display_url": "pic.twitter.com/VVh3puNaqP",
+					"expanded_url": "https://twitter.com/holic_institute/status/1163429082115166208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1692,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 174,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 306,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41186,
+			"friends_count": 1032,
+			"listed_count": 288,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1765,
+		"favorite_count": 1931,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\n직선 펜 🖊️ 아무리 흐물흐물한 선을 그리더라도 직선으로 보정되는 펜입니다. 굳이 자를 대지 않아도 직선을 그을 수 있다는 점이 굉장히 편리해 보여요! 직선 묘사가 필요한 부분에서도 유용히 쓰일 것 같습니다.\nhttps://t.co/DmtqecKQVw https://t.co/VVh3puNaqP"
+	},
+	{
 		"created_at": "Fri Aug 16 19:40:07 +0000 2019",
 		"id": 1162448974315286500,
 		"id_str": "1162448974315286528",
