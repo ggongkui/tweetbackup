@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 24 12:55:01 +0000 2019",
+		"id": 1162664382527987700,
+		"id_str": "1165246129774088192",
+		"full_text": "클튜 수채경계가 불편하셨던분들 이거 쓰십쇼......사이툴 수채경계랑 제일... 비슷하게 효과내주는 오토액션인데 짱좋음\nhttps://t.co/K7rW3Ci70h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K7rW3Ci70h",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1743448",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 974332055902236700,
+			"id_str": "974332055902236672",
+			"name": "제나",
+			"screen_name": "MAPA_CTBY",
+			"location": "인장 루루리님 커미션 헤더 왕콩님 커미션",
+			"description": "성인 3른 고정 2른 리버시블 지뢰블락 체인블락 미러블락 elxle1229@naver.com",
+			"url": "https://t.co/eT7zWPbQ7D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eT7zWPbQ7D",
+							"expanded_url": "http://g.co/hangouts",
+							"display_url": "g.co/hangouts",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 783,
+			"friends_count": 78,
+			"listed_count": 6,
+			"created_at": "Thu Mar 15 17:10:39 +0000 2018",
+			"favourites_count": 9334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084303422977765377/G1WTq5kv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084303422977765377/G1WTq5kv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/974332055902236672/1559410878",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3446,
+		"favorite_count": 3024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클튜 수채경계가 불편하셨던분들 이거 쓰십쇼......사이툴 수채경계랑 제일... 비슷하게 효과내주는 오토액션인데 짱좋음\nhttps://t.co/K7rW3Ci70h"
+	},
+	{
 		"created_at": "Mon Aug 19 12:47:25 +0000 2019",
 		"id": 1163429082115166200,
 		"id_str": "1163432280225751040",
