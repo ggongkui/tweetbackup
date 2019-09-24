@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 03:03:38 +0000 2019",
+		"id": 1174947989493694500,
+		"id_str": "1175968938477277184",
+		"full_text": "나 이 영상 너무 좋아함  https://t.co/9UV1rFNinX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 752830576370061300,
+					"id_str": "752830576370061312",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/752830576370061312/pu/img/Kzv5At1DCy2fKQ5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/752830576370061312/pu/img/Kzv5At1DCy2fKQ5_.jpg",
+					"url": "https://t.co/9UV1rFNinX",
+					"display_url": "pic.twitter.com/9UV1rFNinX",
+					"expanded_url": "https://twitter.com/ParamountUK/status/752830635249639424/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 752830635249639400,
+					"source_status_id_str": "752830635249639424",
+					"source_user_id": 18018384,
+					"source_user_id_str": "18018384"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 752830576370061300,
+					"id_str": "752830576370061312",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/752830576370061312/pu/img/Kzv5At1DCy2fKQ5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/752830576370061312/pu/img/Kzv5At1DCy2fKQ5_.jpg",
+					"url": "https://t.co/9UV1rFNinX",
+					"display_url": "pic.twitter.com/9UV1rFNinX",
+					"expanded_url": "https://twitter.com/ParamountUK/status/752830635249639424/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 752830635249639400,
+					"source_status_id_str": "752830635249639424",
+					"source_user_id": 18018384,
+					"source_user_id_str": "18018384",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/752830576370061312/pu/pl/-lDTLbk7GcHLfkZ2.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/752830576370061312/pu/vid/480x480/k-O4n8hNHhbtrdbd.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/752830576370061312/pu/vid/240x240/AIgqELQu2yCG4gso.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 18018384,
+							"id_str": "18018384",
+							"name": "Paramount Pictures",
+							"screen_name": "ParamountUK",
+							"location": "UK",
+							"description": "Home of #DoraTheMovie (out now), #CrawlMovie (out now), #GeminiMan (Oct 10) and #BlueStoryMovie (Nov 22).",
+							"url": "https://t.co/O92WjGhVfq",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/O92WjGhVfq",
+											"expanded_url": "http://paramount.co.uk",
+											"display_url": "paramount.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 615107,
+							"friends_count": 4988,
+							"listed_count": 2502,
+							"created_at": "Wed Dec 10 13:04:37 +0000 2008",
+							"favourites_count": 4357,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 20734,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/780758018468245504/mFIDTis5_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/780758018468245504/mFIDTis5_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18018384/1568817645",
+							"profile_link_color": "3B5260",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "18315A",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1164430994692141000,
+			"id_str": "1164430994692141056",
+			"name": "건달",
+			"screen_name": "GOODBOIDOG",
+			"location": "RPS",
+			"description": "그건 사랑이 아니야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 25,
+			"listed_count": 1,
+			"created_at": "Thu Aug 22 06:56:05 +0000 2019",
+			"favourites_count": 2421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168804065569959936/3OknDPsD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168804065569959936/3OknDPsD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1164430994692141056/1567499429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4808,
+		"favorite_count": 5622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 이 영상 너무 좋아함  https://t.co/9UV1rFNinX"
+	},
+	{
 		"created_at": "Sun Sep 15 16:24:29 +0000 2019",
 		"id": 973155999669411800,
 		"id_str": "1173271376326610944",
@@ -28,7 +284,7 @@ Grailbird.data.tweets_2019_09 =
 			"name": "소츄녹🌸월요일조교취창업",
 			"screen_name": "sodanoccha",
 			"location": "☆인장 도롱님, 헤더 ovo님 러닝목록↓",
-			"description": ":: 소츄녹｜ソチュノ｜20↑｜멀티러｜일본어 가능, 日本語👌｜TRPG(CoC, 인세인, 덥크 등), 자캐, 마마마, OFF, 단키라｜플텍구독계의 무언팔로는 안받습니다.| 팀 교과제🏫, 함가인🏃‍♂, 강촌팟🐔, 나베조🍜｜단키라계: @SCN_dankira303 | ☄자세한건 플필에☄",
+			"description": ":: 소츄녹｜ソチュノ｜20↑｜멀티러｜일본어 가능, 日本語👌｜TRPG(CoC, 인세인, 덥크 등), 자캐, 마마마, OFF, 단키라｜플텍구독계의 무언팔로는 안받습니다.| 팀 교과제🏫, 함가인🏃♂, 강촌팟🐔, 나베조🍜｜단키라계: @SCN_dankira303 | ☄자세한건 플필에☄",
 			"url": "https://t.co/CsMximrUIJ",
 			"entities": {
 				"url": {
