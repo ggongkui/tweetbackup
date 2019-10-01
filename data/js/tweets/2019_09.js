@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 05:24:18 +0000 2019",
+		"id": 1176842775175692300,
+		"id_str": "1178541054292660224",
+		"full_text": "사극을 쓰고싶은데 아예 픽션으로 쓰기 싫거나 논문 등 공적 문서에 신뢰할만한 역사적 기록이 들어가야 할때, 그걸 어디서 찾아야 할지 모르겠다면 한국고전 번역원 사이트의 한국고전종합DB를 들어가보세요. 번역서, 원본, 실록, 승정원 일기까지 다 있습니다.\n#전공을_살려_유익한_말을_해보자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전공을_살려_유익한_말을_해보자",
+					"indices": [
+						142,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162404850010747000,
+			"id_str": "1162404850010746883",
+			"name": "도가니",
+			"screen_name": "groo_tt",
+			"location": "",
+			"description": "승른 RPS / 련승 알러빗",
+			"url": "https://t.co/Fl7m5NjDK8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fl7m5NjDK8",
+							"expanded_url": "http://fcatch.postype.com",
+							"display_url": "fcatch.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 35,
+			"listed_count": 0,
+			"created_at": "Fri Aug 16 16:45:15 +0000 2019",
+			"favourites_count": 3429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177993464308350976/-6QXkF47_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177993464308350976/-6QXkF47_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162404850010746883/1568813388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6112,
+		"favorite_count": 3697,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사극을 쓰고싶은데 아예 픽션으로 쓰기 싫거나 논문 등 공적 문서에 신뢰할만한 역사적 기록이 들어가야 할때, 그걸 어디서 찾아야 할지 모르겠다면 한국고전 번역원 사이트의 한국고전종합DB를 들어가보세요. 번역서, 원본, 실록, 승정원 일기까지 다 있습니다.\n#전공을_살려_유익한_말을_해보자"
+	},
+	{
 		"created_at": "Thu Sep 26 19:58:59 +0000 2019",
 		"id": 1177311625482625000,
 		"id_str": "1177311625482625024",
