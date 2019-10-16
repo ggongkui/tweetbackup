@@ -1,6 +1,107 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 19:24:57 +0000 2019",
+		"id": 1183971346306355200,
+		"id_str": "1184188428516151296",
+		"full_text": "그거 보고싶다 대신 헤어져 드립니다.. 로 발로 뛰는 유진이. 대리로 헤어지자 전해주는 대신에 물도 맞고 뺨도 맞고 뭔 일이 일어날지 모름 그래도 수입은 짭짤하다\n\n\"또 그쪽이세요.\"\n\"이쯤되면 유진군이 내 애인인 것 같군.\"\n\"끔찍한 소리 마세요.\"\n\n유진이가 모자를 벗으며 맞은편에 털푸덕 앉았음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1060136405009977300,
+			"id_str": "1060136405009977344",
+			"name": "🌔Μ히륜이야.해독해줄래?μ💫",
+			"screen_name": "ir_yun_0405",
+			"location": "I : 뫙망님ㅠㅡㅠ💘",
+			"description": "성인 스급계 | 유진른 다 먹어요 | 이 나이 먹고 어리고 싶습니다\n리퀘박스 : https://t.co/N4Su6FWl3u\n질문함 : https://t.co/JrZqTZzDSg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/N4Su6FWl3u",
+							"expanded_url": "http://me2.do/xsAmfPeu",
+							"display_url": "me2.do/xsAmfPeu",
+							"indices": [
+								45,
+								68
+							]
+						},
+						{
+							"url": "https://t.co/JrZqTZzDSg",
+							"expanded_url": "http://peing.net/ko/ir_yun_0405",
+							"display_url": "peing.net/ko/ir_yun_0405",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7496,
+			"friends_count": 189,
+			"listed_count": 16,
+			"created_at": "Wed Nov 07 11:46:30 +0000 2018",
+			"favourites_count": 44730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184130211962470400/T3OSsNY1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184130211962470400/T3OSsNY1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1060136405009977344/1566142681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 759,
+		"favorite_count": 1754,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그거 보고싶다 대신 헤어져 드립니다.. 로 발로 뛰는 유진이. 대리로 헤어지자 전해주는 대신에 물도 맞고 뺨도 맞고 뭔 일이 일어날지 모름 그래도 수입은 짭짤하다\n\n\"또 그쪽이세요.\"\n\"이쯤되면 유진군이 내 애인인 것 같군.\"\n\"끔찍한 소리 마세요.\"\n\n유진이가 모자를 벗으며 맞은편에 털푸덕 앉았음"
+	},
+	{
 		"created_at": "Sat Oct 12 04:40:24 +0000 2019",
 		"id": 1182878660094845000,
 		"id_str": "1182878660094844928",
