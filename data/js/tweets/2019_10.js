@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 05:22:48 +0000 2019",
+		"id": 1128172731780833300,
+		"id_str": "1185426049393258496",
+		"full_text": "[창작] 5월동안 작업한 창작 만화 &lt;지평선&gt;을 무료 웹공개합니다. https://t.co/ycAsXAGPFY https://t.co/qvn2gHEphF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ycAsXAGPFY",
+					"expanded_url": "https://eh0917.postype.com/post/3811400",
+					"display_url": "eh0917.postype.com/post/3811400",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128172655624851500,
+					"id_str": "1128172655624851456",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gTDY_UEAAWlgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gTDY_UEAAWlgt.jpg",
+					"url": "https://t.co/qvn2gHEphF",
+					"display_url": "pic.twitter.com/qvn2gHEphF",
+					"expanded_url": "https://twitter.com/P56693558/status/1128172731780833281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1819,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128172655624851500,
+					"id_str": "1128172655624851456",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gTDY_UEAAWlgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gTDY_UEAAWlgt.jpg",
+					"url": "https://t.co/qvn2gHEphF",
+					"display_url": "pic.twitter.com/qvn2gHEphF",
+					"expanded_url": "https://twitter.com/P56693558/status/1128172731780833281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1819,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128023524172451800,
+			"id_str": "1128023524172451840",
+			"name": "❌",
+			"screen_name": "P56693558",
+			"location": "",
+			"description": "홍보용으로 만든 계정이며 디엠, 멘션 등 알림 확인하지 않습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2738,
+			"friends_count": 1,
+			"listed_count": 27,
+			"created_at": "Mon May 13 19:45:40 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6060,
+		"favorite_count": 5509,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[창작] 5월동안 작업한 창작 만화 &lt;지평선&gt;을 무료 웹공개합니다. https://t.co/ycAsXAGPFY https://t.co/qvn2gHEphF"
+	},
+	{
 		"created_at": "Tue Oct 15 19:24:57 +0000 2019",
 		"id": 1183971346306355200,
 		"id_str": "1184188428516151296",
