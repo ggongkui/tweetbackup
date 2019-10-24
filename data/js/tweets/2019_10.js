@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 12:45:21 +0000 2019",
+		"id": 1186963994227069000,
+		"id_str": "1186986970225889281",
+		"full_text": "만화 연출 브러쉬 털러 감...\n\n1. 光玉ブラシセット\nhttps://t.co/NlzjDJxCdz\n2. キラキラ点描カケアミセット\nhttps://t.co/z9M3PnB3V2\n3. 斜線カゲ ペン (얘는 빗금)\nhttps://t.co/jYxwzIhgWn\n4. 汚しブラシ (끌어쓰는 소재같이 생겼는데 브러쉬에요!)\nhttps://t.co/cpfWEhiovd\n\n타래로 뚜벅뚜 https://t.co/hNZ3LreKJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NlzjDJxCdz",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1701982",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/z9M3PnB3V2",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1725746",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/jYxwzIhgWn",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1702809",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/cpfWEhiovd",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1525173",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1186963976665456600,
+					"id_str": "1186963976665456640",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjxcq5UYAAiWA8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjxcq5UYAAiWA8.png",
+					"url": "https://t.co/hNZ3LreKJT",
+					"display_url": "pic.twitter.com/hNZ3LreKJT",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186963994227068928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 487,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 487,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1186963976665456600,
+					"id_str": "1186963976665456640",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjxcq5UYAAiWA8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjxcq5UYAAiWA8.png",
+					"url": "https://t.co/hNZ3LreKJT",
+					"display_url": "pic.twitter.com/hNZ3LreKJT",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186963994227068928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 487,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 487,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1186963976627708000,
+					"id_str": "1186963976627707907",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjxcqwUYAMcdyD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjxcqwUYAMcdyD.png",
+					"url": "https://t.co/hNZ3LreKJT",
+					"display_url": "pic.twitter.com/hNZ3LreKJT",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186963994227068928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 667,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 739,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 739,
+							"h": 753,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1186963976627740700,
+					"id_str": "1186963976627740673",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjxcqwU4AE5hKG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjxcqwU4AE5hKG.png",
+					"url": "https://t.co/hNZ3LreKJT",
+					"display_url": "pic.twitter.com/hNZ3LreKJT",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186963994227068928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 396,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 721,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1186963976627769300,
+					"id_str": "1186963976627769345",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjxcqwVUAEtIRW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjxcqwVUAEtIRW.png",
+					"url": "https://t.co/hNZ3LreKJT",
+					"display_url": "pic.twitter.com/hNZ3LreKJT",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186963994227068928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 595,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 595,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 947108730578931700,
+			"id_str": "947108730578931713",
+			"name": "계연한다네요 바오류",
+			"screen_name": "Baoryu",
+			"location": "",
+			"description": "자캐본진 1차 손페티 파랑성애자 우주잡덕 수위발언 편히 하기 때문에! 주의해주세요! [FUB프리 헤어질땐 블언블] 앤캐 사랑해! 프사 쌀님 헤더 바디바디 / 그림공부+커미션계 @Ryu_tale",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 662,
+			"friends_count": 394,
+			"listed_count": 1,
+			"created_at": "Sat Dec 30 14:14:52 +0000 2017",
+			"favourites_count": 7863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167142318467497984/IkWU1vH-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167142318467497984/IkWU1vH-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/947108730578931713/1563596191",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1737,
+		"favorite_count": 1740,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "만화 연출 브러쉬 털러 감...\n\n1. 光玉ブラシセット\nhttps://t.co/NlzjDJxCdz\n2. キラキラ点描カケアミセット\nhttps://t.co/z9M3PnB3V2\n3. 斜線カゲ ペン (얘는 빗금)\nhttps://t.co/jYxwzIhgWn\n4. 汚しブラシ (끌어쓰는 소재같이 생겼는데 브러쉬에요!)\nhttps://t.co/cpfWEhiovd\n\n타래로 뚜벅뚜 https://t.co/hNZ3LreKJT"
+	},
+	{
 		"created_at": "Sat Oct 19 05:22:48 +0000 2019",
 		"id": 1128172731780833300,
 		"id_str": "1185426049393258496",
