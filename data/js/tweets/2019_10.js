@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 09:22:24 +0000 2019",
+		"id": 1187028347580141600,
+		"id_str": "1187298281946107904",
+		"full_text": "저 이런거 너무너무 좋아해요 보기만 해도 산치 쭉쭉 깎이는 일러스트\n출처는여기 \nhttps://t.co/lqG6WT1mj0\nhttps://t.co/ERV0AoC7f5\nhttps://t.co/mOZtHBFTsO https://t.co/26kWKGZo1S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lqG6WT1mj0",
+					"expanded_url": "http://fav.me/d9g3yyn",
+					"display_url": "fav.me/d9g3yyn",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/ERV0AoC7f5",
+					"expanded_url": "https://www.instagram.com/chuvabak_art/",
+					"display_url": "instagram.com/chuvabak_art/",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/mOZtHBFTsO",
+					"expanded_url": "https://www.instagram.com/shahab.alizadeh.art/",
+					"display_url": "instagram.com/shahab.alizade…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187028334321889300,
+					"id_str": "1187028334321889281",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EHkr-x2UcAEQ-XU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHkr-x2UcAEQ-XU.png",
+					"url": "https://t.co/26kWKGZo1S",
+					"display_url": "pic.twitter.com/26kWKGZo1S",
+					"expanded_url": "https://twitter.com/Buddha_loves_me/status/1187028347580141569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 564,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 789,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187028334321889300,
+					"id_str": "1187028334321889281",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EHkr-x2UcAEQ-XU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHkr-x2UcAEQ-XU.png",
+					"url": "https://t.co/26kWKGZo1S",
+					"display_url": "pic.twitter.com/26kWKGZo1S",
+					"expanded_url": "https://twitter.com/Buddha_loves_me/status/1187028347580141569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 564,
+							"h": 789,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 789,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1187028334321885200,
+					"id_str": "1187028334321885189",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EHkr-x2UYAUSjXz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHkr-x2UYAUSjXz.png",
+					"url": "https://t.co/26kWKGZo1S",
+					"display_url": "pic.twitter.com/26kWKGZo1S",
+					"expanded_url": "https://twitter.com/Buddha_loves_me/status/1187028347580141569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 564,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 562,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 564,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1187028334321913900,
+					"id_str": "1187028334321913856",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EHkr-x2U0AAHsYN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHkr-x2U0AAHsYN.png",
+					"url": "https://t.co/26kWKGZo1S",
+					"display_url": "pic.twitter.com/26kWKGZo1S",
+					"expanded_url": "https://twitter.com/Buddha_loves_me/status/1187028347580141569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 564,
+							"h": 690,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131955548776161300,
+			"id_str": "1131955548776161282",
+			"name": "부처😷",
+			"screen_name": "Buddha_loves_me",
+			"location": "이스카리오는 벽 보고 서 있어",
+			"description": "에루비 이스카리오 세레스에게 진심입니다",
+			"url": "https://t.co/qh2bX3j4F9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qh2bX3j4F9",
+							"expanded_url": "https://xn--289a86kt7c2qmca11fa825a51jbpde2byzy.com",
+							"display_url": "온라인사찰접경도시성성사.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 225,
+			"listed_count": 1,
+			"created_at": "Fri May 24 16:10:08 +0000 2019",
+			"favourites_count": 2742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179082488334798849/GzZO_Q2q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179082488334798849/GzZO_Q2q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131955548776161282/1570371966",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3042,
+		"favorite_count": 3361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저 이런거 너무너무 좋아해요 보기만 해도 산치 쭉쭉 깎이는 일러스트\n출처는여기 \nhttps://t.co/lqG6WT1mj0\nhttps://t.co/ERV0AoC7f5\nhttps://t.co/mOZtHBFTsO https://t.co/26kWKGZo1S"
+	},
+	{
 		"created_at": "Wed Oct 23 12:45:21 +0000 2019",
 		"id": 1186963994227069000,
 		"id_str": "1186986970225889281",
