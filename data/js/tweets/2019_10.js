@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 08:29:52 +0000 2019",
+		"id": 985499933330387000,
+		"id_str": "1188734615529197574",
+		"full_text": "금속이나 장식 부분 그릴 때 알아두면 편한 엠보스.. \n리터칭 해서 그릴 때도 있고 금속 색상 팔레트를 만들어서 색상 뽑아 쓸 때 사용한다. 동양풍 장식 많이 들어간 그림에 편하게 사용 할듯 https://t.co/uVf1hHuEwy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 985498940459040800,
+					"id_str": "985498940459040768",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Da0yEKCVwAAIfYq.png",
+					"media_url_https": "https://pbs.twimg.com/media/Da0yEKCVwAAIfYq.png",
+					"url": "https://t.co/uVf1hHuEwy",
+					"display_url": "pic.twitter.com/uVf1hHuEwy",
+					"expanded_url": "https://twitter.com/p2nki/status/985499933330386944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 702,
+							"h": 702,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 702,
+							"h": 702,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985498940459040800,
+					"id_str": "985498940459040768",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Da0yEKCVwAAIfYq.png",
+					"media_url_https": "https://pbs.twimg.com/media/Da0yEKCVwAAIfYq.png",
+					"url": "https://t.co/uVf1hHuEwy",
+					"display_url": "pic.twitter.com/uVf1hHuEwy",
+					"expanded_url": "https://twitter.com/p2nki/status/985499933330386944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 702,
+							"h": 702,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 702,
+							"h": 702,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 985499340440420400,
+					"id_str": "985499340440420352",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Da0ybcFVQAA6apX.png",
+					"media_url_https": "https://pbs.twimg.com/media/Da0ybcFVQAA6apX.png",
+					"url": "https://t.co/uVf1hHuEwy",
+					"display_url": "pic.twitter.com/uVf1hHuEwy",
+					"expanded_url": "https://twitter.com/p2nki/status/985499933330386944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1331,
+							"h": 662,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839142692785369100,
+			"id_str": "839142692785369089",
+			"name": "✨SOLRAKA✨",
+			"screen_name": "p2nki",
+			"location": "",
+			"description": "이것저것 튜토리얼을 올립니다.\nillustrator / DM / etnoc@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10058,
+			"friends_count": 144,
+			"listed_count": 101,
+			"created_at": "Tue Mar 07 15:56:23 +0000 2017",
+			"favourites_count": 2419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171959915520282624/n3GN0pqC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171959915520282624/n3GN0pqC_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6154,
+		"favorite_count": 7428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금속이나 장식 부분 그릴 때 알아두면 편한 엠보스.. \n리터칭 해서 그릴 때도 있고 금속 색상 팔레트를 만들어서 색상 뽑아 쓸 때 사용한다. 동양풍 장식 많이 들어간 그림에 편하게 사용 할듯 https://t.co/uVf1hHuEwy"
+	},
+	{
 		"created_at": "Thu Oct 24 09:22:24 +0000 2019",
 		"id": 1187028347580141600,
 		"id_str": "1187298281946107904",
