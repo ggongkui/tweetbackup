@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 16:25:21 +0000 2019",
+		"id": 1189935430013087700,
+		"id_str": "1189941438055768065",
+		"full_text": "클립스튜디오 에젯에 컷 테두리를 부분삭제할 수 있는 소재를 업로드했습니다🙂\nhttps://t.co/tHnd68Cp9f https://t.co/0hx1N5GO5t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tHnd68Cp9f",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1756300",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189935409389854700,
+					"id_str": "1189935409389854721",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIN_80ZXYAEWrDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIN_80ZXYAEWrDc.jpg",
+					"url": "https://t.co/0hx1N5GO5t",
+					"display_url": "pic.twitter.com/0hx1N5GO5t",
+					"expanded_url": "https://twitter.com/2TooToo2/status/1189935430013087744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 776,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189935409389854700,
+					"id_str": "1189935409389854721",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIN_80ZXYAEWrDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIN_80ZXYAEWrDc.jpg",
+					"url": "https://t.co/0hx1N5GO5t",
+					"display_url": "pic.twitter.com/0hx1N5GO5t",
+					"expanded_url": "https://twitter.com/2TooToo2/status/1189935430013087744/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 776,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							97
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EIN_80ZXYAEWrDc.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1117975765,
+			"id_str": "1117975765",
+			"name": "이삭/천둥",
+			"screen_name": "2TooToo2",
+			"location": "",
+			"description": "만화가/ [줄리엣과 줄리엣], [절체절명 소년], [마법의 주문을 걸어줘]/ 클립스튜디오 과외 하고 있습니다/ 그림, 만화일 의뢰 받습니다 tootoo2_2@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1073,
+			"friends_count": 152,
+			"listed_count": 13,
+			"created_at": "Thu Jan 24 23:44:10 +0000 2013",
+			"favourites_count": 4171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186257704936849409/0gYK2vY2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186257704936849409/0gYK2vY2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117975765/1479293440",
+			"profile_link_color": "FFC824",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "FF6F00",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3392,
+		"favorite_count": 2589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클립스튜디오 에젯에 컷 테두리를 부분삭제할 수 있는 소재를 업로드했습니다🙂\nhttps://t.co/tHnd68Cp9f https://t.co/0hx1N5GO5t"
+	},
+	{
+		"created_at": "Thu Oct 31 08:44:09 +0000 2019",
+		"id": 1187927315621113900,
+		"id_str": "1189825371908128768",
+		"full_text": "&lt;크로키 사이트 모음&gt;\n\nhttps://t.co/dxGIloh6mN\n\nhttps://t.co/FiJ8Zn7Qy6\n\nhttps://t.co/kSkhdEEdR5\n\nhttps://t.co/rqdWqhGhWv\n\nhttps://t.co/Ex1pTclTTx\n\n어떤 분이 질문해주셔서 크로키 사이트 모아서 올립니다! 마지막은 제가 인체 자료 그냥 모아놓은 핀터레스트 주소에요😆\n도움이 되셨길..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxGIloh6mN",
+					"expanded_url": "https://vimeo.com/channels/figuary/videos",
+					"display_url": "vimeo.com/channels/figua…",
+					"indices": [
+						20,
+						43
+					]
+				},
+				{
+					"url": "https://t.co/FiJ8Zn7Qy6",
+					"expanded_url": "https://line-of-action.com/",
+					"display_url": "line-of-action.com",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/kSkhdEEdR5",
+					"expanded_url": "http://senshistock.com/sketch/#",
+					"display_url": "senshistock.com/sketch/#",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/rqdWqhGhWv",
+					"expanded_url": "http://reference.sketchdaily.net/en/view/FullBodies?Time=class",
+					"display_url": "reference.sketchdaily.net/en/view/FullBo…",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/Ex1pTclTTx",
+					"expanded_url": "https://pin.it/lj4gyszyk2haza",
+					"display_url": "pin.it/lj4gyszyk2haza",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006902123047497700,
+			"id_str": "1006902123047497732",
+			"name": "냥쥐",
+			"screen_name": "nyangG13",
+			"location": "무단전재 무단사용 도용 절대 금지",
+			"description": "FUB FREE/ 장래희망: 최강자캐러/ 체인블락사용/헤더(@100_seul 님)",
+			"url": "https://t.co/ytnbEoPwgB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ytnbEoPwgB",
+							"expanded_url": "https://instagram.com/jisoo_haz",
+							"display_url": "instagram.com/jisoo_haz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1700,
+			"friends_count": 254,
+			"listed_count": 6,
+			"created_at": "Wed Jun 13 14:12:28 +0000 2018",
+			"favourites_count": 2900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179403636230766593/5uDv5cvx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179403636230766593/5uDv5cvx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006902123047497732/1570027718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6423,
+		"favorite_count": 6593,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;크로키 사이트 모음&gt;\n\nhttps://t.co/dxGIloh6mN\n\nhttps://t.co/FiJ8Zn7Qy6\n\nhttps://t.co/kSkhdEEdR5\n\nhttps://t.co/rqdWqhGhWv\n\nhttps://t.co/Ex1pTclTTx\n\n어떤 분이 질문해주셔서 크로키 사이트 모아서 올립니다! 마지막은 제가 인체 자료 그냥 모아놓은 핀터레스트 주소에요😆\n도움이 되셨길.."
+	},
+	{
 		"created_at": "Mon Oct 28 08:29:52 +0000 2019",
 		"id": 985499933330387000,
 		"id_str": "1188734615529197574",
