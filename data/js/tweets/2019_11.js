@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 07:17:57 +0000 2019",
+		"id": 1044036471924056000,
+		"id_str": "1191615618488778752",
+		"full_text": "너무 좋아하면 다 들키지 않나요? \n저, 좀 비겁해도 끝까지 들키지 않으려고요\n\n: 정성주, 밀회",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.cub.so\" rel=\"nofollow\">Cubi.so</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878091084219334700,
+			"id_str": "878091084219334656",
+			"name": "시선",
+			"screen_name": "S2_Feeling",
+			"location": "",
+			"description": "그동안 감사했습니다.",
+			"url": "https://t.co/ydHP56Hdaq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ydHP56Hdaq",
+							"expanded_url": "https://www.evernote.com/shard/s498/sh/41a22dad-b7a3-4db2-b62f-b30ad067db4a/472070d39ac7145cb3551c20",
+							"display_url": "evernote.com/shard/s498/sh/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29462,
+			"friends_count": 134,
+			"listed_count": 658,
+			"created_at": "Fri Jun 23 03:23:23 +0000 2017",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878349253336104960/bG2p1O4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878349253336104960/bG2p1O4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878091084219334656/1498240840",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "너무 좋아하면 다 들키지 않나요? \n저, 좀 비겁해도 끝까지 들키지 않으려고요\n\n: 정성주, 밀회"
+	},
+	{
 		"created_at": "Mon Nov 04 17:50:00 +0000 2019",
 		"id": 1157608878684561400,
 		"id_str": "1191412293227053056",
@@ -329,7 +426,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Mon Nov 04 17:46:34 +0000 2019",
 		"id": 1152872608884379600,
 		"id_str": "1191411426138546177",
-		"full_text": "8가지 러프틀(1인/여름x밀집모자x해바라기) 배포합니다. 즐겁게 연성에 사용하여주세요. 🙆‍♀️\n🚩타커미션 신청 사용 가능 / 굿즈 제작 허용/ 프리 변형 허용/프사 헤더 편집 사용가능합니다. /자유사용 / 재배포는 되도록 삼가하여주세요 :) https://t.co/1QczQ0MXAX",
+		"full_text": "8가지 러프틀(1인/여름x밀집모자x해바라기) 배포합니다. 즐겁게 연성에 사용하여주세요. 🙆♀️\n🚩타커미션 신청 사용 가능 / 굿즈 제작 허용/ 프리 변형 허용/프사 헤더 편집 사용가능합니다. /자유사용 / 재배포는 되도록 삼가하여주세요 :) https://t.co/1QczQ0MXAX",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -817,6 +914,6 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "8가지 러프틀(1인/여름x밀집모자x해바라기) 배포합니다. 즐겁게 연성에 사용하여주세요. 🙆‍♀️\n🚩타커미션 신청 사용 가능 / 굿즈 제작 허용/ 프리 변형 허용/프사 헤더 편집 사용가능합니다. /자유사용 / 재배포는 되도록 삼가하여주세요 :) https://t.co/1QczQ0MXAX"
+		"text": "8가지 러프틀(1인/여름x밀집모자x해바라기) 배포합니다. 즐겁게 연성에 사용하여주세요. 🙆♀️\n🚩타커미션 신청 사용 가능 / 굿즈 제작 허용/ 프리 변형 허용/프사 헤더 편집 사용가능합니다. /자유사용 / 재배포는 되도록 삼가하여주세요 :) https://t.co/1QczQ0MXAX"
 	}
 ]
