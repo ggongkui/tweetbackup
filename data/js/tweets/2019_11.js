@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 05:46:06 +0000 2019",
+		"id": 1192394324882804700,
+		"id_str": "1192679668362559488",
+		"full_text": "싸인중인 나탈리아 옆에 나타나서 뽀뽀하고 가는 맥켄지 ㅋㅋㅋㅋ 나탈리아는 무슨 귀여운 소리를 내는겨 https://t.co/xlmf9lCPOj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192394259107737600,
+					"id_str": "1192394259107737600",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192394259107737600/pu/img/PkzXD7xORp87UCqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192394259107737600/pu/img/PkzXD7xORp87UCqP.jpg",
+					"url": "https://t.co/xlmf9lCPOj",
+					"display_url": "pic.twitter.com/xlmf9lCPOj",
+					"expanded_url": "https://twitter.com/hnwyaug/status/1192394324882804737/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192394259107737600,
+					"id_str": "1192394259107737600",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192394259107737600/pu/img/PkzXD7xORp87UCqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192394259107737600/pu/img/PkzXD7xORp87UCqP.jpg",
+					"url": "https://t.co/xlmf9lCPOj",
+					"display_url": "pic.twitter.com/xlmf9lCPOj",
+					"expanded_url": "https://twitter.com/hnwyaug/status/1192394324882804737/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11283,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1192394259107737600/pu/vid/720x1280/bCRMFCo_spaksvY0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1192394259107737600/pu/pl/GFX0Pvh8IxvsTKU_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1192394259107737600/pu/vid/320x568/6xlBQXe8F25cQZCW.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1192394259107737600/pu/vid/360x640/SMP1KMDWdpiKTf5U.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1157324221233582000,
+			"id_str": "1157324221233582082",
+			"name": "박대감",
+			"screen_name": "hnwyaug",
+			"location": "비팔알림X",
+			"description": "사람살류",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570,
+			"friends_count": 70,
+			"listed_count": 3,
+			"created_at": "Fri Aug 02 16:16:11 +0000 2019",
+			"favourites_count": 1248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161279862663000065/fWdV-Y7B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161279862663000065/fWdV-Y7B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1157324221233582082/1572513658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1892,
+		"favorite_count": 1737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싸인중인 나탈리아 옆에 나타나서 뽀뽀하고 가는 맥켄지 ㅋㅋㅋㅋ 나탈리아는 무슨 귀여운 소리를 내는겨 https://t.co/xlmf9lCPOj"
+	},
+	{
 		"created_at": "Tue Nov 05 07:17:57 +0000 2019",
 		"id": 1044036471924056000,
 		"id_str": "1191615618488778752",
