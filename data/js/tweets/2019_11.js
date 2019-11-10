@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 06:31:14 +0000 2019",
+		"id": 1190146456667054000,
+		"id_str": "1193053414172659712",
+		"full_text": "민니 무대 위아래 갭차이 때문에 기절하는 여성 삼천만명 https://t.co/CfoCfgW78G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190146410374549500,
+					"id_str": "1190146410374549504",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190146410374549504/pu/img/TPIvuItL_YgW-fO0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190146410374549504/pu/img/TPIvuItL_YgW-fO0.jpg",
+					"url": "https://t.co/CfoCfgW78G",
+					"display_url": "pic.twitter.com/CfoCfgW78G",
+					"expanded_url": "https://twitter.com/myyouth1023/status/1190146456667054080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190146410374549500,
+					"id_str": "1190146410374549504",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190146410374549504/pu/img/TPIvuItL_YgW-fO0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190146410374549504/pu/img/TPIvuItL_YgW-fO0.jpg",
+					"url": "https://t.co/CfoCfgW78G",
+					"display_url": "pic.twitter.com/CfoCfgW78G",
+					"expanded_url": "https://twitter.com/myyouth1023/status/1190146456667054080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 4767,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190146410374549504/pu/vid/320x400/N3eP0eIB33_1rI_1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1190146410374549504/pu/pl/5MV7x-_q3IA_xTvi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190146410374549504/pu/vid/720x900/z9cCsJ1kZfkBLfh8.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190146410374549504/pu/vid/360x450/UPi7yOIojEJYJa62.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180781342528700400,
+			"id_str": "1180781342528700418",
+			"name": "유스🦁",
+			"screen_name": "myyouth1023",
+			"location": "",
+			"description": "좋아하는 민니 아무거나 올립니다...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518,
+			"friends_count": 1,
+			"listed_count": 4,
+			"created_at": "Sun Oct 06 09:46:30 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190654913107365889/lJKxAXAf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190654913107365889/lJKxAXAf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180781342528700418/1570385942",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13431,
+		"favorite_count": 9260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "민니 무대 위아래 갭차이 때문에 기절하는 여성 삼천만명 https://t.co/CfoCfgW78G"
+	},
+	{
 		"created_at": "Fri Nov 08 05:46:06 +0000 2019",
 		"id": 1192394324882804700,
 		"id_str": "1192679668362559488",
