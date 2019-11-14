@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 17:40:07 +0000 2019",
+		"id": 1194264896046678000,
+		"id_str": "1194671294509281280",
+		"full_text": "종이나 책같은건 쓸일이 많더라고요.\n\nhttps://t.co/KLrhcoFm9k\n떨어지는 책과 쌓인 책\nhttps://t.co/l2WTV60Q2C\n종이에 써진 글씨\nhttps://t.co/V47yPrvGbU\n책장에 꽂힌 책\nhttps://t.co/7r8HByhuXJ\nhttps://t.co/3TiaM8sTvG\n흩날리는 종이\nhttps://t.co/mjijiIylTs\n책 표지들 https://t.co/SeIdcVZJur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KLrhcoFm9k",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1546802",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/l2WTV60Q2C",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1702568",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/V47yPrvGbU",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1707855",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/7r8HByhuXJ",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1565437",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/3TiaM8sTvG",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1713608",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/mjijiIylTs",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1734414",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194264225318756400,
+					"id_str": "1194264225318756352",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EJLg_EYU4AA8k3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJLg_EYU4AA8k3p.jpg",
+					"url": "https://t.co/SeIdcVZJur",
+					"display_url": "pic.twitter.com/SeIdcVZJur",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1194264896046678016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1647,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 636,
+									"y": 772,
+									"h": 340,
+									"w": 340
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 186,
+									"y": 226,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 386,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 105,
+									"y": 128,
+									"h": 56,
+									"w": 56
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194264225318756400,
+					"id_str": "1194264225318756352",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EJLg_EYU4AA8k3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJLg_EYU4AA8k3p.jpg",
+					"url": "https://t.co/SeIdcVZJur",
+					"display_url": "pic.twitter.com/SeIdcVZJur",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1194264896046678016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1647,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 636,
+									"y": 772,
+									"h": 340,
+									"w": 340
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 186,
+									"y": 226,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 386,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 105,
+									"y": 128,
+									"h": 56,
+									"w": 56
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1194264353114972200,
+					"id_str": "1194264353114972161",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EJLhGgdUYAEU3r4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJLhGgdUYAEU3r4.jpg",
+					"url": "https://t.co/SeIdcVZJur",
+					"display_url": "pic.twitter.com/SeIdcVZJur",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1194264896046678016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1765,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 535,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1194192300752064500,
+		"in_reply_to_status_id_str": "1194192300752064512",
+		"in_reply_to_user_id": 1003663287244881900,
+		"in_reply_to_user_id_str": "1003663287244881921",
+		"in_reply_to_screen_name": "ds_dimsum",
+		"user": {
+			"id": 1003663287244881900,
+			"id_str": "1003663287244881921",
+			"name": "딤섬 / 드센🍍",
+			"screen_name": "ds_dimsum",
+			"location": "",
+			"description": "커뮤+그림계 / 성인 / FUB free",
+			"url": "https://t.co/TjBvGWFZiZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TjBvGWFZiZ",
+							"expanded_url": "https://duesen.tistory.com",
+							"display_url": "duesen.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 121,
+			"listed_count": 1,
+			"created_at": "Mon Jun 04 15:42:29 +0000 2018",
+			"favourites_count": 1180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194707840125915136/3apzkfTE_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194707840125915136/3apzkfTE_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003663287244881921/1568291452",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1517,
+		"favorite_count": 1375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "종이나 책같은건 쓸일이 많더라고요.\n\nhttps://t.co/KLrhcoFm9k\n떨어지는 책과 쌓인 책\nhttps://t.co/l2WTV60Q2C\n종이에 써진 글씨\nhttps://t.co/V47yPrvGbU\n책장에 꽂힌 책\nhttps://t.co/7r8HByhuXJ\nhttps://t.co/3TiaM8sTvG\n흩날리는 종이\nhttps://t.co/mjijiIylTs\n책 표지들 https://t.co/SeIdcVZJur"
+	},
+	{
+		"created_at": "Wed Nov 13 12:23:10 +0000 2019",
+		"id": 1194168567249297400,
+		"id_str": "1194591534210928642",
+		"full_text": "꿀팁중에 #완벽한전설 https://t.co/LxNc8toc9d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "완벽한전설",
+					"indices": [
+						5,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194168505957924900,
+					"id_str": "1194168505957924866",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194168505957924866/pu/img/Z7JDLH8rtlsHz-gN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194168505957924866/pu/img/Z7JDLH8rtlsHz-gN.jpg",
+					"url": "https://t.co/LxNc8toc9d",
+					"display_url": "pic.twitter.com/LxNc8toc9d",
+					"expanded_url": "https://twitter.com/anggaetips/status/1194168567249297408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194168505957924900,
+					"id_str": "1194168505957924866",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194168505957924866/pu/img/Z7JDLH8rtlsHz-gN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194168505957924866/pu/img/Z7JDLH8rtlsHz-gN.jpg",
+					"url": "https://t.co/LxNc8toc9d",
+					"display_url": "pic.twitter.com/LxNc8toc9d",
+					"expanded_url": "https://twitter.com/anggaetips/status/1194168567249297408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 17533,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194168505957924866/pu/vid/360x640/g_uQ-oyd0NViqVdY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1194168505957924866/pu/pl/7wHP2DUocqYZT241.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194168505957924866/pu/vid/720x1280/JiY0WdgqpyrGSgNz.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194168505957924866/pu/vid/320x568/vtUot0T82B49l--h.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1176798011583688700,
+			"id_str": "1176798011583688705",
+			"name": "생활의 지혜",
+			"screen_name": "anggaetips",
+			"location": "",
+			"description": "보기 좋은 영상 모음 \n*개인 취미*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 699,
+			"friends_count": 12,
+			"listed_count": 3,
+			"created_at": "Wed Sep 25 09:58:15 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187411088180047874/hMwkJ3gA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187411088180047874/hMwkJ3gA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1176798011583688705/1571935920",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14677,
+		"favorite_count": 14056,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꿀팁중에 #완벽한전설 https://t.co/LxNc8toc9d"
+	},
+	{
 		"created_at": "Sat Nov 09 06:31:14 +0000 2019",
 		"id": 1190146456667054000,
 		"id_str": "1193053414172659712",
