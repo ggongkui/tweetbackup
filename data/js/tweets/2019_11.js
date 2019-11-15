@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 12:44:47 +0000 2019",
+		"id": 997283675145302000,
+		"id_str": "1194959361061187585",
+		"full_text": "클립스튜디오 화면내에서 자유롭게 회전,축소,조명 설정등이 가능합니다. \n(obj와 fbx 차이점 https://t.co/29BCFR19et) https://t.co/B1HtZzTp2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/29BCFR19et",
+					"expanded_url": "http://aecobjects.com/2014/10/which_format_is_better",
+					"display_url": "aecobjects.com/2014/10/which_…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 997283576788873200,
+					"id_str": "997283576788873216",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdcQIRbU8AALqvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdcQIRbU8AALqvC.jpg",
+					"url": "https://t.co/B1HtZzTp2r",
+					"display_url": "pic.twitter.com/B1HtZzTp2r",
+					"expanded_url": "https://twitter.com/_so_won_/status/997283675145302016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 464,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 464,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997283576788873200,
+					"id_str": "997283576788873216",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DdcQIRbU8AALqvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DdcQIRbU8AALqvC.jpg",
+					"url": "https://t.co/B1HtZzTp2r",
+					"display_url": "pic.twitter.com/B1HtZzTp2r",
+					"expanded_url": "https://twitter.com/_so_won_/status/997283675145302016/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 464,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 464,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							232,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DdcQIRbU8AALqvC.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 997283484686139400,
+		"in_reply_to_status_id_str": "997283484686139393",
+		"in_reply_to_user_id": 1545580862,
+		"in_reply_to_user_id_str": "1545580862",
+		"in_reply_to_screen_name": "_so_won_",
+		"user": {
+			"id": 1545580862,
+			"id_str": "1545580862",
+			"name": "sowon😷",
+			"screen_name": "_so_won_",
+			"location": "",
+			"description": "그림그림 / FUB Free 저도 자유롭게 합니다 ~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2299,
+			"friends_count": 324,
+			"listed_count": 22,
+			"created_at": "Tue Jun 25 12:07:32 +0000 2013",
+			"favourites_count": 14600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF691F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148625486802587648/ghoT819U_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148625486802587648/ghoT819U_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1545580862/1527887964",
+			"profile_link_color": "565F72",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1127,
+		"favorite_count": 967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클립스튜디오 화면내에서 자유롭게 회전,축소,조명 설정등이 가능합니다. \n(obj와 fbx 차이점 https://t.co/29BCFR19et) https://t.co/B1HtZzTp2r"
+	},
+	{
 		"created_at": "Wed Nov 13 17:40:07 +0000 2019",
 		"id": 1194264896046678000,
 		"id_str": "1194671294509281280",
