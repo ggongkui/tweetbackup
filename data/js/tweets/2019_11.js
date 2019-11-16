@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 15 04:15:57 +0000 2019",
+		"id": 1027048890162266100,
+		"id_str": "1195193698121732096",
+		"full_text": "https://t.co/21uIDh1Rcs\n\n옷주름 연습을 좀 하고싶다 하시는 분들은 무신사 스타일 스냅 추천합니다..\n코디별로 포즈도 서너개 있고 옷 보여주려고 찍는거라 예쁜 주름이 많습니다..\n겸사겸사 코디 연구도 해보시구..흐흐 https://t.co/XXlJlXnuxk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21uIDh1Rcs",
+					"expanded_url": "https://store.musinsa.com/app/styles/lists",
+					"display_url": "store.musinsa.com/app/styles/lis…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1027048733685428200,
+					"id_str": "1027048733685428224",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DkDPYbpVsAAPi5e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkDPYbpVsAAPi5e.jpg",
+					"url": "https://t.co/XXlJlXnuxk",
+					"display_url": "pic.twitter.com/XXlJlXnuxk",
+					"expanded_url": "https://twitter.com/rude_369/status/1027048890162266113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1885,
+							"h": 871,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027048733685428200,
+					"id_str": "1027048733685428224",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DkDPYbpVsAAPi5e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkDPYbpVsAAPi5e.jpg",
+					"url": "https://t.co/XXlJlXnuxk",
+					"display_url": "pic.twitter.com/XXlJlXnuxk",
+					"expanded_url": "https://twitter.com/rude_369/status/1027048890162266113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1885,
+							"h": 871,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1027048743852376000,
+					"id_str": "1027048743852376064",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DkDPZBhVAAANtGC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkDPZBhVAAANtGC.jpg",
+					"url": "https://t.co/XXlJlXnuxk",
+					"display_url": "pic.twitter.com/XXlJlXnuxk",
+					"expanded_url": "https://twitter.com/rude_369/status/1027048890162266113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 237,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 176,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 237,
+							"h": 914,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 652,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 652,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 484,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 652,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2954838180,
+			"id_str": "2954838180",
+			"name": "소략",
+			"screen_name": "rude_369",
+			"location": "",
+			"description": "불한당, 커뮤, 몹싸. 문의는 오픈채팅 또는 DM 인장: @8012_7 헤더: @Blackxnx",
+			"url": "https://t.co/OqZD9dpKrx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OqZD9dpKrx",
+							"expanded_url": "https://open.kakao.com/o/s7Kw3BK",
+							"display_url": "open.kakao.com/o/s7Kw3BK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7096,
+			"friends_count": 925,
+			"listed_count": 27,
+			"created_at": "Thu Jan 01 13:45:55 +0000 2015",
+			"favourites_count": 1218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A6A6A6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062935301520150528/cfxXzTkl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062935301520150528/cfxXzTkl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2954838180/1571635420",
+			"profile_link_color": "BDBDBD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25302,
+		"favorite_count": 21570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/21uIDh1Rcs\n\n옷주름 연습을 좀 하고싶다 하시는 분들은 무신사 스타일 스냅 추천합니다..\n코디별로 포즈도 서너개 있고 옷 보여주려고 찍는거라 예쁜 주름이 많습니다..\n겸사겸사 코디 연구도 해보시구..흐흐 https://t.co/XXlJlXnuxk"
+	},
+	{
 		"created_at": "Thu Nov 14 12:44:47 +0000 2019",
 		"id": 997283675145302000,
 		"id_str": "1194959361061187585",
