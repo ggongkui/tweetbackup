@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 10:02:13 +0000 2019",
+		"id": 1148206594477269000,
+		"id_str": "1195643223911219200",
+		"full_text": "目前为止畫过的就这么些，再接再厉。 https://t.co/28LdTkkq7m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148206503356092400,
+					"id_str": "1148206503356092416",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8_uzlVUAAejeD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8_uzlVUAAejeD.jpg",
+					"url": "https://t.co/28LdTkkq7m",
+					"display_url": "pic.twitter.com/28LdTkkq7m",
+					"expanded_url": "https://twitter.com/RudyBangbang/status/1148206594477268992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 881,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1248,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 784,
+									"y": 1183,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 644,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 754,
+									"y": 1137,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 784,
+									"y": 1183,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148206503356092400,
+					"id_str": "1148206503356092416",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8_uzlVUAAejeD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8_uzlVUAAejeD.jpg",
+					"url": "https://t.co/28LdTkkq7m",
+					"display_url": "pic.twitter.com/28LdTkkq7m",
+					"expanded_url": "https://twitter.com/RudyBangbang/status/1148206594477268992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 881,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1248,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 784,
+									"y": 1183,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 427,
+									"y": 644,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 754,
+									"y": 1137,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 784,
+									"y": 1183,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 977405866134483000,
+			"id_str": "977405866134482944",
+			"name": "邦邦Rudy",
+			"screen_name": "RudyBangbang",
+			"location": "",
+			"description": "针管笔男体手绘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8287,
+			"friends_count": 622,
+			"listed_count": 24,
+			"created_at": "Sat Mar 24 04:44:52 +0000 2018",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136930715441029120/H1RowOxF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136930715441029120/H1RowOxF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/977405866134482944/1565163949",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "目前为止畫过的就这么些，再接再厉。 https://t.co/28LdTkkq7m"
+	},
+	{
 		"created_at": "Fri Nov 15 04:15:57 +0000 2019",
 		"id": 1027048890162266100,
 		"id_str": "1195193698121732096",
