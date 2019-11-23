@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 09:30:12 +0000 2019",
+		"id": 1197800063986065400,
+		"id_str": "1197809496757682180",
+		"full_text": "명암 경계 색상을 알록달록하게 보정하는 액션 필터입니다.\n\n컬러 커브를 이용하면 쉽게 그릴 수 있는데 수작업으로 하시는 분들이 많으시길래.. 😂 \n\n파일 다운로드하시고 레이어 마스크로 보정하고 싶은 부분에 사용하시면 됩니다. \n\nhttps://t.co/2PoA4EjKun https://t.co/K978Ylf4mB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2PoA4EjKun",
+					"expanded_url": "https://drive.google.com/file/d/1L-KXeKZ29Y2ezhLCKxuJbSm36mUeMtXo/view?usp=sharing",
+					"display_url": "drive.google.com/file/d/1L-KXeK…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197800053294809000,
+					"id_str": "1197800053294809088",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ9wzWCUwAABT-_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ9wzWCUwAABT-_.png",
+					"url": "https://t.co/K978Ylf4mB",
+					"display_url": "pic.twitter.com/K978Ylf4mB",
+					"expanded_url": "https://twitter.com/p2nki/status/1197800063986065408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 889,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 889,
+							"h": 889,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197800053294809000,
+					"id_str": "1197800053294809088",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ9wzWCUwAABT-_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ9wzWCUwAABT-_.png",
+					"url": "https://t.co/K978Ylf4mB",
+					"display_url": "pic.twitter.com/K978Ylf4mB",
+					"expanded_url": "https://twitter.com/p2nki/status/1197800063986065408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 889,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 889,
+							"h": 889,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1197800053294821400,
+					"id_str": "1197800053294821376",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ9wzWCU8AAQiDP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ9wzWCU8AAQiDP.png",
+					"url": "https://t.co/K978Ylf4mB",
+					"display_url": "pic.twitter.com/K978Ylf4mB",
+					"expanded_url": "https://twitter.com/p2nki/status/1197800063986065408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 889,
+							"h": 889,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 889,
+							"h": 889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839142692785369100,
+			"id_str": "839142692785369089",
+			"name": "✨SOLRAKA✨",
+			"screen_name": "p2nki",
+			"location": "",
+			"description": "이것저것 튜토리얼을 올립니다.\nillustrator / DM / etnoc@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11394,
+			"friends_count": 147,
+			"listed_count": 114,
+			"created_at": "Tue Mar 07 15:56:23 +0000 2017",
+			"favourites_count": 2426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171959915520282624/n3GN0pqC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171959915520282624/n3GN0pqC_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11641,
+		"favorite_count": 14485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "명암 경계 색상을 알록달록하게 보정하는 액션 필터입니다.\n\n컬러 커브를 이용하면 쉽게 그릴 수 있는데 수작업으로 하시는 분들이 많으시길래.. 😂 \n\n파일 다운로드하시고 레이어 마스크로 보정하고 싶은 부분에 사용하시면 됩니다. \n\nhttps://t.co/2PoA4EjKun https://t.co/K978Ylf4mB"
+	},
+	{
 		"created_at": "Sat Nov 16 10:02:13 +0000 2019",
 		"id": 1148206594477269000,
 		"id_str": "1195643223911219200",
