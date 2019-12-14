@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 05:30:56 +0000 2019",
+		"id": 1203981901574205400,
+		"id_str": "1205359428548976640",
+		"full_text": "Best dentist in the world 🦜 https://t.co/Ahiz62IiFL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192558275419689000,
+					"id_str": "1192558275419688962",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192558275419688962/pu/img/Fuv5oQVq5Go1XJmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192558275419688962/pu/img/Fuv5oQVq5Go1XJmb.jpg",
+					"url": "https://t.co/Ahiz62IiFL",
+					"display_url": "pic.twitter.com/Ahiz62IiFL",
+					"expanded_url": "https://twitter.com/ViralVideos4you/status/1192558340536197120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1192558340536197000,
+					"source_status_id_str": "1192558340536197120",
+					"source_user_id": 1170186113304150000,
+					"source_user_id_str": "1170186113304150016",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192558275419689000,
+					"id_str": "1192558275419688962",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192558275419688962/pu/img/Fuv5oQVq5Go1XJmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192558275419688962/pu/img/Fuv5oQVq5Go1XJmb.jpg",
+					"url": "https://t.co/Ahiz62IiFL",
+					"display_url": "pic.twitter.com/Ahiz62IiFL",
+					"expanded_url": "https://twitter.com/ViralVideos4you/status/1192558340536197120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1192558340536197000,
+					"source_status_id_str": "1192558340536197120",
+					"source_user_id": 1170186113304150000,
+					"source_user_id_str": "1170186113304150016",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22400,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1192558275419688962/pu/pl/yT2Ck9yHVStqpTgp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1192558275419688962/pu/vid/360x360/Wul9hrPgTAbEry24.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1170186113304150000,
+							"id_str": "1170186113304150016",
+							"name": "Viral Videos",
+							"screen_name": "ViralVideos4you",
+							"location": "Turn on my notifications 🙏🔁",
+							"description": "Viral Videos from the whole World!  🌍 🌎 \nTurn my notifications ON for daily videos!\n\nEnjoy it! ❤️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8299,
+							"friends_count": 3747,
+							"listed_count": 38,
+							"created_at": "Sat Sep 07 04:04:55 +0000 2019",
+							"favourites_count": 6270,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1383,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1170187514763722753/IOiLjHbj_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170187514763722753/IOiLjHbj_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1170186113304150016/1567829494",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": false,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 897058816226844700,
+			"id_str": "897058816226844672",
+			"name": "CCTV IDIOTS",
+			"screen_name": "cctvidiots",
+			"location": "WorldWide",
+			"description": "Exposing idiotic behavior from all over the world caught on camera. Dm for Business",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359879,
+			"friends_count": 100,
+			"listed_count": 641,
+			"created_at": "Mon Aug 14 11:34:23 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144840942244880385/9F2DRMCz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144840942244880385/9F2DRMCz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/897058816226844672/1561786324",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35113,
+		"favorite_count": 47265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best dentist in the world 🦜 https://t.co/Ahiz62IiFL"
+	},
+	{
 		"created_at": "Wed Dec 11 19:20:15 +0000 2019",
 		"id": 1187769403682611200,
 		"id_str": "1204843356775280640",
