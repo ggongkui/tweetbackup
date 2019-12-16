@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 14:26:35 +0000 2019",
+		"id": 1206167082762563600,
+		"id_str": "1206219001224814592",
+		"full_text": "채색브러쉬 질문이 많이들어와서... 요세가지를 섞어쓴답니다 마지막 브러쉬를 제일 많이써요!\nhttps://t.co/nj8MJCxRu4\nhttps://t.co/IVVhF45yO4\nhttps://t.co/U0CfhCy9v0 https://t.co/DVmY7geY2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nj8MJCxRu4",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1744755",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/IVVhF45yO4",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1700599",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/U0CfhCy9v0",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1687897",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206166676820988000,
+					"id_str": "1206166676820987904",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EL0qM7fUEAAg-HU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL0qM7fUEAAg-HU.jpg",
+					"url": "https://t.co/DVmY7geY2E",
+					"display_url": "pic.twitter.com/DVmY7geY2E",
+					"expanded_url": "https://twitter.com/0_GUMI_0/status/1206167082762563585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206166676820988000,
+					"id_str": "1206166676820987904",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EL0qM7fUEAAg-HU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL0qM7fUEAAg-HU.jpg",
+					"url": "https://t.co/DVmY7geY2E",
+					"display_url": "pic.twitter.com/DVmY7geY2E",
+					"expanded_url": "https://twitter.com/0_GUMI_0/status/1206167082762563585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1206166793040982000,
+					"id_str": "1206166793040982016",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EL0qTscUcAASvSv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EL0qTscUcAASvSv.png",
+					"url": "https://t.co/DVmY7geY2E",
+					"display_url": "pic.twitter.com/DVmY7geY2E",
+					"expanded_url": "https://twitter.com/0_GUMI_0/status/1206167082762563585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 851,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 851,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1206166883667337200,
+					"id_str": "1206166883667337222",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EL0qY-DU4AYEu5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL0qY-DU4AYEu5l.jpg",
+					"url": "https://t.co/DVmY7geY2E",
+					"display_url": "pic.twitter.com/DVmY7geY2E",
+					"expanded_url": "https://twitter.com/0_GUMI_0/status/1206167082762563585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1380,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1122824041281114100,
+			"id_str": "1122824041281114112",
+			"name": "숭구미덩덩",
+			"screen_name": "0_GUMI_0",
+			"location": "",
+			"description": "내가 미쳐.. 프사 탄섬님 / 헤더 콘치즈님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8039,
+			"friends_count": 41,
+			"listed_count": 70,
+			"created_at": "Mon Apr 29 11:24:47 +0000 2019",
+			"favourites_count": 749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200512675890941952/BBhVo8_h_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200512675890941952/BBhVo8_h_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122824041281114112/1575832405",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1187,
+		"favorite_count": 1671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "채색브러쉬 질문이 많이들어와서... 요세가지를 섞어쓴답니다 마지막 브러쉬를 제일 많이써요!\nhttps://t.co/nj8MJCxRu4\nhttps://t.co/IVVhF45yO4\nhttps://t.co/U0CfhCy9v0 https://t.co/DVmY7geY2E"
+	},
+	{
 		"created_at": "Sat Dec 14 22:10:16 +0000 2019",
 		"id": 1201380480748142600,
 		"id_str": "1205973305615740929",
