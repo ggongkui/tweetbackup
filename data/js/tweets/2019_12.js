@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 09:39:04 +0000 2019",
+		"id": 1210078824811004000,
+		"id_str": "1210132914857365504",
+		"full_text": "요즘 낙서하거나 원고 선딸 때 등등 자주 쓰는 커스텀 G펜 업로드 했어요~ 펜이 가벼워서 손목에 힘빼고 그리는 분들에게 참 좋습니다!\n\nhttps://t.co/xJo4SHXq5V https://t.co/bMZvis9DGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xJo4SHXq5V",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1760759",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1210078807471706000,
+					"id_str": "1210078807471706112",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EMsQQ52UUAA02Oi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EMsQQ52UUAA02Oi.png",
+					"url": "https://t.co/bMZvis9DGo",
+					"display_url": "pic.twitter.com/bMZvis9DGo",
+					"expanded_url": "https://twitter.com/jocobong/status/1210078824811003904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 322,
+									"h": 686,
+									"w": 686
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 322,
+									"h": 686,
+									"w": 686
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 322,
+									"h": 686,
+									"w": 686
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 202,
+									"y": 182,
+									"h": 388,
+									"w": 388
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210078807471706000,
+					"id_str": "1210078807471706112",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EMsQQ52UUAA02Oi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EMsQQ52UUAA02Oi.png",
+					"url": "https://t.co/bMZvis9DGo",
+					"display_url": "pic.twitter.com/bMZvis9DGo",
+					"expanded_url": "https://twitter.com/jocobong/status/1210078824811003904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 322,
+									"h": 686,
+									"w": 686
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 322,
+									"h": 686,
+									"w": 686
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 322,
+									"h": 686,
+									"w": 686
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 202,
+									"y": 182,
+									"h": 388,
+									"w": 388
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3052021808,
+			"id_str": "3052021808",
+			"name": "🍳조코봉🍳",
+			"screen_name": "jocobong",
+			"location": "vhehgid55@naver.com",
+			"description": "그림 그려요! // FUB FREE / 커미션: @cobong_cms",
+			"url": "https://t.co/efYfx8JLFE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/efYfx8JLFE",
+							"expanded_url": "https://twitter.com/i/moments/876823316874514433",
+							"display_url": "twitter.com/i/moments/8768…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11764,
+			"friends_count": 147,
+			"listed_count": 130,
+			"created_at": "Sun Mar 01 07:21:50 +0000 2015",
+			"favourites_count": 7709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109864956650885122/zs4z_UD7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109864956650885122/zs4z_UD7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3052021808/1531391190",
+			"profile_link_color": "857E7C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3718,
+		"favorite_count": 3860,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 낙서하거나 원고 선딸 때 등등 자주 쓰는 커스텀 G펜 업로드 했어요~ 펜이 가벼워서 손목에 힘빼고 그리는 분들에게 참 좋습니다!\n\nhttps://t.co/xJo4SHXq5V https://t.co/bMZvis9DGo"
+	},
+	{
 		"created_at": "Wed Dec 25 19:26:39 +0000 2019",
 		"id": 1209918396264927200,
 		"id_str": "1209918396264927232",
