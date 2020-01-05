@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 18:58:29 +0000 2020",
+		"id": 1213485925994336300,
+		"id_str": "1213535188115832834",
+		"full_text": "@34tg4t spritilluminator 요~~~~ 이거 텍스쳐 넣기도 된다구용~~~~",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "34tg4t",
+					"name": "✶삿또",
+					"id": 1189827255859462100,
+					"id_str": "1189827255859462144",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1213484725915881500,
+		"in_reply_to_status_id_str": "1213484725915881472",
+		"in_reply_to_user_id": 1189827255859462100,
+		"in_reply_to_user_id_str": "1189827255859462144",
+		"in_reply_to_screen_name": "34tg4t",
+		"user": {
+			"id": 2681738054,
+			"id_str": "2681738054",
+			"name": "🌈꽃새🚀언젠가사랑니뽑기",
+			"screen_name": "0snow0forest0",
+			"location": "sw 2926-6088-2205",
+			"description": "꽃새 젤덕 겜덕 잡덕 쇼코p 🍄 안나p 🐰 / 🚫 DO NOT repost(use) my artworks⚠️  //  스포주의  // 스위치친추 환영🔔",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 485,
+			"friends_count": 191,
+			"listed_count": 7,
+			"created_at": "Sat Jul 26 08:01:07 +0000 2014",
+			"favourites_count": 8806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118576643486826497/cZqeliVd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118576643486826497/cZqeliVd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2681738054/1577843126",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 726,
+		"favorite_count": 616,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@34tg4t spritilluminator 요~~~~ 이거 텍스쳐 넣기도 된다구용~~~~"
+	},
+	{
 		"created_at": "Thu Jan 02 05:21:34 +0000 2020",
 		"id": 1101367035315945500,
 		"id_str": "1212604826313322496",
