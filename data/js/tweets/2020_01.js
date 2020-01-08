@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 10:50:22 +0000 2020",
+		"id": 1214243934014038000,
+		"id_str": "1214499511462027264",
+		"full_text": "클튜 프로로 쓸디 오브젝트 라인딸수있는 오토액션 뜸 https://t.co/8UAULMRrBY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214243927558983700,
+					"id_str": "1214243927558983680",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/ENncazTUEAAe6pg.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENncazTUEAAe6pg.png",
+					"url": "https://t.co/8UAULMRrBY",
+					"display_url": "pic.twitter.com/8UAULMRrBY",
+					"expanded_url": "https://twitter.com/yum_yummm_/status/1214243934014038016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 240,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 240,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214243927558983700,
+					"id_str": "1214243927558983680",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/ENncazTUEAAe6pg.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENncazTUEAAe6pg.png",
+					"url": "https://t.co/8UAULMRrBY",
+					"display_url": "pic.twitter.com/8UAULMRrBY",
+					"expanded_url": "https://twitter.com/yum_yummm_/status/1214243934014038016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 240,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 240,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038596038100054000,
+			"id_str": "1038596038100054016",
+			"name": "냑음🍒モグ",
+			"screen_name": "yum_yummm_",
+			"location": "",
+			"description": "[20↑] 뇌잃고 소 약간 고치기 *비팔알림끔",
+			"url": "https://t.co/ApbkEJ00PR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ApbkEJ00PR",
+							"expanded_url": "https://www.youtube.com/watch?v=biDQMUs22jo",
+							"display_url": "youtube.com/watch?v=biDQMU…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14,
+			"friends_count": 15,
+			"listed_count": 0,
+			"created_at": "Sun Sep 09 01:12:46 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211345510121930752/FfwI_ni9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211345510121930752/FfwI_ni9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1038596038100054016/1577642870",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3316,
+		"favorite_count": 2697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클튜 프로로 쓸디 오브젝트 라인딸수있는 오토액션 뜸 https://t.co/8UAULMRrBY"
+	},
+	{
 		"created_at": "Sat Jan 04 18:58:29 +0000 2020",
 		"id": 1213485925994336300,
 		"id_str": "1213535188115832834",
