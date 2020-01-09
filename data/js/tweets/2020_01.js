@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 16:58:13 +0000 2020",
+		"id": 1205038879423643600,
+		"id_str": "1214954472394280960",
+		"full_text": "팔 누가 그려놨냐고 https://t.co/DCpIAPcj8S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205038839493824500,
+					"id_str": "1205038839493824514",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205038839493824514/pu/img/Y2We6cdwmWgJ8zz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205038839493824514/pu/img/Y2We6cdwmWgJ8zz_.jpg",
+					"url": "https://t.co/DCpIAPcj8S",
+					"display_url": "pic.twitter.com/DCpIAPcj8S",
+					"expanded_url": "https://twitter.com/Sik2_zzal/status/1205038879423643648/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205038839493824500,
+					"id_str": "1205038839493824514",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205038839493824514/pu/img/Y2We6cdwmWgJ8zz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205038839493824514/pu/img/Y2We6cdwmWgJ8zz_.jpg",
+					"url": "https://t.co/DCpIAPcj8S",
+					"display_url": "pic.twitter.com/DCpIAPcj8S",
+					"expanded_url": "https://twitter.com/Sik2_zzal/status/1205038879423643648/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11300,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205038839493824514/pu/vid/320x320/C6pQYUun_6Z-Humt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1205038839493824514/pu/pl/DDxTsg8-i8xvYctv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205038839493824514/pu/vid/640x640/9XDytdAKYhxqi96F.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205038839493824514/pu/vid/480x480/duXP03ya47gPzm00.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1137616670522871800,
+			"id_str": "1137616670522871808",
+			"name": "피식이짤창고",
+			"screen_name": "Sik2_zzal",
+			"location": "fan account",
+			"description": "(fan account) 패러디 계정 입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46228,
+			"friends_count": 0,
+			"listed_count": 81,
+			"created_at": "Sun Jun 09 07:05:24 +0000 2019",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203588760174116864/wzc-9iNN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203588760174116864/wzc-9iNN_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6544,
+		"favorite_count": 6988,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팔 누가 그려놨냐고 https://t.co/DCpIAPcj8S"
+	},
+	{
+		"created_at": "Wed Jan 08 16:57:12 +0000 2020",
+		"id": 1203564946694393900,
+		"id_str": "1214954218009722880",
+		"full_text": "https://t.co/YPjtFoGIXX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203564894936682500,
+					"id_str": "1203564894936682497",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203564894936682497/pu/img/bOt7eGv8FFEt4eRW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203564894936682497/pu/img/bOt7eGv8FFEt4eRW.jpg",
+					"url": "https://t.co/YPjtFoGIXX",
+					"display_url": "pic.twitter.com/YPjtFoGIXX",
+					"expanded_url": "https://twitter.com/a_masidda_/status/1203564946694393856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203564894936682500,
+					"id_str": "1203564894936682497",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203564894936682497/pu/img/bOt7eGv8FFEt4eRW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203564894936682497/pu/img/bOt7eGv8FFEt4eRW.jpg",
+					"url": "https://t.co/YPjtFoGIXX",
+					"display_url": "pic.twitter.com/YPjtFoGIXX",
+					"expanded_url": "https://twitter.com/a_masidda_/status/1203564946694393856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							8
+						],
+						"duration_millis": 15134,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203564894936682497/pu/vid/810x720/dCZjKO3AAHhpgCxj.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203564894936682497/pu/vid/302x270/s-0GlP86F_7oj4eJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1203564894936682497/pu/pl/QnFAuWEOtq_ZEBdu.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203564894936682497/pu/vid/404x360/kJdk2IbZhnphvGbC.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1201171107543281700,
+			"id_str": "1201171107543281665",
+			"name": "내취향동영상",
+			"screen_name": "a_masidda_",
+			"location": "",
+			"description": "저장해놓기에는 갤러리가 지저분하고 용량 아깝지만 꾸준히 보고싶은 영상 [fan account]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8326,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Sun Dec 01 16:08:13 +0000 2019",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212679107068096513/Pbpl3O7R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212679107068096513/Pbpl3O7R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1201171107543281665/1578285569",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/YPjtFoGIXX"
+	},
+	{
+		"created_at": "Wed Jan 08 16:37:54 +0000 2020",
+		"id": 1214074477958455300,
+		"id_str": "1214949361001496577",
+		"full_text": "이 브러쉬 적당히 어둡고 엔틱하고 공들인 느낌 내고 싶을때 좋음\nアンティーク風 天体チップブラシ by 500㎖ https://t.co/fMPwzaxywn #clipstudio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clipstudio",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fMPwzaxywn",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1744600",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 737320285750186000,
+			"id_str": "737320285750185984",
+			"name": "초토",
+			"screen_name": "eodeoddh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30,
+			"friends_count": 32,
+			"listed_count": 4,
+			"created_at": "Mon May 30 16:30:29 +0000 2016",
+			"favourites_count": 89412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213324179199541249/L4nbdvIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213324179199541249/L4nbdvIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/737320285750185984/1574787659",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2075,
+		"favorite_count": 2015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "이 브러쉬 적당히 어둡고 엔틱하고 공들인 느낌 내고 싶을때 좋음\nアンティーク風 天体チップブラシ by 500㎖ https://t.co/fMPwzaxywn #clipstudio"
+	},
+	{
 		"created_at": "Tue Jan 07 10:50:22 +0000 2020",
 		"id": 1214243934014038000,
 		"id_str": "1214499511462027264",
