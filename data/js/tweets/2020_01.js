@@ -1,6 +1,870 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 12:11:27 +0000 2020",
+		"id": 1123933953038200800,
+		"id_str": "1215244692226314240",
+		"full_text": "알메이 낙서! 알폰스가 싱에 유학가서 공부한다는 공식 오피셜이 너무 좋아서 .... 린하고 메이가 얼마나 잘해주겠어 ... https://t.co/aC8q06shp5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123933725765644300,
+					"id_str": "1123933725765644289",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kDxMtXsAED570.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kDxMtXsAED570.jpg",
+					"url": "https://t.co/aC8q06shp5",
+					"display_url": "pic.twitter.com/aC8q06shp5",
+					"expanded_url": "https://twitter.com/Cu_ChuRain/status/1123933953038200832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 502,
+									"y": 256,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 502,
+									"y": 256,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 502,
+									"y": 256,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 158,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123933725765644300,
+					"id_str": "1123933725765644289",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kDxMtXsAED570.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kDxMtXsAED570.jpg",
+					"url": "https://t.co/aC8q06shp5",
+					"display_url": "pic.twitter.com/aC8q06shp5",
+					"expanded_url": "https://twitter.com/Cu_ChuRain/status/1123933953038200832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 502,
+									"y": 256,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 502,
+									"y": 256,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 502,
+									"y": 256,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 158,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1123933734594654200,
+					"id_str": "1123933734594654210",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kDxtmXsAIkNfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kDxtmXsAIkNfW.jpg",
+					"url": "https://t.co/aC8q06shp5",
+					"display_url": "pic.twitter.com/aC8q06shp5",
+					"expanded_url": "https://twitter.com/Cu_ChuRain/status/1123933953038200832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 170,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 170,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 105,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 170,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1123933740437246000,
+					"id_str": "1123933740437245952",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kDyDXWkAAnGe2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kDyDXWkAAnGe2.jpg",
+					"url": "https://t.co/aC8q06shp5",
+					"display_url": "pic.twitter.com/aC8q06shp5",
+					"expanded_url": "https://twitter.com/Cu_ChuRain/status/1123933953038200832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 255,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 252,
+									"y": 481,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 192,
+									"y": 157,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 155,
+									"y": 297,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 255,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 252,
+									"y": 481,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 255,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 252,
+									"y": 481,
+									"h": 145,
+									"w": 145
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1123933746569330700,
+					"id_str": "1123933746569330688",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kDyaNWwAA-a2W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kDyaNWwAA-a2W.jpg",
+					"url": "https://t.co/aC8q06shp5",
+					"display_url": "pic.twitter.com/aC8q06shp5",
+					"expanded_url": "https://twitter.com/Cu_ChuRain/status/1123933953038200832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 85,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 53,
+									"y": 83,
+									"h": 344,
+									"w": 344
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 85,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 53,
+									"y": 83,
+									"h": 344,
+									"w": 344
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 85,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 53,
+									"y": 83,
+									"h": 344,
+									"w": 344
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 131,
+									"y": 52,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 32,
+									"y": 51,
+									"h": 212,
+									"w": 212
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 988621535727444000,
+			"id_str": "988621535727443968",
+			"name": "굴륀",
+			"screen_name": "Cu_ChuRain",
+			"location": "",
+			"description": "20👆 Churain! 💕 🚫Repost🚫 pikarain@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13659,
+			"friends_count": 38,
+			"listed_count": 158,
+			"created_at": "Tue Apr 24 03:31:56 +0000 2018",
+			"favourites_count": 2295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130670693476065281/Qjw1-XQA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130670693476065281/Qjw1-XQA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/988621535727443968/1559495862",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5701,
+		"favorite_count": 5210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알메이 낙서! 알폰스가 싱에 유학가서 공부한다는 공식 오피셜이 너무 좋아서 .... 린하고 메이가 얼마나 잘해주겠어 ... https://t.co/aC8q06shp5"
+	},
+	{
+		"created_at": "Thu Jan 09 11:17:12 +0000 2020",
+		"id": 1205408772576825300,
+		"id_str": "1215231038521106433",
+		"full_text": "RT) 머리를 자동으로 알록달록 무지개빛으로 만들어주는 오토액션을 만들어보았어요! 예쁘게 사용해주시면 감사해요🦋🌷\nhttps://t.co/HZYQ1ZsqGR https://t.co/Oz3ObFfFxc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HZYQ1ZsqGR",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1759649",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205408763886198800,
+					"id_str": "1205408763886198784",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/ELp44lyUYAAVfVF.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELp44lyUYAAVfVF.png",
+					"url": "https://t.co/Oz3ObFfFxc",
+					"display_url": "pic.twitter.com/Oz3ObFfFxc",
+					"expanded_url": "https://twitter.com/NightWitch_0615/status/1205408772576825345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205408763886198800,
+					"id_str": "1205408763886198784",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/ELp44lyUYAAVfVF.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELp44lyUYAAVfVF.png",
+					"url": "https://t.co/Oz3ObFfFxc",
+					"display_url": "pic.twitter.com/Oz3ObFfFxc",
+					"expanded_url": "https://twitter.com/NightWitch_0615/status/1205408772576825345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 150,
+									"h": 312,
+									"w": 312
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205408763882000400,
+					"id_str": "1205408763882000384",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/ELp44lxUUAA2LNr.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELp44lxUUAA2LNr.png",
+					"url": "https://t.co/Oz3ObFfFxc",
+					"display_url": "pic.twitter.com/Oz3ObFfFxc",
+					"expanded_url": "https://twitter.com/NightWitch_0615/status/1205408772576825345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 491,
+							"h": 553,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 91,
+									"y": 154,
+									"h": 305,
+									"w": 305
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 91,
+									"y": 154,
+									"h": 305,
+									"w": 305
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 91,
+									"y": 154,
+									"h": 305,
+									"w": 305
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 91,
+									"y": 154,
+									"h": 305,
+									"w": 305
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1177106296148856800,
+			"id_str": "1177106296148856832",
+			"name": "밤마녀🧹",
+			"screen_name": "NightWitch_0615",
+			"location": "",
+			"description": "Illustrator \n외주문의 💌 lolo_tn@naver.com\n\n알티가 많아 시끄러울 수 있으니 RT끄기 추천드려요!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2338,
+			"friends_count": 336,
+			"listed_count": 9,
+			"created_at": "Thu Sep 26 06:23:14 +0000 2019",
+			"favourites_count": 5601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198610061917970433/frh3iqwS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198610061917970433/frh3iqwS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1177106296148856832/1574605884",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2984,
+		"favorite_count": 2847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "RT) 머리를 자동으로 알록달록 무지개빛으로 만들어주는 오토액션을 만들어보았어요! 예쁘게 사용해주시면 감사해요🦋🌷\nhttps://t.co/HZYQ1ZsqGR https://t.co/Oz3ObFfFxc"
+	},
+	{
 		"created_at": "Wed Jan 08 16:58:13 +0000 2020",
 		"id": 1205038879423643600,
 		"id_str": "1214954472394280960",
