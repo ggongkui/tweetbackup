@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 08:54:25 +0000 2020",
+		"id": 1139400566042271700,
+		"id_str": "1219543762101096448",
+		"full_text": "https://t.co/jcLoWAb84a\n질감브러쉬 세트\n50 CLIPPY\n●●●★\n●●●★\n진짜 써보고 반함. 어떤 질감이든 다 표현할 수있어 ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jcLoWAb84a",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1731690",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1139391998245273600,
+		"in_reply_to_status_id_str": "1139391998245273603",
+		"in_reply_to_user_id": 1139376700796497900,
+		"in_reply_to_user_id_str": "1139376700796497920",
+		"in_reply_to_screen_name": "MY_CS_DATA",
+		"user": {
+			"id": 1139376700796497900,
+			"id_str": "1139376700796497920",
+			"name": "클튜자료백업계",
+			"screen_name": "MY_CS_DATA",
+			"location": "올해목표: 소재 창고행 하지 않기",
+			"description": "개인백업용 클튜자료ㆍ정보 모으는계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Fri Jun 14 03:39:08 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": true,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/jcLoWAb84a\n질감브러쉬 세트\n50 CLIPPY\n●●●★\n●●●★\n진짜 써보고 반함. 어떤 질감이든 다 표현할 수있어 ㅠ"
+	},
+	{
 		"created_at": "Thu Jan 09 12:11:27 +0000 2020",
 		"id": 1123933953038200800,
 		"id_str": "1215244692226314240",
