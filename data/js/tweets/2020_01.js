@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 22 07:42:36 +0000 2020",
+		"id": 1219881704401199000,
+		"id_str": "1219888075133706240",
+		"full_text": "&lt;소재추천&gt;\nggpen✏️ 사각사각 좋은 텍스쳐의 연필 같은 브러쉬 소재입니다. 낙서용으로 아주 좋아요. 세우면 진하게, 눕히면 연하게 나온다고 합니다. 편하게 드로잉하고 싶을 때 유용할 것 같아요!\nhttps://t.co/hgZ92Zzmcs https://t.co/G6t3oakWUj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hgZ92Zzmcs",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1762452",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219881693244313600,
+					"id_str": "1219881693244313600",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EO3j79HUUAAtHdn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO3j79HUUAAtHdn.png",
+					"url": "https://t.co/G6t3oakWUj",
+					"display_url": "pic.twitter.com/G6t3oakWUj",
+					"expanded_url": "https://twitter.com/holic_institute/status/1219881704401199105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 294,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 294,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 294,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219881693244313600,
+					"id_str": "1219881693244313600",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EO3j79HUUAAtHdn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO3j79HUUAAtHdn.png",
+					"url": "https://t.co/G6t3oakWUj",
+					"display_url": "pic.twitter.com/G6t3oakWUj",
+					"expanded_url": "https://twitter.com/holic_institute/status/1219881704401199105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 294,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 294,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 294,
+							"h": 476,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1219881693303038000,
+					"id_str": "1219881693303037954",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EO3j79VUYAIC8PW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO3j79VUYAIC8PW.png",
+					"url": "https://t.co/G6t3oakWUj",
+					"display_url": "pic.twitter.com/G6t3oakWUj",
+					"expanded_url": "https://twitter.com/holic_institute/status/1219881704401199105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1194,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 1186,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51778,
+			"friends_count": 951,
+			"listed_count": 375,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2315,
+		"favorite_count": 3141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\nggpen✏️ 사각사각 좋은 텍스쳐의 연필 같은 브러쉬 소재입니다. 낙서용으로 아주 좋아요. 세우면 진하게, 눕히면 연하게 나온다고 합니다. 편하게 드로잉하고 싶을 때 유용할 것 같아요!\nhttps://t.co/hgZ92Zzmcs https://t.co/G6t3oakWUj"
+	},
+	{
 		"created_at": "Tue Jan 21 08:54:25 +0000 2020",
 		"id": 1139400566042271700,
 		"id_str": "1219543762101096448",
