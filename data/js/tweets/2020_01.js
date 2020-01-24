@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 10:45:34 +0000 2020",
+		"id": 1156397200236134400,
+		"id_str": "1220296510333571073",
+		"full_text": "돈값하는 브러시거든요 이거\n그니까...공짜아님\n오지는 반짝이브러시\n\nhttps://t.co/2BufsKUbdV https://t.co/eht2joWeHm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2BufsKUbdV",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1728823",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156397191184842800,
+					"id_str": "1156397191184842752",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EAxZHlfVAAApx3H.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAxZHlfVAAApx3H.png",
+					"url": "https://t.co/eht2joWeHm",
+					"display_url": "pic.twitter.com/eht2joWeHm",
+					"expanded_url": "https://twitter.com/straw_study/status/1156397200236134402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 192,
+							"h": 325,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 192,
+							"h": 325,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 192,
+							"h": 325,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156397191184842800,
+					"id_str": "1156397191184842752",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EAxZHlfVAAApx3H.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAxZHlfVAAApx3H.png",
+					"url": "https://t.co/eht2joWeHm",
+					"display_url": "pic.twitter.com/eht2joWeHm",
+					"expanded_url": "https://twitter.com/straw_study/status/1156397200236134402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 192,
+							"h": 325,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 192,
+							"h": 325,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 192,
+							"h": 325,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1156397191188996000,
+					"id_str": "1156397191188996096",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EAxZHlgUYAA-eOa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAxZHlgUYAA-eOa.png",
+					"url": "https://t.co/eht2joWeHm",
+					"display_url": "pic.twitter.com/eht2joWeHm",
+					"expanded_url": "https://twitter.com/straw_study/status/1156397200236134402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 652,
+							"h": 884,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 884,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1156396626719563800,
+		"in_reply_to_status_id_str": "1156396626719563779",
+		"in_reply_to_user_id": 1121797615622873100,
+		"in_reply_to_user_id_str": "1121797615622873088",
+		"in_reply_to_screen_name": "saban_jeongbal",
+		"user": {
+			"id": 1121797615622873100,
+			"id_str": "1121797615622873088",
+			"name": "정발반파 인사하라",
+			"screen_name": "saban_jeongbal",
+			"location": "",
+			"description": "인사반파 정발 부흥 위원회",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 121,
+			"listed_count": 0,
+			"created_at": "Fri Apr 26 15:26:08 +0000 2019",
+			"favourites_count": 5801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215176613358292993/ldIrCP9S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215176613358292993/ldIrCP9S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1121797615622873088/1564650464",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3080,
+		"favorite_count": 2828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돈값하는 브러시거든요 이거\n그니까...공짜아님\n오지는 반짝이브러시\n\nhttps://t.co/2BufsKUbdV https://t.co/eht2joWeHm"
+	},
+	{
 		"created_at": "Wed Jan 22 07:42:36 +0000 2020",
 		"id": 1219881704401199000,
 		"id_str": "1219888075133706240",
