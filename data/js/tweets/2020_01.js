@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 20:50:08 +0000 2020",
+		"id": 1211916118043971600,
+		"id_str": "1221898203550732288",
+		"full_text": "뒷풀이썰 금랑두송 kbnz\nhttps://t.co/YCYBhJYfCL\nAre you 18↑? (yes/no) https://t.co/BwHc9ibliE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YCYBhJYfCL",
+					"expanded_url": "http://privatter.net/i/4367197",
+					"display_url": "privatter.net/i/4367197",
+					"indices": [
+						15,
+						38
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1211916104940966000,
+					"id_str": "1211916104940965889",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ENGXRsSU0AEegdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENGXRsSU0AEegdU.jpg",
+					"url": "https://t.co/BwHc9ibliE",
+					"display_url": "pic.twitter.com/BwHc9ibliE",
+					"expanded_url": "https://twitter.com/rioru_v_v/status/1211916118043971584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 653,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 334,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 874,
+									"y": 73,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 613,
+									"y": 37,
+									"h": 211,
+									"w": 211
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 334,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 874,
+									"y": 73,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 613,
+									"y": 37,
+									"h": 211,
+									"w": 211
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 236,
+									"y": 227,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 594,
+									"y": 49,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 416,
+									"y": 25,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 334,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 874,
+									"y": 73,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 613,
+									"y": 37,
+									"h": 211,
+									"w": 211
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211916104940966000,
+					"id_str": "1211916104940965889",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ENGXRsSU0AEegdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENGXRsSU0AEegdU.jpg",
+					"url": "https://t.co/BwHc9ibliE",
+					"display_url": "pic.twitter.com/BwHc9ibliE",
+					"expanded_url": "https://twitter.com/rioru_v_v/status/1211916118043971584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 653,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 334,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 874,
+									"y": 73,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 613,
+									"y": 37,
+									"h": 211,
+									"w": 211
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 334,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 874,
+									"y": 73,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 613,
+									"y": 37,
+									"h": 211,
+									"w": 211
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 236,
+									"y": 227,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 594,
+									"y": 49,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 416,
+									"y": 25,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 334,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 874,
+									"y": 73,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 613,
+									"y": 37,
+									"h": 211,
+									"w": 211
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1211916104945168400,
+					"id_str": "1211916104945168384",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ENGXRsTU8AA3o3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENGXRsTU8AA3o3q.jpg",
+					"url": "https://t.co/BwHc9ibliE",
+					"display_url": "pic.twitter.com/BwHc9ibliE",
+					"expanded_url": "https://twitter.com/rioru_v_v/status/1211916118043971584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 785,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 785,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1211916104953553000,
+					"id_str": "1211916104953552897",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ENGXRsVU4AEIdJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENGXRsVU4AEIdJO.jpg",
+					"url": "https://t.co/BwHc9ibliE",
+					"display_url": "pic.twitter.com/BwHc9ibliE",
+					"expanded_url": "https://twitter.com/rioru_v_v/status/1211916118043971584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1130,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1130,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 449,
+									"y": 416,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 314,
+									"y": 337,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 270,
+									"y": 250,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 189,
+									"y": 202,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 449,
+									"y": 416,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 314,
+									"y": 337,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 449,
+									"y": 416,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 314,
+									"y": 337,
+									"h": 82,
+									"w": 82
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904561341129564200,
+			"id_str": "904561341129564161",
+			"name": "🦨",
+			"screen_name": "rioru_v_v",
+			"location": "",
+			"description": "Raihan(kibana) x Piers(nezu)/kbnz/NSFW🔞",
+			"url": "https://t.co/1pbA4T54I6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1pbA4T54I6",
+							"expanded_url": "https://www.pixiv.net/member.php?id=46620116",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20890,
+			"friends_count": 0,
+			"listed_count": 130,
+			"created_at": "Mon Sep 04 04:26:44 +0000 2017",
+			"favourites_count": 1996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200090387173400577/t4x7Ek6B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200090387173400577/t4x7Ek6B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904561341129564161/1576819195",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1820,
+		"favorite_count": 4990,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뒷풀이썰 금랑두송 kbnz\nhttps://t.co/YCYBhJYfCL\nAre you 18↑? (yes/no) https://t.co/BwHc9ibliE"
+	},
+	{
 		"created_at": "Thu Jan 23 10:45:34 +0000 2020",
 		"id": 1156397200236134400,
 		"id_str": "1220296510333571073",
