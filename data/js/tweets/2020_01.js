@@ -1,6 +1,1477 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 08:46:24 +0000 2020",
+		"id": 1222439325981266000,
+		"id_str": "1222440846257115136",
+		"full_text": "&lt;소재추천&gt;\n정글 이파리 3 🌴 보는 것만으로도 여름이 느껴지는 야자수 소재에요. 손으로 직접 하나하나 그리셨다고 합니다. 여름 테마의 그림에 유용하게 사용할 수 있을 것 같아요!\nhttps://t.co/PLKNhtCquw https://t.co/y8tSWwiHbl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PLKNhtCquw",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1763205",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222439314618847200,
+					"id_str": "1222439314618847232",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EPb6FHNUEAASYRw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPb6FHNUEAASYRw.png",
+					"url": "https://t.co/y8tSWwiHbl",
+					"display_url": "pic.twitter.com/y8tSWwiHbl",
+					"expanded_url": "https://twitter.com/holic_institute/status/1222439325981265920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 298,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222439314618847200,
+					"id_str": "1222439314618847232",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EPb6FHNUEAASYRw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPb6FHNUEAASYRw.png",
+					"url": "https://t.co/y8tSWwiHbl",
+					"display_url": "pic.twitter.com/y8tSWwiHbl",
+					"expanded_url": "https://twitter.com/holic_institute/status/1222439325981265920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 298,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1222439314618904600,
+					"id_str": "1222439314618904577",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EPb6FHNU8AEzR6N.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPb6FHNU8AEzR6N.png",
+					"url": "https://t.co/y8tSWwiHbl",
+					"display_url": "pic.twitter.com/y8tSWwiHbl",
+					"expanded_url": "https://twitter.com/holic_institute/status/1222439325981265920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1210,
+							"h": 1210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009375005057036300,
+			"id_str": "1009375005057036288",
+			"name": "홀릭 그림자료봇",
+			"screen_name": "holic_institute",
+			"location": "",
+			"description": "참고용 여러가지 자료들이 업로드 됩니다. 홀릭 미술학원에 대한 자세한 정보는 아래 블로그 클릭!🥳대구와 구미에서 만나요~",
+			"url": "https://t.co/PryDL4IEgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PryDL4IEgG",
+							"expanded_url": "https://blog.naver.com/hohong10",
+							"display_url": "blog.naver.com/hohong10",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52028,
+			"friends_count": 947,
+			"listed_count": 377,
+			"created_at": "Wed Jun 20 09:58:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009753107025104897/X7SJl2lq_normal.jpg",
+			"profile_link_color": "EF3E36",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 989,
+		"favorite_count": 1423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;소재추천&gt;\n정글 이파리 3 🌴 보는 것만으로도 여름이 느껴지는 야자수 소재에요. 손으로 직접 하나하나 그리셨다고 합니다. 여름 테마의 그림에 유용하게 사용할 수 있을 것 같아요!\nhttps://t.co/PLKNhtCquw https://t.co/y8tSWwiHbl"
+	},
+	{
+		"created_at": "Wed Jan 29 07:41:56 +0000 2020",
+		"id": 1170389059056717800,
+		"id_str": "1222424622206865413",
+		"full_text": "난 이제 이 소재가 없으면 그림완성을 못한다. 선색을 바꿔주는 오토액션입니다 \n진심꽤 괜찮게 바뀜 전 어둡게쯤을 쓴다네요 걍 작업 다 하시고 띡 누르심됨 예시사진은 따로 선색 건들지않고 저것만 쓴건데 ㄱㅊ지안나요? 갓소재입니다.\n\nhttps://t.co/F8YhrlWzFl https://t.co/K1LGehHsUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F8YhrlWzFl",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1748183",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170387950745448400,
+					"id_str": "1170387950745448448",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4No-WUcAA_j3K.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4No-WUcAA_j3K.png",
+					"url": "https://t.co/K1LGehHsUM",
+					"display_url": "pic.twitter.com/K1LGehHsUM",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170389059056717824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 184,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 184,
+							"h": 321,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 184,
+							"h": 321,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170387950745448400,
+					"id_str": "1170387950745448448",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4No-WUcAA_j3K.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4No-WUcAA_j3K.png",
+					"url": "https://t.co/K1LGehHsUM",
+					"display_url": "pic.twitter.com/K1LGehHsUM",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170389059056717824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 184,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 184,
+							"h": 321,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 184,
+							"h": 321,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1170388613126713300,
+					"id_str": "1170388613126713344",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4OPh6UcAAZci1.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4OPh6UcAAZci1.png",
+					"url": "https://t.co/K1LGehHsUM",
+					"display_url": "pic.twitter.com/K1LGehHsUM",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170389059056717824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 626,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 626,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 416,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 416,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 416,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 416,
+									"h": 138,
+									"w": 138
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1170388712644960300,
+					"id_str": "1170388712644960257",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4OVUpUYAEt9FR.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4OVUpUYAEt9FR.png",
+					"url": "https://t.co/K1LGehHsUM",
+					"display_url": "pic.twitter.com/K1LGehHsUM",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170389059056717824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 465,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 465,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 469,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 469,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 469,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 469,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1170388889023811600,
+					"id_str": "1170388889023811584",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4OfltUEAAf1EW.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4OfltUEAAf1EW.png",
+					"url": "https://t.co/K1LGehHsUM",
+					"display_url": "pic.twitter.com/K1LGehHsUM",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170389059056717824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 338,
+							"h": 534,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1170387547001778200,
+		"in_reply_to_status_id_str": "1170387547001778177",
+		"in_reply_to_user_id": 1110073945737187300,
+		"in_reply_to_user_id_str": "1110073945737187328",
+		"in_reply_to_screen_name": "Gala_Yee2",
+		"user": {
+			"id": 1110073945737187300,
+			"id_str": "1110073945737187328",
+			"name": "❄입시동결❄이이",
+			"screen_name": "Gala_Yee2",
+			"location": "이이 유튜브➡️",
+			"description": "Yee,いい/20⬆️/좋아하는걸 그려요/1차위주 종종2차/문의 DM, hjh011225@naver.com",
+			"url": "https://t.co/x37Ia4GLPY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x37Ia4GLPY",
+							"expanded_url": "https://www.youtube.com/channel/UCfVzKwgCgjX81SMlgEUGP9Q",
+							"display_url": "youtube.com/channel/UCfVzK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Mon Mar 25 07:00:27 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110073945737187328/1553973442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 942,
+		"favorite_count": 772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "난 이제 이 소재가 없으면 그림완성을 못한다. 선색을 바꿔주는 오토액션입니다 \n진심꽤 괜찮게 바뀜 전 어둡게쯤을 쓴다네요 걍 작업 다 하시고 띡 누르심됨 예시사진은 따로 선색 건들지않고 저것만 쓴건데 ㄱㅊ지안나요? 갓소재입니다.\n\nhttps://t.co/F8YhrlWzFl https://t.co/K1LGehHsUM"
+	},
+	{
+		"created_at": "Wed Jan 29 07:41:37 +0000 2020",
+		"id": 1170387547001778200,
+		"id_str": "1222424542687031296",
+		"full_text": "진짜 진짜진짜 이분은 신이아닐까.\n과일을 종류별로 각도별로 다 만들어두심 제가 방금 세봣는데 총 52개네요 \n진짜 정말......갓입니다. 과일이 필요하신분, 하지만 그리기가 너무 싫다! 이분의 소재를 이용해보시는건 어떨까요?\n\nhttps://t.co/U5HXsBPZ27 https://t.co/MKVQ8ngn5Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U5HXsBPZ27",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1741236",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170387046730358800,
+					"id_str": "1170387046730358785",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4M0WoU4AEmbDp.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4M0WoU4AEmbDp.png",
+					"url": "https://t.co/MKVQ8ngn5Z",
+					"display_url": "pic.twitter.com/MKVQ8ngn5Z",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170387547001778177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 186,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 186,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 186,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170387046730358800,
+					"id_str": "1170387046730358785",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4M0WoU4AEmbDp.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4M0WoU4AEmbDp.png",
+					"url": "https://t.co/MKVQ8ngn5Z",
+					"display_url": "pic.twitter.com/MKVQ8ngn5Z",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170387547001778177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 186,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 186,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 186,
+							"h": 322,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1170385736014524400,
+		"in_reply_to_status_id_str": "1170385736014524416",
+		"in_reply_to_user_id": 1110073945737187300,
+		"in_reply_to_user_id_str": "1110073945737187328",
+		"in_reply_to_screen_name": "Gala_Yee2",
+		"user": {
+			"id": 1110073945737187300,
+			"id_str": "1110073945737187328",
+			"name": "❄입시동결❄이이",
+			"screen_name": "Gala_Yee2",
+			"location": "이이 유튜브➡️",
+			"description": "Yee,いい/20⬆️/좋아하는걸 그려요/1차위주 종종2차/문의 DM, hjh011225@naver.com",
+			"url": "https://t.co/x37Ia4GLPY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x37Ia4GLPY",
+							"expanded_url": "https://www.youtube.com/channel/UCfVzKwgCgjX81SMlgEUGP9Q",
+							"display_url": "youtube.com/channel/UCfVzK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Mon Mar 25 07:00:27 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110073945737187328/1553973442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5807,
+		"favorite_count": 4191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜 진짜진짜 이분은 신이아닐까.\n과일을 종류별로 각도별로 다 만들어두심 제가 방금 세봣는데 총 52개네요 \n진짜 정말......갓입니다. 과일이 필요하신분, 하지만 그리기가 너무 싫다! 이분의 소재를 이용해보시는건 어떨까요?\n\nhttps://t.co/U5HXsBPZ27 https://t.co/MKVQ8ngn5Z"
+	},
+	{
+		"created_at": "Wed Jan 29 07:41:27 +0000 2020",
+		"id": 1170385736014524400,
+		"id_str": "1222424501863899137",
+		"full_text": "왜 이펜을 쓰는사람이 없는걸까요? 혹시 더 오지는 펜이 잇능걸까요? 전. 이펜이정말 좋습니다 아이돌캐가 잇다, 아이돌에유를 연성하신다. 필수인 펜이 아닐까요? 뒤 화면느낌을 연출할수잇는 갓.펜입니다. \n\nhttps://t.co/igJmOxs7Yq https://t.co/w2SYybLHUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/igJmOxs7Yq",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1699945",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170384484526522400,
+					"id_str": "1170384484526522368",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4KfNrVAAASiIF.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4KfNrVAAASiIF.png",
+					"url": "https://t.co/w2SYybLHUE",
+					"display_url": "pic.twitter.com/w2SYybLHUE",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170385736014524416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 192,
+							"h": 327,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 192,
+							"h": 327,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 192,
+							"h": 327,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170384484526522400,
+					"id_str": "1170384484526522368",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4KfNrVAAASiIF.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4KfNrVAAASiIF.png",
+					"url": "https://t.co/w2SYybLHUE",
+					"display_url": "pic.twitter.com/w2SYybLHUE",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170385736014524416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 192,
+							"h": 327,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 192,
+							"h": 327,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 192,
+							"h": 327,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 247,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1170384956696084500,
+					"id_str": "1170384956696084480",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4K6spUwAAdupb.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4K6spUwAAdupb.png",
+					"url": "https://t.co/w2SYybLHUE",
+					"display_url": "pic.twitter.com/w2SYybLHUE",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170385736014524416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 265,
+							"h": 321,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 265,
+							"h": 321,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 265,
+							"h": 321,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1170385249332650000,
+					"id_str": "1170385249332649984",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4LLuzUYAALWRn.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4LLuzUYAALWRn.png",
+					"url": "https://t.co/w2SYybLHUE",
+					"display_url": "pic.twitter.com/w2SYybLHUE",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170385736014524416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 294,
+							"h": 343,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 294,
+							"h": 343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 294,
+							"h": 343,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1170383618121711600,
+		"in_reply_to_status_id_str": "1170383618121711616",
+		"in_reply_to_user_id": 1110073945737187300,
+		"in_reply_to_user_id_str": "1110073945737187328",
+		"in_reply_to_screen_name": "Gala_Yee2",
+		"user": {
+			"id": 1110073945737187300,
+			"id_str": "1110073945737187328",
+			"name": "❄입시동결❄이이",
+			"screen_name": "Gala_Yee2",
+			"location": "이이 유튜브➡️",
+			"description": "Yee,いい/20⬆️/좋아하는걸 그려요/1차위주 종종2차/문의 DM, hjh011225@naver.com",
+			"url": "https://t.co/x37Ia4GLPY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x37Ia4GLPY",
+							"expanded_url": "https://www.youtube.com/channel/UCfVzKwgCgjX81SMlgEUGP9Q",
+							"display_url": "youtube.com/channel/UCfVzK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Mon Mar 25 07:00:27 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110073945737187328/1553973442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6852,
+		"favorite_count": 5307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 이펜을 쓰는사람이 없는걸까요? 혹시 더 오지는 펜이 잇능걸까요? 전. 이펜이정말 좋습니다 아이돌캐가 잇다, 아이돌에유를 연성하신다. 필수인 펜이 아닐까요? 뒤 화면느낌을 연출할수잇는 갓.펜입니다. \n\nhttps://t.co/igJmOxs7Yq https://t.co/w2SYybLHUE"
+	},
+	{
+		"created_at": "Wed Jan 29 07:41:14 +0000 2020",
+		"id": 1170383618121711600,
+		"id_str": "1222424449405710336",
+		"full_text": "난 뽑으면서 하지 못한다.\n그럼 이 펜을 추천드립니다.\n제......풀어주기용 펜입니다 얘도 진한수채에서 건들엿어요 걍 암것도없는거에 하면 연한느낌으러 나오는데 색이 잇으면 색을 끌고오듯 섞어서 대박 부드럽게 잘 섞입니다. https://t.co/GWzq4PRqD7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170383607409463300,
+					"id_str": "1170383607409463297",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4JsKKU0AECdZu.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4JsKKU0AECdZu.png",
+					"url": "https://t.co/GWzq4PRqD7",
+					"display_url": "pic.twitter.com/GWzq4PRqD7",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170383618121711616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 251,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 251,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 251,
+							"h": 273,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170383607409463300,
+					"id_str": "1170383607409463297",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ED4JsKKU0AECdZu.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED4JsKKU0AECdZu.png",
+					"url": "https://t.co/GWzq4PRqD7",
+					"display_url": "pic.twitter.com/GWzq4PRqD7",
+					"expanded_url": "https://twitter.com/Gala_Yee2/status/1170383618121711616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 251,
+							"h": 273,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 251,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 251,
+							"h": 273,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1170383073839419400,
+		"in_reply_to_status_id_str": "1170383073839419392",
+		"in_reply_to_user_id": 1110073945737187300,
+		"in_reply_to_user_id_str": "1110073945737187328",
+		"in_reply_to_screen_name": "Gala_Yee2",
+		"user": {
+			"id": 1110073945737187300,
+			"id_str": "1110073945737187328",
+			"name": "❄입시동결❄이이",
+			"screen_name": "Gala_Yee2",
+			"location": "이이 유튜브➡️",
+			"description": "Yee,いい/20⬆️/좋아하는걸 그려요/1차위주 종종2차/문의 DM, hjh011225@naver.com",
+			"url": "https://t.co/x37Ia4GLPY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x37Ia4GLPY",
+							"expanded_url": "https://www.youtube.com/channel/UCfVzKwgCgjX81SMlgEUGP9Q",
+							"display_url": "youtube.com/channel/UCfVzK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Mon Mar 25 07:00:27 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216876371932090368/Duhuo5vk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110073945737187328/1553973442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "난 뽑으면서 하지 못한다.\n그럼 이 펜을 추천드립니다.\n제......풀어주기용 펜입니다 얘도 진한수채에서 건들엿어요 걍 암것도없는거에 하면 연한느낌으러 나오는데 색이 잇으면 색을 끌고오듯 섞어서 대박 부드럽게 잘 섞입니다. https://t.co/GWzq4PRqD7"
+	},
+	{
 		"created_at": "Mon Jan 27 20:50:08 +0000 2020",
 		"id": 1211916118043971600,
 		"id_str": "1221898203550732288",
