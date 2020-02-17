@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 16 05:57:37 +0000 2020",
+		"id": 1228842545645416400,
+		"id_str": "1228921354264535040",
+		"full_text": "제가 그림 완성후 사용하는 필름 오토액션 공유합니다~ 여러번 연구하고 적용한거라 색감에 자신없는 분들께 추천드립니다.(미리보기는 우리 헹지님)\n➡️https://t.co/P5TogeohFv https://t.co/psuPgrf47C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P5TogeohFv",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1764770",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228841916059439000,
+					"id_str": "1228841916059439105",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ25NkPVUAEGWiu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQ25NkPVUAEGWiu.png",
+					"url": "https://t.co/psuPgrf47C",
+					"display_url": "pic.twitter.com/psuPgrf47C",
+					"expanded_url": "https://twitter.com/Han_A_o3o/status/1228842545645416448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 199,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 199,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 199,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228841916059439000,
+					"id_str": "1228841916059439105",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ25NkPVUAEGWiu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQ25NkPVUAEGWiu.png",
+					"url": "https://t.co/psuPgrf47C",
+					"display_url": "pic.twitter.com/psuPgrf47C",
+					"expanded_url": "https://twitter.com/Han_A_o3o/status/1228842545645416448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 199,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 199,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 199,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090625979976802300,
+			"id_str": "1090625979976802304",
+			"name": "[앺라4코]화엔🍮𝗛𝗪𝗔𝗘𝗡",
+			"screen_name": "Han_A_o3o",
+			"location": "꼼짝마!노아시안강도다!",
+			"description": "𝗛𝗪𝗔𝗘𝗡🍮ハナ 𝙺𝙾𝚁/𝙹𝙿𝙽 𝗚𝗔𝗠𝗘 𝗔𝗥𝗧𝗜𝗦𝗧 𝘊𝘢𝘴𝘶𝘢𝘭 𝘐𝘭𝘭𝘶𝘴𝘵𝘳𝘢𝘵𝘪𝘰𝘯 𝗖𝗼𝗻𝘁𝗮𝗰𝘁📮𝘫𝘪𝘩𝘢𝘯𝘢9898@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 #시안 #황혼조 노아시안",
+			"url": "https://t.co/o9ofjq1JTb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9ofjq1JTb",
+							"expanded_url": "https://peing.net/ko/han_a_o3o",
+							"display_url": "peing.net/ko/han_a_o3o",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2164,
+			"friends_count": 212,
+			"listed_count": 14,
+			"created_at": "Wed Jan 30 15:01:11 +0000 2019",
+			"favourites_count": 7145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223168803246239744/Kbc6iXXx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223168803246239744/Kbc6iXXx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090625979976802304/1576562223",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2803,
+		"favorite_count": 2662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 그림 완성후 사용하는 필름 오토액션 공유합니다~ 여러번 연구하고 적용한거라 색감에 자신없는 분들께 추천드립니다.(미리보기는 우리 헹지님)\n➡️https://t.co/P5TogeohFv https://t.co/psuPgrf47C"
+	},
+	{
 		"created_at": "Fri Feb 07 20:13:15 +0000 2020",
 		"id": 1218739969264476200,
 		"id_str": "1225875187972706304",
