@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 13:52:40 +0000 2020",
+		"id": 1212793322273554400,
+		"id_str": "1229765681177972736",
+		"full_text": "+ https://t.co/AfvCLo2jTu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212793312161095700,
+					"id_str": "1212793312161095681",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/ENS1F31U4AE1KWS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENS1F31U4AE1KWS.jpg",
+					"url": "https://t.co/AfvCLo2jTu",
+					"display_url": "pic.twitter.com/AfvCLo2jTu",
+					"expanded_url": "https://twitter.com/rioru_v_v/status/1212793322273554432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212793312161095700,
+					"id_str": "1212793312161095681",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/ENS1F31U4AE1KWS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENS1F31U4AE1KWS.jpg",
+					"url": "https://t.co/AfvCLo2jTu",
+					"display_url": "pic.twitter.com/AfvCLo2jTu",
+					"expanded_url": "https://twitter.com/rioru_v_v/status/1212793322273554432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212793254866899000,
+		"in_reply_to_status_id_str": "1212793254866898944",
+		"in_reply_to_user_id": 904561341129564200,
+		"in_reply_to_user_id_str": "904561341129564161",
+		"in_reply_to_screen_name": "rioru_v_v",
+		"user": {
+			"id": 904561341129564200,
+			"id_str": "904561341129564161",
+			"name": "🦨",
+			"screen_name": "rioru_v_v",
+			"location": "",
+			"description": "PKMN/kbnz",
+			"url": "https://t.co/1pbA4T54I6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1pbA4T54I6",
+							"expanded_url": "https://www.pixiv.net/member.php?id=46620116",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22655,
+			"friends_count": 0,
+			"listed_count": 155,
+			"created_at": "Mon Sep 04 04:26:44 +0000 2017",
+			"favourites_count": 2399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200090387173400577/t4x7Ek6B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200090387173400577/t4x7Ek6B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904561341129564161/1576819195",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 565,
+		"favorite_count": 2019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "+ https://t.co/AfvCLo2jTu"
+	},
+	{
 		"created_at": "Sun Feb 16 05:57:37 +0000 2020",
 		"id": 1228842545645416400,
 		"id_str": "1228921354264535040",
