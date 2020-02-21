@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 16:30:47 +0000 2020",
+		"id": 1196027868481867800,
+		"id_str": "1230530245544988674",
+		"full_text": "과제로 물그릴때 큰 도움을 받고 있어요\n필수템\n\nhttps://t.co/HOrGmBzguN (무료)\nhttps://t.co/tYQWWnqLAp (유료)\n파도\nhttps://t.co/9LWivQbOGA\nhttps://t.co/f3gAXhq0xN\nhttps://t.co/GcIIHpwB6R\nhttps://t.co/6gXmK1zQWw (클리피)\nhttps://t.co/y31l0LfFxn\n물방울\nhttps://t.co/YmO3KHS5f5\n수면빛 https://t.co/rG5mH6AT3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HOrGmBzguN",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1720919",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/tYQWWnqLAp",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1715800",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/9LWivQbOGA",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1729209",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/f3gAXhq0xN",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1709329",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/GcIIHpwB6R",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1723320",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/6gXmK1zQWw",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1714615",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/y31l0LfFxn",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1545310",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						190,
+						213
+					]
+				},
+				{
+					"url": "https://t.co/YmO3KHS5f5",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1447594",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196027530072866800,
+					"id_str": "1196027530072866818",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkks6eUwAIp3HN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkks6eUwAIp3HN.jpg",
+					"url": "https://t.co/rG5mH6AT3C",
+					"display_url": "pic.twitter.com/rG5mH6AT3C",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1196027868481867777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1457,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 687,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196027530072866800,
+					"id_str": "1196027530072866818",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkks6eUwAIp3HN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkks6eUwAIp3HN.jpg",
+					"url": "https://t.co/rG5mH6AT3C",
+					"display_url": "pic.twitter.com/rG5mH6AT3C",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1196027868481867777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1457,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 687,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1196027570354937900,
+					"id_str": "1196027570354937856",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkkvQiUYAAZKH3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJkkvQiUYAAZKH3.png",
+					"url": "https://t.co/rG5mH6AT3C",
+					"display_url": "pic.twitter.com/rG5mH6AT3C",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1196027868481867777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 689,
+							"h": 546,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 689,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1196027632892051500,
+					"id_str": "1196027632892051456",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkky5gVAAAq370.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkky5gVAAAq370.jpg",
+					"url": "https://t.co/rG5mH6AT3C",
+					"display_url": "pic.twitter.com/rG5mH6AT3C",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1196027868481867777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1196027697618509800,
+					"id_str": "1196027697618509826",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkk2qoUYAIupnZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkk2qoUYAIupnZ.jpg",
+					"url": "https://t.co/rG5mH6AT3C",
+					"display_url": "pic.twitter.com/rG5mH6AT3C",
+					"expanded_url": "https://twitter.com/ds_dimsum/status/1196027868481867777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 879,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1676,
+							"h": 1227,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1196022517422416000,
+		"in_reply_to_status_id_str": "1196022517422415872",
+		"in_reply_to_user_id": 1003663287244881900,
+		"in_reply_to_user_id_str": "1003663287244881921",
+		"in_reply_to_screen_name": "ds_dimsum",
+		"user": {
+			"id": 1003663287244881900,
+			"id_str": "1003663287244881921",
+			"name": "딤섬 / 드센🍍",
+			"screen_name": "ds_dimsum",
+			"location": "",
+			"description": "커뮤+그림계 / 성인 / FUB free",
+			"url": "https://t.co/TjBvGWFZiZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TjBvGWFZiZ",
+							"expanded_url": "https://duesen.tistory.com",
+							"display_url": "duesen.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392,
+			"friends_count": 124,
+			"listed_count": 2,
+			"created_at": "Mon Jun 04 15:42:29 +0000 2018",
+			"favourites_count": 1464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215903733386637313/8O-5Hank_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215903733386637313/8O-5Hank_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003663287244881921/1575065212",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2549,
+		"favorite_count": 2671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "과제로 물그릴때 큰 도움을 받고 있어요\n필수템\n\nhttps://t.co/HOrGmBzguN (무료)\nhttps://t.co/tYQWWnqLAp (유료)\n파도\nhttps://t.co/9LWivQbOGA\nhttps://t.co/f3gAXhq0xN\nhttps://t.co/GcIIHpwB6R\nhttps://t.co/6gXmK1zQWw (클리피)\nhttps://t.co/y31l0LfFxn\n물방울\nhttps://t.co/YmO3KHS5f5\n수면빛 https://t.co/rG5mH6AT3C"
+	},
+	{
 		"created_at": "Tue Feb 18 13:52:40 +0000 2020",
 		"id": 1212793322273554400,
 		"id_str": "1229765681177972736",
