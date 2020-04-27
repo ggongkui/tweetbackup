@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 23:49:00 +0000 2020",
+		"id": 1028312247745925100,
+		"id_str": "1254558126323363840",
+		"full_text": "https://t.co/n9IT1YfJr9  Live streaming for How to draw feet https://t.co/JtqYW8XS0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n9IT1YfJr9",
+					"expanded_url": "https://www.twitch.tv/tbchoi",
+					"display_url": "twitch.tv/tbchoi",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1028311018026356700,
+					"id_str": "1028311018026356741",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DkVLbDQU0AUk8sh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkVLbDQU0AUk8sh.jpg",
+					"url": "https://t.co/JtqYW8XS0E",
+					"display_url": "pic.twitter.com/JtqYW8XS0E",
+					"expanded_url": "https://twitter.com/TB_sojinchoi/status/1028312247745925120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1028311018026356700,
+					"id_str": "1028311018026356741",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DkVLbDQU0AUk8sh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkVLbDQU0AUk8sh.jpg",
+					"url": "https://t.co/JtqYW8XS0E",
+					"display_url": "pic.twitter.com/JtqYW8XS0E",
+					"expanded_url": "https://twitter.com/TB_sojinchoi/status/1028312247745925120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1028311064608366600,
+					"id_str": "1028311064608366593",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DkVLdwyV4AEUNEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkVLdwyV4AEUNEv.jpg",
+					"url": "https://t.co/JtqYW8XS0E",
+					"display_url": "pic.twitter.com/JtqYW8XS0E",
+					"expanded_url": "https://twitter.com/TB_sojinchoi/status/1028312247745925120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1028312087527735300,
+					"id_str": "1028312087527735298",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DkVMZTdUwAI1TAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkVMZTdUwAI1TAv.jpg",
+					"url": "https://t.co/JtqYW8XS0E",
+					"display_url": "pic.twitter.com/JtqYW8XS0E",
+					"expanded_url": "https://twitter.com/TB_sojinchoi/status/1028312247745925120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1315,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1028312102916649000,
+					"id_str": "1028312102916648961",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DkVMaMyU8AEI8Oc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkVMaMyU8AEI8Oc.jpg",
+					"url": "https://t.co/JtqYW8XS0E",
+					"display_url": "pic.twitter.com/JtqYW8XS0E",
+					"expanded_url": "https://twitter.com/TB_sojinchoi/status/1028312247745925120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3119407198,
+			"id_str": "3119407198",
+			"name": "TB Choi",
+			"screen_name": "TB_sojinchoi",
+			"location": "",
+			"description": "|Freelance Concept Artist|\nEA, Netflix, Mythos, Riot games, Real FX , Nickelodeon, Adobe ,Universal studio,Square Enix",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62060,
+			"friends_count": 461,
+			"listed_count": 608,
+			"created_at": "Thu Mar 26 18:10:23 +0000 2015",
+			"favourites_count": 3976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247976958496890881/y04C9E9n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247976958496890881/y04C9E9n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3119407198/1575018128",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5950,
+		"favorite_count": 18604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "https://t.co/n9IT1YfJr9  Live streaming for How to draw feet https://t.co/JtqYW8XS0E"
+	},
+	{
 		"created_at": "Fri Apr 24 22:05:14 +0000 2020",
 		"id": 1253807238738673700,
 		"id_str": "1253807238738673664",
