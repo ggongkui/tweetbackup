@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 18:12:51 +0000 2020",
+		"id": 1255392400681427000,
+		"id_str": "1255560693023031297",
+		"full_text": "나 이 장면만 하루에 20번씩은 보는듯.. https://t.co/BZTfwuPGwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255392218573127700,
+					"id_str": "1255392218573127683",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255392218573127683/pu/img/QFLzzgf6jSOpQlZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255392218573127683/pu/img/QFLzzgf6jSOpQlZH.jpg",
+					"url": "https://t.co/BZTfwuPGwN",
+					"display_url": "pic.twitter.com/BZTfwuPGwN",
+					"expanded_url": "https://twitter.com/Ryeo_ryeong_e/status/1255392400681426944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255392218573127700,
+					"id_str": "1255392218573127683",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255392218573127683/pu/img/QFLzzgf6jSOpQlZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255392218573127683/pu/img/QFLzzgf6jSOpQlZH.jpg",
+					"url": "https://t.co/BZTfwuPGwN",
+					"display_url": "pic.twitter.com/BZTfwuPGwN",
+					"expanded_url": "https://twitter.com/Ryeo_ryeong_e/status/1255392400681426944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8542,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255392218573127683/pu/vid/480x270/uhYho6MDHU4AzyQu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1255392218573127683/pu/pl/Tp3xovuJV_sjCksu.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255392218573127683/pu/vid/640x360/LgNGm2eECZI0qIy6.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147459356524290000,
+			"id_str": "1147459356524290048",
+			"name": "수능 끝나면 접률↑ 자세한건 바이오 려령이",
+			"screen_name": "Ryeo_ryeong_e",
+			"location": "",
+			"description": "오페라의 유령 / 프린새스 스타의 모험일기 / 놀러와 마이홈 / 테이즐러너 //편하게 블언블 해주세요 근데 되도록 언팔해주세요.. 구독이라도 할래요.. 공시 채우면 그림 그릴 것임. 평일-10, 주말-12 덕에 주로 새벽에 접속함",
+			"url": "https://t.co/roXbT956Gs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/roXbT956Gs",
+							"expanded_url": "https://peing.net/ko/ryeo_ryeong_e?event=0",
+							"display_url": "peing.net/ko/ryeo_ryeong…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346,
+			"friends_count": 314,
+			"listed_count": 7,
+			"created_at": "Sat Jul 06 10:56:44 +0000 2019",
+			"favourites_count": 3142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236113080620208131/9ohOZQV__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236113080620208131/9ohOZQV__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147459356524290048/1582669856",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3688,
+		"favorite_count": 2222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 이 장면만 하루에 20번씩은 보는듯.. https://t.co/BZTfwuPGwN"
+	},
+	{
 		"created_at": "Sun Apr 26 23:49:00 +0000 2020",
 		"id": 1028312247745925100,
 		"id_str": "1254558126323363840",
