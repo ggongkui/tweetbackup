@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 00:04:57 +0000 2020",
+		"id": 1259870163081416700,
+		"id_str": "1259997956016492546",
+		"full_text": "충격받거나 놀랄때의 쓸만한 \n천둥브러쉬⚡️를 클립스튜디오에\n업로드했습니다.😎\nhttps://t.co/vGJkOB2Uhw https://t.co/o26rW2VknD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vGJkOB2Uhw",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1772750",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259869185917644800,
+					"id_str": "1259869185917644801",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXv0WXoU8AEeaS2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXv0WXoU8AEeaS2.jpg",
+					"url": "https://t.co/o26rW2VknD",
+					"display_url": "pic.twitter.com/o26rW2VknD",
+					"expanded_url": "https://twitter.com/didRkRk/status/1259870163081416704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259869185917644800,
+					"id_str": "1259869185917644801",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXv0WXoU8AEeaS2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXv0WXoU8AEeaS2.jpg",
+					"url": "https://t.co/o26rW2VknD",
+					"display_url": "pic.twitter.com/o26rW2VknD",
+					"expanded_url": "https://twitter.com/didRkRk/status/1259870163081416704/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 596,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							347,
+							298
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EXv0WXoU8AEeaS2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440811940,
+			"id_str": "1440811940",
+			"name": "양까까",
+			"screen_name": "didRkRk",
+			"location": "",
+			"description": "만화가(작화) (현재 연재 중)\n문의 didrhkwk93@naver.com  헤더 @oOuOo_S2",
+			"url": "https://t.co/rWevTbwIOI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rWevTbwIOI",
+							"expanded_url": "https://dksgkqslek.postype.com/",
+							"display_url": "dksgkqslek.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19637,
+			"friends_count": 473,
+			"listed_count": 123,
+			"created_at": "Sun May 19 10:24:24 +0000 2013",
+			"favourites_count": 9940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256254438013939713/2BWlMKdy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256254438013939713/2BWlMKdy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440811940/1581968561",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3582,
+		"favorite_count": 3800,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "충격받거나 놀랄때의 쓸만한 \n천둥브러쉬⚡️를 클립스튜디오에\n업로드했습니다.😎\nhttps://t.co/vGJkOB2Uhw https://t.co/o26rW2VknD"
+	},
+	{
 		"created_at": "Sat May 09 15:59:54 +0000 2020",
 		"id": 1259151113753772000,
 		"id_str": "1259151113753772033",
