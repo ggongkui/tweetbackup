@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 11:54:05 +0000 2020",
+		"id": 1243101802435727400,
+		"id_str": "1264162685660221441",
+		"full_text": "클립스튜디오 에젯에 말풍선의 오브젝트 효과를 살린 상태에서 말풍선 테두리를 지울 수 있는 도구를 업로드했습니다 😙\n\nhttps://t.co/Kfj8WKVCuc https://t.co/qJeDsOOBz0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kfj8WKVCuc",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1768456",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243099829686788000,
+					"id_str": "1243099829686788096",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUBgtXjUYAAKoDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUBgtXjUYAAKoDc.jpg",
+					"url": "https://t.co/qJeDsOOBz0",
+					"display_url": "pic.twitter.com/qJeDsOOBz0",
+					"expanded_url": "https://twitter.com/2TooToo2/status/1243101802435727360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 344,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 344,
+							"h": 446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 344,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243099829686788000,
+					"id_str": "1243099829686788096",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUBgtXjUYAAKoDc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUBgtXjUYAAKoDc.jpg",
+					"url": "https://t.co/qJeDsOOBz0",
+					"display_url": "pic.twitter.com/qJeDsOOBz0",
+					"expanded_url": "https://twitter.com/2TooToo2/status/1243101802435727360/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 344,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 344,
+							"h": 446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 344,
+							"h": 446,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							172,
+							223
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUBgtXjUYAAKoDc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1117975765,
+			"id_str": "1117975765",
+			"name": "이삭",
+			"screen_name": "2TooToo2",
+			"location": "",
+			"description": "만화가/ 줄리엣과 줄리엣, 절체절명 소년, 마법의 주문을 걸어줘, 자신소득으로 생활하기 프로젝트",
+			"url": "https://t.co/HlexVfKib6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HlexVfKib6",
+							"expanded_url": "https://isaac22.postype.com/",
+							"display_url": "isaac22.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1937,
+			"friends_count": 164,
+			"listed_count": 8,
+			"created_at": "Thu Jan 24 23:44:10 +0000 2013",
+			"favourites_count": 4172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186257704936849409/0gYK2vY2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186257704936849409/0gYK2vY2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117975765/1479293440",
+			"profile_link_color": "FFC824",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "FF6F00",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5208,
+		"favorite_count": 4011,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클립스튜디오 에젯에 말풍선의 오브젝트 효과를 살린 상태에서 말풍선 테두리를 지울 수 있는 도구를 업로드했습니다 😙\n\nhttps://t.co/Kfj8WKVCuc https://t.co/qJeDsOOBz0"
+	},
+	{
 		"created_at": "Tue May 12 00:04:57 +0000 2020",
 		"id": 1259870163081416700,
 		"id_str": "1259997956016492546",
