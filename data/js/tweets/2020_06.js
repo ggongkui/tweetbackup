@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 23:11:40 +0000 2020",
+		"id": 1270740975304863700,
+		"id_str": "1272305736081477632",
+		"full_text": "흑백 만화를 그릴때 만들어두었던 칠브러쉬를 pixel사이트에 업로드 했습니다😊!\n\n페인트 붓기엔 느낌을 내고싶고 일일히 칠하고는 싶지만 손목이 아플때(?)쓰기 좋습니다😆✨\nhttps://t.co/1mqZ1j8lDL https://t.co/hN2jE4jFOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1mqZ1j8lDL",
+					"expanded_url": "https://pixel.sc/contents?contentId=5edeeffc2a434016cc05d724",
+					"display_url": "pixel.sc/contents?conte…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270735360809525200,
+					"id_str": "1270735360809525249",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EaKPE_iUYAE2glQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaKPE_iUYAE2glQ.jpg",
+					"url": "https://t.co/hN2jE4jFOM",
+					"display_url": "pic.twitter.com/hN2jE4jFOM",
+					"expanded_url": "https://twitter.com/wafpeng/status/1270740975304863745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270735360809525200,
+					"id_str": "1270735360809525249",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EaKPE_iUYAE2glQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaKPE_iUYAE2glQ.jpg",
+					"url": "https://t.co/hN2jE4jFOM",
+					"display_url": "pic.twitter.com/hN2jE4jFOM",
+					"expanded_url": "https://twitter.com/wafpeng/status/1270740975304863745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270739277865816000,
+					"id_str": "1270739277865816066",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EaKSo_tUEAI3kBr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaKSo_tUEAI3kBr.jpg",
+					"url": "https://t.co/hN2jE4jFOM",
+					"display_url": "pic.twitter.com/hN2jE4jFOM",
+					"expanded_url": "https://twitter.com/wafpeng/status/1270740975304863745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 2031,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1053621333584560100,
+			"id_str": "1053621333584560128",
+			"name": "와펭일기",
+			"screen_name": "wafpeng",
+			"location": "",
+			"description": "더위조심",
+			"url": "https://t.co/p8FSS48Zk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p8FSS48Zk6",
+							"expanded_url": "https://wafpeng.postype.com/series/473844/clipstudio-%ED%8C%81-%EB%B0%B1%EC%97%85",
+							"display_url": "wafpeng.postype.com/series/473844/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Sat Oct 20 12:17:56 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196466956037083137/6GyjkdEw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196466956037083137/6GyjkdEw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1053621333584560128/1540040506",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7937,
+		"favorite_count": 8189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흑백 만화를 그릴때 만들어두었던 칠브러쉬를 pixel사이트에 업로드 했습니다😊!\n\n페인트 붓기엔 느낌을 내고싶고 일일히 칠하고는 싶지만 손목이 아플때(?)쓰기 좋습니다😆✨\nhttps://t.co/1mqZ1j8lDL https://t.co/hN2jE4jFOM"
+	},
+	{
 		"created_at": "Sat Jun 13 21:30:48 +0000 2020",
 		"id": 1271917962509746200,
 		"id_str": "1271917962509746176",
