@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 19:39:13 +0000 2020",
+		"id": 1271371215739863000,
+		"id_str": "1273339435933765632",
+		"full_text": "공식이 다 해버려서 직장잃은 실직자의 발악 #SheRa #Catradora https://t.co/Z49eqOxkdg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SheRa",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "Catradora",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271371121284116500,
+					"id_str": "1271371121284116480",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTRTH3UcAA_xik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTRTH3UcAA_xik.jpg",
+					"url": "https://t.co/Z49eqOxkdg",
+					"display_url": "pic.twitter.com/Z49eqOxkdg",
+					"expanded_url": "https://twitter.com/SLee_Per__/status/1271371215739863043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 926,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271371121284116500,
+					"id_str": "1271371121284116480",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTRTH3UcAA_xik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTRTH3UcAA_xik.jpg",
+					"url": "https://t.co/Z49eqOxkdg",
+					"display_url": "pic.twitter.com/Z49eqOxkdg",
+					"expanded_url": "https://twitter.com/SLee_Per__/status/1271371215739863043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 926,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1026595291,
+			"id_str": "1026595291",
+			"name": "주뇩🎗😷",
+			"screen_name": "SLee_Per__",
+			"location": "",
+			"description": "오타쿠입니다 / 장르팔로...비추합니다 아마...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3746,
+			"friends_count": 325,
+			"listed_count": 27,
+			"created_at": "Fri Dec 21 15:21:31 +0000 2012",
+			"favourites_count": 13023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253357744171540481/OSv7nh17_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253357744171540481/OSv7nh17_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1026595291/1590175961",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 605,
+		"favorite_count": 2074,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공식이 다 해버려서 직장잃은 실직자의 발악 #SheRa #Catradora https://t.co/Z49eqOxkdg"
+	},
+	{
 		"created_at": "Sun Jun 14 23:11:40 +0000 2020",
 		"id": 1270740975304863700,
 		"id_str": "1272305736081477632",
