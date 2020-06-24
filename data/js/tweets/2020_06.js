@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 09:31:39 +0000 2020",
+		"id": 1274814711234801700,
+		"id_str": "1275360861771624448",
+		"full_text": "https://t.co/K7PexLbA4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274814684181540900,
+					"id_str": "1274814684181540864",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274814684181540864/pu/img/HNwp95tePgeE3rO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274814684181540864/pu/img/HNwp95tePgeE3rO6.jpg",
+					"url": "https://t.co/K7PexLbA4n",
+					"display_url": "pic.twitter.com/K7PexLbA4n",
+					"expanded_url": "https://twitter.com/catrasvoice/status/1274814711234801664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274814684181540900,
+					"id_str": "1274814684181540864",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274814684181540864/pu/img/HNwp95tePgeE3rO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274814684181540864/pu/img/HNwp95tePgeE3rO6.jpg",
+					"url": "https://t.co/K7PexLbA4n",
+					"display_url": "pic.twitter.com/K7PexLbA4n",
+					"expanded_url": "https://twitter.com/catrasvoice/status/1274814711234801664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3783,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274814684181540864/pu/vid/640x360/JDlcmq4ydBpLh_BC.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274814684181540864/pu/vid/480x270/c_H3LE2IHT-NgBCu.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274814684181540864/pu/vid/1280x720/a2_HVUf7lxR_KlYp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1274814684181540864/pu/pl/4dwFS1INMwecN4Ux.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 879417436457586700,
+			"id_str": "879417436457586691",
+			"name": "ً",
+			"screen_name": "catrasvoice",
+			"location": "she/her · blm ",
+			"description": "don’t you get it? i love you. i always have.",
+			"url": "https://t.co/x4k3r1JlFe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4k3r1JlFe",
+							"expanded_url": "https://curiouscat.me/catrasvoice",
+							"display_url": "curiouscat.me/catrasvoice",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7501,
+			"friends_count": 6468,
+			"listed_count": 13,
+			"created_at": "Mon Jun 26 19:13:50 +0000 2017",
+			"favourites_count": 5605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275582840311296002/eugE3Cbv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275582840311296002/eugE3Cbv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/879417436457586691/1592877591",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 904,
+		"favorite_count": 3278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/K7PexLbA4n"
+	},
+	{
 		"created_at": "Sat Jun 20 12:34:58 +0000 2020",
 		"id": 1274319832092078000,
 		"id_str": "1274319832092078080",
