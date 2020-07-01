@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 18:02:06 +0000 2020",
+		"id": 1277952697883193300,
+		"id_str": "1278026037155119104",
+		"full_text": "로오히 하드 스토리 이후 아발론(1)\n🚨 하드 스토리 스포\n🚨 동인 날조 연성입니다!!!!!!!!!!!\n적폐연성인데요~지나갈께요~~🚴‍♀️ https://t.co/oAHMefZVGH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277950197029499000,
+					"id_str": "1277950197029498883",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebww7u6VcAM_J6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebww7u6VcAM_J6C.jpg",
+					"url": "https://t.co/oAHMefZVGH",
+					"display_url": "pic.twitter.com/oAHMefZVGH",
+					"expanded_url": "https://twitter.com/dodaydust/status/1277952697883193344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1488,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 872,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277950197029499000,
+					"id_str": "1277950197029498883",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebww7u6VcAM_J6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebww7u6VcAM_J6C.jpg",
+					"url": "https://t.co/oAHMefZVGH",
+					"display_url": "pic.twitter.com/oAHMefZVGH",
+					"expanded_url": "https://twitter.com/dodaydust/status/1277952697883193344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1488,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 872,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277950197029499000,
+					"id_str": "1277950197029498882",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebww7u6VcAImFQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebww7u6VcAImFQC.jpg",
+					"url": "https://t.co/oAHMefZVGH",
+					"display_url": "pic.twitter.com/oAHMefZVGH",
+					"expanded_url": "https://twitter.com/dodaydust/status/1277952697883193344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1488,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 872,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277950197104926700,
+					"id_str": "1277950197104926720",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebww7vMUYAA-Qem.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebww7vMUYAA-Qem.jpg",
+					"url": "https://t.co/oAHMefZVGH",
+					"display_url": "pic.twitter.com/oAHMefZVGH",
+					"expanded_url": "https://twitter.com/dodaydust/status/1277952697883193344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 872,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1488,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3616706953,
+			"id_str": "3616706953",
+			"name": "킴아누",
+			"screen_name": "dodaydust",
+			"location": "코쿠리아와 웅영고 사이",
+			"description": "도쿄구울+히로아카+잡덕.(알람×)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2866,
+			"friends_count": 4,
+			"listed_count": 8,
+			"created_at": "Sat Sep 19 14:11:08 +0000 2015",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/765939709386199040/6nnnkBUO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/765939709386199040/6nnnkBUO_normal.jpg",
+			"profile_link_color": "6F65AC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1892,
+		"favorite_count": 1847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로오히 하드 스토리 이후 아발론(1)\n🚨 하드 스토리 스포\n🚨 동인 날조 연성입니다!!!!!!!!!!!\n적폐연성인데요~지나갈께요~~🚴‍♀️ https://t.co/oAHMefZVGH"
+	},
+	{
 		"created_at": "Tue Jun 23 09:31:39 +0000 2020",
 		"id": 1274814711234801700,
 		"id_str": "1275360861771624448",
