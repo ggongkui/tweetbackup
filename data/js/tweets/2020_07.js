@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 08:09:59 +0000 2020",
+		"id": 1279375930058629000,
+		"id_str": "1281863293867458561",
+		"full_text": "[제미있는 자료참고]다섯번째 시간!\n\n&lt;입 드로잉&gt; 자료입니다~!\n\n입술의 형태와 입을벌렸을때 보이는 치아형태를\n정리한 자료입니다!\n입술과 입라인은 많이 그리더라도 치아 까지는\n잘 그리지 않더라구요...\n그래서 입모양과 치아의 형태를 위주로\n제작하였습니다~! https://t.co/znWeBF8a7p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279375878720376800,
+					"id_str": "1279375878720376833",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EcFBlVFU0AEIMgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcFBlVFU0AEIMgM.jpg",
+					"url": "https://t.co/znWeBF8a7p",
+					"display_url": "pic.twitter.com/znWeBF8a7p",
+					"expanded_url": "https://twitter.com/bluez3619995/status/1279375930058629124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279375878720376800,
+					"id_str": "1279375878720376833",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EcFBlVFU0AEIMgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcFBlVFU0AEIMgM.jpg",
+					"url": "https://t.co/znWeBF8a7p",
+					"display_url": "pic.twitter.com/znWeBF8a7p",
+					"expanded_url": "https://twitter.com/bluez3619995/status/1279375930058629124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1279375913025560600,
+					"id_str": "1279375913025560577",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EcFBnU4UYAEkYwP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcFBnU4UYAEkYwP.jpg",
+					"url": "https://t.co/znWeBF8a7p",
+					"display_url": "pic.twitter.com/znWeBF8a7p",
+					"expanded_url": "https://twitter.com/bluez3619995/status/1279375930058629124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2418825421,
+			"id_str": "2418825421",
+			"name": "블루젯",
+			"screen_name": "bluez3619995",
+			"location": "대한민국 부산",
+			"description": "사이툴, 포토샵, 마카, 수채화 튜토리얼 및 강좌백업계정 모든자료는 출처만 표시하신다면 사용가능합니다^^! FUB free",
+			"url": "https://t.co/VUW9eEFJxO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VUW9eEFJxO",
+							"expanded_url": "http://www.bluezet.net/",
+							"display_url": "bluezet.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37698,
+			"friends_count": 17,
+			"listed_count": 161,
+			"created_at": "Sun Mar 30 10:37:34 +0000 2014",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273574346590584834/PRi8IQZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273574346590584834/PRi8IQZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2418825421/1592478876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2826,
+		"favorite_count": 4967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[제미있는 자료참고]다섯번째 시간!\n\n&lt;입 드로잉&gt; 자료입니다~!\n\n입술의 형태와 입을벌렸을때 보이는 치아형태를\n정리한 자료입니다!\n입술과 입라인은 많이 그리더라도 치아 까지는\n잘 그리지 않더라구요...\n그래서 입모양과 치아의 형태를 위주로\n제작하였습니다~! https://t.co/znWeBF8a7p"
+	},
+	{
 		"created_at": "Tue Jul 07 09:31:29 +0000 2020",
 		"id": 1191637921201152000,
 		"id_str": "1280434249305255937",
