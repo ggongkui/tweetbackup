@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 08:04:35 +0000 2020",
+		"id": 1279662401600643000,
+		"id_str": "1283311485825937408",
+		"full_text": "https://t.co/20kxnrU0Y1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279662399197286400,
+					"id_str": "1279662399197286407",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJGLBCUEAcKApf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcJGLBCUEAcKApf.jpg",
+					"url": "https://t.co/20kxnrU0Y1",
+					"display_url": "pic.twitter.com/20kxnrU0Y1",
+					"expanded_url": "https://twitter.com/jjal_of_mm/status/1279662401600643074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 367,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 367,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 367,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279662399197286400,
+					"id_str": "1279662399197286407",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJGLBCUEAcKApf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcJGLBCUEAcKApf.jpg",
+					"url": "https://t.co/20kxnrU0Y1",
+					"display_url": "pic.twitter.com/20kxnrU0Y1",
+					"expanded_url": "https://twitter.com/jjal_of_mm/status/1279662401600643074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 367,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 367,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 367,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1111646847972442100,
+			"id_str": "1111646847972442113",
+			"name": "트레이싱하기좋은짤모음",
+			"screen_name": "jjal_of_mm",
+			"location": "계주의갤러리백업용이었으나공용으로사용됨",
+			"description": "사용료는 알티 여러분의 덕질생활을 응원합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54080,
+			"friends_count": 1,
+			"listed_count": 130,
+			"created_at": "Fri Mar 29 15:10:36 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281916604633120770/dPKc_KIx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281916604633120770/dPKc_KIx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1111646847972442113/1594639155",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 613,
+		"favorite_count": 804,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/20kxnrU0Y1"
+	},
+	{
 		"created_at": "Sat Jul 11 08:09:59 +0000 2020",
 		"id": 1279375930058629000,
 		"id_str": "1281863293867458561",
