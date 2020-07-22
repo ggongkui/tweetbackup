@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 13:11:50 +0000 2020",
+		"id": 1285468675986710500,
+		"id_str": "1285563134942429184",
+		"full_text": "올린지 좀 되었지만 작업하기 간편하게 만들어둔 손 레이어입니다~제거 작업하는 김에 올렸어요!\nhttps://t.co/rKG54EavnZ https://t.co/8FuhKavpex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rKG54EavnZ",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1779760",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285468612044615700,
+					"id_str": "1285468612044615680",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Edbm5FbVcAAT4yO.png",
+					"media_url_https": "https://pbs.twimg.com/media/Edbm5FbVcAAT4yO.png",
+					"url": "https://t.co/8FuhKavpex",
+					"display_url": "pic.twitter.com/8FuhKavpex",
+					"expanded_url": "https://twitter.com/NINSALMON/status/1285468675986710529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 195,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 195,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 195,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285468612044615700,
+					"id_str": "1285468612044615680",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Edbm5FbVcAAT4yO.png",
+					"media_url_https": "https://pbs.twimg.com/media/Edbm5FbVcAAT4yO.png",
+					"url": "https://t.co/8FuhKavpex",
+					"display_url": "pic.twitter.com/8FuhKavpex",
+					"expanded_url": "https://twitter.com/NINSALMON/status/1285468675986710529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 195,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 195,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 195,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1580717426,
+			"id_str": "1580717426",
+			"name": "종형제 있는 연어(鰱)😷",
+			"screen_name": "NINSALMON",
+			"location": "주기적 한구 서칭 구독합니다",
+			"description": "그리고싶은거 그림 문의는 nuiio0612@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 107,
+			"listed_count": 9,
+			"created_at": "Tue Jul 09 16:03:10 +0000 2013",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227235613537005568/uxYYd0iG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227235613537005568/uxYYd0iG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1580717426/1568140685",
+			"profile_link_color": "231456",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올린지 좀 되었지만 작업하기 간편하게 만들어둔 손 레이어입니다~제거 작업하는 김에 올렸어요!\nhttps://t.co/rKG54EavnZ https://t.co/8FuhKavpex"
+	},
+	{
 		"created_at": "Wed Jul 15 08:04:35 +0000 2020",
 		"id": 1279662401600643000,
 		"id_str": "1283311485825937408",
