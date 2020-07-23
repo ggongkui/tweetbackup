@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 03:58:56 +0000 2020",
+		"id": 1285753972632940500,
+		"id_str": "1285786379536838656",
+		"full_text": "https://t.co/CI3Vvo4wA1 저만 몰랐나요? 클립스튜디오 소재폴더 디드라이브로 옮기고옵니다 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CI3Vvo4wA1",
+					"expanded_url": "https://w-seon.tistory.com/57",
+					"display_url": "w-seon.tistory.com/57",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2257863422,
+			"id_str": "2257863422",
+			"name": "햄사탕",
+			"screen_name": "HAMUSATANG",
+			"location": "hamudaddy@naver.com",
+			"description": "@hamu446(그림뒷계) @hamutwo(낙서/리박올라옴)",
+			"url": "https://t.co/bJPflRkOeD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJPflRkOeD",
+							"expanded_url": "https://mamamamamama.postype.com/",
+							"display_url": "mamamamamama.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8596,
+			"friends_count": 142,
+			"listed_count": 36,
+			"created_at": "Sun Dec 22 15:48:25 +0000 2013",
+			"favourites_count": 2078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285381372761104385/xWakieT2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285381372761104385/xWakieT2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2257863422/1592364811",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4798,
+		"favorite_count": 3213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/CI3Vvo4wA1 저만 몰랐나요? 클립스튜디오 소재폴더 디드라이브로 옮기고옵니다 ㅠㅠ"
+	},
+	{
 		"created_at": "Tue Jul 21 13:11:50 +0000 2020",
 		"id": 1285468675986710500,
 		"id_str": "1285563134942429184",
