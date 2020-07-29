@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 03:51:29 +0000 2020",
+		"id": 1287719997507113000,
+		"id_str": "1287958834426724352",
+		"full_text": "以前載せたスーツ関連のメイキング(昔のなので設定等色々は当時のモノです) https://t.co/ZdlpJ9twpD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287719977550635000,
+					"id_str": "1287719977550635010",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed7mfzgUYAIfV82.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed7mfzgUYAIfV82.jpg",
+					"url": "https://t.co/ZdlpJ9twpD",
+					"display_url": "pic.twitter.com/ZdlpJ9twpD",
+					"expanded_url": "https://twitter.com/analu_DT3/status/1287719997507112960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1531,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287719977550635000,
+					"id_str": "1287719977550635010",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed7mfzgUYAIfV82.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed7mfzgUYAIfV82.jpg",
+					"url": "https://t.co/ZdlpJ9twpD",
+					"display_url": "pic.twitter.com/ZdlpJ9twpD",
+					"expanded_url": "https://twitter.com/analu_DT3/status/1287719997507112960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1531,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1287719977550663700,
+					"id_str": "1287719977550663681",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed7mfzgU0AEbiEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed7mfzgU0AEbiEU.jpg",
+					"url": "https://t.co/ZdlpJ9twpD",
+					"display_url": "pic.twitter.com/ZdlpJ9twpD",
+					"expanded_url": "https://twitter.com/analu_DT3/status/1287719997507112960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 866,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1118,
+							"h": 1549,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1287719977563205600,
+					"id_str": "1287719977563205633",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed7mfzjUMAEDP8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed7mfzjUMAEDP8y.jpg",
+					"url": "https://t.co/ZdlpJ9twpD",
+					"display_url": "pic.twitter.com/ZdlpJ9twpD",
+					"expanded_url": "https://twitter.com/analu_DT3/status/1287719997507112960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 251,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 757,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 444,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985794944727056400,
+			"id_str": "985794944727056384",
+			"name": "혼톡",
+			"screen_name": "analu_DT3",
+			"location": "⚠️使用、転載禁止Reprint is prohibited",
+			"description": "■ホン・トクですjapanese🇯🇵■二次ごっちゃ壁■商業@kokuti_hon■二次垢@tintoku_45■🔞■漫画描いてる■禁止私自转载ห้ามนำผลงานไปใช้โดยไม่ได้รับอนุญาต profile picture✖︎",
+			"url": "https://t.co/GcoGTXcuKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GcoGTXcuKo",
+							"expanded_url": "https://odaibako.net/u/analu_DT3",
+							"display_url": "odaibako.net/u/analu_DT3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157629,
+			"friends_count": 236,
+			"listed_count": 3,
+			"created_at": "Mon Apr 16 08:20:04 +0000 2018",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262033724008357888/D4qKfCUZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262033724008357888/D4qKfCUZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985794944727056384/1595056134",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6517,
+		"favorite_count": 29768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "以前載せたスーツ関連のメイキング(昔のなので設定等色々は当時のモノです) https://t.co/ZdlpJ9twpD"
+	},
+	{
 		"created_at": "Wed Jul 22 03:58:56 +0000 2020",
 		"id": 1285753972632940500,
 		"id_str": "1285786379536838656",
