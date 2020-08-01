@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 05:27:52 +0000 2020",
+		"id": 1288736896839905300,
+		"id_str": "1289070251468980225",
+		"full_text": "다들 많이들 쓰시는 머리카락 하이라이트 소재 2탄이 올라왔더라구요ㅠ0ㅠ)8\" !!! 기존에 있던것과 다른 모양들인 듯 하니 함봐보시면 좋을것같아 가져와봄...❤️\nhttps://t.co/1SzwtdODFh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1SzwtdODFh",
+					"expanded_url": "https://assets.clip-studio.com/ja-jp/detail?id=1780899",
+					"display_url": "assets.clip-studio.com/ja-jp/detail?i…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 827075546701967400,
+			"id_str": "827075546701967360",
+			"name": "소은🍏이케",
+			"screen_name": "eun2ke",
+			"location": "",
+			"description": "쪼렙만화가/미스터블루 '바다,만나다'(完)/동숲계-@ssong_ACNH/인스타-https://t.co/ekShyINDTS 질문▷https://t.co/19zpvGcFvU 📩soeun_23@naver.com",
+			"url": "https://t.co/cz77Qq0vRp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cz77Qq0vRp",
+							"expanded_url": "https://eun2ke.postype.com/",
+							"display_url": "eun2ke.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ekShyINDTS",
+							"expanded_url": "https://www.instagram.com/soeun2323",
+							"display_url": "instagram.com/soeun2323",
+							"indices": [
+								44,
+								67
+							]
+						},
+						{
+							"url": "https://t.co/19zpvGcFvU",
+							"expanded_url": "http://peing.net/ko/eun2ke?tab=",
+							"display_url": "peing.net/ko/eun2ke?tab=",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 730,
+			"friends_count": 69,
+			"listed_count": 4,
+			"created_at": "Thu Feb 02 08:45:51 +0000 2017",
+			"favourites_count": 539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288745939713142784/y5z5-0Of_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288745939713142784/y5z5-0Of_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/827075546701967360/1592053598",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2721,
+		"favorite_count": 2128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 많이들 쓰시는 머리카락 하이라이트 소재 2탄이 올라왔더라구요ㅠ0ㅠ)8\" !!! 기존에 있던것과 다른 모양들인 듯 하니 함봐보시면 좋을것같아 가져와봄...❤️\nhttps://t.co/1SzwtdODFh"
+	},
+	{
 		"created_at": "Tue Jul 28 03:51:29 +0000 2020",
 		"id": 1287719997507113000,
 		"id_str": "1287958834426724352",
