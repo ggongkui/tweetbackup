@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 08:22:39 +0000 2020",
+		"id": 1186965340594434000,
+		"id_str": "1292738114532732928",
+		"full_text": "5. インク切れ油性ペンセット(モノクロ用）(펜인데 정작 내가 안 씀 활용을 못하겠어 내가)\nhttps://t.co/B05KKLZZKu\n6. モノクロ補助セット (이것도 어렵) \nhttps://t.co/xLUfalVyuz\n7. タッチトーン (이건 끌어쓰는 소재)\nhttps://t.co/uFYFWTqKnC\n8. 崩れカケアミ\nhttps://t.co/v6rWfXZmT1 https://t.co/mjGoR4MedY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B05KKLZZKu",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1678787",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/xLUfalVyuz",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1739028",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/uFYFWTqKnC",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1706523",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/v6rWfXZmT1",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1742203",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1186965326241493000,
+					"id_str": "1186965326241492992",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjyrOdUcAAi5xp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjyrOdUcAAi5xp.png",
+					"url": "https://t.co/mjGoR4MedY",
+					"display_url": "pic.twitter.com/mjGoR4MedY",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186965340594434048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1186965326241493000,
+					"id_str": "1186965326241492992",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjyrOdUcAAi5xp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjyrOdUcAAi5xp.png",
+					"url": "https://t.co/mjGoR4MedY",
+					"display_url": "pic.twitter.com/mjGoR4MedY",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186965340594434048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 585,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1186965326212128800,
+					"id_str": "1186965326212128768",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjyrOWUYAAVDg4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjyrOWUYAAVDg4.png",
+					"url": "https://t.co/mjGoR4MedY",
+					"display_url": "pic.twitter.com/mjGoR4MedY",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186965340594434048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 603,
+							"h": 637,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 603,
+							"h": 637,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 603,
+							"h": 637,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1186965326149251000,
+					"id_str": "1186965326149251072",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjyrOHU8AARgaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHjyrOHU8AARgaO.jpg",
+					"url": "https://t.co/mjGoR4MedY",
+					"display_url": "pic.twitter.com/mjGoR4MedY",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186965340594434048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 967,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 967,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1186965326153404400,
+					"id_str": "1186965326153404417",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EHjyrOIUUAEzgB1.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHjyrOIUUAEzgB1.png",
+					"url": "https://t.co/mjGoR4MedY",
+					"display_url": "pic.twitter.com/mjGoR4MedY",
+					"expanded_url": "https://twitter.com/Baoryu/status/1186965340594434048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 701,
+							"h": 783,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 701,
+							"h": 783,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1186963994227069000,
+		"in_reply_to_status_id_str": "1186963994227068928",
+		"in_reply_to_user_id": 947108730578931700,
+		"in_reply_to_user_id_str": "947108730578931713",
+		"in_reply_to_screen_name": "Baoryu",
+		"user": {
+			"id": 947108730578931700,
+			"id_str": "947108730578931713",
+			"name": "류님방학인데학교를왜가요 그러게",
+			"screen_name": "Baoryu",
+			"location": "",
+			"description": "자캐 1차 손페티 파랑에 영혼팔음 2차 우주잡덕 수위발언 편히 하기 때문에 주의해주세요! ::FUB프리 헤어질땐 블언블:: 앤캐 사랑해! / 그림공부+커미션계 @Ryu_tale",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 633,
+			"friends_count": 373,
+			"listed_count": 1,
+			"created_at": "Sat Dec 30 14:14:52 +0000 2017",
+			"favourites_count": 10195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266500317987762176/S4MYweOk_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266500317987762176/S4MYweOk_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/947108730578931713/1590792183",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1542,
+		"favorite_count": 1752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "5. インク切れ油性ペンセット(モノクロ用）(펜인데 정작 내가 안 씀 활용을 못하겠어 내가)\nhttps://t.co/B05KKLZZKu\n6. モノクロ補助セット (이것도 어렵) \nhttps://t.co/xLUfalVyuz\n7. タッチトーン (이건 끌어쓰는 소재)\nhttps://t.co/uFYFWTqKnC\n8. 崩れカケアミ\nhttps://t.co/v6rWfXZmT1 https://t.co/mjGoR4MedY"
+	},
+	{
 		"created_at": "Sun Aug 02 12:48:05 +0000 2020",
 		"id": 1289142927566856200,
 		"id_str": "1289905813176242176",
