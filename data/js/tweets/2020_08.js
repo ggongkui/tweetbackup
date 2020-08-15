@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 10:22:04 +0000 2020",
+		"id": 1294207038717747200,
+		"id_str": "1294217717977767941",
+		"full_text": "조슈아 몸에 실험자국이나 흉터 많을 것이라 생각한다... https://t.co/Yb8fTMHVtf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294206297785606100,
+					"id_str": "1294206297785606148",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXxxVWVoAQCwUi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXxxVWVoAQCwUi.jpg",
+					"url": "https://t.co/Yb8fTMHVtf",
+					"display_url": "pic.twitter.com/Yb8fTMHVtf",
+					"expanded_url": "https://twitter.com/ducheol_/status/1294207038717747202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 1046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294206297785606100,
+					"id_str": "1294206297785606148",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EfXxxVWVoAQCwUi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfXxxVWVoAQCwUi.jpg",
+					"url": "https://t.co/Yb8fTMHVtf",
+					"display_url": "pic.twitter.com/Yb8fTMHVtf",
+					"expanded_url": "https://twitter.com/ducheol_/status/1294207038717747202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 1046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1289116977789718500,
+			"id_str": "1289116977789718529",
+			"name": "야근수당",
+			"screen_name": "ducheol_",
+			"location": "로오히",
+			"description": "조슈아님은위대하십니다찬양하라찬양하라조슈아님축지법쓰신다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 913,
+			"friends_count": 40,
+			"listed_count": 4,
+			"created_at": "Fri Jul 31 08:33:41 +0000 2020",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289202700140175360/LehFcxfE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289202700140175360/LehFcxfE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289116977789718529/1596223382",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3518,
+		"favorite_count": 4234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조슈아 몸에 실험자국이나 흉터 많을 것이라 생각한다... https://t.co/Yb8fTMHVtf"
+	},
+	{
 		"created_at": "Mon Aug 10 08:22:39 +0000 2020",
 		"id": 1186965340594434000,
 		"id_str": "1292738114532732928",
