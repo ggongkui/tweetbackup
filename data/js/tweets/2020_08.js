@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 23:58:58 +0000 2020",
+		"id": 1291022170731110400,
+		"id_str": "1298047176556204032",
+		"full_text": "ㄴㄴ님의 CoC 타이만(1:1) 시나리오, 『플래시백 헤드샷! with 뱀파이어』를 대리 배포합니다. 한시간~두시간 내외의 간단한 클로즈드 계열 시나리오입니다! 탐사자가 많든 적든 기억을 잃고 시작하며, 이 부분과 관련해서는 키퍼분의 체크가 필요해요! https://t.co/j5rcjy7uNB https://t.co/EMMt6bi8fX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j5rcjy7uNB",
+					"expanded_url": "http://posty.pe/d962wj",
+					"display_url": "posty.pe/d962wj",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291022155656749000,
+					"id_str": "1291022155656749058",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeqhz3kUYAIGRD-.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eeqhz3kUYAIGRD-.png",
+					"url": "https://t.co/EMMt6bi8fX",
+					"display_url": "pic.twitter.com/EMMt6bi8fX",
+					"expanded_url": "https://twitter.com/dreamyou030___/status/1291022170731110400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1300,
+							"h": 920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291022155656749000,
+					"id_str": "1291022155656749058",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeqhz3kUYAIGRD-.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eeqhz3kUYAIGRD-.png",
+					"url": "https://t.co/EMMt6bi8fX",
+					"display_url": "pic.twitter.com/EMMt6bi8fX",
+					"expanded_url": "https://twitter.com/dreamyou030___/status/1291022170731110400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1300,
+							"h": 920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 805773683964842000,
+			"id_str": "805773683964841984",
+			"name": "ㄷㄷ🎗",
+			"screen_name": "dreamyou030___",
+			"location": "추구하는 장르는 언제나 호러😎✌",
+			"description": "TRPG 계정! 문의나 후기는 DM으로 부탁드려요!  🏃‍♂️팀 [티알루]🏃‍♀️ 인용알티는 언제나 괜찮습니다 🙆‍♂️🙆‍♀️🙆‍♂️🙆‍♀️",
+			"url": "https://t.co/umrAZGmL6F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/umrAZGmL6F",
+							"expanded_url": "https://drake-moonchild.postype.com/",
+							"display_url": "drake-moonchild.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 11,
+			"listed_count": 0,
+			"created_at": "Mon Dec 05 13:59:51 +0000 2016",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190985079960547328/9rTXLSH7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190985079960547328/9rTXLSH7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/805773683964841984/1500219265",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 309,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㄴㄴ님의 CoC 타이만(1:1) 시나리오, 『플래시백 헤드샷! with 뱀파이어』를 대리 배포합니다. 한시간~두시간 내외의 간단한 클로즈드 계열 시나리오입니다! 탐사자가 많든 적든 기억을 잃고 시작하며, 이 부분과 관련해서는 키퍼분의 체크가 필요해요! https://t.co/j5rcjy7uNB https://t.co/EMMt6bi8fX"
+	},
+	{
 		"created_at": "Fri Aug 14 10:22:04 +0000 2020",
 		"id": 1294207038717747200,
 		"id_str": "1294217717977767941",
