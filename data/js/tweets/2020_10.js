@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 22:59:23 +0000 2020",
+		"id": 1315164503105888300,
+		"id_str": "1315426802580430848",
+		"full_text": "곱슬 머리 펜 by number11train https://t.co/me9BcCjqTH #clipstudio \n이거이거 완전 물건이다 이건 놓치면 안되는 소재라 탐라 방생합니다 첫눈에 반했다 머리카락 펜........이제 정착할 때도 되었어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clipstudio",
+					"indices": [
+						49,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/me9BcCjqTH",
+					"expanded_url": "https://assets.clip-studio.com/ko-kr/detail?id=1791872",
+					"display_url": "assets.clip-studio.com/ko-kr/detail?i…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1289505711722963000,
+			"id_str": "1289505711722962946",
+			"name": "반동결 🦁 뒤의 밀왕",
+			"screen_name": "S2_Goodgeh",
+			"location": "누군지 모르겠다면 대답해드리는게 인지상정",
+			"description": "당신의 귀여운 씨몽키 밀왕이 20↑그림/게임/티알/커뮤계\n링크에 자기소개표 있어요 읽어봐주시면 매우감사🥰\n𓂃𓂃𓂃𓂃𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓂃𓂃𓂃 𓆝𓆟𓆜𓆞𓆡𓆝𓆟𓆜𓆞𓆡𓆝𓆟 𓆟𓆜𓆞𓆡𓆝𓆟꧁⍤⃝꧂\n⭐🦋🌈🥁🧸❄️🦁",
+			"url": "https://t.co/yq6Czhc4R7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yq6Czhc4R7",
+							"expanded_url": "https://www.notion.so/dear1012/IM-572106fffda249e1ace11573eec89787",
+							"display_url": "notion.so/dear1012/IM-57…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Sat Aug 01 10:18:21 +0000 2020",
+			"favourites_count": 1507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305589332158197761/AlPSm74h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305589332158197761/AlPSm74h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289505711722962946/1597175096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3143,
+		"favorite_count": 2665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "곱슬 머리 펜 by number11train https://t.co/me9BcCjqTH #clipstudio \n이거이거 완전 물건이다 이건 놓치면 안되는 소재라 탐라 방생합니다 첫눈에 반했다 머리카락 펜........이제 정착할 때도 되었어"
+	},
+	{
 		"created_at": "Sat Oct 10 13:58:18 +0000 2020",
 		"id": 1271815372547616800,
 		"id_str": "1314928244651483136",
