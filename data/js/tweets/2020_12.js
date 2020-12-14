@@ -1,10 +1,278 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 07:14:47 +0000 2020",
+		"id": 1337733981484109800,
+		"id_str": "1338019519738998784",
+		"full_text": "이거만 알면 당신도 미국 중학생 수준의 영어구사능력 (타래) https://t.co/cVkXDJ0tuW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337733960168718300,
+					"id_str": "1337733960168718338",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCV8vvVQAInKGN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpCV8vvVQAInKGN.png",
+					"url": "https://t.co/cVkXDJ0tuW",
+					"display_url": "pic.twitter.com/cVkXDJ0tuW",
+					"expanded_url": "https://twitter.com/honeytip_backup/status/1337733981484109827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337733960168718300,
+					"id_str": "1337733960168718338",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCV8vvVQAInKGN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpCV8vvVQAInKGN.png",
+					"url": "https://t.co/cVkXDJ0tuW",
+					"display_url": "pic.twitter.com/cVkXDJ0tuW",
+					"expanded_url": "https://twitter.com/honeytip_backup/status/1337733981484109827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337733966124601300,
+					"id_str": "1337733966124601344",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCV9F7U0AANxaq.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpCV9F7U0AANxaq.png",
+					"url": "https://t.co/cVkXDJ0tuW",
+					"display_url": "pic.twitter.com/cVkXDJ0tuW",
+					"expanded_url": "https://twitter.com/honeytip_backup/status/1337733981484109827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337733972311167000,
+					"id_str": "1337733972311166977",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCV9c-UUAECK3W.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpCV9c-UUAECK3W.png",
+					"url": "https://t.co/cVkXDJ0tuW",
+					"display_url": "pic.twitter.com/cVkXDJ0tuW",
+					"expanded_url": "https://twitter.com/honeytip_backup/status/1337733981484109827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1337733978527154200,
+					"id_str": "1337733978527154180",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCV90IUwAQlcRh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpCV90IUwAQlcRh.png",
+					"url": "https://t.co/cVkXDJ0tuW",
+					"display_url": "pic.twitter.com/cVkXDJ0tuW",
+					"expanded_url": "https://twitter.com/honeytip_backup/status/1337733981484109827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1270243840964784000,
+			"id_str": "1270243840964784128",
+			"name": "꿀팁 저장하는 계정",
+			"screen_name": "honeytip_backup",
+			"location": "",
+			"description": "생활에 도움될 만한 꿀팁을 저장합니다. 삭제요청은 디엠주세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25121,
+			"friends_count": 0,
+			"listed_count": 96,
+			"created_at": "Tue Jun 09 06:38:37 +0000 2020",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270244915482513409/KaN_VMcW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270244915482513409/KaN_VMcW_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12480,
+		"favorite_count": 23700,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거만 알면 당신도 미국 중학생 수준의 영어구사능력 (타래) https://t.co/cVkXDJ0tuW"
+	},
+	{
 		"created_at": "Sat Dec 12 03:17:30 +0000 2020",
 		"id": 1283317221549150200,
 		"id_str": "1337597418787856385",
-		"full_text": "🏋️‍♂️🏋️‍♂️#STUDY_NINE https://t.co/vzdB8UtmpT",
+		"full_text": "🏋️♂️🏋️♂️#STUDY_NINE https://t.co/vzdB8UtmpT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -239,7 +507,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🏋️‍♂️🏋️‍♂️#STUDY_NINE https://t.co/vzdB8UtmpT"
+		"text": "🏋️♂️🏋️♂️#STUDY_NINE https://t.co/vzdB8UtmpT"
 	},
 	{
 		"created_at": "Wed Dec 09 16:16:38 +0000 2020",
