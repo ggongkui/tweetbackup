@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 00:59:26 +0000 2020",
+		"id": 1243913871565271000,
+		"id_str": "1339012224787025922",
+		"full_text": "토끼와 일단 춤 추는 영상 https://t.co/J6mZoTVMvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243913801839206400,
+					"id_str": "1243913801839206403",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243913801839206403/pu/img/V_IgWUwH61T6hojg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243913801839206403/pu/img/V_IgWUwH61T6hojg.jpg",
+					"url": "https://t.co/J6mZoTVMvt",
+					"display_url": "pic.twitter.com/J6mZoTVMvt",
+					"expanded_url": "https://twitter.com/tt_oioi/status/1243913871565271042/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243913801839206400,
+					"id_str": "1243913801839206403",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243913801839206403/pu/img/V_IgWUwH61T6hojg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243913801839206403/pu/img/V_IgWUwH61T6hojg.jpg",
+					"url": "https://t.co/J6mZoTVMvt",
+					"display_url": "pic.twitter.com/J6mZoTVMvt",
+					"expanded_url": "https://twitter.com/tt_oioi/status/1243913871565271042/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 17434,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1243913801839206403/pu/pl/LBOpIRGrVDjORtdv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243913801839206403/pu/vid/576x1024/EKY4qHw3CxXfAql7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243913801839206403/pu/vid/360x640/igi5r5PUkZpx8ZYz.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243913801839206403/pu/vid/320x568/RLNBkCdJ2lY0AMHu.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1227578498161623000,
+			"id_str": "1227578498161623040",
+			"name": "여자 틱톡 아카이브",
+			"screen_name": "tt_oioi",
+			"location": "ONLY GIRLS 수동계정 • 종종 DM 열어둠",
+			"description": "웃는 여자 즐거운 여자 행복한 여자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18866,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Wed Feb 12 13:01:44 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234722362488020992/cFcYH-Rt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234722362488020992/cFcYH-Rt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227578498161623040/1581647729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 269,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "토끼와 일단 춤 추는 영상 https://t.co/J6mZoTVMvt"
+	},
+	{
 		"created_at": "Sun Dec 13 07:14:47 +0000 2020",
 		"id": 1337733981484109800,
 		"id_str": "1338019519738998784",
