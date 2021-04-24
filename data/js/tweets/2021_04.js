@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 23 00:25:43 +0000 2021",
+		"id": 1186663621700403200,
+		"id_str": "1385389385357565956",
+		"full_text": "S3 - Seni Perlipatan Harvard\nhttps://t.co/SBvzr2qBiG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1186486181686472700,
+					"id_str": "1186486181686472704",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186486181686472704/pu/img/BHKWcjkRPaUfFpoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186486181686472704/pu/img/BHKWcjkRPaUfFpoe.jpg",
+					"url": "https://t.co/SBvzr2qBiG",
+					"display_url": "pic.twitter.com/SBvzr2qBiG",
+					"expanded_url": "https://twitter.com/snf_onlinemy/status/1186486345566318592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1186486345566318600,
+					"source_status_id_str": "1186486345566318592",
+					"source_user_id": 1169444823595487200,
+					"source_user_id_str": "1169444823595487233"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1186486181686472700,
+					"id_str": "1186486181686472704",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1186486181686472704/pu/img/BHKWcjkRPaUfFpoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1186486181686472704/pu/img/BHKWcjkRPaUfFpoe.jpg",
+					"url": "https://t.co/SBvzr2qBiG",
+					"display_url": "pic.twitter.com/SBvzr2qBiG",
+					"expanded_url": "https://twitter.com/snf_onlinemy/status/1186486345566318592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1186486345566318600,
+					"source_status_id_str": "1186486345566318592",
+					"source_user_id": 1169444823595487200,
+					"source_user_id_str": "1169444823595487233",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1186486181686472704/pu/vid/720x720/Q_bfZCycjMXw6hl1.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1186486181686472704/pu/vid/480x480/10DUbIOKR4LM6l2F.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1186486181686472704/pu/pl/s2SYubNJxenyrgPe.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1186486181686472704/pu/vid/320x320/6loWyen178l4ejoC.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1169444823595487200,
+							"id_str": "1169444823595487233",
+							"name": "SNF Online",
+							"screen_name": "SNF_OnlineMY",
+							"location": "Malaysia",
+							"description": "Korang cari barang rumah berkualiti & murah? Meh singgah profile kami! Instagram - https://t.co/ZqcU3BA8Jf",
+							"url": "https://t.co/BCqqhW70zS",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/BCqqhW70zS",
+											"expanded_url": "https://shopee.com.my/snfonline",
+											"display_url": "shopee.com.my/snfonline",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/ZqcU3BA8Jf",
+											"expanded_url": "https://www.instagram.com/snf_online/",
+											"display_url": "instagram.com/snf_online/",
+											"indices": [
+												83,
+												106
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 11334,
+							"friends_count": 0,
+							"listed_count": 22,
+							"created_at": "Thu Sep 05 02:59:25 +0000 2019",
+							"favourites_count": 37,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 221,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1169844854257405954/bGOOEFzp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169844854257405954/bGOOEFzp_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169444823595487233/1573005060",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732923836484616200,
+			"id_str": "732923836484616192",
+			"name": "Cerita Film",
+			"screen_name": "FilmCerita",
+			"location": "Pelosok",
+			"description": "admin yg sering migren // cek review film di TAB LIKES // contact: atfilmcerita@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18867,
+			"friends_count": 66,
+			"listed_count": 82,
+			"created_at": "Wed May 18 13:20:34 +0000 2016",
+			"favourites_count": 680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383698394804195336/K9UOtCcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383698394804195336/K9UOtCcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732923836484616192/1512882426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106502,
+		"favorite_count": 355894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "S3 - Seni Perlipatan Harvard\nhttps://t.co/SBvzr2qBiG"
+	},
+	{
 		"created_at": "Thu Apr 15 02:23:45 +0000 2021",
 		"id": 1382519985080209400,
 		"id_str": "1382519985080209408",
