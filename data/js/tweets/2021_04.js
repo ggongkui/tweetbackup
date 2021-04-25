@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 05:35:41 +0000 2021",
+		"id": 1384889466385358800,
+		"id_str": "1385829780264681476",
+		"full_text": "사실 친구가 니 사진으로 배경 어떻게 뽑아내냐고 물어봐서 보여주려고 그린 그림인데 혹시 궁금한 사람들 있을까봐 여기에도 올려용\n이 방법이 절대로 완벽한 방법은 아님 걍 제가 이렇게 한다는거지 이거보다 훨씬 요령있게 잘하는 방법도 많을 것이여.. https://t.co/dcMRUImaxI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384889403990896600,
+					"id_str": "1384889403990896640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezgdk1IUcAAZrpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezgdk1IUcAAZrpR.jpg",
+					"url": "https://t.co/dcMRUImaxI",
+					"display_url": "pic.twitter.com/dcMRUImaxI",
+					"expanded_url": "https://twitter.com/noah1773/status/1384889466385358848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384889403990896600,
+					"id_str": "1384889403990896640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezgdk1IUcAAZrpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezgdk1IUcAAZrpR.jpg",
+					"url": "https://t.co/dcMRUImaxI",
+					"display_url": "pic.twitter.com/dcMRUImaxI",
+					"expanded_url": "https://twitter.com/noah1773/status/1384889466385358848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1384889423528009700,
+					"id_str": "1384889423528009729",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezgdl96VIAEW1pW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezgdl96VIAEW1pW.jpg",
+					"url": "https://t.co/dcMRUImaxI",
+					"display_url": "pic.twitter.com/dcMRUImaxI",
+					"expanded_url": "https://twitter.com/noah1773/status/1384889466385358848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1384889439495745500,
+					"id_str": "1384889439495745537",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezgdm5ZVcAE6f7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezgdm5ZVcAE6f7q.jpg",
+					"url": "https://t.co/dcMRUImaxI",
+					"display_url": "pic.twitter.com/dcMRUImaxI",
+					"expanded_url": "https://twitter.com/noah1773/status/1384889466385358848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1384888057132839000,
+		"in_reply_to_status_id_str": "1384888057132838915",
+		"in_reply_to_user_id": 912718707813576700,
+		"in_reply_to_user_id_str": "912718707813576704",
+		"in_reply_to_screen_name": "noah1773",
+		"user": {
+			"id": 912718707813576700,
+			"id_str": "912718707813576704",
+			"name": "노아✨",
+			"screen_name": "noah1773",
+			"location": "",
+			"description": "잡덕(인데 현재 사팍 버닝 중)/성인/구독많이해요/ DO NOT REPOST MY ART /사팍성인계(연성계× 성인만 받아요): @noah1773_19\n포타: https://t.co/M0XjIHUvoU (커미션CLOSED)",
+			"url": "https://t.co/whgWJub84B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whgWJub84B",
+							"expanded_url": "https://peing.net/ko/noah1773",
+							"display_url": "peing.net/ko/noah1773",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/M0XjIHUvoU",
+							"expanded_url": "http://noah1773.postype.com",
+							"display_url": "noah1773.postype.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5481,
+			"friends_count": 397,
+			"listed_count": 23,
+			"created_at": "Tue Sep 26 16:41:12 +0000 2017",
+			"favourites_count": 32286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351515574107475969/XNbMvdpq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351515574107475969/XNbMvdpq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912718707813576704/1614013100",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2938,
+		"favorite_count": 2464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사실 친구가 니 사진으로 배경 어떻게 뽑아내냐고 물어봐서 보여주려고 그린 그림인데 혹시 궁금한 사람들 있을까봐 여기에도 올려용\n이 방법이 절대로 완벽한 방법은 아님 걍 제가 이렇게 한다는거지 이거보다 훨씬 요령있게 잘하는 방법도 많을 것이여.. https://t.co/dcMRUImaxI"
+	},
+	{
 		"created_at": "Fri Apr 23 00:25:43 +0000 2021",
 		"id": 1186663621700403200,
 		"id_str": "1385389385357565956",
