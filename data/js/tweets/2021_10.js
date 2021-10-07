@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 14:09:04 +0000 2021",
+		"id": 1390006359832154000,
+		"id_str": "1445752972307169280",
+		"full_text": "3초 정적 뒤 꿰에에에ㅔㄱ\n이거보고 계속 생각나서 봄 ㅠㅠㅠㅠ한번씩 봐줘라 https://t.co/12gdirlp4P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390006320284139500,
+					"id_str": "1390006320284139520",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390006320284139520/pu/img/rKlY_B0kTnSGkSHc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390006320284139520/pu/img/rKlY_B0kTnSGkSHc.jpg",
+					"url": "https://t.co/12gdirlp4P",
+					"display_url": "pic.twitter.com/12gdirlp4P",
+					"expanded_url": "https://twitter.com/by_ovo/status/1390006359832154113/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390006320284139500,
+					"id_str": "1390006320284139520",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390006320284139520/pu/img/rKlY_B0kTnSGkSHc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390006320284139520/pu/img/rKlY_B0kTnSGkSHc.jpg",
+					"url": "https://t.co/12gdirlp4P",
+					"display_url": "pic.twitter.com/12gdirlp4P",
+					"expanded_url": "https://twitter.com/by_ovo/status/1390006359832154113/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							341
+						],
+						"duration_millis": 9967,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1390006320284139520/pu/pl/PdpdgRbHcRgigTr9.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390006320284139520/pu/vid/720x682/yTGSNZKo7W1SGrkQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390006320284139520/pu/vid/284x270/9iNDTvEQZdAYjEpq.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390006320284139520/pu/vid/380x360/oaGftMJbQWdfXgdf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1289432219396653000,
+			"id_str": "1289432219396653057",
+			"name": "𝑩𝒚(메인트확인)",
+			"screen_name": "by_ovo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 558,
+			"listed_count": 33,
+			"created_at": "Sat Aug 01 05:26:22 +0000 2020",
+			"favourites_count": 8731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444229354788044807/JGxXNfeB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444229354788044807/JGxXNfeB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289432219396653057/1633166230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18486,
+		"favorite_count": 9894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3초 정적 뒤 꿰에에에ㅔㄱ\n이거보고 계속 생각나서 봄 ㅠㅠㅠㅠ한번씩 봐줘라 https://t.co/12gdirlp4P"
+	},
+	{
 		"created_at": "Mon Oct 04 13:05:59 +0000 2021",
 		"id": 1445012324948000800,
 		"id_str": "1445012324948000769",
