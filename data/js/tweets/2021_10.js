@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 12:17:36 +0000 2021",
+		"id": 1442486565859520500,
+		"id_str": "1446812085694779401",
+		"full_text": "👓メガネカタログ総集編01 https://t.co/RQPoWhg4T5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1442486450587533300,
+					"id_str": "1442486450587533318",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FAS9yMCVgAYvdTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAS9yMCVgAYvdTM.jpg",
+					"url": "https://t.co/RQPoWhg4T5",
+					"display_url": "pic.twitter.com/RQPoWhg4T5",
+					"expanded_url": "https://twitter.com/jinkei_bunny/status/1442486565859520515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442486450587533300,
+					"id_str": "1442486450587533318",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FAS9yMCVgAYvdTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAS9yMCVgAYvdTM.jpg",
+					"url": "https://t.co/RQPoWhg4T5",
+					"display_url": "pic.twitter.com/RQPoWhg4T5",
+					"expanded_url": "https://twitter.com/jinkei_bunny/status/1442486565859520515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442486470946689000,
+					"id_str": "1442486470946689032",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FAS9zX4VkAgWXjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAS9zX4VkAgWXjg.jpg",
+					"url": "https://t.co/RQPoWhg4T5",
+					"display_url": "pic.twitter.com/RQPoWhg4T5",
+					"expanded_url": "https://twitter.com/jinkei_bunny/status/1442486565859520515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1508,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442486486805319700,
+					"id_str": "1442486486805319691",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FAS90S9VEAsp9hp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAS90S9VEAsp9hp.jpg",
+					"url": "https://t.co/RQPoWhg4T5",
+					"display_url": "pic.twitter.com/RQPoWhg4T5",
+					"expanded_url": "https://twitter.com/jinkei_bunny/status/1442486565859520515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1508,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1442486502299107300,
+					"id_str": "1442486502299107335",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FAS91MrVgAcy9WX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAS91MrVgAcy9WX.jpg",
+					"url": "https://t.co/RQPoWhg4T5",
+					"display_url": "pic.twitter.com/RQPoWhg4T5",
+					"expanded_url": "https://twitter.com/jinkei_bunny/status/1442486565859520515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 955,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1116981774695821300,
+			"id_str": "1116981774695821312",
+			"name": "神慶 JINKEI",
+			"screen_name": "jinkei_bunny",
+			"location": "PIXIV→",
+			"description": "🎨illustrator 白髪の美青年と眼鏡を描く\n👓️OC：白神慶太 KEITA Shirakami \n📧mail►https://t.co/F1IYnnWypf\n📷️instagram►https://t.co/Mh6bYgzlTd\n! Reproduction prohibited !",
+			"url": "https://t.co/nt6vmsqckR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nt6vmsqckR",
+							"expanded_url": "https://www.pixiv.net/member.php?id=40130971",
+							"display_url": "pixiv.net/member.php?id=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/F1IYnnWypf",
+							"expanded_url": "http://ws.formzu.net/fgen/S84312321/",
+							"display_url": "ws.formzu.net/fgen/S84312321/",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/Mh6bYgzlTd",
+							"expanded_url": "http://instagram.com/jinkei_bunny/",
+							"display_url": "instagram.com/jinkei_bunny/",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 114068,
+			"friends_count": 230,
+			"listed_count": 923,
+			"created_at": "Sat Apr 13 08:29:42 +0000 2019",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432695566442586120/fYHLHBSD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432695566442586120/fYHLHBSD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1116981774695821312/1630420822",
+			"profile_link_color": "689FA6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1922,
+		"favorite_count": 8760,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "👓メガネカタログ総集編01 https://t.co/RQPoWhg4T5"
+	},
+	{
 		"created_at": "Wed Oct 06 14:09:04 +0000 2021",
 		"id": 1390006359832154000,
 		"id_str": "1445752972307169280",
