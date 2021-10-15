@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 14:20:48 +0000 2021",
+		"id": 1426386930963345400,
+		"id_str": "1448655031008325647",
+		"full_text": "https://t.co/QRZf8gfT7u\n그림쟁이분들 이거 한번씩만 써보셔요 색 정하면 그거에 어울리는 배색 쫙 정해주는사이트임 뭔가 색쓰기 힘드시거나 어울리는 배색을 찾기가 애매한분들 이거쓰시면 지인짜 좋습니다 저도 색못찾을때 이거 많이씀 https://t.co/eTPqnhGFES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QRZf8gfT7u",
+					"expanded_url": "https://www.palettable.io/",
+					"display_url": "palettable.io",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/eTPqnhGFES",
+					"expanded_url": "https://twitter.com/KimYoonHaBoom/status/1425757286715166721",
+					"display_url": "twitter.com/KimYoonHaBoom/…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1398987730629980200,
+			"id_str": "1398987730629980162",
+			"name": "세인",
+			"screen_name": "sein_NG",
+			"location": "홀리쒯 내가 사람을 죽였어!!",
+			"description": "주황깐머백안정병살인청부업자게이이자예술적인허리소유자인패션테러리스트를아십니까\n인장 @burning_carr0t 💙💙",
+			"url": "https://t.co/nmSfr2p56o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nmSfr2p56o",
+							"expanded_url": "https://asked.kr/Sein318",
+							"display_url": "asked.kr/Sein318",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 142,
+			"listed_count": 8,
+			"created_at": "Sun May 30 13:00:51 +0000 2021",
+			"favourites_count": 4544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1441729515932176391/_7YKiIou_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441729515932176391/_7YKiIou_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1398987730629980162/1634133387",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1425757286715166700,
+		"quoted_status_id_str": "1425757286715166721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eTPqnhGFES",
+			"expanded": "https://twitter.com/KimYoonHaBoom/status/1425757286715166721",
+			"display": "twitter.com/KimYoonHaBoom/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 12 09:53:21 +0000 2021",
+			"id": 1425757286715166700,
+			"id_str": "1425757286715166721",
+			"full_text": "나만 알고 있으려고 했는데 내가 착하니까 공유하는 인생 꿀팁",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1425757083543081000,
+			"in_reply_to_status_id_str": "1425757083543080965",
+			"in_reply_to_user_id": 1349744532187857000,
+			"in_reply_to_user_id_str": "1349744532187856897",
+			"in_reply_to_screen_name": "KimYoonHaBoom",
+			"user": {
+				"id": 1349744532187857000,
+				"id_str": "1349744532187856897",
+				"name": "인곧닉",
+				"screen_name": "KimYoonHaBoom",
+				"location": "윤지성 유..재석? 스우파 엄온기주준완",
+				"description": "니네가 공개연애를 해야 나라에 평화 세계에 평화가 찾아온다. 한편 탐라가 디비진다. 💀국방부 해킹사건(빨간 스키즈)에 연루된 전-현직 궈너블들(그렁, 견우, 보노)이 곧 체포되며 제거된다. 많은 관심요.",
+				"url": "https://t.co/MRa4T5fMZH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MRa4T5fMZH",
+								"expanded_url": "https://peing.net/ko/roongrang",
+								"display_url": "peing.net/ko/roongrang",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 308,
+				"friends_count": 141,
+				"listed_count": 7,
+				"created_at": "Thu Jan 14 15:45:55 +0000 2021",
+				"favourites_count": 25006,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1447848695253196804/fO0-nGMH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1447848695253196804/fO0-nGMH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1349744532187856897/1629575265",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18142,
+			"favorite_count": 16944,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5441,
+		"favorite_count": 4053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/QRZf8gfT7u\n그림쟁이분들 이거 한번씩만 써보셔요 색 정하면 그거에 어울리는 배색 쫙 정해주는사이트임 뭔가 색쓰기 힘드시거나 어울리는 배색을 찾기가 애매한분들 이거쓰시면 지인짜 좋습니다 저도 색못찾을때 이거 많이씀 https://t.co/eTPqnhGFES"
+	},
+	{
 		"created_at": "Sun Oct 10 14:30:23 +0000 2021",
 		"id": 1447207892176621600,
 		"id_str": "1447207892176621575",
