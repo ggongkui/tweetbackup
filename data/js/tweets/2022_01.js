@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 10:34:59 +0000 2022",
+		"id": 1483696153094934500,
+		"id_str": "1483749825900609536",
+		"full_text": "중년그리기.. 그림그릴때 꼭 넣는 요소들? https://t.co/FzWmqI8MQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483696149383073800,
+					"id_str": "1483696149383073799",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FJclyXKX0Ac2K6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJclyXKX0Ac2K6r.jpg",
+					"url": "https://t.co/FzWmqI8MQz",
+					"display_url": "pic.twitter.com/FzWmqI8MQz",
+					"expanded_url": "https://twitter.com/SK_HCS/status/1483696153094934530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 729,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 729,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483696149383073800,
+					"id_str": "1483696149383073799",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FJclyXKX0Ac2K6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJclyXKX0Ac2K6r.jpg",
+					"url": "https://t.co/FzWmqI8MQz",
+					"display_url": "pic.twitter.com/FzWmqI8MQz",
+					"expanded_url": "https://twitter.com/SK_HCS/status/1483696153094934530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 729,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 729,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3660541572,
+			"id_str": "3660541572",
+			"name": "구독하면차단",
+			"screen_name": "SK_HCS",
+			"location": "헤더인장: 애노님💕💕💕💕",
+			"description": "뚜계/둑계 _ 해외러 성인 _ 커뮤계 ❌ DO NOT FOLLOW I WILL BLOCK UR ACCOUNT ❌구독계팔로 차단합니다 교류계는 뎀이나 멘션주세요/ 로그컴션 닫습니다🤗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1225,
+			"friends_count": 1596,
+			"listed_count": 31,
+			"created_at": "Wed Sep 23 14:56:43 +0000 2015",
+			"favourites_count": 17527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437571015354118145/533jFyF5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437571015354118145/533jFyF5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3660541572/1641190052",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 364,
+		"favorite_count": 669,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중년그리기.. 그림그릴때 꼭 넣는 요소들? https://t.co/FzWmqI8MQz"
+	},
+	{
 		"created_at": "Mon Jan 17 23:05:24 +0000 2022",
 		"id": 1284932029453176800,
 		"id_str": "1483213898853793792",
