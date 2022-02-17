@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 01:20:17 +0000 2022",
+		"id": 1493157538434465800,
+		"id_str": "1493757088010420224",
+		"full_text": "これはメイキング😎 https://t.co/RYTkhPFEtX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493157491131105300,
+					"id_str": "1493157491131105285",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493157491131105285/pu/img/IBssEpXYneATTFi9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493157491131105285/pu/img/IBssEpXYneATTFi9.jpg",
+					"url": "https://t.co/RYTkhPFEtX",
+					"display_url": "pic.twitter.com/RYTkhPFEtX",
+					"expanded_url": "https://twitter.com/very_ito/status/1493157538434465793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 760,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493157491131105300,
+					"id_str": "1493157491131105285",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493157491131105285/pu/img/IBssEpXYneATTFi9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493157491131105285/pu/img/IBssEpXYneATTFi9.jpg",
+					"url": "https://t.co/RYTkhPFEtX",
+					"display_url": "pic.twitter.com/RYTkhPFEtX",
+					"expanded_url": "https://twitter.com/very_ito/status/1493157538434465793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 760,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							19,
+							27
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493157491131105285/pu/vid/320x454/cFqqyX1VOCIHK_zH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493157491131105285/pu/vid/720x1022/QsVyvuCr_9e_I5bI.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493157491131105285/pu/vid/480x682/wPgRveJSVypaXtR-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493157491131105285/pu/pl/NbczGaKjIDrPt29B.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 894643886408085500,
+			"id_str": "894643886408085504",
+			"name": "いとう",
+			"screen_name": "very_ito",
+			"location": "デザイン▶️眠霊幽/あづままお/真朱瑠璃/瀬戸内ミュウ",
+			"description": "フリーのイラストレーター😺🕺お仕事のご依頼（現在納期が6月以降のみ受け付けております）✉️【totemoito@gmail.com】",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64642,
+			"friends_count": 366,
+			"listed_count": 648,
+			"created_at": "Mon Aug 07 19:38:18 +0000 2017",
+			"favourites_count": 15383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1456546788329267202/vvFalPnW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456546788329267202/vvFalPnW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/894643886408085504/1633430307",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 885,
+		"favorite_count": 1592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "これはメイキング😎 https://t.co/RYTkhPFEtX"
+	},
+	{
 		"created_at": "Tue Feb 08 17:42:47 +0000 2022",
 		"id": 1478699708487200800,
 		"id_str": "1491105242251132929",
