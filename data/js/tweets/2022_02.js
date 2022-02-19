@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 23:30:03 +0000 2022",
+		"id": 1494590007830589400,
+		"id_str": "1494816511189344256",
+		"full_text": "인체 도형화(전신) 하는 방법!\n타래로 이어갑니다. https://t.co/hLQbviBT3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493496317741461500,
+					"id_str": "1493496317741461508",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FLn2_PRVcAQmwtX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLn2_PRVcAQmwtX.jpg",
+					"url": "https://t.co/hLQbviBT3E",
+					"display_url": "pic.twitter.com/hLQbviBT3E",
+					"expanded_url": "https://twitter.com/tnadmszo/status/1494590007830589442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493496317741461500,
+					"id_str": "1493496317741461508",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FLn2_PRVcAQmwtX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLn2_PRVcAQmwtX.jpg",
+					"url": "https://t.co/hLQbviBT3E",
+					"display_url": "pic.twitter.com/hLQbviBT3E",
+					"expanded_url": "https://twitter.com/tnadmszo/status/1494590007830589442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2473994762,
+			"id_str": "2473994762",
+			"name": "새삐𝐒𝐀𝐏",
+			"screen_name": "tnadmszo",
+			"location": "",
+			"description": "freelance concept artist & illustrator.\n✧ 👩‍🏫팬딩에서 강의를 하고, 🎨튜토리얼을 만듭니다.\n✧ @tnadmszo01 개인작업 계정  \n✧ 외주 및 기타 문의 : tnadmszo@gmail.com\n✧ 비팔 알람 🔕",
+			"url": "https://t.co/m7q58z47Nk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m7q58z47Nk",
+							"expanded_url": "https://fanding.kr/user/sappi",
+							"display_url": "fanding.kr/user/sappi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45920,
+			"friends_count": 980,
+			"listed_count": 216,
+			"created_at": "Fri May 02 13:02:54 +0000 2014",
+			"favourites_count": 15341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C2C2C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340237415517020161/-t8XDjD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340237415517020161/-t8XDjD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2473994762/1638949317",
+			"profile_link_color": "99C3E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인체 도형화(전신) 하는 방법!\n타래로 이어갑니다. https://t.co/hLQbviBT3E"
+	},
+	{
+		"created_at": "Fri Feb 18 18:55:01 +0000 2022",
+		"id": 1494703169711984600,
+		"id_str": "1494747298621886465",
+		"full_text": "2019 내가 제일 좋아하는 곡에 한 스케이팅 꼭 봐줘 .. 진짜 처음 도입부부터 마지막 허밍부분까지 모든게 아름다움 그자체임 ㅠㅠ https://t.co/gBqyszTftG https://t.co/rUhhDQ2LMu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gBqyszTftG",
+					"expanded_url": "https://twitter.com/hey_hihey/status/1493593395683823616",
+					"display_url": "twitter.com/hey_hihey/stat…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494703039495565300,
+					"id_str": "1494703039495565312",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494703039495565312/pu/img/7pV0CItdFyLqKaNk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494703039495565312/pu/img/7pV0CItdFyLqKaNk.jpg",
+					"url": "https://t.co/rUhhDQ2LMu",
+					"display_url": "pic.twitter.com/rUhhDQ2LMu",
+					"expanded_url": "https://twitter.com/xxb0nn1exx/status/1494703169711984640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494703039495565300,
+					"id_str": "1494703039495565312",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494703039495565312/pu/img/7pV0CItdFyLqKaNk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494703039495565312/pu/img/7pV0CItdFyLqKaNk.jpg",
+					"url": "https://t.co/rUhhDQ2LMu",
+					"display_url": "pic.twitter.com/rUhhDQ2LMu",
+					"expanded_url": "https://twitter.com/xxb0nn1exx/status/1494703169711984640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							222,
+							125
+						],
+						"duration_millis": 100233,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1494703039495565312/pu/pl/tFma2LY9-sx3r7Bm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494703039495565312/pu/vid/888x500/IAtw0O-3aHWvBQ8q.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494703039495565312/pu/vid/638x360/aGnbGHJoLoi2p7OH.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494703039495565312/pu/vid/478x270/O6k2ZVV5kXEk7lLI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1395749614620352500,
+			"id_str": "1395749614620352524",
+			"name": "보니",
+			"screen_name": "xxb0nn1exx",
+			"location": "@Sanemi_BN 210526~ing",
+			"description": "20⬆️ | 사네미처럼 가슴펼고 살자𖠄",
+			"url": "https://t.co/5J9cx7r27t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5J9cx7r27t",
+							"expanded_url": "http://asked.kr/xxb0nn1exx",
+							"display_url": "asked.kr/xxb0nn1exx",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 71,
+			"listed_count": 2,
+			"created_at": "Fri May 21 14:33:41 +0000 2021",
+			"favourites_count": 4288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494667789830803456/aAWHxAE0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494667789830803456/aAWHxAE0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1395749614620352524/1626108185",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493593395683823600,
+		"quoted_status_id_str": "1493593395683823616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gBqyszTftG",
+			"expanded": "https://twitter.com/hey_hihey/status/1493593395683823616",
+			"display": "twitter.com/hey_hihey/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 15 14:29:49 +0000 2022",
+			"id": 1493593395683823600,
+			"id_str": "1493593395683823616",
+			"full_text": "녀러분 이것 좀 봐주세오 그냥..예술임\n아이스 댄스 세계신기록..\n우리나란 아니지만 진짜로 운명의 파트너같고 예술..임 https://t.co/TtsNrENxHE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1493593305606951000,
+						"id_str": "1493593305606950918",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493593305606950918/pu/img/oIgblxa4c18pWLu-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493593305606950918/pu/img/oIgblxa4c18pWLu-.jpg",
+						"url": "https://t.co/TtsNrENxHE",
+						"display_url": "pic.twitter.com/TtsNrENxHE",
+						"expanded_url": "https://twitter.com/hey_hihey/status/1493593395683823616/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493593305606951000,
+						"id_str": "1493593305606950918",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493593305606950918/pu/img/oIgblxa4c18pWLu-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493593305606950918/pu/img/oIgblxa4c18pWLu-.jpg",
+						"url": "https://t.co/TtsNrENxHE",
+						"display_url": "pic.twitter.com/TtsNrENxHE",
+						"expanded_url": "https://twitter.com/hey_hihey/status/1493593395683823616/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								160,
+								91
+							],
+							"duration_millis": 140001,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1493593305606950918/pu/vid/474x270/8R2vDrTlR5XcEVoj.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1493593305606950918/pu/vid/1264x720/ki0zSm7So_Yhzc7N.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1493593305606950918/pu/pl/Oi7pJLop5OzbYRFs.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1493593305606950918/pu/vid/632x360/smpmyypgyS0Ho9Bq.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1439233892460810200,
+				"id_str": "1439233892460810250",
+				"name": "포도🍇",
+				"screen_name": "hey_hihey",
+				"location": "2n살/짱강아지 사랑단(물론 6명을 사랑)",
+				"description": "૮강쥐ა를 사랑하고 햄스타랑 결혼한 여성",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 173,
+				"friends_count": 190,
+				"listed_count": 13,
+				"created_at": "Sat Sep 18 14:24:45 +0000 2021",
+				"favourites_count": 2758,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22411,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1491408932778426368/UZ60zD4A_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491408932778426368/UZ60zD4A_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1439233892460810250/1641558592",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11920,
+			"favorite_count": 10576,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 내가 제일 좋아하는 곡에 한 스케이팅 꼭 봐줘 .. 진짜 처음 도입부부터 마지막 허밍부분까지 모든게 아름다움 그자체임 ㅠㅠ https://t.co/gBqyszTftG https://t.co/rUhhDQ2LMu"
+	},
+	{
 		"created_at": "Wed Feb 16 01:20:17 +0000 2022",
 		"id": 1493157538434465800,
 		"id_str": "1493757088010420224",
