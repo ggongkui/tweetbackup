@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 12:13:40 +0000 2022",
+		"id": 1497497428781637600,
+		"id_str": "1497907785954037762",
+		"full_text": "肉食獣の口の描き方！🐱 🦁 \n\nhttps://t.co/st8q1bq2lf\n#絵が上手くなる記事はコレ https://t.co/7IDx4iE2sY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "絵が上手くなる記事はコレ",
+					"indices": [
+						40,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/st8q1bq2lf",
+					"expanded_url": "https://ichi-up.net/2018/087",
+					"display_url": "ichi-up.net/2018/087",
+					"indices": [
+						16,
+						39
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497497425749151700,
+					"id_str": "1497497425749151745",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FMgt-YHXEAEN3Iu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMgt-YHXEAEN3Iu.jpg",
+					"url": "https://t.co/7IDx4iE2sY",
+					"display_url": "pic.twitter.com/7IDx4iE2sY",
+					"expanded_url": "https://twitter.com/ichiup_net/status/1497497428781637639/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 689,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 689,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497497425749151700,
+					"id_str": "1497497425749151745",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FMgt-YHXEAEN3Iu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMgt-YHXEAEN3Iu.jpg",
+					"url": "https://t.co/7IDx4iE2sY",
+					"display_url": "pic.twitter.com/7IDx4iE2sY",
+					"expanded_url": "https://twitter.com/ichiup_net/status/1497497428781637639/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 689,
+							"h": 408,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 689,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497497425782714400,
+					"id_str": "1497497425782714368",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FMgt-YPXMAAIkyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMgt-YPXMAAIkyK.jpg",
+					"url": "https://t.co/7IDx4iE2sY",
+					"display_url": "pic.twitter.com/7IDx4iE2sY",
+					"expanded_url": "https://twitter.com/ichiup_net/status/1497497428781637639/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497497425749196800,
+					"id_str": "1497497425749196805",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FMgt-YHXwAUHKeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMgt-YHXwAUHKeG.jpg",
+					"url": "https://t.co/7IDx4iE2sY",
+					"display_url": "pic.twitter.com/7IDx4iE2sY",
+					"expanded_url": "https://twitter.com/ichiup_net/status/1497497428781637639/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1497497425803714600,
+					"id_str": "1497497425803714560",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FMgt-YUXoAAuCut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMgt-YUXoAAuCut.jpg",
+					"url": "https://t.co/7IDx4iE2sY",
+					"display_url": "pic.twitter.com/7IDx4iE2sY",
+					"expanded_url": "https://twitter.com/ichiup_net/status/1497497428781637639/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 424,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2931866364,
+			"id_str": "2931866364",
+			"name": "いちあっぷ by MUGENUP（クリエイティブ制作会社）",
+			"screen_name": "ichiup_net",
+			"location": "Tokyo",
+			"description": "MUGENUPが運営するプロの現場で生まれた『イラストの描き方講座』いちあっぷの公式アカウントです。いちあっぷの更新情報やお仕事のご相談したりします。 \n\n【いちあっぷ】https://t.co/gGWDeqDde5\n【MUGENUP】https://t.co/aCX4cnJAeD\n\nイラストレーター登録はこちら！　https://t.co/CHrM192wA9",
+			"url": "https://t.co/6Q6fL5zMMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Q6fL5zMMp",
+							"expanded_url": "https://ichi-up.net",
+							"display_url": "ichi-up.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gGWDeqDde5",
+							"expanded_url": "http://ichi-up.net",
+							"display_url": "ichi-up.net",
+							"indices": [
+								85,
+								108
+							]
+						},
+						{
+							"url": "https://t.co/aCX4cnJAeD",
+							"expanded_url": "http://mugenup.com",
+							"display_url": "mugenup.com",
+							"indices": [
+								118,
+								141
+							]
+						},
+						{
+							"url": "https://t.co/CHrM192wA9",
+							"expanded_url": "http://mugenup-hr.com",
+							"display_url": "mugenup-hr.com",
+							"indices": [
+								159,
+								182
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 110451,
+			"friends_count": 1647,
+			"listed_count": 1998,
+			"created_at": "Tue Dec 16 06:08:23 +0000 2014",
+			"favourites_count": 870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980613536442335233/O2U4v_pA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980613536442335233/O2U4v_pA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2931866364/1522633945",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "肉食獣の口の描き方！🐱 🦁 \n\nhttps://t.co/st8q1bq2lf\n#絵が上手くなる記事はコレ https://t.co/7IDx4iE2sY"
+	},
+	{
 		"created_at": "Wed Feb 23 04:06:54 +0000 2022",
 		"id": 1496335734877343700,
 		"id_str": "1496335734877343745",
