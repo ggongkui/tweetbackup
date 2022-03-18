@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 17 23:10:39 +0000 2022",
+		"id": 1504312980594327600,
+		"id_str": "1504596103332724745",
+		"full_text": "💛✨\n#drawluca https://t.co/WdrGMMOUbC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "drawluca",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504312977738117000,
+					"id_str": "1504312977738117121",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FOBkrt0XMAEheEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOBkrt0XMAEheEP.jpg",
+					"url": "https://t.co/WdrGMMOUbC",
+					"display_url": "pic.twitter.com/WdrGMMOUbC",
+					"expanded_url": "https://twitter.com/magaridilatto/status/1504312980594327556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1531,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504312977738117000,
+					"id_str": "1504312977738117121",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FOBkrt0XMAEheEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOBkrt0XMAEheEP.jpg",
+					"url": "https://t.co/WdrGMMOUbC",
+					"display_url": "pic.twitter.com/WdrGMMOUbC",
+					"expanded_url": "https://twitter.com/magaridilatto/status/1504312980594327556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1531,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1498197832016171000,
+			"id_str": "1498197832016171011",
+			"name": "Magari🌙💫",
+			"screen_name": "magaridilatto",
+			"location": "",
+			"description": "Main: @magaridilatte\n\nI'm just a cup di latte🌠",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 362,
+			"friends_count": 16,
+			"listed_count": 1,
+			"created_at": "Mon Feb 28 07:26:28 +0000 2022",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500339293054812162/EXWgMi3I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500339293054812162/EXWgMi3I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1498197832016171011/1647409849",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 714,
+		"favorite_count": 3929,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💛✨\n#drawluca https://t.co/WdrGMMOUbC"
+	},
+	{
 		"created_at": "Wed Mar 16 14:40:47 +0000 2022",
 		"id": 1471538055513514000,
 		"id_str": "1504105401091907592",
