@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 16:49:39 +0000 2022",
+		"id": 1447941765214847000,
+		"id_str": "1512110367631044609",
+		"full_text": "VS カヌ・エ・センナ https://t.co/4tQRYnoGd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447941683241316400,
+					"id_str": "1447941683241316353",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FBgfShUUcAE4Imr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBgfShUUcAE4Imr.jpg",
+					"url": "https://t.co/4tQRYnoGd7",
+					"display_url": "pic.twitter.com/4tQRYnoGd7",
+					"expanded_url": "https://twitter.com/potion_lilac/status/1447941765214846976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447941683241316400,
+					"id_str": "1447941683241316353",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FBgfShUUcAE4Imr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBgfShUUcAE4Imr.jpg",
+					"url": "https://t.co/4tQRYnoGd7",
+					"display_url": "pic.twitter.com/4tQRYnoGd7",
+					"expanded_url": "https://twitter.com/potion_lilac/status/1447941765214846976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 926,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1324,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2391710258,
+			"id_str": "2391710258",
+			"name": "ぽーしょん",
+			"screen_name": "potion_lilac",
+			"location": "",
+			"description": "絵とかを描くよ。FF14 Meteorマンドラ",
+			"url": "https://t.co/q8YxR7NuAR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8YxR7NuAR",
+							"expanded_url": "https://twitter.com/i/events/1330710951083950080?s=20",
+							"display_url": "twitter.com/i/events/13307…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16788,
+			"friends_count": 144,
+			"listed_count": 231,
+			"created_at": "Sat Mar 15 22:37:30 +0000 2014",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132313629536034817/rPeOpd9z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132313629536034817/rPeOpd9z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2391710258/1638000429",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3158,
+		"favorite_count": 6712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "VS カヌ・エ・センナ https://t.co/4tQRYnoGd7"
+	},
+	{
+		"created_at": "Thu Apr 07 16:49:29 +0000 2022",
+		"id": 1441421146230984700,
+		"id_str": "1512110325205590018",
+		"full_text": "VS メルウィブ https://t.co/8W4hCKC4Ds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1441421038252818400,
+					"id_str": "1441421038252818444",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FAD0zBzVgAwjjuN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAD0zBzVgAwjjuN.jpg",
+					"url": "https://t.co/8W4hCKC4Ds",
+					"display_url": "pic.twitter.com/8W4hCKC4Ds",
+					"expanded_url": "https://twitter.com/potion_lilac/status/1441421146230984706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1973,
+							"h": 1427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1441421038252818400,
+					"id_str": "1441421038252818444",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FAD0zBzVgAwjjuN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAD0zBzVgAwjjuN.jpg",
+					"url": "https://t.co/8W4hCKC4Ds",
+					"display_url": "pic.twitter.com/8W4hCKC4Ds",
+					"expanded_url": "https://twitter.com/potion_lilac/status/1441421146230984706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1973,
+							"h": 1427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2391710258,
+			"id_str": "2391710258",
+			"name": "ぽーしょん",
+			"screen_name": "potion_lilac",
+			"location": "",
+			"description": "絵とかを描くよ。FF14 Meteorマンドラ",
+			"url": "https://t.co/q8YxR7NuAR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8YxR7NuAR",
+							"expanded_url": "https://twitter.com/i/events/1330710951083950080?s=20",
+							"display_url": "twitter.com/i/events/13307…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16788,
+			"friends_count": 144,
+			"listed_count": 231,
+			"created_at": "Sat Mar 15 22:37:30 +0000 2014",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132313629536034817/rPeOpd9z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132313629536034817/rPeOpd9z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2391710258/1638000429",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4843,
+		"favorite_count": 8989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "VS メルウィブ https://t.co/8W4hCKC4Ds"
+	},
+	{
 		"created_at": "Fri Apr 01 01:47:09 +0000 2022",
 		"id": 1509708917995040800,
 		"id_str": "1509708917995040771",
