@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 14:13:58 +0000 2022",
+		"id": 1502711177729953800,
+		"id_str": "1512433576268251143",
+		"full_text": "https://t.co/BwI6InwtDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502711147593879600,
+					"id_str": "1502711147593879552",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FNqz07haUAAXpSp.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNqz07haUAAXpSp.png",
+					"url": "https://t.co/BwI6InwtDV",
+					"display_url": "pic.twitter.com/BwI6InwtDV",
+					"expanded_url": "https://twitter.com/Niteo07/status/1502711177729953794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 509,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502711147593879600,
+					"id_str": "1502711147593879552",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FNqz07haUAAXpSp.png",
+					"media_url_https": "https://pbs.twimg.com/media/FNqz07haUAAXpSp.png",
+					"url": "https://t.co/BwI6InwtDV",
+					"display_url": "pic.twitter.com/BwI6InwtDV",
+					"expanded_url": "https://twitter.com/Niteo07/status/1502711177729953794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 509,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2358921079,
+			"id_str": "2358921079",
+			"name": "Niteo",
+			"screen_name": "Niteo07",
+			"location": "DO NOT USE／REPOST MY ARTWORK",
+			"description": "🔕｜🇰🇷｜contact: niteo0107@gmail.com｜commission: @Niteo_cmsn",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18237,
+			"friends_count": 2,
+			"listed_count": 104,
+			"created_at": "Mon Feb 24 04:02:00 +0000 2014",
+			"favourites_count": 37768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7C552",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481400741680267264/H7s1ycaq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481400741680267264/H7s1ycaq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2358921079/1632896674",
+			"profile_link_color": "FF5E26",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4245,
+		"favorite_count": 22047,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BwI6InwtDV"
+	},
+	{
 		"created_at": "Thu Apr 07 16:49:39 +0000 2022",
 		"id": 1447941765214847000,
 		"id_str": "1512110367631044609",
