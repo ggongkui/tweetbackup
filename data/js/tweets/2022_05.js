@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 03:35:13 +0000 2022",
+		"id": 1473820327432306700,
+		"id_str": "1524594017291227137",
+		"full_text": "코코포리아 캐릭터 인장 베스트 사이즈를 찾아서\n480x480px\n480x640px\n480x720px\n480x960px\n\n세로로 긴 그림일시 2:3 비율이 적절.\n가로사이즈는 무난하게 480px/360px(최하)을 기준으로.\n세로는 비율만맞다면 1000px아래까지가 적절.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1386253688893628400,
+			"id_str": "1386253688893628417",
+			"name": "🐣23🐥",
+			"screen_name": "cocmkmk",
+			"location": "아이콘: 세노님",
+			"description": "23,이삼,にさん/KO,JP/ 女20↑・티알 CoC 계정👾 주력툴 코코포리아ココフォリア 🐔CoC6판,7판 경력직/그림도 그립니다./ 맞팔은 성인 여성분 티알계만~!🐰 이별은 블블🥣 #코코포리아 #TRPG_관심JP시나리오 #TRPG_booth소재",
+			"url": "https://t.co/BO1YVNm6Zm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BO1YVNm6Zm",
+							"expanded_url": "https://docs.google.com/spreadsheets/d/10Q0asGxuvBG7g-C8rHGuTLGb9gdjsrEM9Q0wDOatfto/edit?usp=sharing",
+							"display_url": "docs.google.com/spreadsheets/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144,
+			"friends_count": 197,
+			"listed_count": 0,
+			"created_at": "Sun Apr 25 09:40:31 +0000 2021",
+			"favourites_count": 4621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524566450815438850/mY2v8oR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524566450815438850/mY2v8oR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1386253688893628417/1648863409",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 736,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "코코포리아 캐릭터 인장 베스트 사이즈를 찾아서\n480x480px\n480x640px\n480x720px\n480x960px\n\n세로로 긴 그림일시 2:3 비율이 적절.\n가로사이즈는 무난하게 480px/360px(최하)을 기준으로.\n세로는 비율만맞다면 1000px아래까지가 적절."
+	},
+	{
 		"created_at": "Sun May 08 23:32:18 +0000 2022",
 		"id": 1284423267932008400,
 		"id_str": "1523445719100665857",
