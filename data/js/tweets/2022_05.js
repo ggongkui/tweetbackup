@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 06:32:49 +0000 2022",
+		"id": 1529537787430637600,
+		"id_str": "1529712141921529858",
+		"full_text": "New references 📖 https://t.co/swmUIeumLx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528694376700031000,
+					"id_str": "1528694376700030976",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcDb61XsAA8ZBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcDb61XsAA8ZBs.jpg",
+					"url": "https://t.co/swmUIeumLx",
+					"display_url": "pic.twitter.com/swmUIeumLx",
+					"expanded_url": "https://twitter.com/JookpubStock/status/1529537787430637577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528694376700031000,
+					"id_str": "1528694376700030976",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcDb61XsAA8ZBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcDb61XsAA8ZBs.jpg",
+					"url": "https://t.co/swmUIeumLx",
+					"display_url": "pic.twitter.com/swmUIeumLx",
+					"expanded_url": "https://twitter.com/JookpubStock/status/1529537787430637577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 367689256,
+			"id_str": "367689256",
+			"name": "Jen / Jenny 🌛",
+			"screen_name": "JookpubStock",
+			"location": "Hamburg, Germany",
+			"description": "Stock model and photographer for artists. (he / she / they) \nOwn photos are SFW, RTs may be NSFW\nNude references: @RiskyJookpub",
+			"url": "https://t.co/USd3ZrqR1p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/USd3ZrqR1p",
+							"expanded_url": "https://jookpubstock.com/",
+							"display_url": "jookpubstock.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137657,
+			"friends_count": 49,
+			"listed_count": 1159,
+			"created_at": "Sun Sep 04 11:48:19 +0000 2011",
+			"favourites_count": 61550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500432560609972225/wdlKxYeO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500432560609972225/wdlKxYeO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/367689256/1640955562",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 505,
+		"favorite_count": 4390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New references 📖 https://t.co/swmUIeumLx"
+	},
+	{
 		"created_at": "Tue May 24 12:46:42 +0000 2022",
 		"id": 1528745243436548000,
 		"id_str": "1529081454617014272",
