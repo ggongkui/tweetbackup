@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 14:27:26 +0000 2022",
+		"id": 1538872830179553300,
+		"id_str": "1538891278649241600",
+		"full_text": "구두 채색 꼼수 튜토리얼\n붓터치 몇번만으로 있어보이는 묘사하기! https://t.co/USTYxqDGLp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538872823267336200,
+					"id_str": "1538872823267336193",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FVssrfFaIAEXJGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVssrfFaIAEXJGf.jpg",
+					"url": "https://t.co/USTYxqDGLp",
+					"display_url": "pic.twitter.com/USTYxqDGLp",
+					"expanded_url": "https://twitter.com/MManda_ON/status/1538872830179553280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1950,
+							"h": 1233,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538872823267336200,
+					"id_str": "1538872823267336193",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FVssrfFaIAEXJGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVssrfFaIAEXJGf.jpg",
+					"url": "https://t.co/USTYxqDGLp",
+					"display_url": "pic.twitter.com/USTYxqDGLp",
+					"expanded_url": "https://twitter.com/MManda_ON/status/1538872830179553280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1950,
+							"h": 1233,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1436113567871234000,
+			"id_str": "1436113567871234064",
+			"name": "🌿만다🌿",
+			"screen_name": "MManda_ON",
+			"location": "",
+			"description": "1차 위주 그림 아카이빙/ 그림,연성계정끼린 맞팔 갑니다!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Thu Sep 09 23:45:38 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488097328464416768/PhTPyIFb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488097328464416768/PhTPyIFb_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1433,
+		"favorite_count": 2282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구두 채색 꼼수 튜토리얼\n붓터치 몇번만으로 있어보이는 묘사하기! https://t.co/USTYxqDGLp"
+	},
+	{
 		"created_at": "Sat Jun 18 03:49:30 +0000 2022",
 		"id": 1538005959779373000,
 		"id_str": "1538005959779373058",
