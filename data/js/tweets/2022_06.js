@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 23:29:21 +0000 2022",
+		"id": 1517797810061537300,
+		"id_str": "1540477205012422657",
+		"full_text": "https://t.co/AyHDi8SSGN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517797715488370700,
+					"id_str": "1517797715488370688",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FRBM-wiVcAA3xwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRBM-wiVcAA3xwr.jpg",
+					"url": "https://t.co/AyHDi8SSGN",
+					"display_url": "pic.twitter.com/AyHDi8SSGN",
+					"expanded_url": "https://twitter.com/longballchicken/status/1517797810061537280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517797715488370700,
+					"id_str": "1517797715488370688",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FRBM-wiVcAA3xwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRBM-wiVcAA3xwr.jpg",
+					"url": "https://t.co/AyHDi8SSGN",
+					"display_url": "pic.twitter.com/AyHDi8SSGN",
+					"expanded_url": "https://twitter.com/longballchicken/status/1517797810061537280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517797715484110800,
+					"id_str": "1517797715484110850",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FRBM-whUcAInW1o.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRBM-whUcAInW1o.png",
+					"url": "https://t.co/AyHDi8SSGN",
+					"display_url": "pic.twitter.com/AyHDi8SSGN",
+					"expanded_url": "https://twitter.com/longballchicken/status/1517797810061537280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 842,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1517797715492499500,
+					"id_str": "1517797715492499456",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FRBM-wjUcAAH-A_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRBM-wjUcAAH-A_.jpg",
+					"url": "https://t.co/AyHDi8SSGN",
+					"display_url": "pic.twitter.com/AyHDi8SSGN",
+					"expanded_url": "https://twitter.com/longballchicken/status/1517797810061537280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3071392112,
+			"id_str": "3071392112",
+			"name": "롱/누나",
+			"screen_name": "longballchicken",
+			"location": "",
+			"description": "작품준비중 커미션X 📧 mo_river@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542,
+			"friends_count": 87,
+			"listed_count": 23,
+			"created_at": "Tue Mar 10 12:23:49 +0000 2015",
+			"favourites_count": 4652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1447604720562892800/2nYd_h7B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1447604720562892800/2nYd_h7B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3071392112/1646540006",
+			"profile_link_color": "C4C4C4",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/AyHDi8SSGN"
+	},
+	{
 		"created_at": "Mon Jun 20 14:27:26 +0000 2022",
 		"id": 1538872830179553300,
 		"id_str": "1538891278649241600",
