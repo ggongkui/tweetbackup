@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 10:51:43 +0000 2022",
+		"id": 1540361809085202400,
+		"id_str": "1540648929255395328",
+		"full_text": "어떻게 스타일마저 이런 합이 있을 수 있단 말임 .... https://t.co/nZruOkTE1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540361739279421400,
+					"id_str": "1540361739279421440",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FWB21zdaUAAlspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWB21zdaUAAlspE.jpg",
+					"url": "https://t.co/nZruOkTE1r",
+					"display_url": "pic.twitter.com/nZruOkTE1r",
+					"expanded_url": "https://twitter.com/wazato_shinda/status/1540361809085202433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 915,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 915,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540361739279421400,
+					"id_str": "1540361739279421440",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FWB21zdaUAAlspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWB21zdaUAAlspE.jpg",
+					"url": "https://t.co/nZruOkTE1r",
+					"display_url": "pic.twitter.com/nZruOkTE1r",
+					"expanded_url": "https://twitter.com/wazato_shinda/status/1540361809085202433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 915,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 915,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1394984785882218500,
+			"id_str": "1394984785882218501",
+			"name": "창천의 미숫가루들",
+			"screen_name": "wazato_shinda",
+			"location": "",
+			"description": "⚠구독 ❌",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Wed May 19 11:54:34 +0000 2021",
+			"favourites_count": 188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1506444480219475968/ns3XnEkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506444480219475968/ns3XnEkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1394984785882218501/1649400219",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1889,
+		"favorite_count": 2094,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어떻게 스타일마저 이런 합이 있을 수 있단 말임 .... https://t.co/nZruOkTE1r"
+	},
+	{
 		"created_at": "Fri Jun 24 23:29:21 +0000 2022",
 		"id": 1517797810061537300,
 		"id_str": "1540477205012422657",
