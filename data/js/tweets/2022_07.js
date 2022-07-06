@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 14:36:45 +0000 2022",
+		"id": 1542858979990048800,
+		"id_str": "1544329438405750784",
+		"full_text": "우라라이스 우마뾰이 전설........ https://t.co/hLahV9fnd4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542858917818290200,
+					"id_str": "1542858917818290177",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542858917818290177/pu/img/6GwdJYQDoWn_K4yq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542858917818290177/pu/img/6GwdJYQDoWn_K4yq.jpg",
+					"url": "https://t.co/hLahV9fnd4",
+					"display_url": "pic.twitter.com/hLahV9fnd4",
+					"expanded_url": "https://twitter.com/170nd_/status/1542858979990048768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542858917818290200,
+					"id_str": "1542858917818290177",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542858917818290177/pu/img/6GwdJYQDoWn_K4yq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542858917818290177/pu/img/6GwdJYQDoWn_K4yq.jpg",
+					"url": "https://t.co/hLahV9fnd4",
+					"display_url": "pic.twitter.com/hLahV9fnd4",
+					"expanded_url": "https://twitter.com/170nd_/status/1542858979990048768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31856,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1542858917818290177/pu/pl/vMrrSXqK6WpnadcX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542858917818290177/pu/vid/1280x720/GJh8UDifqYzeDM-n.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542858917818290177/pu/vid/640x360/Glx07png9zthRxd5.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542858917818290177/pu/vid/480x270/hOiuIDQGB_7qOyvS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524806555861848000,
+			"id_str": "1524806555861848065",
+			"name": "머헤?",
+			"screen_name": "170nd_",
+			"location": "체블미블씁니다",
+			"description": "@170nd | I: @75_1b (일반인님)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu May 12 17:39:54 +0000 2022",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542553881703354368/A7iSaRA4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542553881703354368/A7iSaRA4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524806555861848065/1656993881",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2187,
+		"favorite_count": 1316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우라라이스 우마뾰이 전설........ https://t.co/hLahV9fnd4"
+	},
+	{
 		"created_at": "Mon Jul 04 03:57:52 +0000 2022",
 		"id": 1541038393034870800,
 		"id_str": "1543806271006343168",
