@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 09:51:47 +0000 2022",
+		"id": 1546713199265087500,
+		"id_str": "1550055931475398656",
+		"full_text": "로호 꿀팁 대방출~ 캐릭터와 배경을 자연스럽게 그리고싶은 분들을 위한 팁 쪼끔정리해옴\nTips for those who want to draw characters and backgrounds naturally https://t.co/wKeeBNIf4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546712823585460200,
+					"id_str": "1546712823585460224",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcHHkNaUAANH_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcHHkNaUAANH_6.jpg",
+					"url": "https://t.co/wKeeBNIf4y",
+					"display_url": "pic.twitter.com/wKeeBNIf4y",
+					"expanded_url": "https://twitter.com/rojo0110/status/1546713199265087488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1158,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546712823585460200,
+					"id_str": "1546712823585460224",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcHHkNaUAANH_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcHHkNaUAANH_6.jpg",
+					"url": "https://t.co/wKeeBNIf4y",
+					"display_url": "pic.twitter.com/wKeeBNIf4y",
+					"expanded_url": "https://twitter.com/rojo0110/status/1546713199265087488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1158,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183297979,
+			"id_str": "183297979",
+			"name": "ROJO(로호) - Online Course US JP",
+			"screen_name": "rojo0110",
+			"location": "",
+			"description": "Freelancer /ConceptArt / 외주문의 rojo0110@gmail.com/ 로호의 배경일러스트메이킹/ 케틀웍스 https://t.co/GjuGygaWrG / 온라인강의 https://t.co/JvrPc8ul2F / @rojo0110nft",
+			"url": "https://t.co/RGPMb6rl3i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RGPMb6rl3i",
+							"expanded_url": "https://www.artstation.com/rojo0110",
+							"display_url": "artstation.com/rojo0110",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GjuGygaWrG",
+							"expanded_url": "http://c11.kr/no5u",
+							"display_url": "c11.kr/no5u",
+							"indices": [
+								70,
+								93
+							]
+						},
+						{
+							"url": "https://t.co/JvrPc8ul2F",
+							"expanded_url": "http://bit.ly/3xd9fB8",
+							"display_url": "bit.ly/3xd9fB8",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25595,
+			"friends_count": 1060,
+			"listed_count": 168,
+			"created_at": "Thu Aug 26 17:18:50 +0000 2010",
+			"favourites_count": 7181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "12121D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510923094663512064/kYy6july_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510923094663512064/kYy6july_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183297979/1657589309",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1047,
+		"favorite_count": 1802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로호 꿀팁 대방출~ 캐릭터와 배경을 자연스럽게 그리고싶은 분들을 위한 팁 쪼끔정리해옴\nTips for those who want to draw characters and backgrounds naturally https://t.co/wKeeBNIf4y"
+	},
+	{
 		"created_at": "Tue Jul 19 05:31:08 +0000 2022",
 		"id": 1343158810198696000,
 		"id_str": "1549265560646844416",
