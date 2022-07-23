@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 17:18:01 +0000 2022",
+		"id": 1545005241447329800,
+		"id_str": "1550530619947773952",
+		"full_text": "컴퓨터 교체하면서 에셋 등록되지 않은 클립스튜디오 소재는 클라우드로 제대로 옮겨지지 않아서 폴더 통째로 뜯어 오시는 걸 추천 드리며, 저를 위한 메모를 남깁니다.\n(클립스튜디오 소재 백업 / 클튜 소재 폴더 옮기기) https://t.co/3pmwuMolCp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545004925767192600,
+					"id_str": "1545004925767192577",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FXD1y1CVEAE85ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXD1y1CVEAE85ht.jpg",
+					"url": "https://t.co/3pmwuMolCp",
+					"display_url": "pic.twitter.com/3pmwuMolCp",
+					"expanded_url": "https://twitter.com/dodge_wt/status/1545005241447329792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 645,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 645,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545004925767192600,
+					"id_str": "1545004925767192577",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FXD1y1CVEAE85ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXD1y1CVEAE85ht.jpg",
+					"url": "https://t.co/3pmwuMolCp",
+					"display_url": "pic.twitter.com/3pmwuMolCp",
+					"expanded_url": "https://twitter.com/dodge_wt/status/1545005241447329792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 645,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 645,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1316627917602873300,
+			"id_str": "1316627917602873345",
+			"name": "🔞닷쥐🔞",
+			"screen_name": "dodge_wt",
+			"location": "🇰🇷",
+			"description": "in the private room 연재중",
+			"url": "https://t.co/zz8pEasZWY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zz8pEasZWY",
+							"expanded_url": "https://dodgeg.postype.com/",
+							"display_url": "dodgeg.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27236,
+			"friends_count": 35,
+			"listed_count": 89,
+			"created_at": "Thu Oct 15 06:32:23 +0000 2020",
+			"favourites_count": 2439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1514611733494566921/kU-JHavR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514611733494566921/kU-JHavR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1316627917602873345/1648913789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴퓨터 교체하면서 에셋 등록되지 않은 클립스튜디오 소재는 클라우드로 제대로 옮겨지지 않아서 폴더 통째로 뜯어 오시는 걸 추천 드리며, 저를 위한 메모를 남깁니다.\n(클립스튜디오 소재 백업 / 클튜 소재 폴더 옮기기) https://t.co/3pmwuMolCp"
+	},
+	{
 		"created_at": "Thu Jul 21 09:51:47 +0000 2022",
 		"id": 1546713199265087500,
 		"id_str": "1550055931475398656",
