@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 31 01:25:23 +0000 2022",
+		"id": 1553347648526045200,
+		"id_str": "1553552370717454338",
+		"full_text": "💪筋肉を描くときの参考にぜひ💪 https://t.co/ntIVfQMomW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553347530427011000,
+					"id_str": "1553347530427011073",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1553347530427011073/pu/img/Cq8LkqdJ4Y9UOZt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1553347530427011073/pu/img/Cq8LkqdJ4Y9UOZt8.jpg",
+					"url": "https://t.co/ntIVfQMomW",
+					"display_url": "pic.twitter.com/ntIVfQMomW",
+					"expanded_url": "https://twitter.com/KawaiiSensei_jp/status/1553347648526045184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553347530427011000,
+					"id_str": "1553347530427011073",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1553347530427011073/pu/img/Cq8LkqdJ4Y9UOZt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1553347530427011073/pu/img/Cq8LkqdJ4Y9UOZt8.jpg",
+					"url": "https://t.co/ntIVfQMomW",
+					"display_url": "pic.twitter.com/ntIVfQMomW",
+					"expanded_url": "https://twitter.com/KawaiiSensei_jp/status/1553347648526045184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							10
+						],
+						"duration_millis": 20300,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553347530427011073/pu/vid/480x532/pZD-zF__W7-MCy2J.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1553347530427011073/pu/pl/yq7b2B3uFNVweURL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553347530427011073/pu/vid/720x800/vUBR-rit1ahZt_A-.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553347530427011073/pu/vid/320x354/lETGJhZmeIEJepef.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1473914602404855800,
+			"id_str": "1473914602404855808",
+			"name": "KawaiiSensei@絵のレシピ動画",
+			"screen_name": "KawaiiSensei_jp",
+			"location": "",
+			"description": "絵の描き方動画を配信してます！イラスト初心者が描いてみたいと思うようにシンプルな動画作りを心がけています🤔 TikTokフォロワー50万人突破👏✨",
+			"url": "https://t.co/LiS7AaHEdv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LiS7AaHEdv",
+							"expanded_url": "http://www.tiktok.com/@kawaiisensei_jp",
+							"display_url": "tiktok.com/@kawaiisensei_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193919,
+			"friends_count": 28,
+			"listed_count": 1142,
+			"created_at": "Thu Dec 23 07:13:31 +0000 2021",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473914789630218244/8mXUO8AM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473914789630218244/8mXUO8AM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1473914602404855808/1656994753",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15321,
+		"favorite_count": 85857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💪筋肉を描くときの参考にぜひ💪 https://t.co/ntIVfQMomW"
+	},
+	{
 		"created_at": "Mon Jul 25 09:22:23 +0000 2022",
 		"id": 1550851486460317700,
 		"id_str": "1551498083875205121",
