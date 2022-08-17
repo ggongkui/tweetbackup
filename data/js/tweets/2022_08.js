@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 13:26:49 +0000 2022",
+		"id": 1559140373012021200,
+		"id_str": "1559532130371133440",
+		"full_text": "카게구루이 AU https://t.co/JV2TUfBmNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559140298667991000,
+					"id_str": "1559140298667991041",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMt10kaIAEAD1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMt10kaIAEAD1b.jpg",
+					"url": "https://t.co/JV2TUfBmNo",
+					"display_url": "pic.twitter.com/JV2TUfBmNo",
+					"expanded_url": "https://twitter.com/RRP_TRPG/status/1559140373012021249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559140298667991000,
+					"id_str": "1559140298667991041",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMt10kaIAEAD1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMt10kaIAEAD1b.jpg",
+					"url": "https://t.co/JV2TUfBmNo",
+					"display_url": "pic.twitter.com/JV2TUfBmNo",
+					"expanded_url": "https://twitter.com/RRP_TRPG/status/1559140373012021249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1332580734536609800,
+			"id_str": "1332580734536609792",
+			"name": "라라뿡",
+			"screen_name": "RRP_TRPG",
+			"location": "",
+			"description": "성인 / 티알,1차계 / 웹툰 x /\n ✉️ down___@naver.com / 본계 @azit_",
+			"url": "https://t.co/8pF46WdqcD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8pF46WdqcD",
+							"expanded_url": "https://peing.net/ko/rrp_trpg",
+							"display_url": "peing.net/ko/rrp_trpg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 446,
+			"listed_count": 24,
+			"created_at": "Sat Nov 28 07:03:09 +0000 2020",
+			"favourites_count": 1970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1516521107209170944/VpWlFuYn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516521107209170944/VpWlFuYn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1332580734536609792/1660619374",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 965,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카게구루이 AU https://t.co/JV2TUfBmNo"
+	},
+	{
 		"created_at": "Mon Aug 08 02:30:52 +0000 2022",
 		"id": 1555920493651173400,
 		"id_str": "1556467953235034113",
