@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 12:11:15 +0000 2022",
+		"id": 1570384750610878500,
+		"id_str": "1570384750610878467",
+		"full_text": "9/15 목요일\n빈츠 1개 먹었음 \n아메리카노 2잔 + 물 많이\n자전거 6km, 30분 https://t.co/a75uoW7Bt5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570384735259742200,
+					"id_str": "1570384735259742208",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsgmLHaUAA85F4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsgmLHaUAA85F4.jpg",
+					"url": "https://t.co/a75uoW7Bt5",
+					"display_url": "pic.twitter.com/a75uoW7Bt5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1570384750610878467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 765,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570384735259742200,
+					"id_str": "1570384735259742208",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsgmLHaUAA85F4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsgmLHaUAA85F4.jpg",
+					"url": "https://t.co/a75uoW7Bt5",
+					"display_url": "pic.twitter.com/a75uoW7Bt5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1570384750610878467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 765,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1694,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570384744118100000,
+					"id_str": "1570384744118099968",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsgmsHaIAAgZSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsgmsHaIAAgZSh.jpg",
+					"url": "https://t.co/a75uoW7Bt5",
+					"display_url": "pic.twitter.com/a75uoW7Bt5",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1570384750610878467/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1149,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1149,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1570384466430038000,
+		"in_reply_to_status_id_str": "1570384466430038018",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "?¿",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 6,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1578503912",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9/15 목요일\n빈츠 1개 먹었음 \n아메리카노 2잔 + 물 많이\n자전거 6km, 30분 https://t.co/a75uoW7Bt5"
+	},
+	{
 		"created_at": "Sun Sep 04 15:42:13 +0000 2022",
 		"id": 1538413734594347000,
 		"id_str": "1566451576461729792",
