@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 11:59:35 +0000 2022",
+		"id": 1572193752890085400,
+		"id_str": "1572193752890085388",
+		"full_text": "9/20 화\n오전 산책 3000보\n오후 자전거 30분 https://t.co/rdphDmwpQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572193746095308800,
+					"id_str": "1572193746095308800",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FdGN4doaAAAuJBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdGN4doaAAAuJBo.jpg",
+					"url": "https://t.co/rdphDmwpQi",
+					"display_url": "pic.twitter.com/rdphDmwpQi",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1572193752890085388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 223,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572193746095308800,
+					"id_str": "1572193746095308800",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FdGN4doaAAAuJBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdGN4doaAAAuJBo.jpg",
+					"url": "https://t.co/rdphDmwpQi",
+					"display_url": "pic.twitter.com/rdphDmwpQi",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1572193752890085388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 223,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572193749878571000,
+					"id_str": "1572193749878571009",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FdGN4ruaAAEneRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdGN4ruaAAEneRZ.jpg",
+					"url": "https://t.co/rdphDmwpQi",
+					"display_url": "pic.twitter.com/rdphDmwpQi",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1572193752890085388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1572152647263850500,
+		"in_reply_to_status_id_str": "1572152647263850499",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "?¿",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 6,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1578503912",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9/20 화\n오전 산책 3000보\n오후 자전거 30분 https://t.co/rdphDmwpQi"
+	},
+	{
+		"created_at": "Tue Sep 20 09:16:14 +0000 2022",
+		"id": 1572152647263850500,
+		"id_str": "1572152647263850499",
+		"full_text": "9/19 월\n수액맞았음 \n오전오후 산책 총 6000보 https://t.co/1tzLCmqVJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572152632822861800,
+					"id_str": "1572152632822861824",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFofWwaEAAlCh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFofWwaEAAlCh9.jpg",
+					"url": "https://t.co/1tzLCmqVJW",
+					"display_url": "pic.twitter.com/1tzLCmqVJW",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1572152647263850499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572152632822861800,
+					"id_str": "1572152632822861824",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFofWwaEAAlCh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFofWwaEAAlCh9.jpg",
+					"url": "https://t.co/1tzLCmqVJW",
+					"display_url": "pic.twitter.com/1tzLCmqVJW",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1572152647263850499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572152640766898200,
+					"id_str": "1572152640766898177",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFof0WacAEJjwI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFof0WacAEJjwI.jpg",
+					"url": "https://t.co/1tzLCmqVJW",
+					"display_url": "pic.twitter.com/1tzLCmqVJW",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1572152647263850499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1572152492577951700,
+		"in_reply_to_status_id_str": "1572152492577951747",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "?¿",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 6,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1578503912",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9/19 월\n수액맞았음 \n오전오후 산책 총 6000보 https://t.co/1tzLCmqVJW"
+	},
+	{
 		"created_at": "Fri Sep 16 11:55:48 +0000 2022",
 		"id": 1570743249404563500,
 		"id_str": "1570743249404563456",
