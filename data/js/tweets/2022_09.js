@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 05:38:34 +0000 2022",
+		"id": 1385059658692370400,
+		"id_str": "1575721746677698565",
+		"full_text": "왕! 동물 잠옷 2인 트레틀\n\n자유롭게 수정해서 사용 가능합니다~\n상업적이용/재배포 금지\n타커미션 신청 가능합니다!\n\n행복한 하루 되세요🐾\n#이메레스 #트레틀 https://t.co/axac6pMJhZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이메레스",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "트레틀",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385059263270199300,
+					"id_str": "1385059263270199296",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezi4D8QVoAAjamH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezi4D8QVoAAjamH.jpg",
+					"url": "https://t.co/axac6pMJhZ",
+					"display_url": "pic.twitter.com/axac6pMJhZ",
+					"expanded_url": "https://twitter.com/GAMCM1/status/1385059658692370435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385059263270199300,
+					"id_str": "1385059263270199296",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezi4D8QVoAAjamH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezi4D8QVoAAjamH.jpg",
+					"url": "https://t.co/axac6pMJhZ",
+					"display_url": "pic.twitter.com/axac6pMJhZ",
+					"expanded_url": "https://twitter.com/GAMCM1/status/1385059658692370435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1385059305867513900,
+					"id_str": "1385059305867513859",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezi4Ga8VEAMhuIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezi4Ga8VEAMhuIb.jpg",
+					"url": "https://t.co/axac6pMJhZ",
+					"display_url": "pic.twitter.com/axac6pMJhZ",
+					"expanded_url": "https://twitter.com/GAMCM1/status/1385059658692370435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1385059587930222600,
+					"id_str": "1385059587930222595",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezi4W1tUcAMJF0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezi4W1tUcAMJF0Z.jpg",
+					"url": "https://t.co/axac6pMJhZ",
+					"display_url": "pic.twitter.com/axac6pMJhZ",
+					"expanded_url": "https://twitter.com/GAMCM1/status/1385059658692370435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1385059593638670300,
+					"id_str": "1385059593638670336",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezi4XK-UcAArYBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezi4XK-UcAArYBO.jpg",
+					"url": "https://t.co/axac6pMJhZ",
+					"display_url": "pic.twitter.com/axac6pMJhZ",
+					"expanded_url": "https://twitter.com/GAMCM1/status/1385059658692370435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1215492854950219800,
+			"id_str": "1215492854950219777",
+			"name": "金橘",
+			"screen_name": "GAMCM1",
+			"location": "모든 문의 DM/천천히 그립니다",
+			"description": "🍊금귤 | 1차 위주 / 신청 전 공지 정독\n♥BFF♥: @coney903",
+			"url": "https://t.co/1limxLUsdl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1limxLUsdl",
+							"expanded_url": "https://mgmgmg808.postype.com/",
+							"display_url": "mgmgmg808.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1009,
+			"friends_count": 10,
+			"listed_count": 18,
+			"created_at": "Fri Jan 10 04:37:50 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387465826391887873/T4F6HhRJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387465826391887873/T4F6HhRJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1215492854950219777/1638382883",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4071,
+		"favorite_count": 2620,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왕! 동물 잠옷 2인 트레틀\n\n자유롭게 수정해서 사용 가능합니다~\n상업적이용/재배포 금지\n타커미션 신청 가능합니다!\n\n행복한 하루 되세요🐾\n#이메레스 #트레틀 https://t.co/axac6pMJhZ"
+	},
+	{
 		"created_at": "Thu Sep 22 13:15:23 +0000 2022",
 		"id": 1572937604877938700,
 		"id_str": "1572937604877938689",
