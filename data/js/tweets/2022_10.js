@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 13:15:00 +0000 2022",
+		"id": 1578622828651327500,
+		"id_str": "1584171531550461953",
+		"full_text": "https://t.co/I5pW2Yb44a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578622733075685400,
+					"id_str": "1578622733075685376",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FehlAwdVIAAl-bq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FehlAwdVIAAl-bq.png",
+					"url": "https://t.co/I5pW2Yb44a",
+					"display_url": "pic.twitter.com/I5pW2Yb44a",
+					"expanded_url": "https://twitter.com/REMSRAR/status/1578622828651327488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1880,
+							"h": 1889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578622733075685400,
+					"id_str": "1578622733075685376",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FehlAwdVIAAl-bq.png",
+					"media_url_https": "https://pbs.twimg.com/media/FehlAwdVIAAl-bq.png",
+					"url": "https://t.co/I5pW2Yb44a",
+					"display_url": "pic.twitter.com/I5pW2Yb44a",
+					"expanded_url": "https://twitter.com/REMSRAR/status/1578622828651327488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1880,
+							"h": 1889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1031206779844145200,
+			"id_str": "1031206779844145152",
+			"name": "ʀᴇᴍ",
+			"screen_name": "REMSRAR",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20255,
+			"friends_count": 79,
+			"listed_count": 88,
+			"created_at": "Sun Aug 19 15:50:30 +0000 2018",
+			"favourites_count": 3446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578164251138883584/CMws-_yR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578164251138883584/CMws-_yR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031206779844145152/1666437376",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 633,
+		"favorite_count": 1690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/I5pW2Yb44a"
+	},
+	{
+		"created_at": "Sun Oct 23 13:12:44 +0000 2022",
+		"id": 1582025287570952200,
+		"id_str": "1584170963633328129",
+		"full_text": "https://t.co/QbryeJoWOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582025029965222000,
+					"id_str": "1582025029965221888",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfR7YgDakAACoqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfR7YgDakAACoqV.jpg",
+					"url": "https://t.co/QbryeJoWOC",
+					"display_url": "pic.twitter.com/QbryeJoWOC",
+					"expanded_url": "https://twitter.com/REMSRAR/status/1582025287570952192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1983,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582025029965222000,
+					"id_str": "1582025029965221888",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FfR7YgDakAACoqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfR7YgDakAACoqV.jpg",
+					"url": "https://t.co/QbryeJoWOC",
+					"display_url": "pic.twitter.com/QbryeJoWOC",
+					"expanded_url": "https://twitter.com/REMSRAR/status/1582025287570952192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1983,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1031206779844145200,
+			"id_str": "1031206779844145152",
+			"name": "ʀᴇᴍ",
+			"screen_name": "REMSRAR",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20255,
+			"friends_count": 79,
+			"listed_count": 88,
+			"created_at": "Sun Aug 19 15:50:30 +0000 2018",
+			"favourites_count": 3446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578164251138883584/CMws-_yR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578164251138883584/CMws-_yR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031206779844145152/1666437376",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 700,
+		"favorite_count": 2101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/QbryeJoWOC"
+	},
+	{
 		"created_at": "Sun Oct 09 03:58:19 +0000 2022",
 		"id": 1241375670292418600,
 		"id_str": "1578958010353082373",
