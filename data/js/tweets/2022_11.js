@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 05:32:20 +0000 2022",
+		"id": 1590940466832609300,
+		"id_str": "1590940466832609280",
+		"full_text": "https://t.co/rhITIXQsAM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590939969300082700,
+					"id_str": "1590939969300082689",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FhQneREaMAEIQlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhQneREaMAEIQlL.jpg",
+					"url": "https://t.co/rhITIXQsAM",
+					"display_url": "pic.twitter.com/rhITIXQsAM",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1590940466832609280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 977,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590939969300082700,
+					"id_str": "1590939969300082689",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FhQneREaMAEIQlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhQneREaMAEIQlL.jpg",
+					"url": "https://t.co/rhITIXQsAM",
+					"display_url": "pic.twitter.com/rhITIXQsAM",
+					"expanded_url": "https://twitter.com/PF_Si2/status/1590940466832609280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 977,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1590934983581261800,
+		"in_reply_to_status_id_str": "1590934983581261824",
+		"in_reply_to_user_id": 815064414,
+		"in_reply_to_user_id_str": "815064414",
+		"in_reply_to_screen_name": "PF_Si2",
+		"user": {
+			"id": 815064414,
+			"id_str": "815064414",
+			"name": "?¿",
+			"screen_name": "PF_Si2",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 2,
+			"friends_count": 6,
+			"listed_count": 0,
+			"created_at": "Mon Sep 10 11:53:42 +0000 2012",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214959584642654208/2Ag5dpXE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815064414/1578503912",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/rhITIXQsAM"
+	},
+	{
 		"created_at": "Wed Nov 02 06:44:08 +0000 2022",
 		"id": 1587284009654005800,
 		"id_str": "1587697047666556929",
