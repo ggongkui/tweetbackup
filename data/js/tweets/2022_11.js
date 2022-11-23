@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 22 15:07:26 +0000 2022",
+		"id": 1591429068398145500,
+		"id_str": "1595071461685088256",
+		"full_text": "늦었지만 빼빼로 데이 즐기는 큰문🐻🐶\n#데못죽 #큰세진 #박문대 #큰문 #킁믕 https://t.co/H88PkRFGWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "데못죽",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "큰세진",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "박문대",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "큰문",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "킁믕",
+					"indices": [
+						40,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591428753955393500,
+					"id_str": "1591428753955393539",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FhXkBRzakAMf-2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhXkBRzakAMf-2q.jpg",
+					"url": "https://t.co/H88PkRFGWN",
+					"display_url": "pic.twitter.com/H88PkRFGWN",
+					"expanded_url": "https://twitter.com/nG_do168/status/1591429068398145536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 972,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591428753955393500,
+					"id_str": "1591428753955393539",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FhXkBRzakAMf-2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhXkBRzakAMf-2q.jpg",
+					"url": "https://t.co/H88PkRFGWN",
+					"display_url": "pic.twitter.com/H88PkRFGWN",
+					"expanded_url": "https://twitter.com/nG_do168/status/1591429068398145536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 972,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1344945632327307300,
+			"id_str": "1344945632327307264",
+			"name": "동동",
+			"screen_name": "nG_do168",
+			"location": "I 냐냔님🐻❤",
+			"description": "차기작 준비 中 그리고 싶은 걸 그립니다.\n✉️ 업무메일 r2580_@naver.com",
+			"url": "https://t.co/Zy8ibbF8W0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Zy8ibbF8W0",
+							"expanded_url": "https://blog.naver.com/qortnsid",
+							"display_url": "blog.naver.com/qortnsid",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10480,
+			"friends_count": 167,
+			"listed_count": 35,
+			"created_at": "Fri Jan 01 09:56:49 +0000 2021",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1561701247291621377/r-b_0t_w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1561701247291621377/r-b_0t_w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1344945632327307264/1659502097",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1067,
+		"favorite_count": 2958,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "늦었지만 빼빼로 데이 즐기는 큰문🐻🐶\n#데못죽 #큰세진 #박문대 #큰문 #킁믕 https://t.co/H88PkRFGWN"
+	},
+	{
 		"created_at": "Mon Nov 21 03:49:03 +0000 2022",
 		"id": 1593918782292258800,
 		"id_str": "1594538355467104256",
