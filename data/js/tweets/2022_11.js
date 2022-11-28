@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 10:33:57 +0000 2022",
+		"id": 1590984569750425600,
+		"id_str": "1596814577140137984",
+		"full_text": "OC🧡 https://t.co/oDZcUyyUlT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590984559155622000,
+					"id_str": "1590984559155621888",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FhRQBvOaMAA7xEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhRQBvOaMAA7xEn.jpg",
+					"url": "https://t.co/oDZcUyyUlT",
+					"display_url": "pic.twitter.com/oDZcUyyUlT",
+					"expanded_url": "https://twitter.com/NAK1_00/status/1590984569750425602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590984559155622000,
+					"id_str": "1590984559155621888",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FhRQBvOaMAA7xEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhRQBvOaMAA7xEn.jpg",
+					"url": "https://t.co/oDZcUyyUlT",
+					"display_url": "pic.twitter.com/oDZcUyyUlT",
+					"expanded_url": "https://twitter.com/NAK1_00/status/1590984569750425602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 802,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467030131567128600,
+			"id_str": "1467030131567128580",
+			"name": "໊",
+			"screen_name": "NAK1_00",
+			"location": "2023상반기~ ",
+			"description": "낙일 🇰🇷KR/외주 Contact: nok1_@naver.com / ⭐️instaram - @nak1_1kan",
+			"url": "https://t.co/oGriWUlmPf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oGriWUlmPf",
+							"expanded_url": "https://peing.net/ko/nak1_00",
+							"display_url": "peing.net/ko/nak1_00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25753,
+			"friends_count": 86,
+			"listed_count": 106,
+			"created_at": "Sat Dec 04 07:17:07 +0000 2021",
+			"favourites_count": 5813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467219937987280896/9aWgCaVq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467219937987280896/9aWgCaVq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467030131567128580/1638647865",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3350,
+		"favorite_count": 24245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "OC🧡 https://t.co/oDZcUyyUlT"
+	},
+	{
+		"created_at": "Sun Nov 27 10:33:39 +0000 2022",
+		"id": 1596689049376329700,
+		"id_str": "1596814501932044293",
+		"full_text": "過去のネットプリントイラストを再登録しました〜\n#アキはハルとごはんを食べたい\n#グッドモーニング・サンシャイン https://t.co/vk6NbB675j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "アキはハルとごはんを食べたい",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"text": "グッドモーニング・サンシャイン",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596688933861019600,
+					"id_str": "1596688933861019648",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FiiUIC-VUAA4ml3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiiUIC-VUAA4ml3.jpg",
+					"url": "https://t.co/vk6NbB675j",
+					"display_url": "pic.twitter.com/vk6NbB675j",
+					"expanded_url": "https://twitter.com/taji_makoto/status/1596689049376329728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1981,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 658,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1161,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596688933861019600,
+					"id_str": "1596688933861019648",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FiiUIC-VUAA4ml3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiiUIC-VUAA4ml3.jpg",
+					"url": "https://t.co/vk6NbB675j",
+					"display_url": "pic.twitter.com/vk6NbB675j",
+					"expanded_url": "https://twitter.com/taji_makoto/status/1596689049376329728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1981,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 658,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1161,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914763797159481300,
+			"id_str": "914763797159481344",
+			"name": "たじまこと🍚単行本と続編",
+			"screen_name": "taji_makoto",
+			"location": "日本",
+			"description": "漫画◆『水曜日のトリップランチ』全3巻→https://t.co/aua3FfM7M8 ◆『アキはハルとごはんを食べたい』全3巻◆続編アキハルおかわり！→https://t.co/6dNpMngLjT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aua3FfM7M8",
+							"expanded_url": "http://comic-polaris.jp/triplunch/",
+							"display_url": "comic-polaris.jp/triplunch/",
+							"indices": [
+								20,
+								43
+							]
+						},
+						{
+							"url": "https://t.co/6dNpMngLjT",
+							"expanded_url": "https://comic.pixiv.net/works/8276",
+							"display_url": "comic.pixiv.net/works/8276",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11172,
+			"friends_count": 127,
+			"listed_count": 119,
+			"created_at": "Mon Oct 02 08:07:39 +0000 2017",
+			"favourites_count": 6044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915478003219447808/gVu7YfjA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915478003219447808/gVu7YfjA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914763797159481344/1643803221",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 519,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "過去のネットプリントイラストを再登録しました〜\n#アキはハルとごはんを食べたい\n#グッドモーニング・サンシャイン https://t.co/vk6NbB675j"
+	},
+	{
 		"created_at": "Thu Nov 24 23:15:00 +0000 2022",
 		"id": 1595918939959496700,
 		"id_str": "1595918939959496705",
