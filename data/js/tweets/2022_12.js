@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 09:26:29 +0000 2022",
+		"id": 1601144900484939800,
+		"id_str": "1601146254464983042",
+		"full_text": "알티 한 분 여캐한테 예쁜 옷 입혀드립니다 🫶 https://t.co/Tp7bnvAE5z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1601144795044249600,
+					"id_str": "1601144795044249600",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FjhotTaUAAAROtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjhotTaUAAAROtv.jpg",
+					"url": "https://t.co/Tp7bnvAE5z",
+					"display_url": "pic.twitter.com/Tp7bnvAE5z",
+					"expanded_url": "https://twitter.com/ng_pppi/status/1601144900484939776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1147,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1601144795044249600,
+					"id_str": "1601144795044249600",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FjhotTaUAAAROtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjhotTaUAAAROtv.jpg",
+					"url": "https://t.co/Tp7bnvAE5z",
+					"display_url": "pic.twitter.com/Tp7bnvAE5z",
+					"expanded_url": "https://twitter.com/ng_pppi/status/1601144900484939776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1147,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097147204538589200,
+			"id_str": "1097147204538589185",
+			"name": "네지",
+			"screen_name": "ng_pppi",
+			"location": "",
+			"description": "NEZI",
+			"url": "https://t.co/xCQAwdfaAE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xCQAwdfaAE",
+							"expanded_url": "https://linktr.ee/ng_pppi",
+							"display_url": "linktr.ee/ng_pppi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23852,
+			"friends_count": 76,
+			"listed_count": 68,
+			"created_at": "Sun Feb 17 14:54:12 +0000 2019",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379837379322671104/-p946gNb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379837379322671104/-p946gNb_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3833,
+		"favorite_count": 1121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알티 한 분 여캐한테 예쁜 옷 입혀드립니다 🫶 https://t.co/Tp7bnvAE5z"
+	},
+	{
 		"created_at": "Thu Dec 08 14:31:16 +0000 2022",
 		"id": 1600049817455325200,
 		"id_str": "1600860568558399488",
@@ -672,7 +846,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "다백 | DABAEK",
 			"screen_name": "iiDA100ii",
 			"location": "",
-			"description": "• PROPIC 강의 중​\n• 📩 lldamiill@naver.com​(23년 상반기 마감)\n• 낙서계 (@llDA100ll)",
+			"description": "• PROPIC 강의 중\n• 📩 lldamiill@naver.com(23년 상반기 마감)\n• 낙서계 (@llDA100ll)",
 			"url": "https://t.co/1Ousz3Cso6",
 			"entities": {
 				"url": {
