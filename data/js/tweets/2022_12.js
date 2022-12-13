@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 12 22:49:49 +0000 2022",
+		"id": 1602292337442320400,
+		"id_str": "1602435581925298177",
+		"full_text": "🎄연말이니까 하는 알티이벤트.🔔\n알티하신분들 중 한분 추첨해서 두상흉상정도 그려드립니다!\n#RT이벤트 https://t.co/M1ohnUDbgm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RT이벤트",
+					"indices": [
+						50,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1602291529309073400,
+					"id_str": "1602291529309073408",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjx7qBcVsAAiwc9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjx7qBcVsAAiwc9.jpg",
+					"url": "https://t.co/M1ohnUDbgm",
+					"display_url": "pic.twitter.com/M1ohnUDbgm",
+					"expanded_url": "https://twitter.com/A4_NARA/status/1602292337442320384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602291529309073400,
+					"id_str": "1602291529309073408",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjx7qBcVsAAiwc9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjx7qBcVsAAiwc9.jpg",
+					"url": "https://t.co/M1ohnUDbgm",
+					"display_url": "pic.twitter.com/M1ohnUDbgm",
+					"expanded_url": "https://twitter.com/A4_NARA/status/1602292337442320384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1602291545088020500,
+					"id_str": "1602291545088020480",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjx7q8OVUAAqZ55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjx7q8OVUAAqZ55.jpg",
+					"url": "https://t.co/M1ohnUDbgm",
+					"display_url": "pic.twitter.com/M1ohnUDbgm",
+					"expanded_url": "https://twitter.com/A4_NARA/status/1602292337442320384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1183,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1602291616206594000,
+					"id_str": "1602291616206594048",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjx7vFKUoAAVX5W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjx7vFKUoAAVX5W.jpg",
+					"url": "https://t.co/M1ohnUDbgm",
+					"display_url": "pic.twitter.com/M1ohnUDbgm",
+					"expanded_url": "https://twitter.com/A4_NARA/status/1602292337442320384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1602291710603628500,
+					"id_str": "1602291710603628546",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjx70k0VEAIsSYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjx70k0VEAIsSYS.jpg",
+					"url": "https://t.co/M1ohnUDbgm",
+					"display_url": "pic.twitter.com/M1ohnUDbgm",
+					"expanded_url": "https://twitter.com/A4_NARA/status/1602292337442320384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 597,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1053,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1088,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 243976724,
+			"id_str": "243976724",
+			"name": "🎄⭐️A4⭐️🎄",
+			"screen_name": "A4_NARA",
+			"location": "",
+			"description": "Illust / Character artist 📩contact: duskfk917@naver.com",
+			"url": "https://t.co/UGLAagRpLz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UGLAagRpLz",
+							"expanded_url": "https://duskfk917.wixsite.com/a4portfolio",
+							"display_url": "duskfk917.wixsite.com/a4portfolio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17970,
+			"friends_count": 853,
+			"listed_count": 134,
+			"created_at": "Fri Jan 28 06:33:47 +0000 2011",
+			"favourites_count": 13148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1441246417931030529/3-TyjcwV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441246417931030529/3-TyjcwV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/243976724/1640967012",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎄연말이니까 하는 알티이벤트.🔔\n알티하신분들 중 한분 추첨해서 두상흉상정도 그려드립니다!\n#RT이벤트 https://t.co/M1ohnUDbgm"
+	},
+	{
 		"created_at": "Sun Dec 11 15:15:26 +0000 2022",
 		"id": 1590725822263881700,
 		"id_str": "1601958845475344390",
