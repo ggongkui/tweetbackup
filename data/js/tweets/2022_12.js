@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 21 16:36:24 +0000 2022",
+		"id": 1605536948885418000,
+		"id_str": "1605603098763808775",
+		"full_text": "미소년계드림주 https://t.co/EOwAsw5AdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1605536927251210200,
+					"id_str": "1605536927251210242",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FkgDVC6UoAI-1_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkgDVC6UoAI-1_P.jpg",
+					"url": "https://t.co/EOwAsw5AdA",
+					"display_url": "pic.twitter.com/EOwAsw5AdA",
+					"expanded_url": "https://twitter.com/CAMyu_IRa/status/1605536948885417984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 925,
+							"h": 1397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1605536927251210200,
+					"id_str": "1605536927251210242",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FkgDVC6UoAI-1_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkgDVC6UoAI-1_P.jpg",
+					"url": "https://t.co/EOwAsw5AdA",
+					"display_url": "pic.twitter.com/EOwAsw5AdA",
+					"expanded_url": "https://twitter.com/CAMyu_IRa/status/1605536948885417984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 925,
+							"h": 1397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2779731978,
+			"id_str": "2779731978",
+			"name": "랄락 / LALLAC 🎗",
+			"screen_name": "CAMyu_IRa",
+			"location": "",
+			"description": "🥟\n앙계 @davidabee_\n\n🔻커미션 페이지 링크",
+			"url": "https://t.co/yV86ahhgVU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yV86ahhgVU",
+							"expanded_url": "https://lallac-ollinda-grim123.postype.com/post/3795476",
+							"display_url": "lallac-ollinda-grim123.postype.com/post/3795476",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19314,
+			"friends_count": 100,
+			"listed_count": 66,
+			"created_at": "Sat Aug 30 02:52:26 +0000 2014",
+			"favourites_count": 2161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517574120976023554/9py4CJvi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517574120976023554/9py4CJvi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2779731978/1641060214",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미소년계드림주 https://t.co/EOwAsw5AdA"
+	},
+	{
 		"created_at": "Mon Dec 12 22:49:49 +0000 2022",
 		"id": 1602292337442320400,
 		"id_str": "1602435581925298177",
