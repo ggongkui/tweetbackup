@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 22 00:27:02 +0000 2022",
+		"id": 1605462260977016800,
+		"id_str": "1605721538522927104",
+		"full_text": "좋아하는 영화중에 &lt;요노스케 이야기&gt; 가 있는데 우솝이랑 카야가 생각났어요\n\n#ONEPIECE https://t.co/LIco32IEjH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONEPIECE",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1605462258573660200,
+					"id_str": "1605462258573660160",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Fke_awaUUAA8MNG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fke_awaUUAA8MNG.jpg",
+					"url": "https://t.co/LIco32IEjH",
+					"display_url": "pic.twitter.com/LIco32IEjH",
+					"expanded_url": "https://twitter.com/tio7tio8/status/1605462260977016832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1605462258573660200,
+					"id_str": "1605462258573660160",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Fke_awaUUAA8MNG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fke_awaUUAA8MNG.jpg",
+					"url": "https://t.co/LIco32IEjH",
+					"display_url": "pic.twitter.com/LIco32IEjH",
+					"expanded_url": "https://twitter.com/tio7tio8/status/1605462260977016832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1390063854734897200,
+			"id_str": "1390063854734897156",
+			"name": "teapot🎄",
+			"screen_name": "tio7tio8",
+			"location": "",
+			"description": "그림  https://t.co/Q5l2V3MvaB",
+			"url": "https://t.co/6dHyWA7EZr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dHyWA7EZr",
+							"expanded_url": "https://hcxxx0.postype.com",
+							"display_url": "hcxxx0.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5l2V3MvaB",
+							"expanded_url": "https://www.instagram.com/invites/contact/?i=a89mnqmch7je&utm_content=3uy5ya0",
+							"display_url": "instagram.com/invites/contac…",
+							"indices": [
+								4,
+								27
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6959,
+			"friends_count": 3,
+			"listed_count": 51,
+			"created_at": "Wed May 05 22:00:34 +0000 2021",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1602233481568079872/ZjEIosaH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1602233481568079872/ZjEIosaH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1390063854734897156/1620252549",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3723,
+		"favorite_count": 20836,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "좋아하는 영화중에 &lt;요노스케 이야기&gt; 가 있는데 우솝이랑 카야가 생각났어요\n\n#ONEPIECE https://t.co/LIco32IEjH"
+	},
+	{
 		"created_at": "Wed Dec 21 16:36:24 +0000 2022",
 		"id": 1605536948885418000,
 		"id_str": "1605603098763808775",
