@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 25 04:46:36 +0000 2022",
+		"id": 1606711759687266300,
+		"id_str": "1606874023492988928",
+		"full_text": "페잉으로 보정에 관한 질문이 들어와 그림 과정을 간단하게 올려봅니다..! 컨셉에 따라 보정법이 살짝씩 달라서 대강 이런 흐름이구나~ 정도로만 봐주세요 https://t.co/e6Dl6fM1BS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1606710374946177000,
+					"id_str": "1606710374946177028",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1606710374946177028/pu/img/3BLByWv6kHpXgHhW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1606710374946177028/pu/img/3BLByWv6kHpXgHhW.jpg",
+					"url": "https://t.co/e6Dl6fM1BS",
+					"display_url": "pic.twitter.com/e6Dl6fM1BS",
+					"expanded_url": "https://twitter.com/Ygang_commi/status/1606711759687266306/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 964,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1606710374946177000,
+					"id_str": "1606710374946177028",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1606710374946177028/pu/img/3BLByWv6kHpXgHhW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1606710374946177028/pu/img/3BLByWv6kHpXgHhW.jpg",
+					"url": "https://t.co/e6Dl6fM1BS",
+					"display_url": "pic.twitter.com/e6Dl6fM1BS",
+					"expanded_url": "https://twitter.com/Ygang_commi/status/1606711759687266306/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 964,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							241,
+							180
+						],
+						"duration_millis": 67667,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1606710374946177028/pu/vid/482x360/iQ7qUNjjE1UZpni_.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1606710374946177028/pu/vid/360x270/O4pYlBK3UdOS_y-V.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1606710374946177028/pu/vid/964x720/55f75RdeRySZcpjl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1606710374946177028/pu/pl/Zfouxc_Q6OkjSb6p.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1420743973748887600,
+			"id_str": "1420743973748887566",
+			"name": "양갱 커미션계",
+			"screen_name": "Ygang_commi",
+			"location": "",
+			"description": "양갱의 커미션용 계정입니다! 🎉 본계 @hylin_mt / 기타 외주 문의 디엠\n\nhttps://t.co/J8xZIZtnv5",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/J8xZIZtnv5",
+							"expanded_url": "http://peing.net/ko/ygang_commi",
+							"display_url": "peing.net/ko/ygang_commi",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2714,
+			"friends_count": 2,
+			"listed_count": 9,
+			"created_at": "Thu Jul 29 13:52:26 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597583914935103488/mmQl67d4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597583914935103488/mmQl67d4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1420743973748887566/1652597399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 324,
+		"favorite_count": 421,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페잉으로 보정에 관한 질문이 들어와 그림 과정을 간단하게 올려봅니다..! 컨셉에 따라 보정법이 살짝씩 달라서 대강 이런 흐름이구나~ 정도로만 봐주세요 https://t.co/e6Dl6fM1BS"
+	},
+	{
 		"created_at": "Sat Dec 24 17:03:43 +0000 2022",
 		"id": 1523275979157692400,
 		"id_str": "1606697139266260992",
