@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 11:00:08 +0000 2022",
+		"id": 1608330627656585200,
+		"id_str": "1608779966719856642",
+		"full_text": "안녕하세요! \n\n커미션 계정 1000팔로워가 넘은 기념으로 알티 이벤트를 진행해보려고 해요^///^ \n\n알티해주신 분들 중 두 분을 뽑아 아래 여여 페어 only 케모미미+세라복 타입을 그려드리려고 합니다 &gt;&lt; \n\n추첨은 2월 첫째주 중으로 할게요!\n항상 감사합니다! https://t.co/m5rzowpFl6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608330584362999800,
+					"id_str": "1608330584362999809",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FlHwJSpaYAEQV49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlHwJSpaYAEQV49.jpg",
+					"url": "https://t.co/m5rzowpFl6",
+					"display_url": "pic.twitter.com/m5rzowpFl6",
+					"expanded_url": "https://twitter.com/gata_cmm/status/1608330627656585216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608330584362999800,
+					"id_str": "1608330584362999809",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FlHwJSpaYAEQV49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlHwJSpaYAEQV49.jpg",
+					"url": "https://t.co/m5rzowpFl6",
+					"display_url": "pic.twitter.com/m5rzowpFl6",
+					"expanded_url": "https://twitter.com/gata_cmm/status/1608330627656585216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1608330584631447600,
+					"id_str": "1608330584631447552",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FlHwJTpakAAg5jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlHwJTpakAAg5jd.jpg",
+					"url": "https://t.co/m5rzowpFl6",
+					"display_url": "pic.twitter.com/m5rzowpFl6",
+					"expanded_url": "https://twitter.com/gata_cmm/status/1608330627656585216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1608330584715300900,
+					"id_str": "1608330584715300864",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FlHwJT9aEAAEZL6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlHwJT9aEAAEZL6.jpg",
+					"url": "https://t.co/m5rzowpFl6",
+					"display_url": "pic.twitter.com/m5rzowpFl6",
+					"expanded_url": "https://twitter.com/gata_cmm/status/1608330627656585216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1190880922268078000,
+			"id_str": "1190880922268078080",
+			"name": "가타 (X)",
+			"screen_name": "gata_cmm",
+			"location": "항상 감사합니다!",
+			"description": "커미션계정! 문의는 DM주세요~!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1200,
+			"friends_count": 4,
+			"listed_count": 25,
+			"created_at": "Sun Nov 03 06:38:38 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511587281601118208/eXWakd0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511587281601118208/eXWakd0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190880922268078080/1592987521",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1930,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요! \n\n커미션 계정 1000팔로워가 넘은 기념으로 알티 이벤트를 진행해보려고 해요^///^ \n\n알티해주신 분들 중 두 분을 뽑아 아래 여여 페어 only 케모미미+세라복 타입을 그려드리려고 합니다 &gt;&lt; \n\n추첨은 2월 첫째주 중으로 할게요!\n항상 감사합니다! https://t.co/m5rzowpFl6"
+	},
+	{
 		"created_at": "Tue Dec 27 10:07:41 +0000 2022",
 		"id": 1504086078206406700,
 		"id_str": "1607679604629864448",
