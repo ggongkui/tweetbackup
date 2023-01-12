@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 15:24:32 +0000 2023",
+		"id": 1612914319557120000,
+		"id_str": "1613195159440879616",
+		"full_text": "hi #PortfolioDay i'm jauni and i love colours and dreamy landscapes!\n\n🍳https://t.co/lexx1InF0L\n📸 https://t.co/toNJ3tSjew\n🛒 https://t.co/MIAX04bluw\n💌 jauniart@gmail.com https://t.co/og0VHbDXQF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PortfolioDay",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lexx1InF0L",
+					"expanded_url": "https://tofublock.carrd.co",
+					"display_url": "tofublock.carrd.co",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/toNJ3tSjew",
+					"expanded_url": "https://instagram.com/jaunini/",
+					"display_url": "instagram.com/jaunini/",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/MIAX04bluw",
+					"expanded_url": "https://inprnt.com/gallery/tofublock/",
+					"display_url": "inprnt.com/gallery/tofubl…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1612911206242590700,
+					"id_str": "1612911206242590723",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FmI2Mk5WIAMUwOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmI2Mk5WIAMUwOQ.jpg",
+					"url": "https://t.co/og0VHbDXQF",
+					"display_url": "pic.twitter.com/og0VHbDXQF",
+					"expanded_url": "https://twitter.com/tofublock/status/1612914319557120001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 833,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1612911206242590700,
+					"id_str": "1612911206242590723",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FmI2Mk5WIAMUwOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmI2Mk5WIAMUwOQ.jpg",
+					"url": "https://t.co/og0VHbDXQF",
+					"display_url": "pic.twitter.com/og0VHbDXQF",
+					"expanded_url": "https://twitter.com/tofublock/status/1612914319557120001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 833,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1612912893103579100,
+					"id_str": "1612912893103579159",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FmI3uw8WIBczP-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmI3uw8WIBczP-K.jpg",
+					"url": "https://t.co/og0VHbDXQF",
+					"display_url": "pic.twitter.com/og0VHbDXQF",
+					"expanded_url": "https://twitter.com/tofublock/status/1612914319557120001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1026,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 775,
+							"h": 1026,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1612912910426054700,
+					"id_str": "1612912910426054685",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FmI3vxeWIB0ibQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmI3vxeWIB0ibQ_.jpg",
+					"url": "https://t.co/og0VHbDXQF",
+					"display_url": "pic.twitter.com/og0VHbDXQF",
+					"expanded_url": "https://twitter.com/tofublock/status/1612914319557120001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 896,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1612913168447053800,
+					"id_str": "1612913168447053840",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FmI3-yrWIBAxdAZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmI3-yrWIBAxdAZ.jpg",
+					"url": "https://t.co/og0VHbDXQF",
+					"display_url": "pic.twitter.com/og0VHbDXQF",
+					"expanded_url": "https://twitter.com/tofublock/status/1612914319557120001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 992,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780148467079450600,
+			"id_str": "780148467079450624",
+			"name": "jauni 🌤",
+			"screen_name": "tofublock",
+			"location": "do not edit/repost!",
+			"description": "🇨🇳🇳🇱 freelance illustrator 🥞 https://t.co/k5daLdahxU",
+			"url": "https://t.co/oe2BKCOcaH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oe2BKCOcaH",
+							"expanded_url": "https://tofublock.carrd.co/",
+							"display_url": "tofublock.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k5daLdahxU",
+							"expanded_url": "http://patreon.com/tofublock",
+							"display_url": "patreon.com/tofublock",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 93389,
+			"friends_count": 399,
+			"listed_count": 940,
+			"created_at": "Sun Sep 25 20:54:23 +0000 2016",
+			"favourites_count": 5095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1490036705239388162/nEjJ4NSI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490036705239388162/nEjJ4NSI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780148467079450624/1644087492",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8695,
+		"favorite_count": 57643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hi #PortfolioDay i'm jauni and i love colours and dreamy landscapes!\n\n🍳https://t.co/lexx1InF0L\n📸 https://t.co/toNJ3tSjew\n🛒 https://t.co/MIAX04bluw\n💌 jauniart@gmail.com https://t.co/og0VHbDXQF"
+	},
+	{
 		"created_at": "Tue Jan 10 15:46:57 +0000 2023",
 		"id": 1612776447302856700,
 		"id_str": "1612838414453452800",
